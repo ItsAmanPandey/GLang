@@ -1,0 +1,527 @@
+{
+  "id": "A1_Ch12",
+  "level": "A1",
+  "number": 12,
+  "title": "Termine und Zeitangaben",
+  "subtitle": "Appointments, Calendar, and Time Prepositions",
+  "focus": [
+    "Appointments",
+    "Time Prepositions",
+    "Calendar",
+    "Ordinal Numbers"
+  ],
+  "vocabulary": [
+    {
+      "word": "der Termin",
+      "meaning": "appointment",
+      "article": "der",
+      "plural": "die Termine",
+      "example": "Ich habe einen wichtigen Termin."
+    },
+    {
+      "word": "der Kalender",
+      "meaning": "calendar",
+      "article": "der",
+      "plural": "die Kalender",
+      "example": "Schau in den Kalender."
+    },
+    {
+      "word": "das Jahr",
+      "meaning": "year",
+      "article": "das",
+      "plural": "die Jahre",
+      "example": "Dieses Jahr fahre ich nach Spanien."
+    },
+    {
+      "word": "der Monat",
+      "meaning": "month",
+      "article": "der",
+      "plural": "die Monate",
+      "example": "Der Januar ist der erste Monat."
+    },
+    {
+      "word": "die Woche",
+      "meaning": "week",
+      "article": "die",
+      "plural": "die Wochen",
+      "example": "Nächste Woche habe ich Urlaub."
+    },
+    {
+      "word": "der Tag",
+      "meaning": "day",
+      "article": "der",
+      "plural": "die Tage",
+      "example": "Ein schöner Tag!"
+    },
+    {
+      "word": "heute",
+      "meaning": "today",
+      "example": "Heute ist Montag."
+    },
+    {
+      "word": "morgen",
+      "meaning": "tomorrow",
+      "example": "Morgen gehen wir ins Kino."
+    },
+    {
+      "word": "übermorgen",
+      "meaning": "the day after tomorrow",
+      "example": "Übermorgen habe ich Zeit."
+    },
+    {
+      "word": "gestern",
+      "meaning": "yesterday",
+      "example": "Gestern war Sonntag."
+    },
+    {
+      "word": "vorgestern",
+      "meaning": "the day before yesterday",
+      "example": "Vorgestern war ich krank."
+    },
+    {
+      "word": "das Wochenende",
+      "meaning": "weekend",
+      "article": "das",
+      "plural": "die Wochenenden",
+      "example": "Am Wochenende schlafe ich lange."
+    },
+    {
+      "word": "Montag",
+      "meaning": "Monday",
+      "example": "Am Montag arbeite ich."
+    },
+    {
+      "word": "Dienstag",
+      "meaning": "Tuesday",
+      "example": "Dienstag haben wir ein Meeting."
+    },
+    {
+      "word": "Mittwoch",
+      "meaning": "Wednesday",
+      "example": "Mittwoch ist die Mitte der Woche."
+    },
+    {
+      "word": "Donnerstag",
+      "meaning": "Thursday",
+      "example": "Am Donnerstag spiele ich Tennis."
+    },
+    {
+      "word": "Freitag",
+      "meaning": "Friday",
+      "example": "Freitag ist mein Lieblingstag."
+    },
+    {
+      "word": "Samstag",
+      "meaning": "Saturday",
+      "example": "Samstag gehen wir einkaufen."
+    },
+    {
+      "word": "Sonntag",
+      "meaning": "Sunday",
+      "example": "Sonntag ruhen wir uns aus."
+    },
+    {
+      "word": "Januar",
+      "meaning": "January",
+      "example": "Im Januar ist es kalt."
+    },
+    {
+      "word": "Februar",
+      "meaning": "February",
+      "example": "Der Februar ist kurz."
+    },
+    {
+      "word": "März",
+      "meaning": "March",
+      "example": "Im März beginnt der Frühling."
+    },
+    {
+      "word": "April",
+      "meaning": "April",
+      "example": "Der April macht, was er will."
+    },
+    {
+      "word": "Mai",
+      "meaning": "May",
+      "example": "Im Mai blühen die Blumen."
+    },
+    {
+      "word": "Juni",
+      "meaning": "June",
+      "example": "Im Juni wird es warm."
+    },
+    {
+      "word": "Juli",
+      "meaning": "July",
+      "example": "Im Juli haben wir Sommerferien."
+    },
+    {
+      "word": "August",
+      "meaning": "August",
+      "example": "Im August fahren wir ans Meer."
+    },
+    {
+      "word": "September",
+      "meaning": "September",
+      "example": "Im September fängt die Schule an."
+    },
+    {
+      "word": "Oktober",
+      "meaning": "October",
+      "example": "Im Oktober fallen die Blätter."
+    },
+    {
+      "word": "November",
+      "meaning": "November",
+      "example": "Im November regnet es oft."
+    },
+    {
+      "word": "Dezember",
+      "meaning": "December",
+      "example": "Im Dezember feiern wir Weihnachten."
+    },
+    {
+      "word": "früh",
+      "meaning": "early",
+      "example": "Ich muss früh aufstehen."
+    },
+    {
+      "word": "spät",
+      "meaning": "late",
+      "example": "Du bist zu spät."
+    },
+    {
+      "word": "pünktlich",
+      "meaning": "on time/punctual",
+      "example": "Der Zug ist pünktlich."
+    },
+    {
+      "word": "die Verspätung",
+      "meaning": "delay",
+      "article": "die",
+      "plural": "die Verspätungen",
+      "example": "Der Bus hat Verspätung."
+    },
+    {
+      "word": "die Uhr",
+      "meaning": "clock/o'clock",
+      "article": "die",
+      "plural": "die Uhren",
+      "example": "Es ist 10 Uhr."
+    },
+    {
+      "word": "die Stunde",
+      "meaning": "hour",
+      "article": "die",
+      "plural": "die Stunden",
+      "example": "Der Film dauert zwei Stunden."
+    },
+    {
+      "word": "die Minute",
+      "meaning": "minute",
+      "article": "die",
+      "plural": "die Minuten",
+      "example": "Warte eine Minute."
+    },
+    {
+      "word": "die Sekunde",
+      "meaning": "second",
+      "article": "die",
+      "plural": "die Sekunden",
+      "example": "Nur eine Sekunde bitte!"
+    },
+    {
+      "word": "anfangen",
+      "meaning": "to start/begin",
+      "example": "Der Kurs fängt um 9 an."
+    },
+    {
+      "word": "enden",
+      "meaning": "to end",
+      "example": "Wann endet der Film?"
+    },
+    {
+      "word": "dauern",
+      "meaning": "to last/take (time)",
+      "example": "Wie lange dauert die Fahrt?"
+    },
+    {
+      "word": "abmachen",
+      "meaning": "to agree upon/arrange",
+      "example": "Wir müssen einen Termin abmachen."
+    },
+    {
+      "word": "absagen",
+      "meaning": "to cancel",
+      "example": "Ich muss den Termin absagen."
+    },
+    {
+      "word": "verschieben",
+      "meaning": "to postpone",
+      "example": "Können wir das Meeting verschieben?"
+    },
+    {
+      "word": "vereinbaren",
+      "meaning": "to arrange",
+      "example": "Wir vereinbaren einen neuen Termin."
+    },
+    {
+      "word": "der Geburtstag",
+      "meaning": "birthday",
+      "article": "der",
+      "plural": "die Geburtstage",
+      "example": "Wann hast du Geburtstag?"
+    },
+    {
+      "word": "feiern",
+      "meaning": "to celebrate",
+      "example": "Wir feiern heute."
+    },
+    {
+      "word": "das Datum",
+      "meaning": "date",
+      "article": "das",
+      "plural": "die Daten",
+      "example": "Welches Datum ist heute?"
+    },
+    {
+      "word": "die Einladung",
+      "meaning": "invitation",
+      "article": "die",
+      "plural": "die Einladungen",
+      "example": "Danke für die Einladung."
+    },
+    {
+      "word": "nächste",
+      "meaning": "next",
+      "example": "Wir sehen uns nächste Woche."
+    },
+    {
+      "word": "letzte",
+      "meaning": "last",
+      "example": "Letztes Jahr war ich in Paris."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Prepositions of Time: am, im, um",
+      "explanation": "Use 'am' (an dem) for days and parts of the day (am Montag, am Morgen). Use 'im' (in dem) for months and seasons (im Januar, im Sommer). Use 'um' for specific clock times (um 8 Uhr).",
+      "examples": [
+        "Am Montag gehe ich arbeiten.",
+        "Am Morgen trinke ich Kaffee.",
+        "Im Januar ist es kalt.",
+        "Um 8 Uhr beginnt der Kurs."
+      ]
+    },
+    {
+      "topic": "Ordinal Numbers for Dates",
+      "explanation": "When expressing the date, you use ordinal numbers. In German, they usually end in '-te' (1st-19th) or '-ste' (20+). When used with 'am', they add an '-n' (e.g. 'am ersten', 'am siebten').",
+      "examples": [
+        "Heute ist der erste Mai.",
+        "Am dritten Oktober ist ein Feiertag.",
+        "Mein Geburtstag ist am siebten Juni.",
+        "Der zwanzigste Dezember ist bald."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_12_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: The train is late.",
+      "tokens": [
+        "Der",
+        "Zug",
+        "hat",
+        "Verspätung.",
+        "früh"
+      ],
+      "answer": [
+        "Der",
+        "Zug",
+        "hat",
+        "Verspätung."
+      ]
+    },
+    {
+      "id": "game_12_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: See you next week.",
+      "tokens": [
+        "Wir",
+        "sehen",
+        "uns",
+        "nächste",
+        "Woche.",
+        "Monat."
+      ],
+      "answer": [
+        "Wir",
+        "sehen",
+        "uns",
+        "nächste",
+        "Woche."
+      ]
+    },
+    {
+      "id": "game_12_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I was sick yesterday.",
+      "tokens": [
+        "Gestern",
+        "war",
+        "ich",
+        "krank.",
+        "heute"
+      ],
+      "answer": [
+        "Gestern",
+        "war",
+        "ich",
+        "krank."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c12-quiz-1",
+      "type": "mcq",
+      "prompt": "Which preposition is used with days of the week?",
+      "options": [
+        "um",
+        "im",
+        "am",
+        "bei"
+      ],
+      "answer": "am",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c12-quiz-2",
+      "type": "mcq",
+      "prompt": "Which preposition is used with months?",
+      "options": [
+        "am",
+        "im",
+        "um",
+        "an"
+      ],
+      "answer": "im",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c12-quiz-3",
+      "type": "fill_blank",
+      "prompt": "___ 8 Uhr beginnt der Kurs.",
+      "answer": "Um",
+      "topic": "time"
+    },
+    {
+      "id": "c12-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Wir sehen uns ___ Woche.",
+      "answer": "nächste",
+      "topic": "time"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c12-fill-1",
+      "type": "fill_blank",
+      "prompt": "___ Montag gehe ich arbeiten.",
+      "answer": "Am",
+      "hint": "on (day)",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c12-fill-2",
+      "type": "fill_blank",
+      "prompt": "___ 8 Uhr beginnt der Kurs.",
+      "answer": "Um",
+      "hint": "at (time)",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c12-fill-3",
+      "type": "fill_blank",
+      "prompt": "___ Januar ist es kalt.",
+      "answer": "Im",
+      "hint": "in (month)",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c12-choice-1",
+      "type": "choice",
+      "prompt": "Which preposition is used for days?",
+      "options": [
+        "um",
+        "im",
+        "am",
+        "bei"
+      ],
+      "answer": "am",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c12-choice-2",
+      "type": "choice",
+      "prompt": "What day comes after Mittwoch?",
+      "options": [
+        "Dienstag",
+        "Donnerstag",
+        "Freitag",
+        "Montag"
+      ],
+      "answer": "Donnerstag",
+      "topic": "calendar"
+    },
+    {
+      "id": "c12-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: The course starts at 9.",
+      "tokens": [
+        "Der",
+        "Kurs",
+        "fängt",
+        "um",
+        "9",
+        "an."
+      ],
+      "answer": [
+        "Der",
+        "Kurs",
+        "fängt",
+        "um",
+        "9",
+        "an."
+      ],
+      "topic": "time"
+    },
+    {
+      "id": "c12-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: When is your birthday?",
+      "tokens": [
+        "Wann",
+        "hast",
+        "du",
+        "Geburtstag?"
+      ],
+      "answer": [
+        "Wann",
+        "hast",
+        "du",
+        "Geburtstag?"
+      ],
+      "topic": "calendar"
+    },
+    {
+      "id": "c12-fill-4",
+      "type": "fill_blank",
+      "prompt": "Der Zug hat ___. (delay)",
+      "answer": "Verspätung",
+      "hint": "delay",
+      "topic": "time"
+    }
+  ]
+}

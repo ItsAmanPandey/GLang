@@ -1,0 +1,509 @@
+{
+  "id": "A1_Ch18",
+  "level": "A1",
+  "number": 18,
+  "title": "Wie fuehlt ihr euch?",
+  "subtitle": "Emotions, Relationships, and Describing People",
+  "focus": [
+    "Emotions",
+    "Relationships",
+    "Describing People",
+    "Adjective Endings"
+  ],
+  "vocabulary": [
+    {
+      "word": "das Gefühl",
+      "meaning": "feeling/emotion",
+      "article": "das",
+      "plural": "die Gefühle",
+      "example": "Was ist das für ein Gefühl?"
+    },
+    {
+      "word": "glücklich",
+      "meaning": "happy",
+      "example": "Ich bin sehr glücklich."
+    },
+    {
+      "word": "traurig",
+      "meaning": "sad",
+      "example": "Warum bist du traurig?"
+    },
+    {
+      "word": "wütend",
+      "meaning": "angry",
+      "example": "Er ist wütend auf mich."
+    },
+    {
+      "word": "müde",
+      "meaning": "tired",
+      "example": "Ich bin heute müde."
+    },
+    {
+      "word": "aufgeregt",
+      "meaning": "excited/nervous",
+      "example": "Sie ist sehr aufgeregt."
+    },
+    {
+      "word": "nervös",
+      "meaning": "nervous",
+      "example": "Ich bin nervös vor der Prüfung."
+    },
+    {
+      "word": "zufrieden",
+      "meaning": "satisfied/content",
+      "example": "Er ist zufrieden mit seiner Arbeit."
+    },
+    {
+      "word": "enttäuscht",
+      "meaning": "disappointed",
+      "example": "Ich bin enttäuscht."
+    },
+    {
+      "word": "überrascht",
+      "meaning": "surprised",
+      "example": "Wir sind überrascht."
+    },
+    {
+      "word": "stolz",
+      "meaning": "proud",
+      "example": "Die Mutter ist stolz auf ihr Kind."
+    },
+    {
+      "word": "eifersüchtig",
+      "meaning": "jealous",
+      "example": "Sei nicht eifersüchtig!"
+    },
+    {
+      "word": "einsam",
+      "meaning": "lonely",
+      "example": "Er fühlt sich einsam."
+    },
+    {
+      "word": "ängstlich",
+      "meaning": "anxious/fearful",
+      "example": "Das Kind ist ängstlich."
+    },
+    {
+      "word": "die Angst",
+      "meaning": "fear/anxiety",
+      "article": "die",
+      "plural": "die Ängste",
+      "example": "Ich habe Angst vor Spinnen."
+    },
+    {
+      "word": "die Freude",
+      "meaning": "joy",
+      "article": "die",
+      "plural": "die Freuden",
+      "example": "Was für eine Freude!"
+    },
+    {
+      "word": "die Liebe",
+      "meaning": "love",
+      "article": "die",
+      "example": "Liebe ist wichtig."
+    },
+    {
+      "word": "lieben",
+      "meaning": "to love",
+      "example": "Ich liebe meine Familie."
+    },
+    {
+      "word": "mögen",
+      "meaning": "to like",
+      "example": "Ich mag dich sehr."
+    },
+    {
+      "word": "hassen",
+      "meaning": "to hate",
+      "example": "Ich hasse Montage."
+    },
+    {
+      "word": "lachen",
+      "meaning": "to laugh",
+      "example": "Die Kinder lachen laut."
+    },
+    {
+      "word": "weinen",
+      "meaning": "to cry",
+      "example": "Das Baby weint."
+    },
+    {
+      "word": "sich ärgern",
+      "meaning": "to be annoyed",
+      "example": "Ich ärgere mich über das Wetter."
+    },
+    {
+      "word": "sich freuen",
+      "meaning": "to be happy about",
+      "example": "Ich freue mich über das Geschenk."
+    },
+    {
+      "word": "der Freund",
+      "meaning": "friend (male)/boyfriend",
+      "article": "der",
+      "plural": "die Freunde",
+      "example": "Das ist mein bester Freund."
+    },
+    {
+      "word": "die Freundin",
+      "meaning": "friend (female)/girlfriend",
+      "article": "die",
+      "plural": "die Freundinnen",
+      "example": "Meine Freundin kommt aus Berlin."
+    },
+    {
+      "word": "der Partner",
+      "meaning": "partner (male)",
+      "article": "der",
+      "plural": "die Partner",
+      "example": "Mein Partner kocht gern."
+    },
+    {
+      "word": "die Partnerin",
+      "meaning": "partner (female)",
+      "article": "die",
+      "plural": "die Partnerinnen",
+      "example": "Seine Partnerin arbeitet viel."
+    },
+    {
+      "word": "der Nachbar",
+      "meaning": "neighbor (male)",
+      "article": "der",
+      "plural": "die Nachbarn",
+      "example": "Mein Nachbar ist nett."
+    },
+    {
+      "word": "die Nachbarin",
+      "meaning": "neighbor (female)",
+      "article": "die",
+      "plural": "die Nachbarinnen",
+      "example": "Die Nachbarin hat eine Katze."
+    },
+    {
+      "word": "heiraten",
+      "meaning": "to marry",
+      "example": "Sie heiraten im Sommer."
+    },
+    {
+      "word": "sich verlieben",
+      "meaning": "to fall in love",
+      "example": "Er hat sich verliebt."
+    },
+    {
+      "word": "sich trennen",
+      "meaning": "to break up/separate",
+      "example": "Sie haben sich getrennt."
+    },
+    {
+      "word": "streiten",
+      "meaning": "to argue",
+      "example": "Die Kinder streiten oft."
+    },
+    {
+      "word": "sich entschuldigen",
+      "meaning": "to apologize",
+      "example": "Er entschuldigt sich bei ihr."
+    },
+    {
+      "word": "verzeihen",
+      "meaning": "to forgive",
+      "example": "Kannst du mir verzeihen?"
+    },
+    {
+      "word": "vertrauen",
+      "meaning": "to trust",
+      "example": "Ich vertraue dir."
+    },
+    {
+      "word": "verstehen",
+      "meaning": "to understand",
+      "example": "Ich verstehe dich."
+    },
+    {
+      "word": "nett",
+      "meaning": "nice/kind",
+      "example": "Sie ist sehr nett."
+    },
+    {
+      "word": "freundlich",
+      "meaning": "friendly",
+      "example": "Der Kellner ist freundlich."
+    },
+    {
+      "word": "ehrlich",
+      "meaning": "honest",
+      "example": "Sei ehrlich mit mir!"
+    },
+    {
+      "word": "lustig",
+      "meaning": "funny",
+      "example": "Er ist sehr lustig."
+    },
+    {
+      "word": "ernst",
+      "meaning": "serious",
+      "example": "Das ist eine ernste Sache."
+    },
+    {
+      "word": "schüchtern",
+      "meaning": "shy",
+      "example": "Das Mädchen ist schüchtern."
+    },
+    {
+      "word": "mutig",
+      "meaning": "brave/courageous",
+      "example": "Du bist sehr mutig."
+    },
+    {
+      "word": "geduldig",
+      "meaning": "patient",
+      "example": "Bitte sei geduldig."
+    },
+    {
+      "word": "ungeduldig",
+      "meaning": "impatient",
+      "example": "Er ist manchmal ungeduldig."
+    },
+    {
+      "word": "sympathisch",
+      "meaning": "likeable",
+      "example": "Ich finde sie sympathisch."
+    },
+    {
+      "word": "höflich",
+      "meaning": "polite",
+      "example": "Die Frau ist sehr höflich."
+    },
+    {
+      "word": "unhöflich",
+      "meaning": "rude/impolite",
+      "example": "Das war unhöflich."
+    },
+    {
+      "word": "wichtig",
+      "meaning": "important",
+      "example": "Freundschaft ist wichtig."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Expressing Emotions with 'sein' + Adjective",
+      "explanation": "You can express emotions in German by using 'sein' + adjective. E.g. 'Ich bin glücklich'. To say what you're happy/angry/sad about, use prepositions: 'über + Akk' (about), 'auf + Akk' (at/about), 'vor + Dat' (of).",
+      "examples": [
+        "Ich bin glücklich über das Ergebnis.",
+        "Er ist wütend auf seinen Bruder.",
+        "Sie hat Angst vor Hunden.",
+        "Wir sind stolz auf dich."
+      ]
+    },
+    {
+      "topic": "Reflexive Verbs for Emotions",
+      "explanation": "Many emotional expressions in German use reflexive verbs: sich freuen (über), sich ärgern (über), sich verlieben (in), sich entschuldigen (bei/für). The reflexive pronoun must match the subject.",
+      "examples": [
+        "Ich freue mich über das Geschenk.",
+        "Er ärgert sich über den Lärm.",
+        "Sie hat sich in ihn verliebt.",
+        "Ich entschuldige mich für den Fehler."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c18-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I am happy about the gift.",
+      "tokens": [
+        "Ich",
+        "freue",
+        "mich",
+        "über",
+        "das",
+        "Geschenk.",
+        "für"
+      ],
+      "answer": [
+        "Ich",
+        "freue",
+        "mich",
+        "über",
+        "das",
+        "Geschenk."
+      ]
+    },
+    {
+      "id": "c18-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "Why are you sad?",
+      "tokens": [
+        "Warum",
+        "bist",
+        "du",
+        "traurig?",
+        "müde?"
+      ],
+      "answer": [
+        "Warum",
+        "bist",
+        "du",
+        "traurig?"
+      ]
+    },
+    {
+      "id": "c18-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "She is very nice.",
+      "tokens": [
+        "Sie",
+        "ist",
+        "sehr",
+        "nett.",
+        "laut."
+      ],
+      "answer": [
+        "Sie",
+        "ist",
+        "sehr",
+        "nett."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c18-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'traurig' mean?",
+      "options": [
+        "tired",
+        "sad",
+        "angry",
+        "nervous"
+      ],
+      "answer": "sad",
+      "topic": "emotions"
+    },
+    {
+      "id": "c18-quiz-2",
+      "type": "mcq",
+      "prompt": "Which preposition goes with 'Angst haben'?",
+      "options": [
+        "über",
+        "auf",
+        "vor",
+        "mit"
+      ],
+      "answer": "vor",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c18-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ mich über den Lärm. (am annoyed)",
+      "answer": "ärgere",
+      "topic": "reflexive"
+    },
+    {
+      "id": "c18-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Er ist ___ auf sein Kind. (proud)",
+      "answer": "stolz",
+      "topic": "adjectives"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c18-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich bin sehr ___. (happy)",
+      "answer": "glücklich",
+      "hint": "happy",
+      "topic": "emotions"
+    },
+    {
+      "id": "c18-fill-2",
+      "type": "fill_blank",
+      "prompt": "Ich ___ mich über den Lärm. (am annoyed)",
+      "answer": "ärgere",
+      "hint": "am annoyed",
+      "topic": "reflexive"
+    },
+    {
+      "id": "c18-fill-3",
+      "type": "fill_blank",
+      "prompt": "Er ist ___ auf sein Kind. (proud)",
+      "answer": "stolz",
+      "hint": "proud",
+      "topic": "emotions"
+    },
+    {
+      "id": "c18-choice-1",
+      "type": "choice",
+      "prompt": "What does 'traurig' mean?",
+      "options": [
+        "tired",
+        "sad",
+        "angry",
+        "nervous"
+      ],
+      "answer": "sad",
+      "topic": "emotions"
+    },
+    {
+      "id": "c18-choice-2",
+      "type": "choice",
+      "prompt": "Which preposition goes with 'Angst haben'?",
+      "options": [
+        "über",
+        "auf",
+        "vor",
+        "mit"
+      ],
+      "answer": "vor",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c18-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: Why are you sad?",
+      "tokens": [
+        "Warum",
+        "bist",
+        "du",
+        "traurig?"
+      ],
+      "answer": [
+        "Warum",
+        "bist",
+        "du",
+        "traurig?"
+      ],
+      "topic": "emotions"
+    },
+    {
+      "id": "c18-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: She is very nice.",
+      "tokens": [
+        "Sie",
+        "ist",
+        "sehr",
+        "nett."
+      ],
+      "answer": [
+        "Sie",
+        "ist",
+        "sehr",
+        "nett."
+      ],
+      "topic": "adjectives"
+    },
+    {
+      "id": "c18-fill-4",
+      "type": "fill_blank",
+      "prompt": "Kannst du mir ___? (forgive)",
+      "answer": "verzeihen",
+      "hint": "forgive",
+      "topic": "verbs"
+    }
+  ]
+}

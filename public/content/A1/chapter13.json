@@ -1,0 +1,537 @@
+{
+  "id": "A1_Ch13",
+  "level": "A1",
+  "number": 13,
+  "title": "Den Weg finden",
+  "subtitle": "Giving Directions, Public Transport, and Navigation",
+  "focus": [
+    "Giving Directions",
+    "Transport",
+    "Places in the City"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Richtung",
+      "meaning": "direction",
+      "article": "die",
+      "plural": "die Richtungen",
+      "example": "Aus welcher Richtung kommst du?"
+    },
+    {
+      "word": "der Weg",
+      "meaning": "way/path",
+      "article": "der",
+      "plural": "die Wege",
+      "example": "Können Sie mir den Weg zeigen?"
+    },
+    {
+      "word": "die Straße",
+      "meaning": "street",
+      "article": "die",
+      "plural": "die Straßen",
+      "example": "Gehen Sie diese Straße entlang."
+    },
+    {
+      "word": "die Kreuzung",
+      "meaning": "intersection",
+      "article": "die",
+      "plural": "die Kreuzungen",
+      "example": "An der Kreuzung rechts abbiegen."
+    },
+    {
+      "word": "die Ampel",
+      "meaning": "traffic light",
+      "article": "die",
+      "plural": "die Ampeln",
+      "example": "Warten Sie an der Ampel."
+    },
+    {
+      "word": "die Brücke",
+      "meaning": "bridge",
+      "article": "die",
+      "plural": "die Brücken",
+      "example": "Gehen Sie über die Brücke."
+    },
+    {
+      "word": "der Platz",
+      "meaning": "square/plaza",
+      "article": "der",
+      "plural": "die Plätze",
+      "example": "Der Markt ist auf dem Platz."
+    },
+    {
+      "word": "das Zentrum",
+      "meaning": "center/downtown",
+      "article": "das",
+      "plural": "die Zentren",
+      "example": "Wir fahren ins Zentrum."
+    },
+    {
+      "word": "der Bahnhof",
+      "meaning": "train station",
+      "article": "der",
+      "plural": "die Bahnhöfe",
+      "example": "Der Bahnhof ist in der Nähe."
+    },
+    {
+      "word": "die Haltestelle",
+      "meaning": "stop (bus/tram)",
+      "article": "die",
+      "plural": "die Haltestellen",
+      "example": "Ich steige an der nächsten Haltestelle aus."
+    },
+    {
+      "word": "der Flughafen",
+      "meaning": "airport",
+      "article": "der",
+      "plural": "die Flughäfen",
+      "example": "Der Flughafen ist weit weg."
+    },
+    {
+      "word": "die U-Bahn",
+      "meaning": "subway",
+      "article": "die",
+      "plural": "die U-Bahnen",
+      "example": "Ich fahre mit der U-Bahn."
+    },
+    {
+      "word": "die S-Bahn",
+      "meaning": "suburban train",
+      "article": "die",
+      "plural": "die S-Bahnen",
+      "example": "Die S-Bahn fährt schnell."
+    },
+    {
+      "word": "der Bus",
+      "meaning": "bus",
+      "article": "der",
+      "plural": "die Busse",
+      "example": "Wir nehmen den Bus."
+    },
+    {
+      "word": "die Straßenbahn",
+      "meaning": "tram",
+      "article": "die",
+      "plural": "die Straßenbahnen",
+      "example": "Die Straßenbahnlinie 4 fährt dorthin."
+    },
+    {
+      "word": "der Zug",
+      "meaning": "train",
+      "article": "der",
+      "plural": "die Züge",
+      "example": "Mein Zug fährt um acht."
+    },
+    {
+      "word": "das Auto",
+      "meaning": "car",
+      "article": "das",
+      "plural": "die Autos",
+      "example": "Wir haben kein Auto."
+    },
+    {
+      "word": "das Fahrrad",
+      "meaning": "bicycle",
+      "article": "das",
+      "plural": "die Fahrräder",
+      "example": "Er fährt immer mit dem Fahrrad."
+    },
+    {
+      "word": "das Taxi",
+      "meaning": "taxi",
+      "article": "das",
+      "plural": "die Taxis",
+      "example": "Rufen Sie ein Taxi!"
+    },
+    {
+      "word": "zu Fuß",
+      "meaning": "on foot",
+      "example": "Ich gehe zu Fuß zur Arbeit."
+    },
+    {
+      "word": "das Ticket",
+      "meaning": "ticket",
+      "article": "das",
+      "plural": "die Tickets",
+      "example": "Du brauchst ein Ticket."
+    },
+    {
+      "word": "die Fahrkarte",
+      "meaning": "transport ticket",
+      "article": "die",
+      "plural": "die Fahrkarten",
+      "example": "Wo kaufe ich eine Fahrkarte?"
+    },
+    {
+      "word": "der Automat",
+      "meaning": "ticket machine",
+      "article": "der",
+      "plural": "die Automaten",
+      "example": "Am Automaten gibt es Fahrkarten."
+    },
+    {
+      "word": "fahren",
+      "meaning": "to drive/ride",
+      "example": "Wir fahren nach Berlin."
+    },
+    {
+      "word": "fliegen",
+      "meaning": "to fly",
+      "example": "Wir fliegen in den Urlaub."
+    },
+    {
+      "word": "gehen",
+      "meaning": "to go/walk",
+      "example": "Wir gehen ins Kino."
+    },
+    {
+      "word": "abbiegen",
+      "meaning": "to turn",
+      "example": "Sie müssen links abbiegen."
+    },
+    {
+      "word": "geradeaus",
+      "meaning": "straight ahead",
+      "example": "Gehen Sie immer geradeaus."
+    },
+    {
+      "word": "links",
+      "meaning": "left",
+      "example": "Die Bank ist auf der linken Seite."
+    },
+    {
+      "word": "rechts",
+      "meaning": "right",
+      "example": "Gehen Sie nach rechts."
+    },
+    {
+      "word": "zurück",
+      "meaning": "back",
+      "example": "Du musst zurück gehen."
+    },
+    {
+      "word": "vorbei",
+      "meaning": "past",
+      "example": "Gehen Sie an der Kirche vorbei."
+    },
+    {
+      "word": "gegenüber",
+      "meaning": "opposite",
+      "example": "Die Post ist gegenüber vom Bahnhof."
+    },
+    {
+      "word": "neben",
+      "meaning": "next to",
+      "example": "Das Restaurant ist neben der Bank."
+    },
+    {
+      "word": "hinter",
+      "meaning": "behind",
+      "example": "Der Garten ist hinter dem Haus."
+    },
+    {
+      "word": "vor",
+      "meaning": "in front of",
+      "example": "Das Auto steht vor der Tür."
+    },
+    {
+      "word": "zwischen",
+      "meaning": "between",
+      "example": "Der Tisch steht zwischen den Stühlen."
+    },
+    {
+      "word": "an",
+      "meaning": "at/on",
+      "example": "Wir sitzen an der Bar."
+    },
+    {
+      "word": "auf",
+      "meaning": "on",
+      "example": "Das Buch liegt auf dem Tisch."
+    },
+    {
+      "word": "unter",
+      "meaning": "under",
+      "example": "Die Katze schläft unter dem Sofa."
+    },
+    {
+      "word": "in der Nähe",
+      "meaning": "nearby",
+      "example": "Ist hier eine Apotheke in der Nähe?"
+    },
+    {
+      "word": "weit",
+      "meaning": "far",
+      "example": "Der Weg ist sehr weit."
+    },
+    {
+      "word": "nah",
+      "meaning": "close/near",
+      "example": "Das Hotel ist sehr nah."
+    },
+    {
+      "word": "einsteigen",
+      "meaning": "to get on/board",
+      "example": "Bitte schnell einsteigen!"
+    },
+    {
+      "word": "aussteigen",
+      "meaning": "to get off",
+      "example": "Ich muss hier aussteigen."
+    },
+    {
+      "word": "umsteigen",
+      "meaning": "to transfer/change trains",
+      "example": "In Frankfurt müssen wir umsteigen."
+    },
+    {
+      "word": "die Entschuldigung",
+      "meaning": "excuse me/apology",
+      "article": "die",
+      "plural": "die Entschuldigungen",
+      "example": "Entschuldigung, wo ist der Bahnhof?"
+    },
+    {
+      "word": "fragen",
+      "meaning": "to ask",
+      "example": "Darf ich Sie etwas fragen?"
+    },
+    {
+      "word": "suchen",
+      "meaning": "to search/look for",
+      "example": "Ich suche das Museum."
+    },
+    {
+      "word": "finden",
+      "meaning": "to find",
+      "example": "Ich kann den Schlüssel nicht finden."
+    },
+    {
+      "word": "warten",
+      "meaning": "to wait",
+      "example": "Ich warte auf den Bus."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Prepositions with Dative",
+      "explanation": "When indicating location (where something is), two-way prepositions take the Dative case (dem, der, dem, den). E.g. 'Die Post ist neben dem Bahnhof'.",
+      "examples": [
+        "Die Post ist neben dem Bahnhof.",
+        "Das Café ist gegenüber der Kirche.",
+        "Die Haltestelle ist vor dem Hotel.",
+        "Mein Auto steht hinter dem Haus."
+      ]
+    },
+    {
+      "topic": "Separable Verbs for Transport",
+      "explanation": "Verbs like einsteigen, aussteigen, and umsteigen are separable. The prefix goes to the end of the clause. E.g. 'Ich steige in den Bus ein'.",
+      "examples": [
+        "Ich steige in den Bus ein.",
+        "Wir steigen am Hauptbahnhof um.",
+        "Sie steigt an der nächsten Haltestelle aus.",
+        "Steig bitte schnell ein!"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_13_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: Excuse me, where is the station?",
+      "tokens": [
+        "Entschuldigung,",
+        "wo",
+        "ist",
+        "der",
+        "Bahnhof?",
+        "suchen"
+      ],
+      "answer": [
+        "Entschuldigung,",
+        "wo",
+        "ist",
+        "der",
+        "Bahnhof?"
+      ]
+    },
+    {
+      "id": "game_13_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: You have to turn left.",
+      "tokens": [
+        "Sie",
+        "müssen",
+        "links",
+        "abbiegen.",
+        "rechts"
+      ],
+      "answer": [
+        "Sie",
+        "müssen",
+        "links",
+        "abbiegen."
+      ]
+    },
+    {
+      "id": "game_13_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I get off here.",
+      "tokens": [
+        "Ich",
+        "steige",
+        "hier",
+        "aus.",
+        "ein."
+      ],
+      "answer": [
+        "Ich",
+        "steige",
+        "hier",
+        "aus."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c13-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'die Haltestelle' mean?",
+      "options": [
+        "highway",
+        "bus/tram stop",
+        "parking lot",
+        "crossroads"
+      ],
+      "answer": "bus/tram stop",
+      "topic": "transport"
+    },
+    {
+      "id": "c13-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you say 'Turn left'?",
+      "options": [
+        "Gehen Sie geradeaus",
+        "Biegen Sie rechts ab",
+        "Biegen Sie links ab",
+        "Gehen Sie zurück"
+      ],
+      "answer": "Biegen Sie links ab",
+      "topic": "directions"
+    },
+    {
+      "id": "c13-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich steige an der nächsten Haltestelle ___.",
+      "answer": "aus",
+      "topic": "separable_verbs"
+    },
+    {
+      "id": "c13-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Entschuldigung, ___ ist der Bahnhof?",
+      "answer": "wo",
+      "topic": "questions"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c13-fill-1",
+      "type": "fill_blank",
+      "prompt": "Entschuldigung, ___ ist der Bahnhof?",
+      "answer": "wo",
+      "hint": "where",
+      "topic": "questions"
+    },
+    {
+      "id": "c13-fill-2",
+      "type": "fill_blank",
+      "prompt": "Ich steige an der nächsten Haltestelle ___.",
+      "answer": "aus",
+      "hint": "off/out",
+      "topic": "separable_verbs"
+    },
+    {
+      "id": "c13-fill-3",
+      "type": "fill_blank",
+      "prompt": "Gehen Sie immer ___. (straight ahead)",
+      "answer": "geradeaus",
+      "hint": "straight ahead",
+      "topic": "directions"
+    },
+    {
+      "id": "c13-choice-1",
+      "type": "choice",
+      "prompt": "What is 'die U-Bahn'?",
+      "options": [
+        "bus",
+        "tram",
+        "subway",
+        "train"
+      ],
+      "answer": "subway",
+      "topic": "transport"
+    },
+    {
+      "id": "c13-choice-2",
+      "type": "choice",
+      "prompt": "What does 'umsteigen' mean?",
+      "options": [
+        "to get on",
+        "to get off",
+        "to transfer",
+        "to wait"
+      ],
+      "answer": "to transfer",
+      "topic": "transport"
+    },
+    {
+      "id": "c13-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: You have to turn left.",
+      "tokens": [
+        "Sie",
+        "müssen",
+        "links",
+        "abbiegen."
+      ],
+      "answer": [
+        "Sie",
+        "müssen",
+        "links",
+        "abbiegen."
+      ],
+      "topic": "directions"
+    },
+    {
+      "id": "c13-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: I go to work on foot.",
+      "tokens": [
+        "Ich",
+        "gehe",
+        "zu",
+        "Fuß",
+        "zur",
+        "Arbeit."
+      ],
+      "answer": [
+        "Ich",
+        "gehe",
+        "zu",
+        "Fuß",
+        "zur",
+        "Arbeit."
+      ],
+      "topic": "transport"
+    },
+    {
+      "id": "c13-fill-4",
+      "type": "fill_blank",
+      "prompt": "Die Post ist ___ vom Bahnhof.",
+      "answer": "gegenüber",
+      "hint": "opposite",
+      "topic": "directions"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+vite-dev.log
+
+# Copyrighted textbook PDFs (not for distribution)
+*.pdf
+
+# Development smoke-test screenshots
+smoke-*.png
+
+# Content generation and automation scripts
+scripts/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

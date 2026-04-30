@@ -1,0 +1,522 @@
+{
+  "id": "A1_Ch15",
+  "level": "A1",
+  "number": 15,
+  "title": "Was hast du gemacht?",
+  "subtitle": "Free Time Activities and the Past Tense (Perfekt)",
+  "focus": [
+    "Free Time",
+    "Hobbies",
+    "Past Tense (Perfekt)",
+    "Weekend Activities"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Freizeit",
+      "meaning": "free time",
+      "article": "die",
+      "plural": "-",
+      "example": "In meiner Freizeit lese ich gern."
+    },
+    {
+      "word": "das Hobby",
+      "meaning": "hobby",
+      "article": "das",
+      "plural": "die Hobbys",
+      "example": "Mein Hobby ist Fotografieren."
+    },
+    {
+      "word": "das Wochenende",
+      "meaning": "weekend",
+      "article": "das",
+      "plural": "die Wochenenden",
+      "example": "Was machst du am Wochenende?"
+    },
+    {
+      "word": "der Ausflug",
+      "meaning": "excursion/trip",
+      "article": "der",
+      "plural": "die Ausflüge",
+      "example": "Wir machen einen Ausflug ans Meer."
+    },
+    {
+      "word": "der Sport",
+      "meaning": "sport",
+      "article": "der",
+      "plural": "die Sportarten",
+      "example": "Treibst du Sport?"
+    },
+    {
+      "word": "der Fußball",
+      "meaning": "football/soccer",
+      "article": "der",
+      "plural": "-",
+      "example": "Am Samstag spiele ich Fußball."
+    },
+    {
+      "word": "das Kino",
+      "meaning": "cinema",
+      "article": "das",
+      "plural": "die Kinos",
+      "example": "Gehen wir ins Kino?"
+    },
+    {
+      "word": "das Theater",
+      "meaning": "theater",
+      "article": "das",
+      "plural": "die Theater",
+      "example": "Ich habe Tickets für das Theater."
+    },
+    {
+      "word": "das Museum",
+      "meaning": "museum",
+      "article": "das",
+      "plural": "die Museen",
+      "example": "Das Museum ist sehr interessant."
+    },
+    {
+      "word": "das Konzert",
+      "meaning": "concert",
+      "article": "das",
+      "plural": "die Konzerte",
+      "example": "Das Konzert war toll."
+    },
+    {
+      "word": "das Schwimmbad",
+      "meaning": "swimming pool",
+      "article": "das",
+      "plural": "die Schwimmbäder",
+      "example": "Wir gehen ins Schwimmbad."
+    },
+    {
+      "word": "der Park",
+      "meaning": "park",
+      "article": "der",
+      "plural": "die Parks",
+      "example": "Wir spazieren im Park."
+    },
+    {
+      "word": "der Verein",
+      "meaning": "club/association",
+      "article": "der",
+      "plural": "die Vereine",
+      "example": "Ich bin in einem Sportverein."
+    },
+    {
+      "word": "spielen",
+      "meaning": "to play",
+      "example": "Er spielt gern Klavier."
+    },
+    {
+      "word": "lesen",
+      "meaning": "to read",
+      "example": "Ich habe ein Buch gelesen."
+    },
+    {
+      "word": "schreiben",
+      "meaning": "to write",
+      "example": "Sie hat einen Brief geschrieben."
+    },
+    {
+      "word": "hören",
+      "meaning": "to hear/listen",
+      "example": "Ich höre gern Musik."
+    },
+    {
+      "word": "sehen",
+      "meaning": "to see/watch",
+      "example": "Hast du den Film gesehen?"
+    },
+    {
+      "word": "treffen",
+      "meaning": "to meet",
+      "example": "Ich treffe heute meine Freunde."
+    },
+    {
+      "word": "besuchen",
+      "meaning": "to visit",
+      "example": "Wir besuchen unsere Oma."
+    },
+    {
+      "word": "kochen",
+      "meaning": "to cook",
+      "example": "Gestern habe ich Nudeln gekocht."
+    },
+    {
+      "word": "backen",
+      "meaning": "to bake",
+      "example": "Sie hat einen Kuchen gebacken."
+    },
+    {
+      "word": "tanzen",
+      "meaning": "to dance",
+      "example": "Wir haben die ganze Nacht getanzt."
+    },
+    {
+      "word": "singen",
+      "meaning": "to sing",
+      "example": "Er singt im Chor."
+    },
+    {
+      "word": "fotografieren",
+      "meaning": "to photograph",
+      "example": "Ich fotografiere gern die Natur."
+    },
+    {
+      "word": "wandern",
+      "meaning": "to hike",
+      "example": "Im Urlaub sind wir gewandert."
+    },
+    {
+      "word": "reisen",
+      "meaning": "to travel",
+      "example": "Ich bin nach Italien gereist."
+    },
+    {
+      "word": "schwimmen",
+      "meaning": "to swim",
+      "example": "Ich bin im See geschwommen."
+    },
+    {
+      "word": "laufen",
+      "meaning": "to run/walk",
+      "example": "Ich bin schnell gelaufen."
+    },
+    {
+      "word": "fahren",
+      "meaning": "to drive/ride",
+      "example": "Wir sind mit dem Fahrrad gefahren."
+    },
+    {
+      "word": "gehen",
+      "meaning": "to go",
+      "example": "Ich bin ins Bett gegangen."
+    },
+    {
+      "word": "bleiben",
+      "meaning": "to stay",
+      "example": "Ich bin zu Hause geblieben."
+    },
+    {
+      "word": "sein",
+      "meaning": "to be",
+      "example": "Ich bin gestern im Kino gewesen."
+    },
+    {
+      "word": "haben",
+      "meaning": "to have",
+      "example": "Ich habe keine Zeit gehabt."
+    },
+    {
+      "word": "machen",
+      "meaning": "to do/make",
+      "example": "Was hast du gemacht?"
+    },
+    {
+      "word": "kaufen",
+      "meaning": "to buy",
+      "example": "Ich habe Brot gekauft."
+    },
+    {
+      "word": "arbeiten",
+      "meaning": "to work",
+      "example": "Er hat viel gearbeitet."
+    },
+    {
+      "word": "lernen",
+      "meaning": "to learn",
+      "example": "Wir haben Deutsch gelernt."
+    },
+    {
+      "word": "schlafen",
+      "meaning": "to sleep",
+      "example": "Ich habe gut geschlafen."
+    },
+    {
+      "word": "essen",
+      "meaning": "to eat",
+      "example": "Ich habe eine Pizza gegessen."
+    },
+    {
+      "word": "trinken",
+      "meaning": "to drink",
+      "example": "Hast du Wasser getrunken?"
+    },
+    {
+      "word": "sprechen",
+      "meaning": "to speak",
+      "example": "Wir haben lange gesprochen."
+    },
+    {
+      "word": "verstehen",
+      "meaning": "to understand",
+      "example": "Ich habe alles verstanden."
+    },
+    {
+      "word": "vergessen",
+      "meaning": "to forget",
+      "example": "Ich habe meinen Schlüssel vergessen."
+    },
+    {
+      "word": "helfen",
+      "meaning": "to help",
+      "example": "Er hat mir geholfen."
+    },
+    {
+      "word": "geben",
+      "meaning": "to give",
+      "example": "Sie hat mir ein Buch gegeben."
+    },
+    {
+      "word": "nehmen",
+      "meaning": "to take",
+      "example": "Ich habe den Bus genommen."
+    },
+    {
+      "word": "finden",
+      "meaning": "to find",
+      "example": "Ich habe mein Handy gefunden."
+    },
+    {
+      "word": "suchen",
+      "meaning": "to search/look for",
+      "example": "Ich habe dich gesucht."
+    },
+    {
+      "word": "gestern",
+      "meaning": "yesterday",
+      "example": "Gestern war ein schöner Tag."
+    },
+    {
+      "word": "toll",
+      "meaning": "great",
+      "example": "Das Konzert war toll."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "The Perfekt (Past Tense)",
+      "explanation": "In spoken German, the past tense is usually formed using the Perfekt. It consists of an auxiliary verb (haben or sein) in position 2, and a past participle (Partizip II) at the very end of the sentence. E.g. 'Ich habe gestern Pizza gegessen'.",
+      "examples": [
+        "Ich habe gestern Pizza gegessen.",
+        "Er hat viel gearbeitet.",
+        "Wir haben Deutsch gelernt.",
+        "Sie hat einen Kuchen gebacken."
+      ]
+    },
+    {
+      "topic": "Haben vs. Sein in the Perfekt",
+      "explanation": "Most verbs use 'haben' as the auxiliary verb. Verbs that indicate a change of location (gehen, fahren, fliegen) or a change of state (aufwachen) use 'sein'. 'Bleiben' and 'sein' also use 'sein' as their auxiliary verb.",
+      "examples": [
+        "Ich bin ins Kino gegangen.",
+        "Er ist nach Berlin gefahren.",
+        "Wir sind gewandert.",
+        "Sie ist zu Hause geblieben."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_15_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: What did you do on the weekend?",
+      "tokens": [
+        "Was",
+        "hast",
+        "du",
+        "am",
+        "Wochenende",
+        "gemacht?",
+        "bist"
+      ],
+      "answer": [
+        "Was",
+        "hast",
+        "du",
+        "am",
+        "Wochenende",
+        "gemacht?"
+      ]
+    },
+    {
+      "id": "game_15_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I went to the cinema.",
+      "tokens": [
+        "Ich",
+        "bin",
+        "ins",
+        "Kino",
+        "gegangen.",
+        "habe"
+      ],
+      "answer": [
+        "Ich",
+        "bin",
+        "ins",
+        "Kino",
+        "gegangen."
+      ]
+    },
+    {
+      "id": "game_15_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: We cooked pasta.",
+      "tokens": [
+        "Wir",
+        "haben",
+        "Nudeln",
+        "gekocht.",
+        "gekauft."
+      ],
+      "answer": [
+        "Wir",
+        "haben",
+        "Nudeln",
+        "gekocht."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c15-quiz-1",
+      "type": "mcq",
+      "prompt": "Which auxiliary verb does 'gehen' use in the Perfekt?",
+      "options": [
+        "haben",
+        "sein",
+        "werden",
+        "können"
+      ],
+      "answer": "sein",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-quiz-2",
+      "type": "mcq",
+      "prompt": "What is the Partizip II of 'essen'?",
+      "options": [
+        "geesst",
+        "gegessen",
+        "aß",
+        "isst"
+      ],
+      "answer": "gegessen",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ gestern ins Kino gegangen.",
+      "answer": "bin",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Er hat viel ___. (worked)",
+      "answer": "gearbeitet",
+      "topic": "perfekt"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c15-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ gestern ins Kino gegangen.",
+      "answer": "bin",
+      "hint": "am (sein)",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-fill-2",
+      "type": "fill_blank",
+      "prompt": "Er hat viel ___. (worked)",
+      "answer": "gearbeitet",
+      "hint": "worked",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-fill-3",
+      "type": "fill_blank",
+      "prompt": "Wir haben Deutsch ___. (learned)",
+      "answer": "gelernt",
+      "hint": "learned",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-choice-1",
+      "type": "choice",
+      "prompt": "Which auxiliary does 'gehen' use?",
+      "options": [
+        "haben",
+        "sein",
+        "werden",
+        "können"
+      ],
+      "answer": "sein",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-choice-2",
+      "type": "choice",
+      "prompt": "Partizip II of 'essen'?",
+      "options": [
+        "geesst",
+        "gegessen",
+        "aß",
+        "isst"
+      ],
+      "answer": "gegessen",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: I cooked pasta yesterday.",
+      "tokens": [
+        "Ich",
+        "habe",
+        "gestern",
+        "Nudeln",
+        "gekocht."
+      ],
+      "answer": [
+        "Ich",
+        "habe",
+        "gestern",
+        "Nudeln",
+        "gekocht."
+      ],
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: She went to Berlin.",
+      "tokens": [
+        "Sie",
+        "ist",
+        "nach",
+        "Berlin",
+        "gefahren."
+      ],
+      "answer": [
+        "Sie",
+        "ist",
+        "nach",
+        "Berlin",
+        "gefahren."
+      ],
+      "topic": "perfekt"
+    },
+    {
+      "id": "c15-fill-4",
+      "type": "fill_blank",
+      "prompt": "Hast du das Buch ___? (read)",
+      "answer": "gelesen",
+      "hint": "read (past)",
+      "topic": "perfekt"
+    }
+  ]
+}

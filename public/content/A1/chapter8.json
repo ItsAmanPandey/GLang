@@ -1,0 +1,566 @@
+{
+  "id": "A1_Ch8",
+  "level": "A1",
+  "number": 8,
+  "title": "Beim Arzt",
+  "subtitle": "Body Parts, Illness, and Health Advice",
+  "focus": [
+    "Body Parts",
+    "Health",
+    "Doctor",
+    "Illness"
+  ],
+  "vocabulary": [
+    {
+      "word": "der Körper",
+      "meaning": "body",
+      "article": "der",
+      "plural": "die Körper",
+      "example": "Der Körper braucht Schlaf."
+    },
+    {
+      "word": "der Kopf",
+      "meaning": "head",
+      "article": "der",
+      "plural": "die Köpfe",
+      "example": "Mein Kopf tut weh."
+    },
+    {
+      "word": "das Haar",
+      "meaning": "hair",
+      "article": "das",
+      "plural": "die Haare",
+      "example": "Sie hat blonde Haare."
+    },
+    {
+      "word": "das Auge",
+      "meaning": "eye",
+      "article": "das",
+      "plural": "die Augen",
+      "example": "Seine Augen sind blau."
+    },
+    {
+      "word": "das Ohr",
+      "meaning": "ear",
+      "article": "das",
+      "plural": "die Ohren",
+      "example": "Meine Ohren sind kalt."
+    },
+    {
+      "word": "die Nase",
+      "meaning": "nose",
+      "article": "die",
+      "plural": "die Nasen",
+      "example": "Er hat eine große Nase."
+    },
+    {
+      "word": "der Mund",
+      "meaning": "mouth",
+      "article": "der",
+      "plural": "die Münder",
+      "example": "Mach den Mund auf."
+    },
+    {
+      "word": "der Zahn",
+      "meaning": "tooth",
+      "article": "der",
+      "plural": "die Zähne",
+      "example": "Ich putze meine Zähne."
+    },
+    {
+      "word": "der Hals",
+      "meaning": "neck/throat",
+      "article": "der",
+      "plural": "die Hälse",
+      "example": "Mein Hals tut weh."
+    },
+    {
+      "word": "der Arm",
+      "meaning": "arm",
+      "article": "der",
+      "plural": "die Arme",
+      "example": "Sein Arm ist gebrochen."
+    },
+    {
+      "word": "die Hand",
+      "meaning": "hand",
+      "article": "die",
+      "plural": "die Hände",
+      "example": "Gib mir deine Hand."
+    },
+    {
+      "word": "der Finger",
+      "meaning": "finger",
+      "article": "der",
+      "plural": "die Finger",
+      "example": "Ein Mensch hat zehn Finger."
+    },
+    {
+      "word": "der Bauch",
+      "meaning": "stomach/belly",
+      "article": "der",
+      "plural": "die Bäuche",
+      "example": "Ich habe Bauchschmerzen."
+    },
+    {
+      "word": "der Rücken",
+      "meaning": "back",
+      "article": "der",
+      "plural": "die Rücken",
+      "example": "Mein Rücken tut weh."
+    },
+    {
+      "word": "das Bein",
+      "meaning": "leg",
+      "article": "das",
+      "plural": "die Beine",
+      "example": "Mein Bein ist müde."
+    },
+    {
+      "word": "der Fuß",
+      "meaning": "foot",
+      "article": "der",
+      "plural": "die Füße",
+      "example": "Meine Füße sind kalt."
+    },
+    {
+      "word": "die Gesundheit",
+      "meaning": "health",
+      "article": "die",
+      "plural": "-",
+      "example": "Gesundheit ist wichtig."
+    },
+    {
+      "word": "gesund",
+      "meaning": "healthy",
+      "example": "Ich bin wieder gesund."
+    },
+    {
+      "word": "krank",
+      "meaning": "sick/ill",
+      "example": "Er ist heute krank."
+    },
+    {
+      "word": "die Krankheit",
+      "meaning": "illness/disease",
+      "article": "die",
+      "plural": "die Krankheiten",
+      "example": "Das ist eine schwere Krankheit."
+    },
+    {
+      "word": "der Schmerz",
+      "meaning": "pain",
+      "article": "der",
+      "plural": "die Schmerzen",
+      "example": "Ich habe Schmerzen."
+    },
+    {
+      "word": "die Kopfschmerzen",
+      "meaning": "headache",
+      "article": "die",
+      "plural": "-",
+      "example": "Ich habe schlimme Kopfschmerzen."
+    },
+    {
+      "word": "die Halsschmerzen",
+      "meaning": "sore throat",
+      "article": "die",
+      "plural": "-",
+      "example": "Trink Tee gegen Halsschmerzen."
+    },
+    {
+      "word": "die Bauchschmerzen",
+      "meaning": "stomach ache",
+      "article": "die",
+      "plural": "-",
+      "example": "Er hat Bauchschmerzen."
+    },
+    {
+      "word": "wehtun",
+      "meaning": "to hurt/ache",
+      "example": "Mein Knie tut weh."
+    },
+    {
+      "word": "das Fieber",
+      "meaning": "fever",
+      "article": "das",
+      "plural": "-",
+      "example": "Das Kind hat Fieber."
+    },
+    {
+      "word": "der Husten",
+      "meaning": "cough",
+      "article": "der",
+      "plural": "-",
+      "example": "Ich habe Husten."
+    },
+    {
+      "word": "der Schnupfen",
+      "meaning": "runny nose/cold",
+      "article": "der",
+      "plural": "-",
+      "example": "Ich habe Schnupfen."
+    },
+    {
+      "word": "der Arzt",
+      "meaning": "doctor (male)",
+      "article": "der",
+      "plural": "die Ärzte",
+      "example": "Ich muss zum Arzt gehen."
+    },
+    {
+      "word": "die Ärztin",
+      "meaning": "doctor (female)",
+      "article": "die",
+      "plural": "die Ärztinnen",
+      "example": "Die Ärztin ist sehr nett."
+    },
+    {
+      "word": "die Praxis",
+      "meaning": "doctor's office",
+      "article": "die",
+      "plural": "die Praxen",
+      "example": "Die Praxis öffnet um 8 Uhr."
+    },
+    {
+      "word": "der Termin",
+      "meaning": "appointment",
+      "article": "der",
+      "plural": "die Termine",
+      "example": "Ich habe einen Termin um zehn."
+    },
+    {
+      "word": "die Medizin",
+      "meaning": "medicine",
+      "article": "die",
+      "plural": "die Medizinen",
+      "example": "Nimm deine Medizin."
+    },
+    {
+      "word": "die Apotheke",
+      "meaning": "pharmacy",
+      "article": "die",
+      "plural": "die Apotheken",
+      "example": "Die Apotheke ist nebenan."
+    },
+    {
+      "word": "das Medikament",
+      "meaning": "medication/drug",
+      "article": "das",
+      "plural": "die Medikamente",
+      "example": "Ich brauche ein Medikament."
+    },
+    {
+      "word": "die Tablette",
+      "meaning": "pill/tablet",
+      "article": "die",
+      "plural": "die Tabletten",
+      "example": "Nimm eine Tablette."
+    },
+    {
+      "word": "das Krankenhaus",
+      "meaning": "hospital",
+      "article": "das",
+      "plural": "die Krankenhäuser",
+      "example": "Er ist im Krankenhaus."
+    },
+    {
+      "word": "die Untersuchung",
+      "meaning": "examination",
+      "article": "die",
+      "plural": "die Untersuchungen",
+      "example": "Die Untersuchung dauert nicht lang."
+    },
+    {
+      "word": "untersuchen",
+      "meaning": "to examine",
+      "example": "Der Arzt untersucht den Patienten."
+    },
+    {
+      "word": "das Pflaster",
+      "meaning": "band-aid/plaster",
+      "article": "das",
+      "plural": "die Pflaster",
+      "example": "Hast du ein Pflaster?"
+    },
+    {
+      "word": "die Salbe",
+      "meaning": "ointment/cream",
+      "article": "die",
+      "plural": "die Salben",
+      "example": "Ich brauche eine Salbe."
+    },
+    {
+      "word": "schlafen",
+      "meaning": "to sleep",
+      "example": "Ich muss schlafen."
+    },
+    {
+      "word": "müde",
+      "meaning": "tired",
+      "example": "Ich bin sehr müde."
+    },
+    {
+      "word": "das Bett",
+      "meaning": "bed",
+      "article": "das",
+      "plural": "die Betten",
+      "example": "Bleib im Bett!"
+    },
+    {
+      "word": "die Besserung",
+      "meaning": "improvement/recovery",
+      "article": "die",
+      "plural": "-",
+      "example": "Gute Besserung!"
+    },
+    {
+      "word": "helfen",
+      "meaning": "to help",
+      "example": "Die Tablette hilft schnell."
+    },
+    {
+      "word": "die Verletzung",
+      "meaning": "injury",
+      "article": "die",
+      "plural": "die Verletzungen",
+      "example": "Die Verletzung ist klein."
+    },
+    {
+      "word": "bluten",
+      "meaning": "to bleed",
+      "example": "Mein Finger blutet."
+    },
+    {
+      "word": "atmen",
+      "meaning": "to breathe",
+      "example": "Bitte atmen Sie tief."
+    },
+    {
+      "word": "die Luft",
+      "meaning": "air",
+      "article": "die",
+      "plural": "-",
+      "example": "Ich brauche frische Luft."
+    },
+    {
+      "word": "die Diät",
+      "meaning": "diet",
+      "article": "die",
+      "plural": "die Diäten",
+      "example": "Er macht eine Diät."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Expressing pain with 'wehtun'",
+      "explanation": "To say something hurts, use 'tun ... weh'. E.g. 'Mein Kopf tut weh' (My head hurts). For plural parts: 'Meine Ohren tun weh' (My ears hurt).",
+      "examples": [
+        "Mein Kopf tut weh.",
+        "Der Bauch tut mir weh.",
+        "Tut dein Arm weh?",
+        "Meine Beine tun weh."
+      ]
+    },
+    {
+      "topic": "Expressing pain with 'Schmerzen haben'",
+      "explanation": "Another way to express pain is using 'haben' + Schmerzen. E.g. 'Ich habe Bauchschmerzen' (I have a stomach ache).",
+      "examples": [
+        "Du sollst zum Arzt gehen.",
+        "Sie soll mehr schlafen.",
+        "Er soll Tabletten nehmen.",
+        "Wir sollen viel Wasser trinken."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_8_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: My leg hurts.",
+      "tokens": [
+        "Mein",
+        "Bein",
+        "tut",
+        "weh.",
+        "Bauch"
+      ],
+      "answer": [
+        "Mein",
+        "Bein",
+        "tut",
+        "weh."
+      ]
+    },
+    {
+      "id": "game_8_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I have a headache.",
+      "tokens": [
+        "Ich",
+        "habe",
+        "Kopfschmerzen.",
+        "Husten."
+      ],
+      "answer": [
+        "Ich",
+        "habe",
+        "Kopfschmerzen."
+      ]
+    },
+    {
+      "id": "game_8_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: Get well soon!",
+      "tokens": [
+        "Gute",
+        "Besserung!",
+        "Morgen!"
+      ],
+      "answer": [
+        "Gute",
+        "Besserung!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c8-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'Ich habe Kopfschmerzen' mean?",
+      "options": [
+        "I have a stomachache",
+        "I have a headache",
+        "I have a toothache",
+        "I have back pain"
+      ],
+      "answer": "I have a headache",
+      "topic": "health"
+    },
+    {
+      "id": "c8-quiz-2",
+      "type": "mcq",
+      "prompt": "What is 'der Arzt'?",
+      "options": [
+        "the pharmacist",
+        "the nurse",
+        "the doctor",
+        "the hospital"
+      ],
+      "answer": "the doctor",
+      "topic": "health"
+    },
+    {
+      "id": "c8-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Mein Kopf ___ weh.",
+      "answer": "tut",
+      "topic": "body"
+    },
+    {
+      "id": "c8-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Du ___ zum Arzt gehen.",
+      "answer": "sollst",
+      "topic": "modal_verbs"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c8-fill-1",
+      "type": "fill_blank",
+      "prompt": "Mein Kopf ___ weh.",
+      "answer": "tut",
+      "hint": "hurts",
+      "topic": "body"
+    },
+    {
+      "id": "c8-fill-2",
+      "type": "fill_blank",
+      "prompt": "Du ___ zum Arzt gehen.",
+      "answer": "sollst",
+      "hint": "should",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c8-fill-3",
+      "type": "fill_blank",
+      "prompt": "Ich habe ___. (a cold)",
+      "answer": "Schnupfen",
+      "hint": "a cold",
+      "topic": "health"
+    },
+    {
+      "id": "c8-choice-1",
+      "type": "choice",
+      "prompt": "What is 'der Kopf'?",
+      "options": [
+        "hand",
+        "head",
+        "foot",
+        "back"
+      ],
+      "answer": "head",
+      "topic": "body"
+    },
+    {
+      "id": "c8-choice-2",
+      "type": "choice",
+      "prompt": "What does 'Ich habe Fieber' mean?",
+      "options": [
+        "I have a cold",
+        "I have a headache",
+        "I have a fever",
+        "I have a cough"
+      ],
+      "answer": "I have a fever",
+      "topic": "health"
+    },
+    {
+      "id": "c8-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: You should drink more water.",
+      "tokens": [
+        "Du",
+        "sollst",
+        "mehr",
+        "Wasser",
+        "trinken."
+      ],
+      "answer": [
+        "Du",
+        "sollst",
+        "mehr",
+        "Wasser",
+        "trinken."
+      ],
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c8-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: My stomach hurts.",
+      "tokens": [
+        "Mein",
+        "Bauch",
+        "tut",
+        "weh."
+      ],
+      "answer": [
+        "Mein",
+        "Bauch",
+        "tut",
+        "weh."
+      ],
+      "topic": "body"
+    },
+    {
+      "id": "c8-fill-4",
+      "type": "fill_blank",
+      "prompt": "Ich brauche ein ___. (prescription)",
+      "answer": "Rezept",
+      "hint": "prescription",
+      "topic": "health"
+    }
+  ]
+}

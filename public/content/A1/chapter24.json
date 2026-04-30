@@ -1,0 +1,531 @@
+{
+  "id": "A1_Ch24",
+  "level": "A1",
+  "number": 24,
+  "title": "Alles wiederholen",
+  "subtitle": "Comprehensive Review of A1 Grammar and Vocabulary",
+  "focus": [
+    "Review",
+    "All Tenses",
+    "Mixed Grammar",
+    "Conversation Skills"
+  ],
+  "vocabulary": [
+    {
+      "word": "wiederholen",
+      "meaning": "to repeat/review",
+      "example": "Wir wiederholen alles."
+    },
+    {
+      "word": "die Wiederholung",
+      "meaning": "review/repetition",
+      "article": "die",
+      "plural": "die Wiederholungen",
+      "example": "Wiederholung ist wichtig."
+    },
+    {
+      "word": "die Sprache",
+      "meaning": "language",
+      "article": "die",
+      "plural": "die Sprachen",
+      "example": "Deutsch ist eine schöne Sprache."
+    },
+    {
+      "word": "sprechen",
+      "meaning": "to speak",
+      "example": "Ich spreche Deutsch."
+    },
+    {
+      "word": "die Grammatik",
+      "meaning": "grammar",
+      "article": "die",
+      "example": "Die Grammatik ist schwer."
+    },
+    {
+      "word": "der Wortschatz",
+      "meaning": "vocabulary",
+      "article": "der",
+      "example": "Mein Wortschatz wächst."
+    },
+    {
+      "word": "der Satz",
+      "meaning": "sentence",
+      "article": "der",
+      "plural": "die Sätze",
+      "example": "Bilde einen Satz."
+    },
+    {
+      "word": "das Wort",
+      "meaning": "word",
+      "article": "das",
+      "plural": "die Wörter",
+      "example": "Was bedeutet dieses Wort?"
+    },
+    {
+      "word": "bedeuten",
+      "meaning": "to mean",
+      "example": "Was bedeutet das?"
+    },
+    {
+      "word": "erklären",
+      "meaning": "to explain",
+      "example": "Können Sie das erklären?"
+    },
+    {
+      "word": "verstehen",
+      "meaning": "to understand",
+      "example": "Ich verstehe das nicht."
+    },
+    {
+      "word": "übersetzen",
+      "meaning": "to translate",
+      "example": "Übersetze den Satz."
+    },
+    {
+      "word": "die Aussprache",
+      "meaning": "pronunciation",
+      "article": "die",
+      "example": "Die Aussprache ist wichtig."
+    },
+    {
+      "word": "aussprechen",
+      "meaning": "to pronounce",
+      "example": "Wie spricht man das aus?"
+    },
+    {
+      "word": "buchstabieren",
+      "meaning": "to spell",
+      "example": "Können Sie das buchstabieren?"
+    },
+    {
+      "word": "die Frage",
+      "meaning": "question",
+      "article": "die",
+      "plural": "die Fragen",
+      "example": "Ich habe eine Frage."
+    },
+    {
+      "word": "die Antwort",
+      "meaning": "answer",
+      "article": "die",
+      "plural": "die Antworten",
+      "example": "Die Antwort ist richtig."
+    },
+    {
+      "word": "richtig",
+      "meaning": "correct/right",
+      "example": "Das ist richtig."
+    },
+    {
+      "word": "falsch",
+      "meaning": "wrong/false",
+      "example": "Das ist falsch."
+    },
+    {
+      "word": "leicht",
+      "meaning": "easy",
+      "example": "Die Übung ist leicht."
+    },
+    {
+      "word": "schwer",
+      "meaning": "hard/difficult",
+      "example": "Deutsch ist manchmal schwer."
+    },
+    {
+      "word": "üben",
+      "meaning": "to practice",
+      "example": "Ich muss mehr üben."
+    },
+    {
+      "word": "sich vorstellen",
+      "meaning": "to introduce oneself",
+      "example": "Darf ich mich vorstellen?"
+    },
+    {
+      "word": "erzählen",
+      "meaning": "to tell/narrate",
+      "example": "Erzähl mir von deinem Tag."
+    },
+    {
+      "word": "beschreiben",
+      "meaning": "to describe",
+      "example": "Beschreibe dein Zimmer."
+    },
+    {
+      "word": "vergleichen",
+      "meaning": "to compare",
+      "example": "Vergleiche die zwei Bilder."
+    },
+    {
+      "word": "der Fortschritt",
+      "meaning": "progress",
+      "article": "der",
+      "plural": "die Fortschritte",
+      "example": "Du machst Fortschritte!"
+    },
+    {
+      "word": "das Ergebnis",
+      "meaning": "result",
+      "article": "das",
+      "plural": "die Ergebnisse",
+      "example": "Das Ergebnis ist gut."
+    },
+    {
+      "word": "bestehen",
+      "meaning": "to pass (exam)",
+      "example": "Ich habe die Prüfung bestanden."
+    },
+    {
+      "word": "die Note",
+      "meaning": "grade",
+      "article": "die",
+      "plural": "die Noten",
+      "example": "Meine Note ist gut."
+    },
+    {
+      "word": "der Kurs",
+      "meaning": "course",
+      "article": "der",
+      "plural": "die Kurse",
+      "example": "Der Deutschkurs macht Spaß."
+    },
+    {
+      "word": "der Anfänger",
+      "meaning": "beginner",
+      "article": "der",
+      "plural": "die Anfänger",
+      "example": "Ich bin Anfänger."
+    },
+    {
+      "word": "der Fehler",
+      "meaning": "mistake",
+      "article": "der",
+      "plural": "die Fehler",
+      "example": "Fehler sind normal."
+    },
+    {
+      "word": "korrigieren",
+      "meaning": "to correct",
+      "example": "Korrigiere meine Fehler."
+    },
+    {
+      "word": "sich verbessern",
+      "meaning": "to improve (oneself)",
+      "example": "Ich verbessere mich."
+    },
+    {
+      "word": "das Zertifikat",
+      "meaning": "certificate",
+      "article": "das",
+      "plural": "die Zertifikate",
+      "example": "Ich bekomme ein Zertifikat."
+    },
+    {
+      "word": "die Prüfung",
+      "meaning": "exam",
+      "article": "die",
+      "plural": "die Prüfungen",
+      "example": "Die A1-Prüfung kommt bald."
+    },
+    {
+      "word": "vorbereiten",
+      "meaning": "to prepare",
+      "example": "Ich bereite mich vor."
+    },
+    {
+      "word": "zusammenfassen",
+      "meaning": "to summarize",
+      "example": "Fasse den Text zusammen."
+    },
+    {
+      "word": "das Gespräch",
+      "meaning": "conversation",
+      "article": "das",
+      "plural": "die Gespräche",
+      "example": "Das Gespräch war nett."
+    },
+    {
+      "word": "sich unterhalten",
+      "meaning": "to converse/chat",
+      "example": "Wir unterhalten uns auf Deutsch."
+    },
+    {
+      "word": "die Meinung",
+      "meaning": "opinion",
+      "article": "die",
+      "plural": "die Meinungen",
+      "example": "Was ist deine Meinung?"
+    },
+    {
+      "word": "zustimmen",
+      "meaning": "to agree",
+      "example": "Ich stimme dir zu."
+    },
+    {
+      "word": "ablehnen",
+      "meaning": "to decline/reject",
+      "example": "Ich lehne das ab."
+    },
+    {
+      "word": "vorschlagen",
+      "meaning": "to suggest",
+      "example": "Ich schlage vor, dass wir üben."
+    },
+    {
+      "word": "der Vorschlag",
+      "meaning": "suggestion",
+      "article": "der",
+      "plural": "die Vorschläge",
+      "example": "Das ist ein guter Vorschlag."
+    },
+    {
+      "word": "schaffen",
+      "meaning": "to manage/achieve",
+      "example": "Du schaffst das!"
+    },
+    {
+      "word": "stolz",
+      "meaning": "proud",
+      "example": "Ich bin stolz auf dich."
+    },
+    {
+      "word": "weiter",
+      "meaning": "further/on",
+      "example": "Mach weiter so!"
+    },
+    {
+      "word": "Viel Erfolg!",
+      "meaning": "Good luck!",
+      "example": "Viel Erfolg bei der Prüfung!"
+    },
+    {
+      "word": "Tschüss!",
+      "meaning": "Bye!",
+      "example": "Tschüss, bis bald!"
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Review: Present Tense",
+      "explanation": "Regular verbs: remove -en from the infinitive, add endings: -e, -st, -t, -en, -t, -en. Irregular verbs change their stem vowel in du/er forms (e.g. sprechen→sprichst, lesen→liest).",
+      "examples": [
+        "Ich lerne Deutsch.",
+        "Du sprichst gut.",
+        "Er liest ein Buch.",
+        "Wir machen Übungen."
+      ]
+    },
+    {
+      "topic": "Review: Perfekt (Past Tense)",
+      "explanation": "Haben/sein + Partizip II at the end. Regular: ge- + stem + -t (gemacht). Irregular: ge- + stem + -en (gegessen). Motion/change verbs use sein.",
+      "examples": [
+        "Ich habe Deutsch gelernt.",
+        "Er ist nach Berlin gefahren.",
+        "Wir haben viel geübt.",
+        "Sie hat die Prüfung bestanden."
+      ]
+    },
+    {
+      "topic": "Review: Modal Verbs",
+      "explanation": "können (can), müssen (must), wollen (want), sollen (should), dürfen (may), möchten (would like). The main verb goes at the end in infinitive form.",
+      "examples": [
+        "Ich kann Deutsch sprechen.",
+        "Du musst mehr üben.",
+        "Er will die Prüfung bestehen.",
+        "Wir sollen den Text wiederholen."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c24-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I have learned German.",
+      "tokens": [
+        "Ich",
+        "habe",
+        "Deutsch",
+        "gelernt.",
+        "gesprochen."
+      ],
+      "answer": [
+        "Ich",
+        "habe",
+        "Deutsch",
+        "gelernt."
+      ]
+    },
+    {
+      "id": "c24-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "You are making progress!",
+      "tokens": [
+        "Du",
+        "machst",
+        "Fortschritte!",
+        "Fehler!"
+      ],
+      "answer": [
+        "Du",
+        "machst",
+        "Fortschritte!"
+      ]
+    },
+    {
+      "id": "c24-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "Good luck on the exam!",
+      "tokens": [
+        "Viel",
+        "Erfolg",
+        "bei",
+        "der",
+        "Prüfung!",
+        "Arbeit!"
+      ],
+      "answer": [
+        "Viel",
+        "Erfolg",
+        "bei",
+        "der",
+        "Prüfung!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c24-quiz-1",
+      "type": "mcq",
+      "prompt": "Which tense uses 'haben/sein + Partizip II'?",
+      "options": [
+        "Präsens",
+        "Futur",
+        "Perfekt",
+        "Imperativ"
+      ],
+      "answer": "Perfekt",
+      "topic": "grammar"
+    },
+    {
+      "id": "c24-quiz-2",
+      "type": "mcq",
+      "prompt": "What does 'der Wortschatz' mean?",
+      "options": [
+        "the sentence",
+        "the grammar",
+        "the vocabulary",
+        "the pronunciation"
+      ],
+      "answer": "the vocabulary",
+      "topic": "language"
+    },
+    {
+      "id": "c24-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ die Prüfung bestanden. (have)",
+      "answer": "habe",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c24-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Du ___ Fortschritte! (are making)",
+      "answer": "machst",
+      "topic": "verbs"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c24-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ Deutsch gelernt. (have)",
+      "answer": "habe",
+      "hint": "have",
+      "topic": "perfekt"
+    },
+    {
+      "id": "c24-fill-2",
+      "type": "fill_blank",
+      "prompt": "Was ___ dieses Wort? (means)",
+      "answer": "bedeutet",
+      "hint": "means",
+      "topic": "verbs"
+    },
+    {
+      "id": "c24-fill-3",
+      "type": "fill_blank",
+      "prompt": "Können Sie das ___? (explain)",
+      "answer": "erklären",
+      "hint": "explain",
+      "topic": "verbs"
+    },
+    {
+      "id": "c24-choice-1",
+      "type": "choice",
+      "prompt": "What is 'der Fehler'?",
+      "options": [
+        "the success",
+        "the result",
+        "the mistake",
+        "the grade"
+      ],
+      "answer": "the mistake",
+      "topic": "language"
+    },
+    {
+      "id": "c24-choice-2",
+      "type": "choice",
+      "prompt": "Which modal verb means 'should'?",
+      "options": [
+        "können",
+        "müssen",
+        "sollen",
+        "wollen"
+      ],
+      "answer": "sollen",
+      "topic": "grammar"
+    },
+    {
+      "id": "c24-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: Mistakes are normal.",
+      "tokens": [
+        "Fehler",
+        "sind",
+        "normal."
+      ],
+      "answer": [
+        "Fehler",
+        "sind",
+        "normal."
+      ],
+      "topic": "learning"
+    },
+    {
+      "id": "c24-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: I can speak German.",
+      "tokens": [
+        "Ich",
+        "kann",
+        "Deutsch",
+        "sprechen."
+      ],
+      "answer": [
+        "Ich",
+        "kann",
+        "Deutsch",
+        "sprechen."
+      ],
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c24-fill-4",
+      "type": "fill_blank",
+      "prompt": "Viel ___ bei der Prüfung! (success)",
+      "answer": "Erfolg",
+      "hint": "success/luck",
+      "topic": "greetings"
+    }
+  ]
+}

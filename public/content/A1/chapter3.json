@@ -1,0 +1,582 @@
+{
+  "id": "A1_03",
+  "level": "A1",
+  "number": 3,
+  "title": "Essen und Trinken",
+  "subtitle": "Food, Groceries, and Prices",
+  "focus": [
+    "Naming foods and drinks",
+    "Expressing likes and dislikes (gern / nicht gern)",
+    "Shopping and prices",
+    "Indefinite articles (ein, eine) and negative articles (kein, keine)"
+  ],
+  "tips": [
+    {
+      "title": "Gern essen",
+      "body": "To say you like doing something, use 'gern' after the verb. Example: Ich esse gern Pizza (I like eating pizza)."
+    },
+    {
+      "title": "Kein vs. Nicht",
+      "body": "Use 'kein' to negate nouns with indefinite articles (Ich habe keinen Hunger). Use 'nicht' to negate verbs and adjectives (Das Essen ist nicht gut)."
+    },
+    {
+      "title": "Prices in German",
+      "body": "A price like 2,50 € is spoken as 'zwei Euro fünfzig'."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "das Brot",
+      "meaning": "bread",
+      "article": "das",
+      "plural": "die Brote",
+      "example": "Ich esse gern Brot."
+    },
+    {
+      "word": "der Apfel",
+      "meaning": "apple",
+      "article": "der",
+      "plural": "die Äpfel",
+      "example": "Ein Apfel am Tag ist gesund."
+    },
+    {
+      "word": "die Banane",
+      "meaning": "banana",
+      "article": "die",
+      "plural": "die Bananen",
+      "example": "Die Banane ist gelb."
+    },
+    {
+      "word": "die Tomate",
+      "meaning": "tomato",
+      "article": "die",
+      "plural": "die Tomaten",
+      "example": "Tomaten sind rot."
+    },
+    {
+      "word": "der Käse",
+      "meaning": "cheese",
+      "article": "der",
+      "plural": "die Käse",
+      "example": "Ich esse Käse zum Frühstück."
+    },
+    {
+      "word": "die Wurst",
+      "meaning": "sausage",
+      "article": "die",
+      "plural": "die Würste",
+      "example": "In Deutschland gibt es viel Wurst."
+    },
+    {
+      "word": "das Ei",
+      "meaning": "egg",
+      "article": "das",
+      "plural": "die Eier",
+      "example": "Ich koche zwei Eier."
+    },
+    {
+      "word": "der Reis",
+      "meaning": "rice",
+      "article": "der",
+      "plural": "die Reissorten",
+      "example": "Wir essen Hähnchen mit Reis."
+    },
+    {
+      "word": "das Fleisch",
+      "meaning": "meat",
+      "article": "das",
+      "plural": "die Fleischsorten",
+      "example": "Ich esse kein Fleisch, ich bin Vegetarier."
+    },
+    {
+      "word": "der Fisch",
+      "meaning": "fish",
+      "article": "der",
+      "plural": "die Fische",
+      "example": "Der Fisch schmeckt sehr gut."
+    },
+    {
+      "word": "die Kartoffel",
+      "meaning": "potato",
+      "article": "die",
+      "plural": "die Kartoffeln",
+      "example": "Kartoffeln sind gesund."
+    },
+    {
+      "word": "das Wasser",
+      "meaning": "water",
+      "article": "das",
+      "plural": "die Wasser",
+      "example": "Ein Glas Wasser, bitte."
+    },
+    {
+      "word": "der Kaffee",
+      "meaning": "coffee",
+      "article": "der",
+      "plural": "die Kaffees",
+      "example": "Ich trinke Kaffee am Morgen."
+    },
+    {
+      "word": "der Tee",
+      "meaning": "tea",
+      "article": "der",
+      "plural": "die Tees",
+      "example": "Trinkst du lieber Kaffee oder Tee?"
+    },
+    {
+      "word": "die Milch",
+      "meaning": "milk",
+      "article": "die",
+      "plural": "-",
+      "example": "Kaffee mit Milch, bitte."
+    },
+    {
+      "word": "der Saft",
+      "meaning": "juice",
+      "article": "der",
+      "plural": "die Säfte",
+      "example": "Apfelsaft trinke ich sehr gern."
+    },
+    {
+      "word": "der Supermarkt",
+      "meaning": "supermarket",
+      "article": "der",
+      "plural": "die Supermärkte",
+      "example": "Ich kaufe im Supermarkt ein."
+    },
+    {
+      "word": "der Preis",
+      "meaning": "price",
+      "article": "der",
+      "plural": "die Preise",
+      "example": "Der Preis ist sehr hoch."
+    },
+    {
+      "word": "kosten",
+      "meaning": "to cost",
+      "example": "Was kostet das Brot?"
+    },
+    {
+      "word": "kaufen",
+      "meaning": "to buy",
+      "example": "Ich kaufe Äpfel und Bananen."
+    },
+    {
+      "word": "essen",
+      "meaning": "to eat",
+      "example": "Was isst du gern?"
+    },
+    {
+      "word": "trinken",
+      "meaning": "to drink",
+      "example": "Ich trinke gern Wasser."
+    },
+    {
+      "word": "schmecken",
+      "meaning": "to taste",
+      "example": "Die Pizza schmeckt super!"
+    },
+    {
+      "word": "brauchen",
+      "meaning": "to need",
+      "example": "Wir brauchen noch Milch."
+    },
+    {
+      "word": "gern",
+      "meaning": "gladly / to like doing something",
+      "example": "Ich koche gern."
+    },
+    {
+      "word": "lecker",
+      "meaning": "delicious",
+      "example": "Der Kuchen ist sehr lecker."
+    },
+    {
+      "word": "teuer",
+      "meaning": "expensive",
+      "example": "Das Fleisch ist teuer."
+    },
+    {
+      "word": "billig",
+      "meaning": "cheap",
+      "example": "Die Tomaten sind billig."
+    },
+    {
+      "word": "zwanzig",
+      "meaning": "twenty",
+      "example": "Das kostet zwanzig Euro."
+    },
+    {
+      "word": "dreißig",
+      "meaning": "thirty",
+      "example": "Ich brauche dreißig Gramm Käse."
+    },
+    {
+      "word": "vierzig",
+      "meaning": "forty",
+      "example": "Vierzig Minuten warten."
+    },
+    {
+      "word": "fünfzig",
+      "meaning": "fifty",
+      "example": "Fünfzig Cent, bitte."
+    },
+    {
+      "word": "hundert",
+      "meaning": "one hundred",
+      "example": "Das Buch kostet fast hundert Euro."
+    },
+    {
+      "word": "das Gemüse",
+      "meaning": "vegetables",
+      "article": "das",
+      "plural": "-",
+      "example": "Gemüse ist gesund."
+    },
+    {
+      "word": "das Obst",
+      "meaning": "fruit",
+      "article": "das",
+      "plural": "-",
+      "example": "Ich esse gern Obst."
+    },
+    {
+      "word": "der Salat",
+      "meaning": "salad / lettuce",
+      "article": "der",
+      "plural": "die Salate",
+      "example": "Wir machen einen Salat."
+    },
+    {
+      "word": "die Suppe",
+      "meaning": "soup",
+      "article": "die",
+      "plural": "die Suppen",
+      "example": "Die Suppe ist heiß."
+    },
+    {
+      "word": "die Butter",
+      "meaning": "butter",
+      "article": "die",
+      "plural": "-",
+      "example": "Brot mit Butter."
+    },
+    {
+      "word": "das Öl",
+      "meaning": "oil",
+      "article": "das",
+      "plural": "die Öle",
+      "example": "Salat mit Öl."
+    },
+    {
+      "word": "das Salz",
+      "meaning": "salt",
+      "article": "das",
+      "plural": "die Salze",
+      "example": "Ein bisschen Salz."
+    },
+    {
+      "word": "der Zucker",
+      "meaning": "sugar",
+      "article": "der",
+      "plural": "die Zucker",
+      "example": "Kaffee ohne Zucker."
+    },
+    {
+      "word": "der Kuchen",
+      "meaning": "cake",
+      "article": "der",
+      "plural": "die Kuchen",
+      "example": "Der Kuchen schmeckt lecker."
+    },
+    {
+      "word": "das Brötchen",
+      "meaning": "bread roll",
+      "article": "das",
+      "plural": "die Brötchen",
+      "example": "Zwei Brötchen, bitte."
+    },
+    {
+      "word": "bezahlen",
+      "meaning": "to pay",
+      "example": "Ich möchte bezahlen."
+    },
+    {
+      "word": "das Geld",
+      "meaning": "money",
+      "article": "das",
+      "plural": "die Gelder",
+      "example": "Ich habe kein Geld."
+    },
+    {
+      "word": "die Kasse",
+      "meaning": "cash register / checkout",
+      "article": "die",
+      "plural": "die Kassen",
+      "example": "Bitte zahlen Sie an der Kasse."
+    },
+    {
+      "word": "die Flasche",
+      "meaning": "bottle",
+      "article": "die",
+      "plural": "die Flaschen",
+      "example": "Eine Flasche Wasser."
+    },
+    {
+      "word": "das Glas",
+      "meaning": "glass",
+      "article": "das",
+      "plural": "die Gläser",
+      "example": "Ein Glas Wein."
+    },
+    {
+      "word": "das Hähnchen",
+      "meaning": "chicken",
+      "article": "das",
+      "plural": "die Hähnchen",
+      "example": "Wir essen Hähnchen."
+    },
+    {
+      "word": "das Rindfleisch",
+      "meaning": "beef",
+      "article": "das",
+      "plural": "-",
+      "example": "Rindfleisch ist teuer."
+    },
+    {
+      "word": "das Schweinefleisch",
+      "meaning": "pork",
+      "article": "das",
+      "plural": "-",
+      "example": "Ich esse kein Schweinefleisch."
+    },
+    {
+      "word": "der Knoblauch",
+      "meaning": "garlic",
+      "article": "der",
+      "plural": "-",
+      "example": "Mit Knoblauch, bitte."
+    },
+    {
+      "word": "die Zwiebel",
+      "meaning": "onion",
+      "article": "die",
+      "plural": "die Zwiebeln",
+      "example": "Zwiebeln sind scharf."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Indefinite Articles: ein / eine",
+      "explanation": "Use 'ein' for masculine and neuter nouns (ein Apfel, ein Brot). Use 'eine' for feminine nouns (eine Banane).",
+      "examples": [
+        "Das ist ein Apfel.",
+        "Ich brauche eine Tomate."
+      ]
+    },
+    {
+      "topic": "Negative Articles: kein / keine",
+      "explanation": "To say 'not a' or 'no' with nouns, add a 'k' to the indefinite article. Use 'kein' for masculine/neuter, 'keine' for feminine/plural.",
+      "examples": [
+        "Das ist kein Apfel.",
+        "Ich habe keine Bananen."
+      ]
+    },
+    {
+      "topic": "The verb 'essen' (to eat)",
+      "explanation": "'Essen' is irregular in the du and er/sie/es forms: ich esse, du isst, er/sie/es isst, wir essen, ihr esst, Sie/sie essen.",
+      "examples": [
+        "Ich esse gern Käse.",
+        "Isst du Fleisch?"
+      ]
+    },
+    {
+      "topic": "The verb 'möchten' (would like)",
+      "explanation": "Used for polite requests, especially in restaurants/shops: ich möchte, du möchtest, er/sie möchte, wir möchten, ihr möchtet, Sie/sie möchten.",
+      "examples": [
+        "Ich möchte einen Kaffee, bitte.",
+        "Was möchten Sie trinken?"
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "c3-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ gern Brot.",
+      "answer": "esse",
+      "hint": "to eat (ich form)",
+      "topic": "essen"
+    },
+    {
+      "id": "c3-fill-2",
+      "type": "fill_blank",
+      "prompt": "Was ___ das Brot? - 3 Euro.",
+      "answer": "kostet",
+      "hint": "to cost",
+      "topic": "kosten"
+    },
+    {
+      "id": "c3-fill-3",
+      "type": "fill_blank",
+      "prompt": "Wir haben ___ Brot mehr.",
+      "answer": "kein",
+      "hint": "no (neuter)",
+      "topic": "kein"
+    },
+    {
+      "id": "c3-fill-4",
+      "type": "fill_blank",
+      "prompt": "Ich trinke Kaffee, aber ___ Tee.",
+      "answer": "keinen",
+      "hint": "no (masculine accusative - just try keinen for now)",
+      "topic": "kein"
+    },
+    {
+      "id": "c3-choice-1",
+      "type": "choice",
+      "prompt": "Which word is a drink?",
+      "options": [
+        "der Käse",
+        "der Saft",
+        "das Fleisch",
+        "der Reis"
+      ],
+      "answer": "der Saft",
+      "topic": "vocabulary"
+    },
+    {
+      "id": "c3-choice-2",
+      "type": "choice",
+      "prompt": "Choose the correct form: 'Du ___ gern Fisch.'",
+      "options": [
+        "esse",
+        "esst",
+        "isst",
+        "essen"
+      ],
+      "answer": "isst",
+      "topic": "essen"
+    },
+    {
+      "id": "c3-order-1",
+      "type": "sentence_order",
+      "prompt": "Say you would like a tea.",
+      "tokens": [
+        "einen",
+        "möchte",
+        "Ich",
+        "Tee",
+        "."
+      ],
+      "answer": [
+        "Ich",
+        "möchte",
+        "einen",
+        "Tee",
+        "."
+      ],
+      "topic": "möchten"
+    },
+    {
+      "id": "c3-order-2",
+      "type": "sentence_order",
+      "prompt": "Ask for the price.",
+      "tokens": [
+        "kostet",
+        "Was",
+        "Apfel",
+        "der",
+        "?"
+      ],
+      "answer": [
+        "Was",
+        "kostet",
+        "der",
+        "Apfel",
+        "?"
+      ],
+      "topic": "kosten"
+    }
+  ],
+  "games": [
+    {
+      "id": "c3-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I don't eat meat.",
+      "tokens": [
+        "esse",
+        "Fleisch.",
+        "Ich",
+        "kein"
+      ],
+      "answer": [
+        "Ich",
+        "esse",
+        "kein",
+        "Fleisch."
+      ]
+    },
+    {
+      "id": "c3-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "The coffee is very delicious.",
+      "tokens": [
+        "ist",
+        "Kaffee",
+        "sehr",
+        "Der",
+        "lecker."
+      ],
+      "answer": [
+        "Der",
+        "Kaffee",
+        "ist",
+        "sehr",
+        "lecker."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c3-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'lecker' mean?",
+      "options": [
+        "delicious",
+        "expensive",
+        "cheap",
+        "bad"
+      ],
+      "answer": "delicious",
+      "topic": "vocabulary"
+    },
+    {
+      "id": "c3-quiz-2",
+      "type": "fill_blank",
+      "prompt": "Was isst du ___?",
+      "answer": "gern",
+      "topic": "gern"
+    },
+    {
+      "id": "c3-quiz-3",
+      "type": "mcq",
+      "prompt": "Choose the correct negation: Ich trinke ___ Milch.",
+      "options": [
+        "keine",
+        "kein",
+        "nicht",
+        "nichts"
+      ],
+      "answer": "keine",
+      "topic": "kein"
+    },
+    {
+      "id": "c3-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Wir ___ Wasser.",
+      "answer": "brauchen",
+      "topic": "verbs"
+    }
+  ]
+}

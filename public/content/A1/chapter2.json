@@ -1,0 +1,939 @@
+{
+  "id": "A1_02",
+  "level": "A1",
+  "number": 2,
+  "title": "Menschen und Berufe",
+  "subtitle": "Personal Details and Occupations",
+  "focus": [
+    "über Beruf und Arbeit sprechen",
+    "Alter, Wohnort und Familienstand nennen",
+    "Zahlen bis 100 verwenden",
+    "Negation mit nicht und kein üben",
+    "als, bei und in unterscheiden"
+  ],
+  "tips": [
+    {
+      "title": "als is for the role",
+      "body": "Use als before the job: Ich arbeite als Kellner. Use bei before the company: Ich arbeite bei HotSped."
+    },
+    {
+      "title": "nicht negates the sentence",
+      "body": "For status and verbs, use nicht: Wir sind nicht verheiratet. Ich arbeite nicht."
+    },
+    {
+      "title": "Learn job pairs together",
+      "body": "Many jobs form the feminine with -in: Student/Studentin, Kellner/Kellnerin, Lehrer/Lehrerin."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "das Jahr",
+      "meaning": "year",
+      "article": "das",
+      "plural": "die Jahre",
+      "example": "Ich bin 28 Jahre alt."
+    },
+    {
+      "word": "alt",
+      "meaning": "old",
+      "example": "Wie alt bist du?"
+    },
+    {
+      "word": "verheiratet",
+      "meaning": "married",
+      "example": "Wir sind verheiratet."
+    },
+    {
+      "word": "geschieden",
+      "meaning": "divorced",
+      "example": "Er ist geschieden."
+    },
+    {
+      "word": "der Single",
+      "meaning": "single person",
+      "article": "der",
+      "plural": "die Singles",
+      "example": "Ich bin Single."
+    },
+    {
+      "word": "allein",
+      "meaning": "alone",
+      "example": "Ich lebe allein."
+    },
+    {
+      "word": "zusammenleben",
+      "meaning": "to live together",
+      "example": "Wir leben zusammen."
+    },
+    {
+      "word": "haben",
+      "meaning": "to have",
+      "example": "Wir haben keine Kinder."
+    },
+    {
+      "word": "das Kind",
+      "meaning": "child",
+      "article": "das",
+      "plural": "die Kinder",
+      "example": "Sie haben ein Kind."
+    },
+    {
+      "word": "kein",
+      "meaning": "no / not a",
+      "example": "Ich habe kein Kind."
+    },
+    {
+      "word": "keine Kinder",
+      "meaning": "no children",
+      "example": "Arno und Lydia haben keine Kinder."
+    },
+    {
+      "word": "nicht",
+      "meaning": "not",
+      "example": "Wir sind nicht verheiratet."
+    },
+    {
+      "word": "wohnen",
+      "meaning": "to live / reside",
+      "example": "Wir wohnen in Fulda."
+    },
+    {
+      "word": "leben",
+      "meaning": "to live",
+      "example": "Sie leben in Wien."
+    },
+    {
+      "word": "in",
+      "meaning": "in / inside",
+      "example": "Ich wohne in Berlin."
+    },
+    {
+      "word": "der Wohnort",
+      "meaning": "place of residence",
+      "article": "der",
+      "plural": "die Wohnorte",
+      "example": "Mein Wohnort ist Fulda."
+    },
+    {
+      "word": "die Herkunft",
+      "meaning": "origin",
+      "article": "die",
+      "example": "Meine Herkunft ist Indien."
+    },
+    {
+      "word": "das Alter",
+      "meaning": "age",
+      "article": "das",
+      "example": "Alter: 24 Jahre."
+    },
+    {
+      "word": "der Familienstand",
+      "meaning": "marital status",
+      "article": "der",
+      "example": "Familienstand: verheiratet."
+    },
+    {
+      "word": "das Interview",
+      "meaning": "interview",
+      "article": "das",
+      "plural": "die Interviews",
+      "example": "Das Interview ist kurz."
+    },
+    {
+      "word": "der Partner",
+      "meaning": "partner",
+      "article": "der",
+      "plural": "die Partner",
+      "example": "Das ist mein Partner."
+    },
+    {
+      "word": "die Partnerin",
+      "meaning": "female partner",
+      "article": "die",
+      "plural": "die Partnerinnen",
+      "example": "Das ist meine Partnerin."
+    },
+    {
+      "word": "der Satz",
+      "meaning": "sentence",
+      "article": "der",
+      "plural": "die Sätze",
+      "example": "Der Satz ist richtig."
+    },
+    {
+      "word": "der Punkt",
+      "meaning": "point",
+      "article": "der",
+      "plural": "die Punkte",
+      "example": "Ein richtiger Satz bekommt einen Punkt."
+    },
+    {
+      "word": "die Zahl",
+      "meaning": "number",
+      "article": "die",
+      "plural": "die Zahlen",
+      "example": "Die Zahl ist 62."
+    },
+    {
+      "word": "das Rätsel",
+      "meaning": "puzzle",
+      "article": "das",
+      "plural": "die Rätsel",
+      "example": "Das Rätsel ist leicht."
+    },
+    {
+      "word": "plus",
+      "meaning": "plus / addition",
+      "example": "30 plus 8 ist 38."
+    },
+    {
+      "word": "minus",
+      "meaning": "minus / subtraction",
+      "example": "98 minus 36 ist 62."
+    },
+    {
+      "word": "der Beruf",
+      "meaning": "profession",
+      "article": "der",
+      "plural": "die Berufe",
+      "example": "Was bist du von Beruf?"
+    },
+    {
+      "word": "beruflich",
+      "meaning": "professionally / for work",
+      "example": "Was macht ihr beruflich?"
+    },
+    {
+      "word": "arbeiten",
+      "meaning": "to work",
+      "example": "Ich arbeite bei einer Firma."
+    },
+    {
+      "word": "als",
+      "meaning": "as",
+      "example": "Ich arbeite als Kellner."
+    },
+    {
+      "word": "bei",
+      "meaning": "at / for",
+      "example": "Sie arbeitet bei HotSped."
+    },
+    {
+      "word": "die Firma",
+      "meaning": "company",
+      "article": "die",
+      "plural": "die Firmen",
+      "example": "Die Firma heißt HotSped."
+    },
+    {
+      "word": "der Job",
+      "meaning": "job",
+      "article": "der",
+      "plural": "die Jobs",
+      "example": "Ich habe zwei Jobs."
+    },
+    {
+      "word": "die Stelle",
+      "meaning": "position / job",
+      "article": "die",
+      "plural": "die Stellen",
+      "example": "Ich habe eine Stelle als Friseurin."
+    },
+    {
+      "word": "das Studium",
+      "meaning": "studies / degree program",
+      "article": "das",
+      "example": "Mein Studium ist Medizin."
+    },
+    {
+      "word": "studieren",
+      "meaning": "to study",
+      "example": "Ich studiere Informatik."
+    },
+    {
+      "word": "die Ausbildung",
+      "meaning": "training / apprenticeship",
+      "article": "die",
+      "plural": "die Ausbildungen",
+      "example": "Ich mache eine Ausbildung."
+    },
+    {
+      "word": "das Praktikum",
+      "meaning": "internship",
+      "article": "das",
+      "plural": "die Praktika",
+      "example": "Ich mache ein Praktikum."
+    },
+    {
+      "word": "im Moment",
+      "meaning": "at the moment",
+      "example": "Ich arbeite im Moment nicht."
+    },
+    {
+      "word": "jetzt",
+      "meaning": "now",
+      "example": "Ich wohne jetzt in Augsburg."
+    },
+    {
+      "word": "der Paketzusteller",
+      "meaning": "parcel delivery worker",
+      "article": "der",
+      "plural": "die Paketzusteller",
+      "example": "Arno ist Paketzusteller."
+    },
+    {
+      "word": "die Paketzustellerin",
+      "meaning": "female parcel delivery worker",
+      "article": "die",
+      "plural": "die Paketzustellerinnen",
+      "example": "Sie arbeitet als Paketzustellerin."
+    },
+    {
+      "word": "der Ingenieur",
+      "meaning": "engineer",
+      "article": "der",
+      "plural": "die Ingenieure",
+      "example": "Er ist Ingenieur."
+    },
+    {
+      "word": "die Ingenieurin",
+      "meaning": "female engineer",
+      "article": "die",
+      "plural": "die Ingenieurinnen",
+      "example": "Sie ist Ingenieurin."
+    },
+    {
+      "word": "der Kfz-Mechatroniker",
+      "meaning": "automotive mechatronics technician",
+      "article": "der",
+      "plural": "die Kfz-Mechatroniker",
+      "example": "Er macht eine Ausbildung als Kfz-Mechatroniker."
+    },
+    {
+      "word": "die Kfz-Mechatronikerin",
+      "meaning": "female automotive mechatronics technician",
+      "article": "die",
+      "plural": "die Kfz-Mechatronikerinnen",
+      "example": "Sie macht eine Ausbildung als Kfz-Mechatronikerin."
+    },
+    {
+      "word": "der Student",
+      "meaning": "male university student",
+      "article": "der",
+      "plural": "die Studenten",
+      "example": "Er ist Student."
+    },
+    {
+      "word": "die Studentin",
+      "meaning": "female university student",
+      "article": "die",
+      "plural": "die Studentinnen",
+      "example": "Sie ist Studentin."
+    },
+    {
+      "word": "der Journalist",
+      "meaning": "journalist",
+      "article": "der",
+      "plural": "die Journalisten",
+      "example": "Er arbeitet als Journalist."
+    },
+    {
+      "word": "die Journalistin",
+      "meaning": "female journalist",
+      "article": "die",
+      "plural": "die Journalistinnen",
+      "example": "Sie arbeitet als Journalistin."
+    },
+    {
+      "word": "der Friseur",
+      "meaning": "hairdresser",
+      "article": "der",
+      "plural": "die Friseure",
+      "example": "Er ist Friseur."
+    },
+    {
+      "word": "die Friseurin",
+      "meaning": "female hairdresser",
+      "article": "die",
+      "plural": "die Friseurinnen",
+      "example": "Lydia arbeitet als Friseurin."
+    },
+    {
+      "word": "der Architekt",
+      "meaning": "architect",
+      "article": "der",
+      "plural": "die Architekten",
+      "example": "Hamid ist Architekt."
+    },
+    {
+      "word": "die Architektin",
+      "meaning": "female architect",
+      "article": "die",
+      "plural": "die Architektinnen",
+      "example": "Sie arbeitet als Architektin."
+    },
+    {
+      "word": "der Arzt",
+      "meaning": "doctor",
+      "article": "der",
+      "plural": "die Ärzte",
+      "example": "Er ist Arzt."
+    },
+    {
+      "word": "die Ärztin",
+      "meaning": "female doctor",
+      "article": "die",
+      "plural": "die Ärztinnen",
+      "example": "Sie ist Ärztin."
+    },
+    {
+      "word": "der Lehrer",
+      "meaning": "teacher",
+      "article": "der",
+      "plural": "die Lehrer",
+      "example": "Er ist Lehrer."
+    },
+    {
+      "word": "die Lehrerin",
+      "meaning": "female teacher",
+      "article": "die",
+      "plural": "die Lehrerinnen",
+      "example": "Sie ist Lehrerin."
+    },
+    {
+      "word": "der Verkäufer",
+      "meaning": "salesperson",
+      "article": "der",
+      "plural": "die Verkäufer",
+      "example": "Er arbeitet als Verkäufer."
+    },
+    {
+      "word": "die Verkäuferin",
+      "meaning": "female salesperson",
+      "article": "die",
+      "plural": "die Verkäuferinnen",
+      "example": "Juana ist Verkäuferin."
+    },
+    {
+      "word": "der Kellner",
+      "meaning": "waiter",
+      "article": "der",
+      "plural": "die Kellner",
+      "example": "Er arbeitet als Kellner."
+    },
+    {
+      "word": "die Kellnerin",
+      "meaning": "waitress",
+      "article": "die",
+      "plural": "die Kellnerinnen",
+      "example": "Sie arbeitet als Kellnerin."
+    },
+    {
+      "word": "der Schüler",
+      "meaning": "school student",
+      "article": "der",
+      "plural": "die Schüler",
+      "example": "Er ist Schüler."
+    },
+    {
+      "word": "die Schülerin",
+      "meaning": "female school student",
+      "article": "die",
+      "plural": "die Schülerinnen",
+      "example": "Sie ist Schülerin."
+    },
+    {
+      "word": "der Rentner",
+      "meaning": "retired man",
+      "article": "der",
+      "plural": "die Rentner",
+      "example": "Er ist Rentner."
+    },
+    {
+      "word": "die Rentnerin",
+      "meaning": "retired woman",
+      "article": "die",
+      "plural": "die Rentnerinnen",
+      "example": "Sie ist Rentnerin."
+    },
+    {
+      "word": "die Krankenschwester",
+      "meaning": "nurse",
+      "article": "die",
+      "plural": "die Krankenschwestern",
+      "example": "Ana macht eine Ausbildung als Krankenschwester."
+    },
+    {
+      "word": "das Tier",
+      "meaning": "animal",
+      "article": "das",
+      "plural": "die Tiere",
+      "example": "Ich mag Tiere."
+    },
+    {
+      "word": "der Tierarzt",
+      "meaning": "veterinarian",
+      "article": "der",
+      "plural": "die Tierärzte",
+      "example": "Thomas ist Tierarzt."
+    },
+    {
+      "word": "die Tierärztin",
+      "meaning": "female veterinarian",
+      "article": "die",
+      "plural": "die Tierärztinnen",
+      "example": "Sie ist Tierärztin."
+    },
+    {
+      "word": "der Schauspieler",
+      "meaning": "actor",
+      "article": "der",
+      "plural": "die Schauspieler",
+      "example": "Melanie kennt einen Schauspieler."
+    },
+    {
+      "word": "die Schauspielerin",
+      "meaning": "actress",
+      "article": "die",
+      "plural": "die Schauspielerinnen",
+      "example": "Sie ist Schauspielerin."
+    },
+    {
+      "word": "der Sänger",
+      "meaning": "singer",
+      "article": "der",
+      "plural": "die Sänger",
+      "example": "Lukas ist Sänger."
+    },
+    {
+      "word": "die Sängerin",
+      "meaning": "female singer",
+      "article": "die",
+      "plural": "die Sängerinnen",
+      "example": "Sie ist Sängerin."
+    },
+    {
+      "word": "der Onkel",
+      "meaning": "uncle",
+      "article": "der",
+      "plural": "die Onkel",
+      "example": "Mein Onkel lebt in Berlin."
+    },
+    {
+      "word": "die Tante",
+      "meaning": "aunt",
+      "article": "die",
+      "plural": "die Tanten",
+      "example": "Meine Tante heißt Maria."
+    },
+    {
+      "word": "der Cousin",
+      "meaning": "cousin (male)",
+      "article": "der",
+      "plural": "die Cousins",
+      "example": "Das ist mein Cousin."
+    },
+    {
+      "word": "die Cousine",
+      "meaning": "cousin (female)",
+      "article": "die",
+      "plural": "die Cousinen",
+      "example": "Meine Cousine ist jung."
+    },
+    {
+      "word": "das Baby",
+      "meaning": "baby",
+      "article": "das",
+      "plural": "die Babys",
+      "example": "Das Baby schläft."
+    },
+    {
+      "word": "der Mann",
+      "meaning": "man / husband",
+      "article": "der",
+      "plural": "die Männer",
+      "example": "Das ist mein Mann."
+    },
+    {
+      "word": "die Frau",
+      "meaning": "woman / wife",
+      "article": "die",
+      "plural": "die Frauen",
+      "example": "Meine Frau arbeitet."
+    },
+    {
+      "word": "ledig",
+      "meaning": "single",
+      "example": "Ich bin ledig."
+    },
+    {
+      "word": "die Adresse",
+      "meaning": "address",
+      "article": "die",
+      "plural": "die Adressen",
+      "example": "Wie ist deine Adresse?"
+    },
+    {
+      "word": "die Straße",
+      "meaning": "street",
+      "article": "die",
+      "plural": "die Straßen",
+      "example": "Die Straße ist ruhig."
+    },
+    {
+      "word": "die Hausnummer",
+      "meaning": "house number",
+      "article": "die",
+      "plural": "die Hausnummern",
+      "example": "Meine Hausnummer ist 12."
+    },
+    {
+      "word": "die Stadt",
+      "meaning": "city",
+      "article": "die",
+      "plural": "die Städte",
+      "example": "Hamburg ist eine Stadt."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Konjugation im Präsens",
+      "explanation": "Regular verbs change their endings for ich, du, er/sie, wir, ihr and sie/Sie.",
+      "examples": [
+        "ich wohne",
+        "du arbeitest",
+        "wir leben",
+        "ihr wohnt"
+      ]
+    },
+    {
+      "topic": "sein und haben",
+      "explanation": "The verbs sein and haben are irregular and very common for personal information.",
+      "examples": [
+        "Ich bin Student.",
+        "Ihr seid 28 Jahre alt.",
+        "Wir haben zwei Kinder.",
+        "Sie hat einen Job."
+      ]
+    },
+    {
+      "topic": "Negation mit nicht",
+      "explanation": "Use nicht to negate many verbs, adjectives or whole statements.",
+      "examples": [
+        "Wir sind nicht verheiratet.",
+        "Ich arbeite im Moment nicht.",
+        "Sie wohnen nicht in Berlin."
+      ]
+    },
+    {
+      "topic": "kein / keine",
+      "explanation": "Use kein before singular masculine or neuter nouns and keine before feminine or plural nouns.",
+      "examples": [
+        "Ich habe kein Kind.",
+        "Wir haben keine Kinder.",
+        "Ich habe keinen Partner."
+      ]
+    },
+    {
+      "topic": "als, bei, in",
+      "explanation": "Use als for a role, bei for an employer, and in for a place.",
+      "examples": [
+        "Ich arbeite als Kellner.",
+        "Sie arbeitet bei HotSped.",
+        "Wir wohnen in Fulda."
+      ]
+    },
+    {
+      "topic": "Endung -in",
+      "explanation": "Many profession words use -in for the feminine form.",
+      "examples": [
+        "Student - Studentin",
+        "Kellner - Kellnerin",
+        "Arzt - Ärztin"
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "c2-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ in Fulda.",
+      "answer": "wohne",
+      "hint": "Use the ich form of wohnen.",
+      "topic": "wohnen"
+    },
+    {
+      "id": "c2-fill-2",
+      "type": "fill_blank",
+      "prompt": "Wo ___ ihr?",
+      "answer": "wohnt",
+      "hint": "Use the ihr form of wohnen.",
+      "topic": "wohnen"
+    },
+    {
+      "id": "c2-fill-3",
+      "type": "fill_blank",
+      "prompt": "Wir ___ zusammen.",
+      "answer": "leben",
+      "hint": "Use the wir form of leben.",
+      "topic": "leben"
+    },
+    {
+      "id": "c2-fill-4",
+      "type": "fill_blank",
+      "prompt": "Habt ihr Kinder? Ja, wir ___ drei Kinder.",
+      "answer": "haben",
+      "topic": "haben"
+    },
+    {
+      "id": "c2-fill-5",
+      "type": "fill_blank",
+      "prompt": "Ich arbeite ___ Friseurin.",
+      "answer": "als",
+      "topic": "als"
+    },
+    {
+      "id": "c2-fill-6",
+      "type": "fill_blank",
+      "prompt": "Sie arbeitet ___ HotSped.",
+      "answer": "bei",
+      "topic": "bei"
+    },
+    {
+      "id": "c2-choice-1",
+      "type": "choice",
+      "prompt": "Which sentence means 'I am not married'?",
+      "options": [
+        "Ich bin nicht verheiratet.",
+        "Ich habe nicht verheiratet.",
+        "Ich wohne verheiratet.",
+        "Ich arbeite verheiratet."
+      ],
+      "answer": "Ich bin nicht verheiratet.",
+      "topic": "nicht"
+    },
+    {
+      "id": "c2-choice-2",
+      "type": "choice",
+      "prompt": "Choose the correct plural negation.",
+      "options": [
+        "Wir haben keine Kinder.",
+        "Wir haben kein Kinder.",
+        "Wir sind keine Kinder.",
+        "Wir wohnen keine Kinder."
+      ],
+      "answer": "Wir haben keine Kinder.",
+      "topic": "kein"
+    },
+    {
+      "id": "c2-choice-3",
+      "type": "choice",
+      "prompt": "Choose the correct feminine profession.",
+      "options": [
+        "die Ärztin",
+        "der Ärztin",
+        "die Arzt",
+        "das Ärztin"
+      ],
+      "answer": "die Ärztin",
+      "topic": "-in"
+    },
+    {
+      "id": "c2-choice-4",
+      "type": "choice",
+      "prompt": "What is 98 minus 36?",
+      "options": [
+        "62",
+        "52",
+        "72",
+        "64"
+      ],
+      "answer": "62",
+      "topic": "numbers"
+    },
+    {
+      "id": "c2-order-1",
+      "type": "sentence_order",
+      "prompt": "Build the sentence.",
+      "tokens": [
+        "arbeitet",
+        "Ärztin",
+        "Sie",
+        "als"
+      ],
+      "answer": [
+        "Sie",
+        "arbeitet",
+        "als",
+        "Ärztin"
+      ],
+      "topic": "als"
+    },
+    {
+      "id": "c2-order-2",
+      "type": "sentence_order",
+      "prompt": "Build the question.",
+      "tokens": [
+        "alt",
+        "ihr",
+        "seid",
+        "Wie"
+      ],
+      "answer": [
+        "Wie",
+        "alt",
+        "seid",
+        "ihr"
+      ],
+      "topic": "sein"
+    },
+    {
+      "id": "c2-order-3",
+      "type": "sentence_order",
+      "prompt": "Build the sentence.",
+      "tokens": [
+        "in",
+        "Wir",
+        "Wien",
+        "wohnen"
+      ],
+      "answer": [
+        "Wir",
+        "wohnen",
+        "in",
+        "Wien"
+      ],
+      "topic": "in"
+    },
+    {
+      "id": "c2-order-4",
+      "type": "sentence_order",
+      "prompt": "Build the sentence.",
+      "tokens": [
+        "Kinder",
+        "haben",
+        "keine",
+        "Wir"
+      ],
+      "answer": [
+        "Wir",
+        "haben",
+        "keine",
+        "Kinder"
+      ],
+      "topic": "kein"
+    }
+  ],
+  "games": [
+    {
+      "id": "c2-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "Say your city.",
+      "tokens": [
+        "wohne",
+        "Ich",
+        "Fulda",
+        "in"
+      ],
+      "answer": [
+        "Ich",
+        "wohne",
+        "in",
+        "Fulda"
+      ]
+    },
+    {
+      "id": "c2-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "Say a profession.",
+      "tokens": [
+        "arbeite",
+        "Lehrer",
+        "als",
+        "Ich"
+      ],
+      "answer": [
+        "Ich",
+        "arbeite",
+        "als",
+        "Lehrer"
+      ]
+    },
+    {
+      "id": "c2-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "Say that you have no children.",
+      "tokens": [
+        "habe",
+        "Kinder",
+        "keine",
+        "Ich"
+      ],
+      "answer": [
+        "Ich",
+        "habe",
+        "keine",
+        "Kinder"
+      ]
+    },
+    {
+      "id": "c2-sentence-4",
+      "type": "sentence_builder",
+      "prompt": "Ask about work.",
+      "tokens": [
+        "macht",
+        "Was",
+        "beruflich",
+        "ihr"
+      ],
+      "answer": [
+        "Was",
+        "macht",
+        "ihr",
+        "beruflich"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c2-quiz-1",
+      "type": "mcq",
+      "prompt": "Translate 'sechzehn':",
+      "options": [
+        "16",
+        "60",
+        "6",
+        "17"
+      ],
+      "answer": "16",
+      "topic": "numbers"
+    },
+    {
+      "id": "c2-quiz-2",
+      "type": "fill_blank",
+      "prompt": "Ich ___ 20 Jahre alt.",
+      "answer": "bin",
+      "topic": "sein"
+    },
+    {
+      "id": "c2-quiz-3",
+      "type": "mcq",
+      "prompt": "___ Bruder ist sehr nett.",
+      "options": [
+        "Mein",
+        "Meine",
+        "Mich",
+        "Mir"
+      ],
+      "answer": "Mein",
+      "topic": "possessives"
+    },
+    {
+      "id": "c2-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Wir ___ einen Hund.",
+      "answer": "haben",
+      "topic": "haben"
+    }
+  ]
+}

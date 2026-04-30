@@ -1,0 +1,528 @@
+{
+  "id": "A1_Ch23",
+  "level": "A1",
+  "number": 23,
+  "title": "Gesund leben",
+  "subtitle": "Health, Fitness, Nutrition, and Giving Advice",
+  "focus": [
+    "Healthy Living",
+    "Sports",
+    "Nutrition",
+    "Giving Advice"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Gesundheit",
+      "meaning": "health",
+      "article": "die",
+      "example": "Gesundheit ist wichtig."
+    },
+    {
+      "word": "gesund",
+      "meaning": "healthy",
+      "example": "Obst ist gesund."
+    },
+    {
+      "word": "ungesund",
+      "meaning": "unhealthy",
+      "example": "Fast Food ist ungesund."
+    },
+    {
+      "word": "die Fitness",
+      "meaning": "fitness",
+      "article": "die",
+      "example": "Ich mache viel für meine Fitness."
+    },
+    {
+      "word": "der Sport",
+      "meaning": "sport/exercise",
+      "article": "der",
+      "example": "Sport ist gut für die Gesundheit."
+    },
+    {
+      "word": "trainieren",
+      "meaning": "to train/exercise",
+      "example": "Ich trainiere dreimal pro Woche."
+    },
+    {
+      "word": "das Fitnessstudio",
+      "meaning": "gym",
+      "article": "das",
+      "plural": "die Fitnessstudios",
+      "example": "Ich gehe ins Fitnessstudio."
+    },
+    {
+      "word": "joggen",
+      "meaning": "to jog",
+      "example": "Morgens jogge ich im Park."
+    },
+    {
+      "word": "schwimmen",
+      "meaning": "to swim",
+      "example": "Schwimmen ist gesund."
+    },
+    {
+      "word": "Rad fahren",
+      "meaning": "to cycle",
+      "example": "Ich fahre gern Rad."
+    },
+    {
+      "word": "Yoga",
+      "meaning": "yoga",
+      "example": "Ich mache Yoga."
+    },
+    {
+      "word": "der Muskel",
+      "meaning": "muscle",
+      "article": "der",
+      "plural": "die Muskeln",
+      "example": "Meine Muskeln tun weh."
+    },
+    {
+      "word": "die Übung",
+      "meaning": "exercise",
+      "article": "die",
+      "plural": "die Übungen",
+      "example": "Diese Übung ist schwer."
+    },
+    {
+      "word": "die Ernährung",
+      "meaning": "nutrition/diet",
+      "article": "die",
+      "example": "Eine gute Ernährung ist wichtig."
+    },
+    {
+      "word": "das Obst",
+      "meaning": "fruit",
+      "article": "das",
+      "example": "Iss mehr Obst!"
+    },
+    {
+      "word": "das Gemüse",
+      "meaning": "vegetables",
+      "article": "das",
+      "example": "Gemüse ist gesund."
+    },
+    {
+      "word": "das Vitamin",
+      "meaning": "vitamin",
+      "article": "das",
+      "plural": "die Vitamine",
+      "example": "Orangen haben viel Vitamin C."
+    },
+    {
+      "word": "das Protein",
+      "meaning": "protein",
+      "article": "das",
+      "plural": "die Proteine",
+      "example": "Eier haben viel Protein."
+    },
+    {
+      "word": "die Diät",
+      "meaning": "diet",
+      "article": "die",
+      "plural": "die Diäten",
+      "example": "Ich mache eine Diät."
+    },
+    {
+      "word": "abnehmen",
+      "meaning": "to lose weight",
+      "example": "Er will abnehmen."
+    },
+    {
+      "word": "zunehmen",
+      "meaning": "to gain weight",
+      "example": "Im Winter nehme ich zu."
+    },
+    {
+      "word": "das Gewicht",
+      "meaning": "weight",
+      "article": "das",
+      "example": "Mein Gewicht ist normal."
+    },
+    {
+      "word": "rauchen",
+      "meaning": "to smoke",
+      "example": "Rauchen ist ungesund."
+    },
+    {
+      "word": "aufhören",
+      "meaning": "to stop/quit",
+      "example": "Ich höre mit dem Rauchen auf."
+    },
+    {
+      "word": "der Stress",
+      "meaning": "stress",
+      "article": "der",
+      "example": "Zu viel Stress ist schlecht."
+    },
+    {
+      "word": "sich entspannen",
+      "meaning": "to relax",
+      "example": "Du musst dich entspannen."
+    },
+    {
+      "word": "schlafen",
+      "meaning": "to sleep",
+      "example": "Man soll acht Stunden schlafen."
+    },
+    {
+      "word": "der Schlaf",
+      "meaning": "sleep",
+      "article": "der",
+      "example": "Guter Schlaf ist wichtig."
+    },
+    {
+      "word": "müde",
+      "meaning": "tired",
+      "example": "Ich bin immer müde."
+    },
+    {
+      "word": "fit",
+      "meaning": "fit",
+      "example": "Ich fühle mich fit."
+    },
+    {
+      "word": "stark",
+      "meaning": "strong",
+      "example": "Er ist sehr stark."
+    },
+    {
+      "word": "schwach",
+      "meaning": "weak",
+      "example": "Ich fühle mich schwach."
+    },
+    {
+      "word": "die Bewegung",
+      "meaning": "movement/exercise",
+      "article": "die",
+      "plural": "die Bewegungen",
+      "example": "Bewegung ist wichtig."
+    },
+    {
+      "word": "spazieren gehen",
+      "meaning": "to go for a walk",
+      "example": "Wir gehen spazieren."
+    },
+    {
+      "word": "das Wasser",
+      "meaning": "water",
+      "article": "das",
+      "example": "Trink viel Wasser!"
+    },
+    {
+      "word": "der Zucker",
+      "meaning": "sugar",
+      "article": "der",
+      "example": "Zu viel Zucker ist schlecht."
+    },
+    {
+      "word": "das Fett",
+      "meaning": "fat",
+      "article": "das",
+      "example": "Weniger Fett essen."
+    },
+    {
+      "word": "die Kalorie",
+      "meaning": "calorie",
+      "article": "die",
+      "plural": "die Kalorien",
+      "example": "Wie viele Kalorien hat das?"
+    },
+    {
+      "word": "der Arzt",
+      "meaning": "doctor",
+      "article": "der",
+      "plural": "die Ärzte",
+      "example": "Geh zum Arzt!"
+    },
+    {
+      "word": "die Untersuchung",
+      "meaning": "examination",
+      "article": "die",
+      "plural": "die Untersuchungen",
+      "example": "Ich habe eine Untersuchung."
+    },
+    {
+      "word": "das Rezept",
+      "meaning": "prescription/recipe",
+      "article": "das",
+      "plural": "die Rezepte",
+      "example": "Hier ist das Rezept."
+    },
+    {
+      "word": "die Tablette",
+      "meaning": "pill/tablet",
+      "article": "die",
+      "plural": "die Tabletten",
+      "example": "Nimm die Tabletten."
+    },
+    {
+      "word": "die Apotheke",
+      "meaning": "pharmacy",
+      "article": "die",
+      "plural": "die Apotheken",
+      "example": "Geh zur Apotheke."
+    },
+    {
+      "word": "regelmäßig",
+      "meaning": "regularly",
+      "example": "Ich trainiere regelmäßig."
+    },
+    {
+      "word": "täglich",
+      "meaning": "daily",
+      "example": "Täglich Sport machen."
+    },
+    {
+      "word": "genug",
+      "meaning": "enough",
+      "example": "Ich trinke nicht genug."
+    },
+    {
+      "word": "zu viel",
+      "meaning": "too much",
+      "example": "Ich esse zu viel Zucker."
+    },
+    {
+      "word": "weniger",
+      "meaning": "less",
+      "example": "Iss weniger Fett."
+    },
+    {
+      "word": "mehr",
+      "meaning": "more",
+      "example": "Trink mehr Wasser!"
+    },
+    {
+      "word": "sich fühlen",
+      "meaning": "to feel",
+      "example": "Ich fühle mich gut."
+    },
+    {
+      "word": "der Ratschlag",
+      "meaning": "advice",
+      "article": "der",
+      "plural": "die Ratschläge",
+      "example": "Das ist ein guter Ratschlag."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Giving Advice with 'sollen'",
+      "explanation": "Use 'sollen' to give advice or recommendations. Conjugation: ich soll, du sollst, er/sie/es soll, wir sollen, ihr sollt, sie/Sie sollen. The main verb goes at the end.",
+      "examples": [
+        "Du sollst mehr Wasser trinken.",
+        "Er soll weniger Zucker essen.",
+        "Wir sollen regelmäßig Sport machen.",
+        "Sie sollen früher schlafen."
+      ]
+    },
+    {
+      "topic": "Imperative for Health Advice",
+      "explanation": "Use the imperative to give direct advice. 'du'-form: verb stem (+ e). 'ihr'-form: verb stem + t. 'Sie'-form: verb + Sie.",
+      "examples": [
+        "Trink mehr Wasser! (du)",
+        "Esst mehr Gemüse! (ihr)",
+        "Schlafen Sie acht Stunden! (Sie)",
+        "Hör auf zu rauchen! (du)"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c23-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "You should drink more water.",
+      "tokens": [
+        "Du",
+        "sollst",
+        "mehr",
+        "Wasser",
+        "trinken.",
+        "essen."
+      ],
+      "answer": [
+        "Du",
+        "sollst",
+        "mehr",
+        "Wasser",
+        "trinken."
+      ]
+    },
+    {
+      "id": "c23-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "Sport is good for health.",
+      "tokens": [
+        "Sport",
+        "ist",
+        "gut",
+        "für",
+        "die",
+        "Gesundheit.",
+        "Fitness."
+      ],
+      "answer": [
+        "Sport",
+        "ist",
+        "gut",
+        "für",
+        "die",
+        "Gesundheit."
+      ]
+    },
+    {
+      "id": "c23-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "I feel fit.",
+      "tokens": [
+        "Ich",
+        "fühle",
+        "mich",
+        "fit.",
+        "müde."
+      ],
+      "answer": [
+        "Ich",
+        "fühle",
+        "mich",
+        "fit."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c23-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'die Ernährung' mean?",
+      "options": [
+        "exercise",
+        "nutrition",
+        "sleep",
+        "fitness"
+      ],
+      "answer": "nutrition",
+      "topic": "health"
+    },
+    {
+      "id": "c23-quiz-2",
+      "type": "mcq",
+      "prompt": "What modal verb is used for giving advice?",
+      "options": [
+        "können",
+        "wollen",
+        "sollen",
+        "dürfen"
+      ],
+      "answer": "sollen",
+      "topic": "grammar"
+    },
+    {
+      "id": "c23-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Du ___ mehr Obst essen.",
+      "answer": "sollst",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c23-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Ich ___ mich gut. (feel)",
+      "answer": "fühle",
+      "topic": "reflexive"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c23-fill-1",
+      "type": "fill_blank",
+      "prompt": "Du ___ mehr Wasser trinken.",
+      "answer": "sollst",
+      "hint": "should",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c23-fill-2",
+      "type": "fill_blank",
+      "prompt": "Ich ___ mich fit. (feel)",
+      "answer": "fühle",
+      "hint": "feel",
+      "topic": "reflexive"
+    },
+    {
+      "id": "c23-fill-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ dreimal pro Woche. (train)",
+      "answer": "trainiere",
+      "hint": "train",
+      "topic": "sports"
+    },
+    {
+      "id": "c23-choice-1",
+      "type": "choice",
+      "prompt": "What is 'das Fitnessstudio'?",
+      "options": [
+        "hospital",
+        "gym",
+        "pharmacy",
+        "school"
+      ],
+      "answer": "gym",
+      "topic": "sports"
+    },
+    {
+      "id": "c23-choice-2",
+      "type": "choice",
+      "prompt": "What does 'abnehmen' mean?",
+      "options": [
+        "to gain weight",
+        "to exercise",
+        "to lose weight",
+        "to eat"
+      ],
+      "answer": "to lose weight",
+      "topic": "health"
+    },
+    {
+      "id": "c23-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: Drink more water!",
+      "tokens": [
+        "Trink",
+        "mehr",
+        "Wasser!"
+      ],
+      "answer": [
+        "Trink",
+        "mehr",
+        "Wasser!"
+      ],
+      "topic": "imperative"
+    },
+    {
+      "id": "c23-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: Smoking is unhealthy.",
+      "tokens": [
+        "Rauchen",
+        "ist",
+        "ungesund."
+      ],
+      "answer": [
+        "Rauchen",
+        "ist",
+        "ungesund."
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "c23-fill-4",
+      "type": "fill_blank",
+      "prompt": "Zu viel ___ ist schlecht. (stress)",
+      "answer": "Stress",
+      "hint": "stress",
+      "topic": "health"
+    }
+  ]
+}

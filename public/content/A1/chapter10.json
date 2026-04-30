@@ -1,0 +1,570 @@
+{
+  "id": "A1_Ch10",
+  "level": "A1",
+  "number": 10,
+  "title": "Unterwegs in der Stadt",
+  "subtitle": "City Places, Directions, and Local Transport",
+  "focus": [
+    "City",
+    "Directions",
+    "Transportation",
+    "Places"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Stadt",
+      "meaning": "city",
+      "article": "die",
+      "plural": "die Städte",
+      "example": "Berlin ist eine große Stadt."
+    },
+    {
+      "word": "das Dorf",
+      "meaning": "village",
+      "article": "das",
+      "plural": "die Dörfer",
+      "example": "Ich lebe in einem kleinen Dorf."
+    },
+    {
+      "word": "die Straße",
+      "meaning": "street",
+      "article": "die",
+      "plural": "die Straßen",
+      "example": "Gehen Sie diese Straße geradeaus."
+    },
+    {
+      "word": "der Platz",
+      "meaning": "square/place",
+      "article": "der",
+      "plural": "die Plätze",
+      "example": "Der Alexanderplatz ist berühmt."
+    },
+    {
+      "word": "der Weg",
+      "meaning": "way/path",
+      "article": "der",
+      "plural": "die Wege",
+      "example": "Das ist der richtige Weg."
+    },
+    {
+      "word": "die Brücke",
+      "meaning": "bridge",
+      "article": "die",
+      "plural": "die Brücken",
+      "example": "Wir gehen über die Brücke."
+    },
+    {
+      "word": "die Ampel",
+      "meaning": "traffic light",
+      "article": "die",
+      "plural": "die Ampeln",
+      "example": "Die Ampel ist rot."
+    },
+    {
+      "word": "die Kreuzung",
+      "meaning": "intersection",
+      "article": "die",
+      "plural": "die Kreuzungen",
+      "example": "Biegen Sie an der Kreuzung ab."
+    },
+    {
+      "word": "das Zentrum",
+      "meaning": "center/downtown",
+      "article": "das",
+      "plural": "die Zentren",
+      "example": "Wir fahren ins Zentrum."
+    },
+    {
+      "word": "die Altstadt",
+      "meaning": "old town",
+      "article": "die",
+      "plural": "die Altstädte",
+      "example": "Die Altstadt ist schön."
+    },
+    {
+      "word": "der Bahnhof",
+      "meaning": "train station",
+      "article": "der",
+      "plural": "die Bahnhöfe",
+      "example": "Wo ist der Bahnhof?"
+    },
+    {
+      "word": "die Haltestelle",
+      "meaning": "bus/tram stop",
+      "article": "die",
+      "plural": "die Haltestellen",
+      "example": "Ich warte an der Haltestelle."
+    },
+    {
+      "word": "der Flughafen",
+      "meaning": "airport",
+      "article": "der",
+      "plural": "die Flughäfen",
+      "example": "Wir müssen zum Flughafen."
+    },
+    {
+      "word": "die U-Bahn",
+      "meaning": "subway",
+      "article": "die",
+      "plural": "die U-Bahnen",
+      "example": "Ich nehme die U-Bahn."
+    },
+    {
+      "word": "die S-Bahn",
+      "meaning": "suburban train",
+      "article": "die",
+      "plural": "die S-Bahnen",
+      "example": "Die S-Bahn fährt schnell."
+    },
+    {
+      "word": "der Bus",
+      "meaning": "bus",
+      "article": "der",
+      "plural": "die Busse",
+      "example": "Der Bus kommt gleich."
+    },
+    {
+      "word": "die Straßenbahn",
+      "meaning": "tram",
+      "article": "die",
+      "plural": "die Straßenbahnen",
+      "example": "Ich fahre mit der Straßenbahn."
+    },
+    {
+      "word": "der Zug",
+      "meaning": "train",
+      "article": "der",
+      "plural": "die Züge",
+      "example": "Der Zug hat Verspätung."
+    },
+    {
+      "word": "das Auto",
+      "meaning": "car",
+      "article": "das",
+      "plural": "die Autos",
+      "example": "Wir fahren mit dem Auto."
+    },
+    {
+      "word": "das Fahrrad",
+      "meaning": "bicycle",
+      "article": "das",
+      "plural": "die Fahrräder",
+      "example": "Ich fahre Fahrrad."
+    },
+    {
+      "word": "das Taxi",
+      "meaning": "taxi",
+      "article": "das",
+      "plural": "die Taxis",
+      "example": "Wir nehmen ein Taxi."
+    },
+    {
+      "word": "fahren",
+      "meaning": "to drive/ride",
+      "example": "Ich fahre nach Berlin."
+    },
+    {
+      "word": "gehen",
+      "meaning": "to go/walk",
+      "example": "Wir gehen zu Fuß."
+    },
+    {
+      "word": "fliegen",
+      "meaning": "to fly",
+      "example": "Er fliegt nach New York."
+    },
+    {
+      "word": "zu Fuß",
+      "meaning": "on foot",
+      "example": "Ich gehe zu Fuß zur Arbeit."
+    },
+    {
+      "word": "das Ticket",
+      "meaning": "ticket",
+      "article": "das",
+      "plural": "die Tickets",
+      "example": "Ich brauche ein Ticket für den Bus."
+    },
+    {
+      "word": "die Fahrkarte",
+      "meaning": "ticket (transport)",
+      "article": "die",
+      "plural": "die Fahrkarten",
+      "example": "Wo kann ich eine Fahrkarte kaufen?"
+    },
+    {
+      "word": "der Automat",
+      "meaning": "machine/vending machine",
+      "article": "der",
+      "plural": "die Automaten",
+      "example": "Die Fahrkarte gibt es am Automaten."
+    },
+    {
+      "word": "der Plan",
+      "meaning": "plan/map",
+      "article": "der",
+      "plural": "die Pläne",
+      "example": "Ich brauche einen Stadtplan."
+    },
+    {
+      "word": "die Bank",
+      "meaning": "bank",
+      "article": "die",
+      "plural": "die Banken",
+      "example": "Die Bank öffnet um 9 Uhr."
+    },
+    {
+      "word": "die Post",
+      "meaning": "post office",
+      "article": "die",
+      "plural": "-",
+      "example": "Wo ist die Post?"
+    },
+    {
+      "word": "das Museum",
+      "meaning": "museum",
+      "article": "das",
+      "plural": "die Museen",
+      "example": "Das Museum ist interessant."
+    },
+    {
+      "word": "die Kirche",
+      "meaning": "church",
+      "article": "die",
+      "plural": "die Kirchen",
+      "example": "Die Kirche ist sehr alt."
+    },
+    {
+      "word": "das Krankenhaus",
+      "meaning": "hospital",
+      "article": "das",
+      "plural": "die Krankenhäuser",
+      "example": "Das Krankenhaus ist in der Nähe."
+    },
+    {
+      "word": "die Polizei",
+      "meaning": "police",
+      "article": "die",
+      "plural": "-",
+      "example": "Rufen Sie die Polizei!"
+    },
+    {
+      "word": "das Restaurant",
+      "meaning": "restaurant",
+      "article": "das",
+      "plural": "die Restaurants",
+      "example": "Das Restaurant ist teuer."
+    },
+    {
+      "word": "das Café",
+      "meaning": "cafe",
+      "article": "das",
+      "plural": "die Cafés",
+      "example": "Wir trinken Kaffee im Café."
+    },
+    {
+      "word": "das Hotel",
+      "meaning": "hotel",
+      "article": "das",
+      "plural": "die Hotels",
+      "example": "Unser Hotel ist im Zentrum."
+    },
+    {
+      "word": "das Geschäft",
+      "meaning": "shop",
+      "article": "das",
+      "plural": "die Geschäfte",
+      "example": "Das Geschäft ist geschlossen."
+    },
+    {
+      "word": "die Apotheke",
+      "meaning": "pharmacy",
+      "article": "die",
+      "plural": "die Apotheken",
+      "example": "Ich muss zur Apotheke."
+    },
+    {
+      "word": "die Schule",
+      "meaning": "school",
+      "article": "die",
+      "plural": "die Schulen",
+      "example": "Die Schule beginnt bald."
+    },
+    {
+      "word": "die Universität",
+      "meaning": "university",
+      "article": "die",
+      "plural": "die Universitäten",
+      "example": "Er studiert an der Universität."
+    },
+    {
+      "word": "rechts",
+      "meaning": "right",
+      "example": "Gehen Sie nach rechts."
+    },
+    {
+      "word": "links",
+      "meaning": "left",
+      "example": "Biegen Sie links ab."
+    },
+    {
+      "word": "geradeaus",
+      "meaning": "straight ahead",
+      "example": "Immer geradeaus."
+    },
+    {
+      "word": "vorbei",
+      "meaning": "past",
+      "example": "Gehen Sie an der Kirche vorbei."
+    },
+    {
+      "word": "gegenüber",
+      "meaning": "opposite/across from",
+      "example": "Die Post ist gegenüber."
+    },
+    {
+      "word": "neben",
+      "meaning": "next to",
+      "example": "Die Bank ist neben dem Supermarkt."
+    },
+    {
+      "word": "in der Nähe",
+      "meaning": "nearby",
+      "example": "Ist ein Geldautomat in der Nähe?"
+    },
+    {
+      "word": "weit",
+      "meaning": "far",
+      "example": "Ist es weit von hier?"
+    },
+    {
+      "word": "der Ausflug",
+      "meaning": "excursion/trip",
+      "article": "der",
+      "plural": "die Ausflüge",
+      "example": "Wir machen einen Ausflug."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Giving Directions",
+      "explanation": "To give directions, use imperative forms or modal verbs. Key directional words are 'geradeaus' (straight ahead), 'links' (left), and 'rechts' (right).",
+      "examples": [
+        "Wo ist die Post? – Dort drüben.",
+        "Das Rathaus ist am Marktplatz.",
+        "Die Apotheke ist neben dem Supermarkt.",
+        "Das Kino ist gegenüber vom Bahnhof."
+      ]
+    },
+    {
+      "topic": "Preposition 'mit'",
+      "explanation": "When talking about transportation, use 'mit' + Dative case. E.g. 'mit dem Bus' (by bus), 'mit der Bahn' (by train).",
+      "examples": [
+        "Gehen Sie geradeaus.",
+        "Biegen Sie an der Ampel rechts ab.",
+        "Die Bank ist auf der linken Seite.",
+        "Nehmen Sie die zweite Straße links."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_10_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: Go straight ahead.",
+      "tokens": [
+        "Gehen",
+        "Sie",
+        "geradeaus.",
+        "rechts."
+      ],
+      "answer": [
+        "Gehen",
+        "Sie",
+        "geradeaus."
+      ]
+    },
+    {
+      "id": "game_10_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I am traveling by train.",
+      "tokens": [
+        "Ich",
+        "fahre",
+        "mit",
+        "dem",
+        "Zug.",
+        "Auto."
+      ],
+      "answer": [
+        "Ich",
+        "fahre",
+        "mit",
+        "dem",
+        "Zug."
+      ]
+    },
+    {
+      "id": "game_10_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: Where is the train station?",
+      "tokens": [
+        "Wo",
+        "ist",
+        "der",
+        "Bahnhof?",
+        "Post?"
+      ],
+      "answer": [
+        "Wo",
+        "ist",
+        "der",
+        "Bahnhof?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c10-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'die Apotheke' mean?",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "post office"
+      ],
+      "answer": "pharmacy",
+      "topic": "city"
+    },
+    {
+      "id": "c10-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you say 'Go straight ahead'?",
+      "options": [
+        "Biegen Sie links ab",
+        "Gehen Sie geradeaus",
+        "Gehen Sie zurück",
+        "Nehmen Sie den Bus"
+      ],
+      "answer": "Gehen Sie geradeaus",
+      "topic": "directions"
+    },
+    {
+      "id": "c10-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Die Post ist ___ dem Bahnhof.",
+      "answer": "neben",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c10-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Biegen Sie an der Ampel ___ ab.",
+      "answer": "rechts",
+      "topic": "directions"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c10-fill-1",
+      "type": "fill_blank",
+      "prompt": "Gehen Sie ___. (straight ahead)",
+      "answer": "geradeaus",
+      "hint": "straight",
+      "topic": "directions"
+    },
+    {
+      "id": "c10-fill-2",
+      "type": "fill_blank",
+      "prompt": "Die Post ist ___ dem Bahnhof.",
+      "answer": "neben",
+      "hint": "next to",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c10-fill-3",
+      "type": "fill_blank",
+      "prompt": "Biegen Sie an der Ampel ___ ab.",
+      "answer": "rechts",
+      "hint": "right",
+      "topic": "directions"
+    },
+    {
+      "id": "c10-choice-1",
+      "type": "choice",
+      "prompt": "What is 'die Apotheke'?",
+      "options": [
+        "bakery",
+        "pharmacy",
+        "library",
+        "bank"
+      ],
+      "answer": "pharmacy",
+      "topic": "city"
+    },
+    {
+      "id": "c10-choice-2",
+      "type": "choice",
+      "prompt": "What does 'gegenüber' mean?",
+      "options": [
+        "next to",
+        "behind",
+        "opposite",
+        "between"
+      ],
+      "answer": "opposite",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c10-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: Where is the post office?",
+      "tokens": [
+        "Wo",
+        "ist",
+        "die",
+        "Post?"
+      ],
+      "answer": [
+        "Wo",
+        "ist",
+        "die",
+        "Post?"
+      ],
+      "topic": "city"
+    },
+    {
+      "id": "c10-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: Turn left at the traffic light.",
+      "tokens": [
+        "Biegen",
+        "Sie",
+        "an",
+        "der",
+        "Ampel",
+        "links",
+        "ab."
+      ],
+      "answer": [
+        "Biegen",
+        "Sie",
+        "an",
+        "der",
+        "Ampel",
+        "links",
+        "ab."
+      ],
+      "topic": "directions"
+    },
+    {
+      "id": "c10-fill-4",
+      "type": "fill_blank",
+      "prompt": "Die Bank ist auf der ___ Seite.",
+      "answer": "linken",
+      "hint": "left",
+      "topic": "directions"
+    }
+  ]
+}

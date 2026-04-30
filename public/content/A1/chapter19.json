@@ -1,0 +1,551 @@
+{
+  "id": "A1_Ch19",
+  "level": "A1",
+  "number": 19,
+  "title": "Natur erleben",
+  "subtitle": "Nature, Animals, and Environmental Awareness",
+  "focus": [
+    "Nature",
+    "Environment",
+    "Animals",
+    "Weather Expanded"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Natur",
+      "meaning": "nature",
+      "article": "die",
+      "example": "Die Natur ist wunderschön."
+    },
+    {
+      "word": "die Umwelt",
+      "meaning": "environment",
+      "article": "die",
+      "example": "Wir müssen die Umwelt schützen."
+    },
+    {
+      "word": "der Baum",
+      "meaning": "tree",
+      "article": "der",
+      "plural": "die Bäume",
+      "example": "Der Baum ist sehr alt."
+    },
+    {
+      "word": "die Blume",
+      "meaning": "flower",
+      "article": "die",
+      "plural": "die Blumen",
+      "example": "Die Blumen blühen im Frühling."
+    },
+    {
+      "word": "das Gras",
+      "meaning": "grass",
+      "article": "das",
+      "example": "Das Gras ist grün."
+    },
+    {
+      "word": "der Wald",
+      "meaning": "forest",
+      "article": "der",
+      "plural": "die Wälder",
+      "example": "Wir wandern im Wald."
+    },
+    {
+      "word": "der Berg",
+      "meaning": "mountain",
+      "article": "der",
+      "plural": "die Berge",
+      "example": "Der Berg ist hoch."
+    },
+    {
+      "word": "der See",
+      "meaning": "lake",
+      "article": "der",
+      "plural": "die Seen",
+      "example": "Wir schwimmen im See."
+    },
+    {
+      "word": "das Meer",
+      "meaning": "sea/ocean",
+      "article": "das",
+      "plural": "die Meere",
+      "example": "Das Meer ist blau."
+    },
+    {
+      "word": "der Fluss",
+      "meaning": "river",
+      "article": "der",
+      "plural": "die Flüsse",
+      "example": "Der Rhein ist ein langer Fluss."
+    },
+    {
+      "word": "die Insel",
+      "meaning": "island",
+      "article": "die",
+      "plural": "die Inseln",
+      "example": "Die Insel ist klein."
+    },
+    {
+      "word": "der Strand",
+      "meaning": "beach",
+      "article": "der",
+      "plural": "die Strände",
+      "example": "Wir liegen am Strand."
+    },
+    {
+      "word": "die Wiese",
+      "meaning": "meadow",
+      "article": "die",
+      "plural": "die Wiesen",
+      "example": "Die Kinder spielen auf der Wiese."
+    },
+    {
+      "word": "der Himmel",
+      "meaning": "sky",
+      "article": "der",
+      "example": "Der Himmel ist heute blau."
+    },
+    {
+      "word": "die Sonne",
+      "meaning": "sun",
+      "article": "die",
+      "example": "Die Sonne scheint."
+    },
+    {
+      "word": "der Mond",
+      "meaning": "moon",
+      "article": "der",
+      "plural": "die Monde",
+      "example": "Der Mond ist heute voll."
+    },
+    {
+      "word": "der Stern",
+      "meaning": "star",
+      "article": "der",
+      "plural": "die Sterne",
+      "example": "Die Sterne leuchten."
+    },
+    {
+      "word": "das Tier",
+      "meaning": "animal",
+      "article": "das",
+      "plural": "die Tiere",
+      "example": "Ich mag Tiere."
+    },
+    {
+      "word": "der Hund",
+      "meaning": "dog",
+      "article": "der",
+      "plural": "die Hunde",
+      "example": "Der Hund bellt."
+    },
+    {
+      "word": "die Katze",
+      "meaning": "cat",
+      "article": "die",
+      "plural": "die Katzen",
+      "example": "Die Katze schläft gern."
+    },
+    {
+      "word": "der Vogel",
+      "meaning": "bird",
+      "article": "der",
+      "plural": "die Vögel",
+      "example": "Der Vogel singt."
+    },
+    {
+      "word": "der Fisch",
+      "meaning": "fish",
+      "article": "der",
+      "plural": "die Fische",
+      "example": "Im See gibt es viele Fische."
+    },
+    {
+      "word": "das Pferd",
+      "meaning": "horse",
+      "article": "das",
+      "plural": "die Pferde",
+      "example": "Das Pferd ist schnell."
+    },
+    {
+      "word": "die Kuh",
+      "meaning": "cow",
+      "article": "die",
+      "plural": "die Kühe",
+      "example": "Die Kuh steht auf der Wiese."
+    },
+    {
+      "word": "das Schwein",
+      "meaning": "pig",
+      "article": "das",
+      "plural": "die Schweine",
+      "example": "Das Schwein ist rosa."
+    },
+    {
+      "word": "die Luft",
+      "meaning": "air",
+      "article": "die",
+      "example": "Die Luft ist frisch."
+    },
+    {
+      "word": "das Wasser",
+      "meaning": "water",
+      "article": "das",
+      "example": "Das Wasser ist sauber."
+    },
+    {
+      "word": "die Erde",
+      "meaning": "earth/soil",
+      "article": "die",
+      "example": "Die Erde ist nass."
+    },
+    {
+      "word": "das Feuer",
+      "meaning": "fire",
+      "article": "das",
+      "plural": "die Feuer",
+      "example": "Das Feuer ist heiß."
+    },
+    {
+      "word": "der Müll",
+      "meaning": "trash/garbage",
+      "article": "der",
+      "example": "Bitte den Müll trennen!"
+    },
+    {
+      "word": "recyceln",
+      "meaning": "to recycle",
+      "example": "Wir recyceln Papier und Glas."
+    },
+    {
+      "word": "schützen",
+      "meaning": "to protect",
+      "example": "Wir müssen die Natur schützen."
+    },
+    {
+      "word": "verschmutzen",
+      "meaning": "to pollute",
+      "example": "Autos verschmutzen die Luft."
+    },
+    {
+      "word": "sparen",
+      "meaning": "to save (resources)",
+      "example": "Wir sparen Wasser."
+    },
+    {
+      "word": "die Energie",
+      "meaning": "energy",
+      "article": "die",
+      "example": "Wir brauchen mehr Energie."
+    },
+    {
+      "word": "sauber",
+      "meaning": "clean",
+      "example": "Die Stadt ist sauber."
+    },
+    {
+      "word": "schmutzig",
+      "meaning": "dirty",
+      "example": "Das Wasser ist schmutzig."
+    },
+    {
+      "word": "gefährlich",
+      "meaning": "dangerous",
+      "example": "Das Feuer ist gefährlich."
+    },
+    {
+      "word": "friedlich",
+      "meaning": "peaceful",
+      "example": "Der Wald ist friedlich."
+    },
+    {
+      "word": "wild",
+      "meaning": "wild",
+      "example": "Es gibt wilde Tiere im Wald."
+    },
+    {
+      "word": "der Regen",
+      "meaning": "rain",
+      "article": "der",
+      "example": "Der Regen hört nicht auf."
+    },
+    {
+      "word": "der Schnee",
+      "meaning": "snow",
+      "article": "der",
+      "example": "Im Winter gibt es Schnee."
+    },
+    {
+      "word": "der Wind",
+      "meaning": "wind",
+      "article": "der",
+      "plural": "die Winde",
+      "example": "Der Wind ist stark heute."
+    },
+    {
+      "word": "das Gewitter",
+      "meaning": "thunderstorm",
+      "article": "das",
+      "plural": "die Gewitter",
+      "example": "Es gibt ein Gewitter."
+    },
+    {
+      "word": "der Regenbogen",
+      "meaning": "rainbow",
+      "article": "der",
+      "plural": "die Regenbogen",
+      "example": "Nach dem Regen sehen wir einen Regenbogen."
+    },
+    {
+      "word": "wachsen",
+      "meaning": "to grow",
+      "example": "Die Blumen wachsen schnell."
+    },
+    {
+      "word": "blühen",
+      "meaning": "to bloom",
+      "example": "Die Rosen blühen im Sommer."
+    },
+    {
+      "word": "pflanzen",
+      "meaning": "to plant",
+      "example": "Wir pflanzen einen Baum."
+    },
+    {
+      "word": "der Garten",
+      "meaning": "garden",
+      "article": "der",
+      "plural": "die Gärten",
+      "example": "Der Garten ist groß."
+    },
+    {
+      "word": "die Landschaft",
+      "meaning": "landscape",
+      "article": "die",
+      "plural": "die Landschaften",
+      "example": "Die Landschaft ist wunderschön."
+    },
+    {
+      "word": "wandern",
+      "meaning": "to hike",
+      "example": "Wir wandern in den Bergen."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "The Verb 'müssen' (must/have to)",
+      "explanation": "The modal verb 'müssen' expresses necessity or obligation. Conjugation: ich muss, du musst, er/sie/es muss, wir müssen, ihr müsst, sie/Sie müssen. The main verb goes to the end in infinitive form.",
+      "examples": [
+        "Wir müssen die Umwelt schützen.",
+        "Du musst mehr Wasser trinken.",
+        "Ich muss den Müll trennen.",
+        "Sie müssen pünktlich sein."
+      ]
+    },
+    {
+      "topic": "Compound Nouns",
+      "explanation": "German loves compound nouns! Two or more nouns join to form one word. The last noun determines the article and gender. E.g. der Regen + der Bogen = der Regenbogen.",
+      "examples": [
+        "der Weihnachtsbaum = Weihnachten + Baum",
+        "die Landschaft = das Land + die Schaft",
+        "das Schwimmbad = schwimmen + das Bad",
+        "der Regenbogen = der Regen + der Bogen"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c19-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "We must protect the environment.",
+      "tokens": [
+        "Wir",
+        "müssen",
+        "die",
+        "Umwelt",
+        "schützen.",
+        "verschmutzen."
+      ],
+      "answer": [
+        "Wir",
+        "müssen",
+        "die",
+        "Umwelt",
+        "schützen."
+      ]
+    },
+    {
+      "id": "c19-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "The dog is barking.",
+      "tokens": [
+        "Der",
+        "Hund",
+        "bellt.",
+        "Die",
+        "Katze"
+      ],
+      "answer": [
+        "Der",
+        "Hund",
+        "bellt."
+      ]
+    },
+    {
+      "id": "c19-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "The flowers bloom in spring.",
+      "tokens": [
+        "Die",
+        "Blumen",
+        "blühen",
+        "im",
+        "Frühling.",
+        "Winter."
+      ],
+      "answer": [
+        "Die",
+        "Blumen",
+        "blühen",
+        "im",
+        "Frühling."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c19-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'der Wald' mean?",
+      "options": [
+        "field",
+        "forest",
+        "garden",
+        "park"
+      ],
+      "answer": "forest",
+      "topic": "nature"
+    },
+    {
+      "id": "c19-quiz-2",
+      "type": "mcq",
+      "prompt": "What is 'die Umwelt'?",
+      "options": [
+        "the city",
+        "the world",
+        "the environment",
+        "the universe"
+      ],
+      "answer": "the environment",
+      "topic": "environment"
+    },
+    {
+      "id": "c19-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Wir ___ die Natur schützen.",
+      "answer": "müssen",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c19-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Die Blumen ___ im Frühling. (bloom)",
+      "answer": "blühen",
+      "topic": "verbs"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c19-fill-1",
+      "type": "fill_blank",
+      "prompt": "Wir ___ die Umwelt schützen.",
+      "answer": "müssen",
+      "hint": "must",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c19-fill-2",
+      "type": "fill_blank",
+      "prompt": "Die Blumen ___ im Frühling. (bloom)",
+      "answer": "blühen",
+      "hint": "bloom",
+      "topic": "nature"
+    },
+    {
+      "id": "c19-fill-3",
+      "type": "fill_blank",
+      "prompt": "Bitte den Müll ___! (separate)",
+      "answer": "trennen",
+      "hint": "separate",
+      "topic": "environment"
+    },
+    {
+      "id": "c19-choice-1",
+      "type": "choice",
+      "prompt": "What is 'der Wald'?",
+      "options": [
+        "field",
+        "forest",
+        "garden",
+        "park"
+      ],
+      "answer": "forest",
+      "topic": "nature"
+    },
+    {
+      "id": "c19-choice-2",
+      "type": "choice",
+      "prompt": "What does 'sauber' mean?",
+      "options": [
+        "dirty",
+        "clean",
+        "wet",
+        "dry"
+      ],
+      "answer": "clean",
+      "topic": "adjectives"
+    },
+    {
+      "id": "c19-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: The dog is barking.",
+      "tokens": [
+        "Der",
+        "Hund",
+        "bellt."
+      ],
+      "answer": [
+        "Der",
+        "Hund",
+        "bellt."
+      ],
+      "topic": "animals"
+    },
+    {
+      "id": "c19-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: We plant a tree.",
+      "tokens": [
+        "Wir",
+        "pflanzen",
+        "einen",
+        "Baum."
+      ],
+      "answer": [
+        "Wir",
+        "pflanzen",
+        "einen",
+        "Baum."
+      ],
+      "topic": "nature"
+    },
+    {
+      "id": "c19-fill-4",
+      "type": "fill_blank",
+      "prompt": "Das Wasser ist ___. (dirty)",
+      "answer": "schmutzig",
+      "hint": "dirty",
+      "topic": "environment"
+    }
+  ]
+}

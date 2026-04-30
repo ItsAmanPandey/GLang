@@ -1,0 +1,574 @@
+{
+  "id": "A1_Ch9",
+  "level": "A1",
+  "number": 9,
+  "title": "Zuhause einrichten",
+  "subtitle": "Rooms, Furniture, and Describing Locations",
+  "focus": [
+    "Housing",
+    "Rooms",
+    "Furniture",
+    "Living"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Wohnung",
+      "meaning": "apartment",
+      "article": "die",
+      "plural": "die Wohnungen",
+      "example": "Meine Wohnung ist klein."
+    },
+    {
+      "word": "das Haus",
+      "meaning": "house",
+      "article": "das",
+      "plural": "die Häuser",
+      "example": "Das Haus ist sehr alt."
+    },
+    {
+      "word": "das Zimmer",
+      "meaning": "room",
+      "article": "das",
+      "plural": "die Zimmer",
+      "example": "Das Zimmer ist hell."
+    },
+    {
+      "word": "das Wohnzimmer",
+      "meaning": "living room",
+      "article": "das",
+      "plural": "die Wohnzimmer",
+      "example": "Der Fernseher ist im Wohnzimmer."
+    },
+    {
+      "word": "das Schlafzimmer",
+      "meaning": "bedroom",
+      "article": "das",
+      "plural": "die Schlafzimmer",
+      "example": "Das Bett steht im Schlafzimmer."
+    },
+    {
+      "word": "die Küche",
+      "meaning": "kitchen",
+      "article": "die",
+      "plural": "die Küchen",
+      "example": "Wir kochen in der Küche."
+    },
+    {
+      "word": "das Bad",
+      "meaning": "bathroom",
+      "article": "das",
+      "plural": "die Bäder",
+      "example": "Das Bad ist neu."
+    },
+    {
+      "word": "der Flur",
+      "meaning": "hallway/corridor",
+      "article": "der",
+      "plural": "die Flure",
+      "example": "Die Schuhe stehen im Flur."
+    },
+    {
+      "word": "der Balkon",
+      "meaning": "balcony",
+      "article": "der",
+      "plural": "die Balkone",
+      "example": "Wir sitzen auf dem Balkon."
+    },
+    {
+      "word": "der Garten",
+      "meaning": "garden/yard",
+      "article": "der",
+      "plural": "die Gärten",
+      "example": "Der Garten ist groß."
+    },
+    {
+      "word": "die Tür",
+      "meaning": "door",
+      "article": "die",
+      "plural": "die Türen",
+      "example": "Mach bitte die Tür zu."
+    },
+    {
+      "word": "das Fenster",
+      "meaning": "window",
+      "article": "das",
+      "plural": "die Fenster",
+      "example": "Das Fenster ist offen."
+    },
+    {
+      "word": "die Wand",
+      "meaning": "wall",
+      "article": "die",
+      "plural": "die Wände",
+      "example": "Die Wand ist weiß."
+    },
+    {
+      "word": "der Boden",
+      "meaning": "floor",
+      "article": "der",
+      "plural": "die Böden",
+      "example": "Der Boden ist aus Holz."
+    },
+    {
+      "word": "die Decke",
+      "meaning": "ceiling/blanket",
+      "article": "die",
+      "plural": "die Decken",
+      "example": "Die Lampe hängt an der Decke."
+    },
+    {
+      "word": "die Miete",
+      "meaning": "rent",
+      "article": "die",
+      "plural": "die Mieten",
+      "example": "Die Miete ist hoch."
+    },
+    {
+      "word": "mieten",
+      "meaning": "to rent",
+      "example": "Wir mieten eine Wohnung."
+    },
+    {
+      "word": "der Vermieter",
+      "meaning": "landlord",
+      "article": "der",
+      "plural": "die Vermieter",
+      "example": "Der Vermieter ist nett."
+    },
+    {
+      "word": "der Nachbar",
+      "meaning": "neighbor",
+      "article": "der",
+      "plural": "die Nachbarn",
+      "example": "Mein Nachbar ist freundlich."
+    },
+    {
+      "word": "das Möbel",
+      "meaning": "furniture",
+      "article": "das",
+      "plural": "die Möbel",
+      "example": "Wir kaufen neue Möbel."
+    },
+    {
+      "word": "der Tisch",
+      "meaning": "table",
+      "article": "der",
+      "plural": "die Tische",
+      "example": "Der Tisch ist rund."
+    },
+    {
+      "word": "der Stuhl",
+      "meaning": "chair",
+      "article": "der",
+      "plural": "die Stühle",
+      "example": "Der Stuhl ist bequem."
+    },
+    {
+      "word": "das Bett",
+      "meaning": "bed",
+      "article": "das",
+      "plural": "die Betten",
+      "example": "Das Bett ist groß."
+    },
+    {
+      "word": "der Schrank",
+      "meaning": "wardrobe/cabinet",
+      "article": "der",
+      "plural": "die Schränke",
+      "example": "Die Kleidung ist im Schrank."
+    },
+    {
+      "word": "das Sofa",
+      "meaning": "sofa",
+      "article": "das",
+      "plural": "die Sofas",
+      "example": "Wir sitzen auf dem Sofa."
+    },
+    {
+      "word": "der Sessel",
+      "meaning": "armchair",
+      "article": "der",
+      "plural": "die Sessel",
+      "example": "Mein Opa sitzt im Sessel."
+    },
+    {
+      "word": "das Regal",
+      "meaning": "shelf",
+      "article": "das",
+      "plural": "die Regale",
+      "example": "Die Bücher sind im Regal."
+    },
+    {
+      "word": "die Lampe",
+      "meaning": "lamp",
+      "article": "die",
+      "plural": "die Lampen",
+      "example": "Die Lampe ist hell."
+    },
+    {
+      "word": "der Teppich",
+      "meaning": "carpet/rug",
+      "article": "der",
+      "plural": "die Teppiche",
+      "example": "Der Teppich ist weich."
+    },
+    {
+      "word": "der Fernseher",
+      "meaning": "television",
+      "article": "der",
+      "plural": "die Fernseher",
+      "example": "Der Fernseher ist neu."
+    },
+    {
+      "word": "der Kühlschrank",
+      "meaning": "fridge",
+      "article": "der",
+      "plural": "die Kühlschränke",
+      "example": "Die Milch ist im Kühlschrank."
+    },
+    {
+      "word": "der Herd",
+      "meaning": "stove",
+      "article": "der",
+      "plural": "die Herde",
+      "example": "Der Herd ist heiß."
+    },
+    {
+      "word": "die Waschmaschine",
+      "meaning": "washing machine",
+      "article": "die",
+      "plural": "die Waschmaschinen",
+      "example": "Die Waschmaschine ist kaputt."
+    },
+    {
+      "word": "das Bild",
+      "meaning": "picture",
+      "article": "das",
+      "plural": "die Bilder",
+      "example": "Das Bild hängt an der Wand."
+    },
+    {
+      "word": "stellen",
+      "meaning": "to place (standing)",
+      "example": "Stell die Vase auf den Tisch."
+    },
+    {
+      "word": "legen",
+      "meaning": "to lay/put (flat)",
+      "example": "Leg das Buch auf das Bett."
+    },
+    {
+      "word": "hängen",
+      "meaning": "to hang",
+      "example": "Das Bild hängt dort."
+    },
+    {
+      "word": "stehen",
+      "meaning": "to stand",
+      "example": "Der Schrank steht hier."
+    },
+    {
+      "word": "liegen",
+      "meaning": "to lie (position)",
+      "example": "Der Teppich liegt auf dem Boden."
+    },
+    {
+      "word": "hell",
+      "meaning": "bright/light",
+      "example": "Das Zimmer ist sehr hell."
+    },
+    {
+      "word": "dunkel",
+      "meaning": "dark",
+      "example": "Im Flur ist es dunkel."
+    },
+    {
+      "word": "groß",
+      "meaning": "big/large",
+      "example": "Das Haus ist groß."
+    },
+    {
+      "word": "klein",
+      "meaning": "small",
+      "example": "Meine Wohnung ist klein."
+    },
+    {
+      "word": "gemütlich",
+      "meaning": "cozy/comfortable",
+      "example": "Das Sofa ist sehr gemütlich."
+    },
+    {
+      "word": "schön",
+      "meaning": "beautiful/nice",
+      "example": "Du hast eine schöne Wohnung."
+    },
+    {
+      "word": "hässlich",
+      "meaning": "ugly",
+      "example": "Der Teppich ist hässlich."
+    },
+    {
+      "word": "teuer",
+      "meaning": "expensive",
+      "example": "Die Möbel sind teuer."
+    },
+    {
+      "word": "billig",
+      "meaning": "cheap",
+      "example": "Das Regal war billig."
+    },
+    {
+      "word": "umziehen",
+      "meaning": "to move (house)",
+      "example": "Wir ziehen im Sommer um."
+    },
+    {
+      "word": "der Schlüssel",
+      "meaning": "key",
+      "article": "der",
+      "plural": "die Schlüssel",
+      "example": "Hier ist der Schlüssel zur Wohnung."
+    },
+    {
+      "word": "die Treppe",
+      "meaning": "stairs",
+      "article": "die",
+      "plural": "die Treppen",
+      "example": "Wir müssen die Treppe nehmen."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Prepositions of place",
+      "explanation": "In German, prepositions like 'in' (in), 'auf' (on), and 'unter' (under) answer the question 'Wo?' (Where?). E.g. 'Das Buch liegt auf dem Tisch.' (The book lies on the table).",
+      "examples": [
+        "Das Buch liegt auf dem Tisch.",
+        "Die Lampe steht auf dem Schreibtisch.",
+        "Der Teppich liegt auf dem Boden.",
+        "Das Bild hängt an der Wand."
+      ]
+    },
+    {
+      "topic": "Stehen vs. Liegen",
+      "explanation": "'Stehen' is used for objects that are standing upright (like a cabinet or a fridge). 'Liegen' is used for objects that are lying flat (like a rug or a book on a bed).",
+      "examples": [
+        "Ich lege das Buch auf den Tisch.",
+        "Er stellt die Vase auf den Schrank.",
+        "Sie hängt das Bild an die Wand.",
+        "Wir legen den Teppich auf den Boden."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_9_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: The book lies on the table.",
+      "tokens": [
+        "Das",
+        "Buch",
+        "liegt",
+        "auf",
+        "dem",
+        "Tisch.",
+        "steht"
+      ],
+      "answer": [
+        "Das",
+        "Buch",
+        "liegt",
+        "auf",
+        "dem",
+        "Tisch."
+      ]
+    },
+    {
+      "id": "game_9_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: My apartment is very small.",
+      "tokens": [
+        "Meine",
+        "Wohnung",
+        "ist",
+        "sehr",
+        "klein.",
+        "groß."
+      ],
+      "answer": [
+        "Meine",
+        "Wohnung",
+        "ist",
+        "sehr",
+        "klein."
+      ]
+    },
+    {
+      "id": "game_9_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: The bed is in the bedroom.",
+      "tokens": [
+        "Das",
+        "Bett",
+        "steht",
+        "im",
+        "Schlafzimmer.",
+        "Küche."
+      ],
+      "answer": [
+        "Das",
+        "Bett",
+        "steht",
+        "im",
+        "Schlafzimmer."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c9-quiz-1",
+      "type": "mcq",
+      "prompt": "What is 'das Schlafzimmer'?",
+      "options": [
+        "kitchen",
+        "living room",
+        "bedroom",
+        "bathroom"
+      ],
+      "answer": "bedroom",
+      "topic": "rooms"
+    },
+    {
+      "id": "c9-quiz-2",
+      "type": "mcq",
+      "prompt": "Which verb describes something lying flat?",
+      "options": [
+        "stehen",
+        "liegen",
+        "hängen",
+        "sitzen"
+      ],
+      "answer": "liegen",
+      "topic": "verbs"
+    },
+    {
+      "id": "c9-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Das Bild hängt an der ___.",
+      "answer": "Wand",
+      "topic": "furniture"
+    },
+    {
+      "id": "c9-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Die Lampe ___ auf dem Tisch.",
+      "answer": "steht",
+      "topic": "verbs"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c9-fill-1",
+      "type": "fill_blank",
+      "prompt": "Das Buch liegt auf dem ___.",
+      "answer": "Tisch",
+      "hint": "table",
+      "topic": "furniture"
+    },
+    {
+      "id": "c9-fill-2",
+      "type": "fill_blank",
+      "prompt": "Die Lampe ___ auf dem Schreibtisch.",
+      "answer": "steht",
+      "hint": "stands",
+      "topic": "verbs"
+    },
+    {
+      "id": "c9-fill-3",
+      "type": "fill_blank",
+      "prompt": "Das Bild hängt an der ___.",
+      "answer": "Wand",
+      "hint": "wall",
+      "topic": "rooms"
+    },
+    {
+      "id": "c9-choice-1",
+      "type": "choice",
+      "prompt": "What is 'die Küche'?",
+      "options": [
+        "bedroom",
+        "bathroom",
+        "kitchen",
+        "living room"
+      ],
+      "answer": "kitchen",
+      "topic": "rooms"
+    },
+    {
+      "id": "c9-choice-2",
+      "type": "choice",
+      "prompt": "Which verb means 'to lie flat'?",
+      "options": [
+        "stehen",
+        "liegen",
+        "hängen",
+        "sitzen"
+      ],
+      "answer": "liegen",
+      "topic": "verbs"
+    },
+    {
+      "id": "c9-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: The carpet lies on the floor.",
+      "tokens": [
+        "Der",
+        "Teppich",
+        "liegt",
+        "auf",
+        "dem",
+        "Boden."
+      ],
+      "answer": [
+        "Der",
+        "Teppich",
+        "liegt",
+        "auf",
+        "dem",
+        "Boden."
+      ],
+      "topic": "furniture"
+    },
+    {
+      "id": "c9-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: I put the book on the table.",
+      "tokens": [
+        "Ich",
+        "lege",
+        "das",
+        "Buch",
+        "auf",
+        "den",
+        "Tisch."
+      ],
+      "answer": [
+        "Ich",
+        "lege",
+        "das",
+        "Buch",
+        "auf",
+        "den",
+        "Tisch."
+      ],
+      "topic": "verbs"
+    },
+    {
+      "id": "c9-fill-4",
+      "type": "fill_blank",
+      "prompt": "Der Schrank steht in der ___.",
+      "answer": "Ecke",
+      "hint": "corner",
+      "topic": "furniture"
+    }
+  ]
+}

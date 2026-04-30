@@ -1,0 +1,558 @@
+{
+  "id": "A1_Ch11",
+  "level": "A1",
+  "number": 11,
+  "title": "Arbeit und Alltag",
+  "subtitle": "Professions, Workplace, and Daily Working Life",
+  "focus": [
+    "Professions",
+    "Workplace",
+    "Daily Life",
+    "Expressing Opinions"
+  ],
+  "vocabulary": [
+    {
+      "word": "der Beruf",
+      "meaning": "profession/job",
+      "article": "der",
+      "plural": "die Berufe",
+      "example": "Was ist Ihr Beruf?"
+    },
+    {
+      "word": "die Arbeit",
+      "meaning": "work",
+      "article": "die",
+      "plural": "die Arbeiten",
+      "example": "Ich gehe zur Arbeit."
+    },
+    {
+      "word": "der Arbeitsplatz",
+      "meaning": "workplace",
+      "article": "der",
+      "plural": "die Arbeitsplätze",
+      "example": "Mein Arbeitsplatz ist sauber."
+    },
+    {
+      "word": "der Chef",
+      "meaning": "boss (male)",
+      "article": "der",
+      "plural": "die Chefs",
+      "example": "Der Chef ist heute nicht da."
+    },
+    {
+      "word": "die Chefin",
+      "meaning": "boss (female)",
+      "article": "die",
+      "plural": "die Chefinnen",
+      "example": "Die Chefin ist nett."
+    },
+    {
+      "word": "der Kollege",
+      "meaning": "colleague (male)",
+      "article": "der",
+      "plural": "die Kollegen",
+      "example": "Mein Kollege hilft mir."
+    },
+    {
+      "word": "die Kollegin",
+      "meaning": "colleague (female)",
+      "article": "die",
+      "plural": "die Kolleginnen",
+      "example": "Ich trinke Kaffee mit meiner Kollegin."
+    },
+    {
+      "word": "arbeiten",
+      "meaning": "to work",
+      "example": "Ich arbeite bei Siemens."
+    },
+    {
+      "word": "die Firma",
+      "meaning": "company",
+      "article": "die",
+      "plural": "die Firmen",
+      "example": "Die Firma ist sehr groß."
+    },
+    {
+      "word": "das Büro",
+      "meaning": "office",
+      "article": "das",
+      "plural": "die Büros",
+      "example": "Ich bin im Büro."
+    },
+    {
+      "word": "der Lehrer",
+      "meaning": "teacher (male)",
+      "article": "der",
+      "plural": "die Lehrer",
+      "example": "Er ist Lehrer von Beruf."
+    },
+    {
+      "word": "die Lehrerin",
+      "meaning": "teacher (female)",
+      "article": "die",
+      "plural": "die Lehrerinnen",
+      "example": "Die Lehrerin erklärt das gut."
+    },
+    {
+      "word": "der Arzt",
+      "meaning": "doctor (male)",
+      "article": "der",
+      "plural": "die Ärzte",
+      "example": "Der Arzt untersucht den Patienten."
+    },
+    {
+      "word": "die Ärztin",
+      "meaning": "doctor (female)",
+      "article": "die",
+      "plural": "die Ärztinnen",
+      "example": "Sie ist Ärztin."
+    },
+    {
+      "word": "der Ingenieur",
+      "meaning": "engineer",
+      "article": "der",
+      "plural": "die Ingenieure",
+      "example": "Mein Bruder ist Ingenieur."
+    },
+    {
+      "word": "der Verkäufer",
+      "meaning": "salesman",
+      "article": "der",
+      "plural": "die Verkäufer",
+      "example": "Der Verkäufer berät mich."
+    },
+    {
+      "word": "die Verkäuferin",
+      "meaning": "saleswoman",
+      "article": "die",
+      "plural": "die Verkäuferinnen",
+      "example": "Sie arbeitet als Verkäuferin."
+    },
+    {
+      "word": "der Kellner",
+      "meaning": "waiter",
+      "article": "der",
+      "plural": "die Kellner",
+      "example": "Der Kellner bringt das Essen."
+    },
+    {
+      "word": "die Kellnerin",
+      "meaning": "waitress",
+      "article": "die",
+      "plural": "die Kellnerinnen",
+      "example": "Die Kellnerin ist freundlich."
+    },
+    {
+      "word": "der Polizist",
+      "meaning": "police officer",
+      "article": "der",
+      "plural": "die Polizisten",
+      "example": "Der Polizist hilft uns."
+    },
+    {
+      "word": "der Student",
+      "meaning": "student (male)",
+      "article": "der",
+      "plural": "die Studenten",
+      "example": "Er ist Student an der Uni."
+    },
+    {
+      "word": "die Studentin",
+      "meaning": "student (female)",
+      "article": "die",
+      "plural": "die Studentinnen",
+      "example": "Die Studentin lernt viel."
+    },
+    {
+      "word": "der Schüler",
+      "meaning": "pupil/student (school)",
+      "article": "der",
+      "plural": "die Schüler",
+      "example": "Der Schüler macht Hausaufgaben."
+    },
+    {
+      "word": "die Schülerin",
+      "meaning": "pupil/student (female)",
+      "article": "die",
+      "plural": "die Schülerinnen",
+      "example": "Die Schülerin liest ein Buch."
+    },
+    {
+      "word": "studieren",
+      "meaning": "to study (university)",
+      "example": "Ich studiere Medizin."
+    },
+    {
+      "word": "lernen",
+      "meaning": "to learn/study (school/skills)",
+      "example": "Ich lerne Deutsch."
+    },
+    {
+      "word": "die Universität",
+      "meaning": "university",
+      "article": "die",
+      "plural": "die Universitäten",
+      "example": "Die Universität ist alt."
+    },
+    {
+      "word": "die Schule",
+      "meaning": "school",
+      "article": "die",
+      "plural": "die Schulen",
+      "example": "Die Schule beginnt um acht."
+    },
+    {
+      "word": "die Pause",
+      "meaning": "break",
+      "article": "die",
+      "plural": "die Pausen",
+      "example": "Wir machen eine Pause."
+    },
+    {
+      "word": "der Feierabend",
+      "meaning": "end of the workday",
+      "article": "der",
+      "plural": "die Feierabende",
+      "example": "Endlich Feierabend!"
+    },
+    {
+      "word": "verdienen",
+      "meaning": "to earn",
+      "example": "Er verdient viel Geld."
+    },
+    {
+      "word": "das Geld",
+      "meaning": "money",
+      "article": "das",
+      "plural": "die Gelder",
+      "example": "Ich habe kein Geld."
+    },
+    {
+      "word": "arbeitslos",
+      "meaning": "unemployed",
+      "example": "Er ist momentan arbeitslos."
+    },
+    {
+      "word": "selbstständig",
+      "meaning": "self-employed",
+      "example": "Sie ist selbstständig."
+    },
+    {
+      "word": "die Stelle",
+      "meaning": "job/position",
+      "article": "die",
+      "plural": "die Stellen",
+      "example": "Ich suche eine neue Stelle."
+    },
+    {
+      "word": "das Praktikum",
+      "meaning": "internship",
+      "article": "das",
+      "plural": "die Praktika",
+      "example": "Ich mache ein Praktikum."
+    },
+    {
+      "word": "der Termin",
+      "meaning": "appointment",
+      "article": "der",
+      "plural": "die Termine",
+      "example": "Ich habe einen Termin um 10."
+    },
+    {
+      "word": "die Besprechung",
+      "meaning": "meeting",
+      "article": "die",
+      "plural": "die Besprechungen",
+      "example": "Wir haben eine Besprechung."
+    },
+    {
+      "word": "der Computer",
+      "meaning": "computer",
+      "article": "der",
+      "plural": "die Computer",
+      "example": "Mein Computer ist kaputt."
+    },
+    {
+      "word": "die E-Mail",
+      "meaning": "email",
+      "article": "die",
+      "plural": "die E-Mails",
+      "example": "Ich schreibe eine E-Mail."
+    },
+    {
+      "word": "telefonieren",
+      "meaning": "to make a phone call",
+      "example": "Er telefoniert oft."
+    },
+    {
+      "word": "das Telefon",
+      "meaning": "telephone",
+      "article": "das",
+      "plural": "die Telefone",
+      "example": "Das Telefon klingelt."
+    },
+    {
+      "word": "wichtig",
+      "meaning": "important",
+      "example": "Das ist sehr wichtig."
+    },
+    {
+      "word": "stressig",
+      "meaning": "stressful",
+      "example": "Mein Beruf ist stressig."
+    },
+    {
+      "word": "interessant",
+      "meaning": "interesting",
+      "example": "Die Arbeit ist interessant."
+    },
+    {
+      "word": "langweilig",
+      "meaning": "boring",
+      "example": "Die Besprechung ist langweilig."
+    },
+    {
+      "word": "glauben",
+      "meaning": "to believe/think",
+      "example": "Ich glaube, das ist richtig."
+    },
+    {
+      "word": "finden",
+      "meaning": "to find/think",
+      "example": "Ich finde die Arbeit toll."
+    },
+    {
+      "word": "das Gehalt",
+      "meaning": "salary",
+      "article": "das",
+      "plural": "die Gehälter",
+      "example": "Das Gehalt ist gut."
+    },
+    {
+      "word": "der Urlaub",
+      "meaning": "vacation/leave",
+      "article": "der",
+      "plural": "die Urlaube",
+      "example": "Ich nehme Urlaub."
+    },
+    {
+      "word": "krank",
+      "meaning": "sick",
+      "example": "Heute bin ich krank."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Expressing Professions",
+      "explanation": "To state your profession in German, you say 'Ich bin [Beruf] von Beruf' or simply 'Ich bin [Beruf]'. You do NOT use the article 'ein/eine' here! E.g. 'Ich bin Lehrer', NOT 'Ich bin ein Lehrer'.",
+      "examples": [
+        "Ich bin Lehrer.",
+        "Sie ist Ärztin.",
+        "Er ist Ingenieur von Beruf.",
+        "Bist du Student?"
+      ]
+    },
+    {
+      "topic": "Masculine vs Feminine Professions",
+      "explanation": "Professions almost always have a male and female form. The female form usually ends in '-in' and takes the plural '-innen'. E.g. 'der Lehrer' -> 'die Lehrerin'.",
+      "examples": [
+        "der Lehrer – die Lehrerin",
+        "der Arzt – die Ärztin",
+        "der Verkäufer – die Verkäuferin",
+        "der Kellner – die Kellnerin"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_11_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: She is a doctor.",
+      "tokens": [
+        "Sie",
+        "ist",
+        "Ärztin.",
+        "eine"
+      ],
+      "answer": [
+        "Sie",
+        "ist",
+        "Ärztin."
+      ]
+    },
+    {
+      "id": "game_11_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: My boss is not here.",
+      "tokens": [
+        "Mein",
+        "Chef",
+        "ist",
+        "nicht",
+        "da.",
+        "hier."
+      ],
+      "answer": [
+        "Mein",
+        "Chef",
+        "ist",
+        "nicht",
+        "da."
+      ]
+    },
+    {
+      "id": "game_11_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: The work is interesting.",
+      "tokens": [
+        "Die",
+        "Arbeit",
+        "ist",
+        "interessant.",
+        "Beruf"
+      ],
+      "answer": [
+        "Die",
+        "Arbeit",
+        "ist",
+        "interessant."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c11-quiz-1",
+      "type": "mcq",
+      "prompt": "How do you say 'She is a doctor'?",
+      "options": [
+        "Sie ist eine Ärztin",
+        "Sie ist Ärztin",
+        "Sie hat Ärztin",
+        "Sie wird Ärztin"
+      ],
+      "answer": "Sie ist Ärztin",
+      "topic": "professions"
+    },
+    {
+      "id": "c11-quiz-2",
+      "type": "mcq",
+      "prompt": "What is 'das Büro'?",
+      "options": [
+        "the factory",
+        "the office",
+        "the school",
+        "the shop"
+      ],
+      "answer": "the office",
+      "topic": "workplace"
+    },
+    {
+      "id": "c11-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Die Arbeit ist sehr ___. (stressful)",
+      "answer": "stressig",
+      "topic": "adjectives"
+    },
+    {
+      "id": "c11-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Er ___ viel Geld. (earns)",
+      "answer": "verdient",
+      "topic": "verbs"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c11-fill-1",
+      "type": "fill_blank",
+      "prompt": "Sie ist ___ von Beruf. (doctor f.)",
+      "answer": "Ärztin",
+      "hint": "female doctor",
+      "topic": "professions"
+    },
+    {
+      "id": "c11-fill-2",
+      "type": "fill_blank",
+      "prompt": "Er ___ viel Geld. (earns)",
+      "answer": "verdient",
+      "hint": "earns",
+      "topic": "verbs"
+    },
+    {
+      "id": "c11-fill-3",
+      "type": "fill_blank",
+      "prompt": "Die Arbeit ist sehr ___. (stressful)",
+      "answer": "stressig",
+      "hint": "stressful",
+      "topic": "adjectives"
+    },
+    {
+      "id": "c11-choice-1",
+      "type": "choice",
+      "prompt": "What is 'das Büro'?",
+      "options": [
+        "factory",
+        "office",
+        "school",
+        "shop"
+      ],
+      "answer": "office",
+      "topic": "workplace"
+    },
+    {
+      "id": "c11-choice-2",
+      "type": "choice",
+      "prompt": "What is the female form of 'der Lehrer'?",
+      "options": [
+        "die Lehrerin",
+        "die Lehrerfrau",
+        "die Lehre",
+        "die Lehrern"
+      ],
+      "answer": "die Lehrerin",
+      "topic": "professions"
+    },
+    {
+      "id": "c11-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: I am a teacher.",
+      "tokens": [
+        "Ich",
+        "bin",
+        "Lehrer."
+      ],
+      "answer": [
+        "Ich",
+        "bin",
+        "Lehrer."
+      ],
+      "topic": "professions"
+    },
+    {
+      "id": "c11-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: The work is interesting.",
+      "tokens": [
+        "Die",
+        "Arbeit",
+        "ist",
+        "interessant."
+      ],
+      "answer": [
+        "Die",
+        "Arbeit",
+        "ist",
+        "interessant."
+      ],
+      "topic": "workplace"
+    },
+    {
+      "id": "c11-fill-4",
+      "type": "fill_blank",
+      "prompt": "Ich mache ein ___. (internship)",
+      "answer": "Praktikum",
+      "hint": "internship",
+      "topic": "work"
+    }
+  ]
+}

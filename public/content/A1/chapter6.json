@@ -1,0 +1,555 @@
+{
+  "id": "A1_Ch6",
+  "level": "A1",
+  "number": 6,
+  "title": "Sonne, Regen und Reisen",
+  "subtitle": "Weather Expressions and Travel Vocabulary",
+  "focus": [
+    "Weather",
+    "Seasons",
+    "Travel",
+    "Compass Directions"
+  ],
+  "vocabulary": [
+    {
+      "word": "das Wetter",
+      "meaning": "weather",
+      "article": "das",
+      "plural": "-",
+      "example": "Das Wetter ist heute schön."
+    },
+    {
+      "word": "die Sonne",
+      "meaning": "sun",
+      "article": "die",
+      "plural": "die Sonnen",
+      "example": "Die Sonne scheint."
+    },
+    {
+      "word": "der Regen",
+      "meaning": "rain",
+      "article": "der",
+      "plural": "die Regen",
+      "example": "Ich mag keinen Regen."
+    },
+    {
+      "word": "der Schnee",
+      "meaning": "snow",
+      "article": "der",
+      "plural": "-",
+      "example": "Im Winter gibt es Schnee."
+    },
+    {
+      "word": "der Wind",
+      "meaning": "wind",
+      "article": "der",
+      "plural": "die Winde",
+      "example": "Der Wind ist stark."
+    },
+    {
+      "word": "die Wolke",
+      "meaning": "cloud",
+      "article": "die",
+      "plural": "die Wolken",
+      "example": "Es gibt viele Wolken."
+    },
+    {
+      "word": "warm",
+      "meaning": "warm",
+      "example": "Es ist warm heute."
+    },
+    {
+      "word": "kalt",
+      "meaning": "cold",
+      "example": "Es ist sehr kalt."
+    },
+    {
+      "word": "heiß",
+      "meaning": "hot",
+      "example": "Im Sommer ist es heiß."
+    },
+    {
+      "word": "kühl",
+      "meaning": "cool",
+      "example": "Der Abend ist kühl."
+    },
+    {
+      "word": "regnen",
+      "meaning": "to rain",
+      "example": "Es regnet."
+    },
+    {
+      "word": "schneien",
+      "meaning": "to snow",
+      "example": "Es schneit in den Bergen."
+    },
+    {
+      "word": "scheinen",
+      "meaning": "to shine",
+      "example": "Die Sonne scheint."
+    },
+    {
+      "word": "bewölkt",
+      "meaning": "cloudy",
+      "example": "Der Himmel ist bewölkt."
+    },
+    {
+      "word": "windig",
+      "meaning": "windy",
+      "example": "Es ist windig."
+    },
+    {
+      "word": "sonnig",
+      "meaning": "sunny",
+      "example": "Morgen wird es sonnig."
+    },
+    {
+      "word": "der Frühling",
+      "meaning": "spring",
+      "article": "der",
+      "plural": "die Frühlinge",
+      "example": "Der Frühling ist schön."
+    },
+    {
+      "word": "der Sommer",
+      "meaning": "summer",
+      "article": "der",
+      "plural": "die Sommer",
+      "example": "Im Sommer reisen wir."
+    },
+    {
+      "word": "der Herbst",
+      "meaning": "autumn/fall",
+      "article": "der",
+      "plural": "die Herbste",
+      "example": "Der Herbst ist bunt."
+    },
+    {
+      "word": "der Winter",
+      "meaning": "winter",
+      "article": "der",
+      "plural": "die Winter",
+      "example": "Der Winter ist kalt."
+    },
+    {
+      "word": "die Reise",
+      "meaning": "trip/journey",
+      "article": "die",
+      "plural": "die Reisen",
+      "example": "Die Reise war lang."
+    },
+    {
+      "word": "reisen",
+      "meaning": "to travel",
+      "example": "Ich reise gern."
+    },
+    {
+      "word": "der Urlaub",
+      "meaning": "vacation",
+      "article": "der",
+      "plural": "die Urlaube",
+      "example": "Wir machen Urlaub in Italien."
+    },
+    {
+      "word": "das Meer",
+      "meaning": "sea/ocean",
+      "article": "das",
+      "plural": "die Meere",
+      "example": "Wir fahren ans Meer."
+    },
+    {
+      "word": "der Strand",
+      "meaning": "beach",
+      "article": "der",
+      "plural": "die Strände",
+      "example": "Der Strand ist voll."
+    },
+    {
+      "word": "der Berg",
+      "meaning": "mountain",
+      "article": "der",
+      "plural": "die Berge",
+      "example": "Wir wandern in den Bergen."
+    },
+    {
+      "word": "die Insel",
+      "meaning": "island",
+      "article": "die",
+      "plural": "die Inseln",
+      "example": "Die Insel ist wunderschön."
+    },
+    {
+      "word": "der See",
+      "meaning": "lake",
+      "article": "der",
+      "plural": "die Seen",
+      "example": "Der See ist groß."
+    },
+    {
+      "word": "der Norden",
+      "meaning": "north",
+      "article": "der",
+      "plural": "-",
+      "example": "Hamburg liegt im Norden."
+    },
+    {
+      "word": "der Süden",
+      "meaning": "south",
+      "article": "der",
+      "plural": "-",
+      "example": "München liegt im Süden."
+    },
+    {
+      "word": "der Osten",
+      "meaning": "east",
+      "article": "der",
+      "plural": "-",
+      "example": "Berlin liegt im Osten."
+    },
+    {
+      "word": "der Westen",
+      "meaning": "west",
+      "article": "der",
+      "plural": "-",
+      "example": "Köln liegt im Westen."
+    },
+    {
+      "word": "das Ausland",
+      "meaning": "abroad/foreign country",
+      "article": "das",
+      "plural": "-",
+      "example": "Fährst du ins Ausland?"
+    },
+    {
+      "word": "packen",
+      "meaning": "to pack",
+      "example": "Ich muss meinen Koffer packen."
+    },
+    {
+      "word": "der Koffer",
+      "meaning": "suitcase",
+      "article": "der",
+      "plural": "die Koffer",
+      "example": "Mein Koffer ist schwer."
+    },
+    {
+      "word": "die Tasche",
+      "meaning": "bag",
+      "article": "die",
+      "plural": "die Taschen",
+      "example": "Hast du deine Tasche?"
+    },
+    {
+      "word": "fliegen",
+      "meaning": "to fly",
+      "example": "Wir fliegen nach Spanien."
+    },
+    {
+      "word": "das Flugzeug",
+      "meaning": "airplane",
+      "article": "das",
+      "plural": "die Flugzeuge",
+      "example": "Das Flugzeug ist schnell."
+    },
+    {
+      "word": "der Flughafen",
+      "meaning": "airport",
+      "article": "der",
+      "plural": "die Flughäfen",
+      "example": "Wir fahren zum Flughafen."
+    },
+    {
+      "word": "das Ticket",
+      "meaning": "ticket",
+      "article": "das",
+      "plural": "die Tickets",
+      "example": "Hast du das Ticket?"
+    },
+    {
+      "word": "das Hotel",
+      "meaning": "hotel",
+      "article": "das",
+      "plural": "die Hotels",
+      "example": "Das Hotel ist teuer."
+    },
+    {
+      "word": "übernachten",
+      "meaning": "to stay overnight",
+      "example": "Wir übernachten in einem Hotel."
+    },
+    {
+      "word": "die Rezeption",
+      "meaning": "reception",
+      "article": "die",
+      "plural": "die Rezeptionen",
+      "example": "Der Schlüssel ist an der Rezeption."
+    },
+    {
+      "word": "buchen",
+      "meaning": "to book",
+      "example": "Ich habe ein Zimmer gebucht."
+    },
+    {
+      "word": "frei",
+      "meaning": "free/available",
+      "example": "Haben Sie noch ein Zimmer frei?"
+    },
+    {
+      "word": "das Zimmer",
+      "meaning": "room",
+      "article": "das",
+      "plural": "die Zimmer",
+      "example": "Das Zimmer ist sauber."
+    },
+    {
+      "word": "der Pass",
+      "meaning": "passport",
+      "article": "der",
+      "plural": "die Pässe",
+      "example": "Ich brauche meinen Pass."
+    },
+    {
+      "word": "der Ausweis",
+      "meaning": "ID card",
+      "article": "der",
+      "plural": "die Ausweise",
+      "example": "Bitte zeigen Sie Ihren Ausweis."
+    },
+    {
+      "word": "die Kamera",
+      "meaning": "camera",
+      "article": "die",
+      "plural": "die Kameras",
+      "example": "Ich habe meine Kamera vergessen."
+    },
+    {
+      "word": "die Karte",
+      "meaning": "map/card",
+      "article": "die",
+      "plural": "die Karten",
+      "example": "Ich brauche eine Karte."
+    },
+    {
+      "word": "schlecht",
+      "meaning": "bad",
+      "example": "Das Wetter ist heute schlecht."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Weather expressions",
+      "explanation": "To describe the weather, German uses 'es ist' (it is) or specific verbs like 'es regnet' (it's raining) and 'es schneit' (it's snowing). E.g. 'Es ist kalt' (It is cold).",
+      "examples": [
+        "Es regnet heute.",
+        "Der Himmel ist bewölkt.",
+        "Im Sommer ist es heiß.",
+        "Im Winter schneit es oft."
+      ]
+    },
+    {
+      "topic": "Seasons and 'im'",
+      "explanation": "When talking about seasons, you always use the preposition 'im' (in dem). For example: 'im Sommer' (in the summer), 'im Winter' (in the winter).",
+      "examples": [
+        "Ich fahre nach Berlin.",
+        "Wir fliegen nach Spanien.",
+        "Er reist mit dem Zug.",
+        "Sie fährt mit dem Auto."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_6_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: The sun is shining.",
+      "tokens": [
+        "Die",
+        "Sonne",
+        "scheint.",
+        "Das",
+        "Wetter"
+      ],
+      "answer": [
+        "Die",
+        "Sonne",
+        "scheint."
+      ]
+    },
+    {
+      "id": "game_6_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: It is cold in winter.",
+      "tokens": [
+        "Im",
+        "Winter",
+        "ist",
+        "es",
+        "kalt.",
+        "warm."
+      ],
+      "answer": [
+        "Im",
+        "Winter",
+        "ist",
+        "es",
+        "kalt."
+      ]
+    },
+    {
+      "id": "game_6_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: We travel to the sea.",
+      "tokens": [
+        "Wir",
+        "reisen",
+        "ans",
+        "Meer.",
+        "Flugzeug"
+      ],
+      "answer": [
+        "Wir",
+        "reisen",
+        "ans",
+        "Meer."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c6-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'Es regnet' mean?",
+      "options": [
+        "It is snowing",
+        "It is raining",
+        "It is windy",
+        "It is sunny"
+      ],
+      "answer": "It is raining",
+      "topic": "weather"
+    },
+    {
+      "id": "c6-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you say 'the sun' in German?",
+      "options": [
+        "der Mond",
+        "die Sonne",
+        "der Stern",
+        "die Wolke"
+      ],
+      "answer": "die Sonne",
+      "topic": "weather"
+    },
+    {
+      "id": "c6-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Im ___ ist es sehr kalt.",
+      "answer": "Winter",
+      "topic": "seasons"
+    },
+    {
+      "id": "c6-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Wir fahren ___ Italien.",
+      "answer": "nach",
+      "topic": "travel"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c6-fill-1",
+      "type": "fill_blank",
+      "prompt": "Es ___ heute. (rains)",
+      "answer": "regnet",
+      "hint": "It rains",
+      "topic": "weather"
+    },
+    {
+      "id": "c6-fill-2",
+      "type": "fill_blank",
+      "prompt": "Im ___ ist es heiß.",
+      "answer": "Sommer",
+      "hint": "summer",
+      "topic": "seasons"
+    },
+    {
+      "id": "c6-fill-3",
+      "type": "fill_blank",
+      "prompt": "Der Himmel ist ___. (cloudy)",
+      "answer": "bewölkt",
+      "hint": "clouded",
+      "topic": "weather"
+    },
+    {
+      "id": "c6-choice-1",
+      "type": "choice",
+      "prompt": "What does 'Es schneit' mean?",
+      "options": [
+        "It is raining",
+        "It is snowing",
+        "It is windy",
+        "It is sunny"
+      ],
+      "answer": "It is snowing",
+      "topic": "weather"
+    },
+    {
+      "id": "c6-choice-2",
+      "type": "choice",
+      "prompt": "Which season is 'der Frühling'?",
+      "options": [
+        "Summer",
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "answer": "Spring",
+      "topic": "seasons"
+    },
+    {
+      "id": "c6-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: It is cold today.",
+      "tokens": [
+        "Es",
+        "ist",
+        "heute",
+        "kalt."
+      ],
+      "answer": [
+        "Es",
+        "ist",
+        "heute",
+        "kalt."
+      ],
+      "topic": "weather"
+    },
+    {
+      "id": "c6-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: We are flying to Spain.",
+      "tokens": [
+        "Wir",
+        "fliegen",
+        "nach",
+        "Spanien."
+      ],
+      "answer": [
+        "Wir",
+        "fliegen",
+        "nach",
+        "Spanien."
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "c6-fill-4",
+      "type": "fill_blank",
+      "prompt": "Wir fahren ___ Berlin.",
+      "answer": "nach",
+      "hint": "to",
+      "topic": "travel"
+    }
+  ]
+}

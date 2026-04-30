@@ -1,0 +1,558 @@
+{
+  "id": "A1_Ch21",
+  "level": "A1",
+  "number": 21,
+  "title": "Im Restaurant",
+  "subtitle": "Ordering Food, Paying, and Polite Requests",
+  "focus": [
+    "Restaurants",
+    "Ordering Food",
+    "Paying",
+    "Polite Requests"
+  ],
+  "vocabulary": [
+    {
+      "word": "das Restaurant",
+      "meaning": "restaurant",
+      "article": "das",
+      "plural": "die Restaurants",
+      "example": "Wir gehen ins Restaurant."
+    },
+    {
+      "word": "das Café",
+      "meaning": "café",
+      "article": "das",
+      "plural": "die Cafés",
+      "example": "Treffen wir uns im Café?"
+    },
+    {
+      "word": "die Kneipe",
+      "meaning": "pub/bar",
+      "article": "die",
+      "plural": "die Kneipen",
+      "example": "Die Kneipe ist gemütlich."
+    },
+    {
+      "word": "die Speisekarte",
+      "meaning": "menu",
+      "article": "die",
+      "plural": "die Speisekarten",
+      "example": "Kann ich die Speisekarte haben?"
+    },
+    {
+      "word": "die Vorspeise",
+      "meaning": "starter/appetizer",
+      "article": "die",
+      "plural": "die Vorspeisen",
+      "example": "Als Vorspeise nehme ich Suppe."
+    },
+    {
+      "word": "das Hauptgericht",
+      "meaning": "main course",
+      "article": "das",
+      "plural": "die Hauptgerichte",
+      "example": "Was empfehlen Sie als Hauptgericht?"
+    },
+    {
+      "word": "die Nachspeise",
+      "meaning": "dessert",
+      "article": "die",
+      "plural": "die Nachspeisen",
+      "example": "Möchten Sie eine Nachspeise?"
+    },
+    {
+      "word": "die Suppe",
+      "meaning": "soup",
+      "article": "die",
+      "plural": "die Suppen",
+      "example": "Die Suppe ist heiß."
+    },
+    {
+      "word": "der Salat",
+      "meaning": "salad",
+      "article": "der",
+      "plural": "die Salate",
+      "example": "Ich nehme einen Salat."
+    },
+    {
+      "word": "das Fleisch",
+      "meaning": "meat",
+      "article": "das",
+      "example": "Ich esse kein Fleisch."
+    },
+    {
+      "word": "der Fisch",
+      "meaning": "fish",
+      "article": "der",
+      "plural": "die Fische",
+      "example": "Der Fisch schmeckt gut."
+    },
+    {
+      "word": "das Hähnchen",
+      "meaning": "chicken",
+      "article": "das",
+      "plural": "die Hähnchen",
+      "example": "Ich bestelle Hähnchen mit Reis."
+    },
+    {
+      "word": "die Nudeln",
+      "meaning": "pasta/noodles",
+      "article": "die",
+      "example": "Nudeln mit Soße bitte."
+    },
+    {
+      "word": "der Reis",
+      "meaning": "rice",
+      "article": "der",
+      "example": "Reis oder Kartoffeln?"
+    },
+    {
+      "word": "die Kartoffel",
+      "meaning": "potato",
+      "article": "die",
+      "plural": "die Kartoffeln",
+      "example": "Ich mag Kartoffeln."
+    },
+    {
+      "word": "das Gemüse",
+      "meaning": "vegetables",
+      "article": "das",
+      "example": "Gemüse ist gesund."
+    },
+    {
+      "word": "die Soße",
+      "meaning": "sauce",
+      "article": "die",
+      "plural": "die Soßen",
+      "example": "Die Soße ist lecker."
+    },
+    {
+      "word": "das Brot",
+      "meaning": "bread",
+      "article": "das",
+      "plural": "die Brote",
+      "example": "Brot mit Butter bitte."
+    },
+    {
+      "word": "die Butter",
+      "meaning": "butter",
+      "article": "die",
+      "example": "Butter aufs Brot."
+    },
+    {
+      "word": "der Käse",
+      "meaning": "cheese",
+      "article": "der",
+      "example": "Ich mag Käse."
+    },
+    {
+      "word": "das Eis",
+      "meaning": "ice cream / ice",
+      "article": "das",
+      "example": "Zum Nachtisch Eis bitte."
+    },
+    {
+      "word": "das Wasser",
+      "meaning": "water",
+      "article": "das",
+      "example": "Ein Glas Wasser bitte."
+    },
+    {
+      "word": "der Saft",
+      "meaning": "juice",
+      "article": "der",
+      "plural": "die Säfte",
+      "example": "Einen Orangensaft bitte."
+    },
+    {
+      "word": "das Bier",
+      "meaning": "beer",
+      "article": "das",
+      "plural": "die Biere",
+      "example": "Ein Bier bitte."
+    },
+    {
+      "word": "der Wein",
+      "meaning": "wine",
+      "article": "der",
+      "plural": "die Weine",
+      "example": "Ein Glas Rotwein bitte."
+    },
+    {
+      "word": "der Kaffee",
+      "meaning": "coffee",
+      "article": "der",
+      "example": "Einen Kaffee mit Milch."
+    },
+    {
+      "word": "der Tee",
+      "meaning": "tea",
+      "article": "der",
+      "plural": "die Tees",
+      "example": "Ich trinke lieber Tee."
+    },
+    {
+      "word": "bestellen",
+      "meaning": "to order",
+      "example": "Ich möchte bestellen."
+    },
+    {
+      "word": "empfehlen",
+      "meaning": "to recommend",
+      "example": "Was empfehlen Sie?"
+    },
+    {
+      "word": "schmecken",
+      "meaning": "to taste",
+      "example": "Das schmeckt sehr gut!"
+    },
+    {
+      "word": "probieren",
+      "meaning": "to try/taste",
+      "example": "Möchtest du probieren?"
+    },
+    {
+      "word": "bezahlen",
+      "meaning": "to pay",
+      "example": "Ich möchte bezahlen."
+    },
+    {
+      "word": "die Rechnung",
+      "meaning": "bill/check",
+      "article": "die",
+      "plural": "die Rechnungen",
+      "example": "Die Rechnung bitte!"
+    },
+    {
+      "word": "das Trinkgeld",
+      "meaning": "tip",
+      "article": "das",
+      "plural": "die Trinkgelder",
+      "example": "Ich gebe Trinkgeld."
+    },
+    {
+      "word": "zusammen",
+      "meaning": "together",
+      "example": "Zusammen oder getrennt?"
+    },
+    {
+      "word": "getrennt",
+      "meaning": "separate(ly)",
+      "example": "Wir zahlen getrennt."
+    },
+    {
+      "word": "der Kellner",
+      "meaning": "waiter",
+      "article": "der",
+      "plural": "die Kellner",
+      "example": "Der Kellner kommt gleich."
+    },
+    {
+      "word": "die Kellnerin",
+      "meaning": "waitress",
+      "article": "die",
+      "plural": "die Kellnerinnen",
+      "example": "Die Kellnerin ist nett."
+    },
+    {
+      "word": "der Tisch",
+      "meaning": "table",
+      "article": "der",
+      "plural": "die Tische",
+      "example": "Haben Sie einen Tisch für zwei?"
+    },
+    {
+      "word": "reservieren",
+      "meaning": "to reserve",
+      "example": "Ich möchte einen Tisch reservieren."
+    },
+    {
+      "word": "die Reservierung",
+      "meaning": "reservation",
+      "article": "die",
+      "plural": "die Reservierungen",
+      "example": "Ich habe eine Reservierung."
+    },
+    {
+      "word": "das Glas",
+      "meaning": "glass",
+      "article": "das",
+      "plural": "die Gläser",
+      "example": "Ein Glas Wasser bitte."
+    },
+    {
+      "word": "die Tasse",
+      "meaning": "cup",
+      "article": "die",
+      "plural": "die Tassen",
+      "example": "Eine Tasse Kaffee bitte."
+    },
+    {
+      "word": "der Teller",
+      "meaning": "plate",
+      "article": "der",
+      "plural": "die Teller",
+      "example": "Der Teller ist leer."
+    },
+    {
+      "word": "das Besteck",
+      "meaning": "cutlery",
+      "article": "das",
+      "example": "Ich brauche Besteck."
+    },
+    {
+      "word": "die Gabel",
+      "meaning": "fork",
+      "article": "die",
+      "plural": "die Gabeln",
+      "example": "Die Gabel ist links."
+    },
+    {
+      "word": "das Messer",
+      "meaning": "knife",
+      "article": "das",
+      "plural": "die Messer",
+      "example": "Ich brauche ein Messer."
+    },
+    {
+      "word": "der Löffel",
+      "meaning": "spoon",
+      "article": "der",
+      "plural": "die Löffel",
+      "example": "Für die Suppe brauche ich einen Löffel."
+    },
+    {
+      "word": "die Serviette",
+      "meaning": "napkin",
+      "article": "die",
+      "plural": "die Servietten",
+      "example": "Haben Sie Servietten?"
+    },
+    {
+      "word": "lecker",
+      "meaning": "delicious",
+      "example": "Das Essen ist lecker!"
+    },
+    {
+      "word": "vegetarisch",
+      "meaning": "vegetarian",
+      "example": "Haben Sie etwas Vegetarisches?"
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Polite Requests with 'möchte'",
+      "explanation": "'Möchte' (would like) is the polite form used to order or request. Conjugation: ich möchte, du möchtest, er/sie/es möchte, wir möchten, ihr möchtet, sie/Sie möchten. Use it with an infinitive or a noun.",
+      "examples": [
+        "Ich möchte bestellen.",
+        "Ich möchte einen Kaffee.",
+        "Möchten Sie eine Nachspeise?",
+        "Wir möchten bezahlen."
+      ]
+    },
+    {
+      "topic": "Accusative with Food Orders",
+      "explanation": "When ordering food, you use the accusative case because you're expressing 'what you take/want'. Masculine articles change: der → den, ein → einen. Feminine and neuter stay the same.",
+      "examples": [
+        "Ich nehme einen Salat. (der Salat → einen)",
+        "Ich möchte eine Suppe. (die Suppe → eine)",
+        "Er bestellt ein Bier. (das Bier → ein)",
+        "Wir nehmen den Fisch. (der Fisch → den)"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c21-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I would like to order.",
+      "tokens": [
+        "Ich",
+        "möchte",
+        "bestellen.",
+        "bezahlen."
+      ],
+      "answer": [
+        "Ich",
+        "möchte",
+        "bestellen."
+      ]
+    },
+    {
+      "id": "c21-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "The bill please!",
+      "tokens": [
+        "Die",
+        "Rechnung",
+        "bitte!",
+        "Speisekarte"
+      ],
+      "answer": [
+        "Die",
+        "Rechnung",
+        "bitte!"
+      ]
+    },
+    {
+      "id": "c21-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "Do you have a table for two?",
+      "tokens": [
+        "Haben",
+        "Sie",
+        "einen",
+        "Tisch",
+        "für",
+        "zwei?",
+        "drei?"
+      ],
+      "answer": [
+        "Haben",
+        "Sie",
+        "einen",
+        "Tisch",
+        "für",
+        "zwei?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c21-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'die Speisekarte' mean?",
+      "options": [
+        "the bill",
+        "the menu",
+        "the recipe",
+        "the kitchen"
+      ],
+      "answer": "the menu",
+      "topic": "restaurant"
+    },
+    {
+      "id": "c21-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you politely say 'I would like a coffee'?",
+      "options": [
+        "Ich will Kaffee",
+        "Ich möchte einen Kaffee",
+        "Ich brauche Kaffee",
+        "Gib mir Kaffee"
+      ],
+      "answer": "Ich möchte einen Kaffee",
+      "topic": "polite"
+    },
+    {
+      "id": "c21-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ einen Salat. (take/have)",
+      "answer": "nehme",
+      "topic": "ordering"
+    },
+    {
+      "id": "c21-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Das Essen ___ sehr gut! (tastes)",
+      "answer": "schmeckt",
+      "topic": "food"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c21-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ bestellen. (would like)",
+      "answer": "möchte",
+      "hint": "would like",
+      "topic": "polite"
+    },
+    {
+      "id": "c21-fill-2",
+      "type": "fill_blank",
+      "prompt": "Die Rechnung ___! (please)",
+      "answer": "bitte",
+      "hint": "please",
+      "topic": "restaurant"
+    },
+    {
+      "id": "c21-fill-3",
+      "type": "fill_blank",
+      "prompt": "Das ___ sehr gut! (tastes)",
+      "answer": "schmeckt",
+      "hint": "tastes",
+      "topic": "food"
+    },
+    {
+      "id": "c21-choice-1",
+      "type": "choice",
+      "prompt": "What is 'das Trinkgeld'?",
+      "options": [
+        "the drink",
+        "the tip",
+        "the bill",
+        "the change"
+      ],
+      "answer": "the tip",
+      "topic": "restaurant"
+    },
+    {
+      "id": "c21-choice-2",
+      "type": "choice",
+      "prompt": "'Zusammen oder getrennt?' asks about:",
+      "options": [
+        "food portions",
+        "seating",
+        "paying together or separately",
+        "the menu"
+      ],
+      "answer": "paying together or separately",
+      "topic": "restaurant"
+    },
+    {
+      "id": "c21-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: A glass of water please.",
+      "tokens": [
+        "Ein",
+        "Glas",
+        "Wasser",
+        "bitte."
+      ],
+      "answer": [
+        "Ein",
+        "Glas",
+        "Wasser",
+        "bitte."
+      ],
+      "topic": "ordering"
+    },
+    {
+      "id": "c21-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: I eat no meat.",
+      "tokens": [
+        "Ich",
+        "esse",
+        "kein",
+        "Fleisch."
+      ],
+      "answer": [
+        "Ich",
+        "esse",
+        "kein",
+        "Fleisch."
+      ],
+      "topic": "food"
+    },
+    {
+      "id": "c21-fill-4",
+      "type": "fill_blank",
+      "prompt": "Haben Sie etwas ___? (vegetarian)",
+      "answer": "Vegetarisches",
+      "hint": "vegetarian",
+      "topic": "food"
+    }
+  ]
+}

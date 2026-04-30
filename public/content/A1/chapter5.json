@@ -1,0 +1,544 @@
+{
+  "id": "A1_05",
+  "level": "A1",
+  "number": 5,
+  "title": "Freizeit und Hobbys",
+  "subtitle": "Free Time, Hobbies, and the Verb 'koennen'",
+  "focus": [
+    "Talking about free time and hobbies",
+    "Expressing abilities (können)",
+    "Months and Seasons",
+    "Making suggestions"
+  ],
+  "tips": [
+    {
+      "title": "Modal Verb 'können'",
+      "body": "When you use a modal verb like 'können' (can), the second verb in the sentence goes to the very end in its infinitive form. Example: Ich kann gut singen."
+    },
+    {
+      "title": "Seasons and Months",
+      "body": "Use 'im' (in dem) for seasons and months. Example: im Sommer, im Januar."
+    },
+    {
+      "title": "Noun and Verb combos",
+      "body": "Hobbies are often expressed with a noun + verb combo: Fußball spielen, Musik hören, Rad fahren."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "die Freizeit",
+      "meaning": "free time",
+      "article": "die",
+      "plural": "-",
+      "example": "In meiner Freizeit lese ich viel."
+    },
+    {
+      "word": "das Hobby",
+      "meaning": "hobby",
+      "article": "das",
+      "plural": "die Hobbys",
+      "example": "Mein Hobby ist Fotografie."
+    },
+    {
+      "word": "können",
+      "meaning": "can / to be able to",
+      "example": "Ich kann gut schwimmen."
+    },
+    {
+      "word": "spielen",
+      "meaning": "to play",
+      "example": "Wir spielen am Wochenende Tennis."
+    },
+    {
+      "word": "lesen",
+      "meaning": "to read",
+      "example": "Liest du gern Bücher?"
+    },
+    {
+      "word": "schwimmen",
+      "meaning": "to swim",
+      "example": "Im Sommer schwimme ich oft."
+    },
+    {
+      "word": "kochen",
+      "meaning": "to cook",
+      "example": "Er kocht sehr gut."
+    },
+    {
+      "word": "singen",
+      "meaning": "to sing",
+      "example": "Sie kann wunderschön singen."
+    },
+    {
+      "word": "tanzen",
+      "meaning": "to dance",
+      "example": "Gehen wir tanzen?"
+    },
+    {
+      "word": "hören",
+      "meaning": "to hear / listen",
+      "example": "Ich höre gern Musik."
+    },
+    {
+      "word": "fahren",
+      "meaning": "to drive / ride",
+      "example": "Wir fahren am Samstag Rad."
+    },
+    {
+      "word": "treffen",
+      "meaning": "to meet",
+      "example": "Ich treffe heute Freunde."
+    },
+    {
+      "word": "die Musik",
+      "meaning": "music",
+      "article": "die",
+      "plural": "-",
+      "example": "Die Musik ist laut."
+    },
+    {
+      "word": "der Sport",
+      "meaning": "sports",
+      "article": "der",
+      "plural": "die Sportarten",
+      "example": "Machst du gern Sport?"
+    },
+    {
+      "word": "das Fahrrad",
+      "meaning": "bicycle",
+      "article": "das",
+      "plural": "die Fahrräder",
+      "example": "Ich fahre mit dem Fahrrad."
+    },
+    {
+      "word": "das Buch",
+      "meaning": "book",
+      "article": "das",
+      "plural": "die Bücher",
+      "example": "Das Buch ist spannend."
+    },
+    {
+      "word": "die Freunde",
+      "meaning": "friends",
+      "article": "die (pl)",
+      "plural": "die Freunde",
+      "example": "Meine Freunde sind nett."
+    },
+    {
+      "word": "das Wochenende",
+      "meaning": "weekend",
+      "article": "das",
+      "plural": "die Wochenenden",
+      "example": "Was machst du am Wochenende?"
+    },
+    {
+      "word": "oft",
+      "meaning": "often",
+      "example": "Ich gehe oft ins Kino."
+    },
+    {
+      "word": "manchmal",
+      "meaning": "sometimes",
+      "example": "Manchmal spiele ich Fußball."
+    },
+    {
+      "word": "nie",
+      "meaning": "never",
+      "example": "Ich singe nie."
+    },
+    {
+      "word": "der Frühling",
+      "meaning": "spring",
+      "article": "der",
+      "example": "Im Frühling ist es warm."
+    },
+    {
+      "word": "der Sommer",
+      "meaning": "summer",
+      "article": "der",
+      "example": "Im Sommer haben wir frei."
+    },
+    {
+      "word": "der Herbst",
+      "meaning": "autumn",
+      "article": "der",
+      "example": "Im Herbst regnet es oft."
+    },
+    {
+      "word": "der Winter",
+      "meaning": "winter",
+      "article": "der",
+      "example": "Im Winter schneit es."
+    },
+    {
+      "word": "der Januar",
+      "meaning": "January",
+      "article": "der",
+      "example": "Im Januar ist es kalt."
+    },
+    {
+      "word": "der Juli",
+      "meaning": "July",
+      "article": "der",
+      "example": "Im Juli fliegen wir nach Spanien."
+    },
+    {
+      "word": "das Kino",
+      "meaning": "cinema",
+      "article": "das",
+      "plural": "die Kinos",
+      "example": "Wir gehen ins Kino."
+    },
+    {
+      "word": "der Film",
+      "meaning": "film / movie",
+      "article": "der",
+      "plural": "die Filme",
+      "example": "Der Film ist gut."
+    },
+    {
+      "word": "das Theater",
+      "meaning": "theater",
+      "article": "das",
+      "plural": "die Theater",
+      "example": "Wir gehen ins Theater."
+    },
+    {
+      "word": "die Ausstellung",
+      "meaning": "exhibition",
+      "article": "die",
+      "plural": "die Ausstellungen",
+      "example": "Die Ausstellung ist interessant."
+    },
+    {
+      "word": "das Schwimmbad",
+      "meaning": "swimming pool",
+      "article": "das",
+      "plural": "die Schwimmbäder",
+      "example": "Ich gehe ins Schwimmbad."
+    },
+    {
+      "word": "das Museum",
+      "meaning": "museum",
+      "article": "das",
+      "plural": "die Museen",
+      "example": "Das Museum ist groß."
+    },
+    {
+      "word": "der Park",
+      "meaning": "park",
+      "article": "der",
+      "plural": "die Parks",
+      "example": "Wir spazieren im Park."
+    },
+    {
+      "word": "spazieren gehen",
+      "meaning": "to go for a walk",
+      "example": "Wir gehen im Wald spazieren."
+    },
+    {
+      "word": "malen",
+      "meaning": "to paint",
+      "example": "Sie malt ein Bild."
+    },
+    {
+      "word": "fotografieren",
+      "meaning": "to take photos",
+      "example": "Er fotografiert gern."
+    },
+    {
+      "word": "das Foto",
+      "meaning": "photo",
+      "article": "das",
+      "plural": "die Fotos",
+      "example": "Ein schönes Foto."
+    },
+    {
+      "word": "die Kamera",
+      "meaning": "camera",
+      "article": "die",
+      "plural": "die Kameras",
+      "example": "Meine Kamera ist neu."
+    },
+    {
+      "word": "das Spiel",
+      "meaning": "game",
+      "article": "das",
+      "plural": "die Spiele",
+      "example": "Wir spielen ein Spiel."
+    },
+    {
+      "word": "wollen",
+      "meaning": "to want to",
+      "example": "Wir wollen ins Kino gehen."
+    },
+    {
+      "word": "das Klavier",
+      "meaning": "piano",
+      "article": "das",
+      "plural": "die Klaviere",
+      "example": "Ich spiele Klavier."
+    },
+    {
+      "word": "die Gitarre",
+      "meaning": "guitar",
+      "article": "die",
+      "plural": "die Gitarren",
+      "example": "Sie spielt Gitarre."
+    },
+    {
+      "word": "wandern",
+      "meaning": "to hike",
+      "example": "Wir wandern in den Bergen."
+    },
+    {
+      "word": "reisen",
+      "meaning": "to travel",
+      "example": "Ich reise gern."
+    },
+    {
+      "word": "die Reise",
+      "meaning": "journey / trip",
+      "article": "die",
+      "plural": "die Reisen",
+      "example": "Gute Reise!"
+    },
+    {
+      "word": "der Urlaub",
+      "meaning": "vacation / holiday",
+      "article": "der",
+      "plural": "die Urlaube",
+      "example": "Ich brauche Urlaub."
+    },
+    {
+      "word": "faulenzen",
+      "meaning": "to laze around",
+      "example": "Am Sonntag faulenze ich."
+    },
+    {
+      "word": "der Schnee",
+      "meaning": "snow",
+      "article": "der",
+      "plural": "-",
+      "example": "Der Schnee ist weiß."
+    },
+    {
+      "word": "der Regen",
+      "meaning": "rain",
+      "article": "der",
+      "plural": "-",
+      "example": "Viel Regen im Herbst."
+    },
+    {
+      "word": "die Sonne",
+      "meaning": "sun",
+      "article": "die",
+      "plural": "-",
+      "example": "Die Sonne scheint."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "The Modal Verb 'können'",
+      "explanation": "'Können' means 'can' or 'to be able to'. It is irregular: ich kann, du kannst, er/sie kann, wir können, ihr könnt, Sie/sie können.",
+      "examples": [
+        "Ich kann schwimmen.",
+        "Kannst du tanzen?"
+      ]
+    },
+    {
+      "topic": "Sentence Structure with Modal Verbs",
+      "explanation": "When using 'können', the conjugated modal verb takes position 2. The main action verb goes to the very end of the sentence in its full (infinitive) form.",
+      "examples": [
+        "Ich kann gut schwimmen.",
+        "Wir können am Wochenende Fußball spielen."
+      ]
+    },
+    {
+      "topic": "Irregular Verbs (Vowel Change)",
+      "explanation": "Verbs like 'lesen' (to read) and 'fahren' (to drive/ride) change their vowel in the 'du' and 'er/sie' forms: du liest, er liest; du fährst, er fährt.",
+      "examples": [
+        "Ich lese. -> Du liest.",
+        "Ich fahre. -> Er fährt."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "c5-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ sehr gut kochen.",
+      "answer": "kann",
+      "hint": "can (ich form)",
+      "topic": "können"
+    },
+    {
+      "id": "c5-fill-2",
+      "type": "fill_blank",
+      "prompt": "___ du gut schwimmen?",
+      "answer": "Kannst",
+      "hint": "can (du form)",
+      "topic": "können"
+    },
+    {
+      "id": "c5-fill-3",
+      "type": "fill_blank",
+      "prompt": "Er ___ gern Bücher.",
+      "answer": "liest",
+      "hint": "to read (er form - watch the vowel change!)",
+      "topic": "lesen"
+    },
+    {
+      "id": "c5-fill-4",
+      "type": "fill_blank",
+      "prompt": "___ Sommer fahre ich oft Rad.",
+      "answer": "Im",
+      "hint": "in the (for seasons)",
+      "topic": "seasons"
+    },
+    {
+      "id": "c5-choice-1",
+      "type": "choice",
+      "prompt": "Choose the correct sentence structure.",
+      "options": [
+        "Ich kann spielen Gitarre.",
+        "Ich spielen kann Gitarre.",
+        "Ich kann Gitarre spielen.",
+        "Können ich Gitarre spielen."
+      ],
+      "answer": "Ich kann Gitarre spielen.",
+      "topic": "modal syntax"
+    },
+    {
+      "id": "c5-choice-2",
+      "type": "choice",
+      "prompt": "Which season is 'der Herbst'?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "answer": "Autumn",
+      "topic": "seasons"
+    },
+    {
+      "id": "c5-order-1",
+      "type": "sentence_order",
+      "prompt": "Say you can sing well.",
+      "tokens": [
+        "singen",
+        "gut",
+        "kann",
+        "Ich",
+        "."
+      ],
+      "answer": [
+        "Ich",
+        "kann",
+        "gut",
+        "singen",
+        "."
+      ],
+      "topic": "können"
+    },
+    {
+      "id": "c5-order-2",
+      "type": "sentence_order",
+      "prompt": "Ask if they read a lot.",
+      "tokens": [
+        "du",
+        "Liest",
+        "viel",
+        "?"
+      ],
+      "answer": [
+        "Liest",
+        "du",
+        "viel",
+        "?"
+      ],
+      "topic": "lesen"
+    }
+  ],
+  "games": [
+    {
+      "id": "c5-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "Can you play tennis?",
+      "tokens": [
+        "Tennis",
+        "spielen?",
+        "Kannst",
+        "du"
+      ],
+      "answer": [
+        "Kannst",
+        "du",
+        "Tennis",
+        "spielen?"
+      ]
+    },
+    {
+      "id": "c5-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "I meet friends on the weekend.",
+      "tokens": [
+        "treffe",
+        "Wochenende",
+        "Am",
+        "ich",
+        "Freunde."
+      ],
+      "answer": [
+        "Am",
+        "Wochenende",
+        "treffe",
+        "ich",
+        "Freunde."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c5-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'oft' mean?",
+      "options": [
+        "never",
+        "often",
+        "sometimes",
+        "always"
+      ],
+      "answer": "often",
+      "topic": "frequency"
+    },
+    {
+      "id": "c5-quiz-2",
+      "type": "fill_blank",
+      "prompt": "___ du Fahrrad?",
+      "answer": "Fährst",
+      "topic": "fahren"
+    },
+    {
+      "id": "c5-quiz-3",
+      "type": "mcq",
+      "prompt": "Choose the correct form: Wir ___ tanzen.",
+      "options": [
+        "kann",
+        "kannst",
+        "können",
+        "könnt"
+      ],
+      "answer": "können",
+      "topic": "können"
+    },
+    {
+      "id": "c5-quiz-4",
+      "type": "fill_blank",
+      "prompt": "___ Winter schneit es.",
+      "answer": "Im",
+      "topic": "seasons"
+    }
+  ]
+}

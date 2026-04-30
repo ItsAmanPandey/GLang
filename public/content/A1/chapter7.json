@@ -1,0 +1,550 @@
+{
+  "id": "A1_Ch7",
+  "level": "A1",
+  "number": 7,
+  "title": "Mode und Einkaufen",
+  "subtitle": "Clothing, Colors, and Shopping Conversations",
+  "focus": [
+    "Shopping",
+    "Clothes",
+    "Colors",
+    "Sizes"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Kleidung",
+      "meaning": "clothing/clothes",
+      "article": "die",
+      "plural": "die Kleidungen",
+      "example": "Die Kleidung ist modern."
+    },
+    {
+      "word": "das T-Shirt",
+      "meaning": "t-shirt",
+      "article": "das",
+      "plural": "die T-Shirts",
+      "example": "Ich kaufe ein T-Shirt."
+    },
+    {
+      "word": "die Hose",
+      "meaning": "trousers/pants",
+      "article": "die",
+      "plural": "die Hosen",
+      "example": "Die Hose passt mir."
+    },
+    {
+      "word": "die Jeans",
+      "meaning": "jeans",
+      "article": "die",
+      "plural": "die Jeans",
+      "example": "Er trägt immer Jeans."
+    },
+    {
+      "word": "der Pullover",
+      "meaning": "sweater",
+      "article": "der",
+      "plural": "die Pullover",
+      "example": "Der Pullover ist warm."
+    },
+    {
+      "word": "die Jacke",
+      "meaning": "jacket",
+      "article": "die",
+      "plural": "die Jacken",
+      "example": "Zieh eine Jacke an!"
+    },
+    {
+      "word": "der Mantel",
+      "meaning": "coat",
+      "article": "der",
+      "plural": "die Mäntel",
+      "example": "Im Winter brauche ich einen Mantel."
+    },
+    {
+      "word": "das Hemd",
+      "meaning": "shirt (button-up)",
+      "article": "das",
+      "plural": "die Hemden",
+      "example": "Er trägt ein weißes Hemd."
+    },
+    {
+      "word": "das Kleid",
+      "meaning": "dress",
+      "article": "das",
+      "plural": "die Kleider",
+      "example": "Das Kleid ist rot."
+    },
+    {
+      "word": "der Rock",
+      "meaning": "skirt",
+      "article": "der",
+      "plural": "die Röcke",
+      "example": "Sie kauft einen Rock."
+    },
+    {
+      "word": "der Schuh",
+      "meaning": "shoe",
+      "article": "der",
+      "plural": "die Schuhe",
+      "example": "Die Schuhe sind neu."
+    },
+    {
+      "word": "die Socke",
+      "meaning": "sock",
+      "article": "die",
+      "plural": "die Socken",
+      "example": "Ich habe kalte Socken."
+    },
+    {
+      "word": "der Hut",
+      "meaning": "hat",
+      "article": "der",
+      "plural": "die Hüte",
+      "example": "Er trägt einen Hut."
+    },
+    {
+      "word": "die Brille",
+      "meaning": "glasses",
+      "article": "die",
+      "plural": "die Brillen",
+      "example": "Ich suche meine Brille."
+    },
+    {
+      "word": "kaufen",
+      "meaning": "to buy",
+      "example": "Ich möchte ein Auto kaufen."
+    },
+    {
+      "word": "verkaufen",
+      "meaning": "to sell",
+      "example": "Er verkauft sein Haus."
+    },
+    {
+      "word": "kosten",
+      "meaning": "to cost",
+      "example": "Wie viel kostet das?"
+    },
+    {
+      "word": "der Preis",
+      "meaning": "price",
+      "article": "der",
+      "plural": "die Preise",
+      "example": "Der Preis ist gut."
+    },
+    {
+      "word": "teuer",
+      "meaning": "expensive",
+      "example": "Das ist zu teuer."
+    },
+    {
+      "word": "billig",
+      "meaning": "cheap",
+      "example": "Die Schuhe sind sehr billig."
+    },
+    {
+      "word": "günstig",
+      "meaning": "favorable/affordable",
+      "example": "Das Angebot ist günstig."
+    },
+    {
+      "word": "die Größe",
+      "meaning": "size",
+      "article": "die",
+      "plural": "die Größen",
+      "example": "Welche Größe haben Sie?"
+    },
+    {
+      "word": "die Farbe",
+      "meaning": "color",
+      "article": "die",
+      "plural": "die Farben",
+      "example": "Welche Farbe hat das Auto?"
+    },
+    {
+      "word": "rot",
+      "meaning": "red",
+      "example": "Ich liebe rot."
+    },
+    {
+      "word": "blau",
+      "meaning": "blue",
+      "example": "Der Himmel ist blau."
+    },
+    {
+      "word": "gelb",
+      "meaning": "yellow",
+      "example": "Die Sonne ist gelb."
+    },
+    {
+      "word": "grün",
+      "meaning": "green",
+      "example": "Das Gras ist grün."
+    },
+    {
+      "word": "schwarz",
+      "meaning": "black",
+      "example": "Mein Hund ist schwarz."
+    },
+    {
+      "word": "weiß",
+      "meaning": "white",
+      "example": "Schnee ist weiß."
+    },
+    {
+      "word": "grau",
+      "meaning": "gray",
+      "example": "Der Pullover ist grau."
+    },
+    {
+      "word": "braun",
+      "meaning": "brown",
+      "example": "Seine Augen sind braun."
+    },
+    {
+      "word": "orange",
+      "meaning": "orange",
+      "example": "Die Jacke ist orange."
+    },
+    {
+      "word": "rosa",
+      "meaning": "pink",
+      "example": "Das Kleid ist rosa."
+    },
+    {
+      "word": "lila",
+      "meaning": "purple",
+      "example": "Die Blumen sind lila."
+    },
+    {
+      "word": "anprobieren",
+      "meaning": "to try on",
+      "example": "Kann ich das anprobieren?"
+    },
+    {
+      "word": "die Umkleidekabine",
+      "meaning": "fitting room",
+      "article": "die",
+      "plural": "die Umkleidekabinen",
+      "example": "Die Umkleidekabine ist dort."
+    },
+    {
+      "word": "passen",
+      "meaning": "to fit",
+      "example": "Die Hose passt mir nicht."
+    },
+    {
+      "word": "gefallen",
+      "meaning": "to like / be pleasing to",
+      "example": "Das gefällt mir."
+    },
+    {
+      "word": "das Geschäft",
+      "meaning": "shop/store",
+      "article": "das",
+      "plural": "die Geschäfte",
+      "example": "Das Geschäft schließt um 20 Uhr."
+    },
+    {
+      "word": "der Verkäufer",
+      "meaning": "salesman",
+      "article": "der",
+      "plural": "die Verkäufer",
+      "example": "Der Verkäufer ist nett."
+    },
+    {
+      "word": "die Verkäuferin",
+      "meaning": "saleswoman",
+      "article": "die",
+      "plural": "die Verkäuferinnen",
+      "example": "Fragen Sie die Verkäuferin."
+    },
+    {
+      "word": "der Kunde",
+      "meaning": "customer (male)",
+      "article": "der",
+      "plural": "die Kunden",
+      "example": "Der Kunde wartet."
+    },
+    {
+      "word": "die Kundin",
+      "meaning": "customer (female)",
+      "article": "die",
+      "plural": "die Kundinnen",
+      "example": "Die Kundin kauft Schuhe."
+    },
+    {
+      "word": "offen",
+      "meaning": "open",
+      "example": "Der Laden ist offen."
+    },
+    {
+      "word": "geschlossen",
+      "meaning": "closed",
+      "example": "Heute geschlossen."
+    },
+    {
+      "word": "die Tasche",
+      "meaning": "bag",
+      "article": "die",
+      "plural": "die Taschen",
+      "example": "Ich habe eine Tasche gekauft."
+    },
+    {
+      "word": "der Schmuck",
+      "meaning": "jewelry",
+      "article": "der",
+      "plural": "-",
+      "example": "Sie trägt viel Schmuck."
+    },
+    {
+      "word": "die Uhr",
+      "meaning": "watch/clock",
+      "article": "die",
+      "plural": "die Uhren",
+      "example": "Meine Uhr ist kaputt."
+    },
+    {
+      "word": "bezahlen",
+      "meaning": "to pay",
+      "example": "Ich möchte bezahlen."
+    },
+    {
+      "word": "die Kasse",
+      "meaning": "cash register",
+      "article": "die",
+      "plural": "die Kassen",
+      "example": "Zahlen Sie bitte an der Kasse."
+    },
+    {
+      "word": "das Angebot",
+      "meaning": "offer/sale",
+      "article": "das",
+      "plural": "die Angebote",
+      "example": "Das ist ein gutes Angebot."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "The verb 'gefallen'",
+      "explanation": "The verb 'gefallen' means 'to be pleasing to'. The object being liked is the subject of the sentence, and the person who likes it is in the dative case. E.g. 'Das Hemd gefällt mir.' (I like the shirt / The shirt pleases me).",
+      "examples": [
+        "Das Kleid gefällt mir.",
+        "Die Schuhe gefallen ihr nicht.",
+        "Gefällt dir die Jacke?",
+        "Der Mantel gefällt ihm."
+      ]
+    },
+    {
+      "topic": "The verb 'passen'",
+      "explanation": "'Passen' means 'to fit'. Like 'gefallen', the person it fits takes the dative case. E.g. 'Die Hose passt mir.' (The pants fit me).",
+      "examples": [
+        "Die Hose passt nicht.",
+        "Welche Größe brauchen Sie?",
+        "Das T-Shirt ist zu klein.",
+        "Haben Sie das in Größe M?"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_7_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: The shirt is too expensive.",
+      "tokens": [
+        "Das",
+        "Hemd",
+        "ist",
+        "zu",
+        "teuer.",
+        "billig."
+      ],
+      "answer": [
+        "Das",
+        "Hemd",
+        "ist",
+        "zu",
+        "teuer."
+      ]
+    },
+    {
+      "id": "game_7_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I am buying a green dress.",
+      "tokens": [
+        "Ich",
+        "kaufe",
+        "ein",
+        "grünes",
+        "Kleid.",
+        "rotes"
+      ],
+      "answer": [
+        "Ich",
+        "kaufe",
+        "ein",
+        "grünes",
+        "Kleid."
+      ]
+    },
+    {
+      "id": "game_7_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: How much does the coat cost?",
+      "tokens": [
+        "Wie",
+        "viel",
+        "kostet",
+        "der",
+        "Mantel?",
+        "Hose?"
+      ],
+      "answer": [
+        "Wie",
+        "viel",
+        "kostet",
+        "der",
+        "Mantel?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c7-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'die Hose' mean?",
+      "options": [
+        "shirt",
+        "pants",
+        "skirt",
+        "jacket"
+      ],
+      "answer": "pants",
+      "topic": "clothing"
+    },
+    {
+      "id": "c7-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you say 'I like the dress' using 'gefallen'?",
+      "options": [
+        "Ich mag das Kleid",
+        "Das Kleid gefällt mir",
+        "Ich finde das Kleid",
+        "Das Kleid passt mir"
+      ],
+      "answer": "Das Kleid gefällt mir",
+      "topic": "verbs"
+    },
+    {
+      "id": "c7-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Der Rock ist zu ___. Haben Sie ihn größer?",
+      "answer": "klein",
+      "topic": "shopping"
+    },
+    {
+      "id": "c7-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Welche ___ brauchen Sie?",
+      "answer": "Größe",
+      "topic": "shopping"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c7-fill-1",
+      "type": "fill_blank",
+      "prompt": "Das Kleid ___ mir. (pleases)",
+      "answer": "gefällt",
+      "hint": "to please",
+      "topic": "gefallen"
+    },
+    {
+      "id": "c7-fill-2",
+      "type": "fill_blank",
+      "prompt": "Die Hose ist zu ___. (small)",
+      "answer": "klein",
+      "hint": "small",
+      "topic": "shopping"
+    },
+    {
+      "id": "c7-fill-3",
+      "type": "fill_blank",
+      "prompt": "Welche ___ brauchen Sie? (size)",
+      "answer": "Größe",
+      "hint": "size",
+      "topic": "shopping"
+    },
+    {
+      "id": "c7-choice-1",
+      "type": "choice",
+      "prompt": "What color is 'blau'?",
+      "options": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "answer": "blue",
+      "topic": "colors"
+    },
+    {
+      "id": "c7-choice-2",
+      "type": "choice",
+      "prompt": "What does 'anprobieren' mean?",
+      "options": [
+        "to buy",
+        "to try on",
+        "to return",
+        "to pay"
+      ],
+      "answer": "to try on",
+      "topic": "shopping"
+    },
+    {
+      "id": "c7-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: The shoes are too big.",
+      "tokens": [
+        "Die",
+        "Schuhe",
+        "sind",
+        "zu",
+        "groß."
+      ],
+      "answer": [
+        "Die",
+        "Schuhe",
+        "sind",
+        "zu",
+        "groß."
+      ],
+      "topic": "clothing"
+    },
+    {
+      "id": "c7-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: I like the jacket.",
+      "tokens": [
+        "Die",
+        "Jacke",
+        "gefällt",
+        "mir."
+      ],
+      "answer": [
+        "Die",
+        "Jacke",
+        "gefällt",
+        "mir."
+      ],
+      "topic": "gefallen"
+    },
+    {
+      "id": "c7-fill-4",
+      "type": "fill_blank",
+      "prompt": "Haben Sie das in ___ M?",
+      "answer": "Größe",
+      "hint": "size",
+      "topic": "shopping"
+    }
+  ]
+}

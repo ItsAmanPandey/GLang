@@ -1,0 +1,531 @@
+{
+  "id": "A1_01",
+  "level": "A1",
+  "number": 1,
+  "title": "Erste Kontakte",
+  "subtitle": "Greetings, Introductions, and Origins",
+  "focus": [
+    "Saying hello and goodbye",
+    "Introducing yourself and others",
+    "Asking for names and origins",
+    "Formal vs. Informal address (Sie vs. du)"
+  ],
+  "tips": [
+    {
+      "title": "The verb comes second",
+      "body": "In a standard German sentence, the conjugated verb is always in the second position. Example: 'Ich **komme** aus Berlin.'"
+    },
+    {
+      "title": "Capitalizing Nouns",
+      "body": "In German, all nouns are capitalized, no matter where they appear in a sentence. (e.g., der Name, das Land)."
+    },
+    {
+      "title": "Formal and Informal",
+      "body": "Use 'du' for friends, family, and children. Use 'Sie' for strangers, adults in formal settings, and authority figures."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "Hallo",
+      "meaning": "Hello",
+      "example": "Hallo, ich bin Lukas."
+    },
+    {
+      "word": "Guten Morgen",
+      "meaning": "Good morning",
+      "example": "Guten Morgen, Frau Schmidt."
+    },
+    {
+      "word": "Guten Tag",
+      "meaning": "Good day / Hello",
+      "example": "Guten Tag, Herr Weber."
+    },
+    {
+      "word": "Guten Abend",
+      "meaning": "Good evening",
+      "example": "Guten Abend, wie geht es Ihnen?"
+    },
+    {
+      "word": "Gute Nacht",
+      "meaning": "Good night",
+      "example": "Gute Nacht, schlaf gut!"
+    },
+    {
+      "word": "Tschüss",
+      "meaning": "Bye (informal)",
+      "example": "Tschüss, bis morgen!"
+    },
+    {
+      "word": "Auf Wiedersehen",
+      "meaning": "Goodbye (formal)",
+      "example": "Auf Wiedersehen, Frau Wagner."
+    },
+    {
+      "word": "ja",
+      "meaning": "yes",
+      "example": "Ja, ich komme aus Spanien."
+    },
+    {
+      "word": "nein",
+      "meaning": "no",
+      "example": "Nein, ich bin nicht Klaus."
+    },
+    {
+      "word": "danke",
+      "meaning": "thank you",
+      "example": "Mir geht es gut, danke."
+    },
+    {
+      "word": "bitte",
+      "meaning": "please / you're welcome",
+      "example": "Ein Wasser, bitte."
+    },
+    {
+      "word": "Entschuldigung",
+      "meaning": "Excuse me / Sorry",
+      "example": "Entschuldigung, ist hier noch frei?"
+    },
+    {
+      "word": "heißen",
+      "meaning": "to be called",
+      "example": "Ich heiße Anna."
+    },
+    {
+      "word": "kommen",
+      "meaning": "to come",
+      "example": "Wir kommen aus Japan."
+    },
+    {
+      "word": "sein",
+      "meaning": "to be",
+      "example": "Ich bin Lehrer."
+    },
+    {
+      "word": "sprechen",
+      "meaning": "to speak",
+      "example": "Sprichst du Englisch?"
+    },
+    {
+      "word": "wer",
+      "meaning": "who",
+      "example": "Wer ist das?"
+    },
+    {
+      "word": "wie",
+      "meaning": "how",
+      "example": "Wie heißen Sie?"
+    },
+    {
+      "word": "woher",
+      "meaning": "where from",
+      "example": "Woher kommst du?"
+    },
+    {
+      "word": "und",
+      "meaning": "and",
+      "example": "Ich heiße Tom und das ist Maria."
+    },
+    {
+      "word": "aus",
+      "meaning": "from",
+      "example": "Ich komme aus der Schweiz."
+    },
+    {
+      "word": "der Name",
+      "meaning": "the name",
+      "article": "der",
+      "plural": "die Namen",
+      "example": "Mein Name ist Bond."
+    },
+    {
+      "word": "der Vorname",
+      "meaning": "first name",
+      "article": "der",
+      "plural": "die Vornamen",
+      "example": "Mein Vorname ist Felix."
+    },
+    {
+      "word": "der Nachname",
+      "meaning": "last name",
+      "article": "der",
+      "plural": "die Nachnamen",
+      "example": "Wie ist Ihr Nachname?"
+    },
+    {
+      "word": "die Frau",
+      "meaning": "woman / Mrs.",
+      "article": "die",
+      "plural": "die Frauen",
+      "example": "Das ist Frau Müller."
+    },
+    {
+      "word": "der Herr",
+      "meaning": "man / Mr.",
+      "article": "der",
+      "plural": "die Herren",
+      "example": "Guten Tag, Herr Fischer."
+    },
+    {
+      "word": "das Land",
+      "meaning": "country",
+      "article": "das",
+      "plural": "die Länder",
+      "example": "Deutschland ist ein Land."
+    },
+    {
+      "word": "Deutschland",
+      "meaning": "Germany",
+      "example": "München liegt in Deutschland."
+    },
+    {
+      "word": "Österreich",
+      "meaning": "Austria",
+      "example": "Wien ist in Österreich."
+    },
+    {
+      "word": "die Schweiz",
+      "meaning": "Switzerland",
+      "article": "die",
+      "example": "Ich komme aus der Schweiz."
+    },
+    {
+      "word": "der Buchstabe",
+      "meaning": "letter (alphabet)",
+      "article": "der",
+      "plural": "die Buchstaben",
+      "example": "Das Alphabet hat Buchstaben."
+    },
+    {
+      "word": "das Wort",
+      "meaning": "word",
+      "article": "das",
+      "plural": "die Wörter",
+      "example": "Das Wort ist kurz."
+    },
+    {
+      "word": "der Text",
+      "meaning": "text",
+      "article": "der",
+      "plural": "die Texte",
+      "example": "Der Text ist lang."
+    },
+    {
+      "word": "buchstabieren",
+      "meaning": "to spell",
+      "example": "Können Sie das buchstabieren?"
+    },
+    {
+      "word": "schreiben",
+      "meaning": "to write",
+      "example": "Ich schreibe meinen Namen."
+    },
+    {
+      "word": "lesen",
+      "meaning": "to read",
+      "example": "Ich lese den Text."
+    },
+    {
+      "word": "fragen",
+      "meaning": "to ask",
+      "example": "Darf ich etwas fragen?"
+    },
+    {
+      "word": "antworten",
+      "meaning": "to answer",
+      "example": "Bitte antworten Sie."
+    },
+    {
+      "word": "die Antwort",
+      "meaning": "answer",
+      "article": "die",
+      "plural": "die Antworten",
+      "example": "Das ist die richtige Antwort."
+    },
+    {
+      "word": "richtig",
+      "meaning": "correct / right",
+      "example": "Ja, das ist richtig."
+    },
+    {
+      "word": "falsch",
+      "meaning": "wrong",
+      "example": "Nein, das ist falsch."
+    },
+    {
+      "word": "verstehen",
+      "meaning": "to understand",
+      "example": "Ich verstehe das nicht."
+    },
+    {
+      "word": "noch einmal",
+      "meaning": "once again",
+      "example": "Noch einmal, bitte."
+    },
+    {
+      "word": "langsam",
+      "meaning": "slow / slowly",
+      "example": "Bitte sprechen Sie langsam."
+    },
+    {
+      "word": "die Hausaufgabe",
+      "meaning": "homework",
+      "article": "die",
+      "plural": "die Hausaufgaben",
+      "example": "Wir machen Hausaufgaben."
+    },
+    {
+      "word": "der Stift",
+      "meaning": "pen",
+      "article": "der",
+      "plural": "die Stifte",
+      "example": "Das ist ein Stift."
+    },
+    {
+      "word": "das Papier",
+      "meaning": "paper",
+      "article": "das",
+      "plural": "die Papiere",
+      "example": "Ich brauche Papier."
+    },
+    {
+      "word": "das Heft",
+      "meaning": "notebook",
+      "article": "das",
+      "plural": "die Hefte",
+      "example": "Das Heft ist blau."
+    },
+    {
+      "word": "das Buch",
+      "meaning": "book",
+      "article": "das",
+      "plural": "die Bücher",
+      "example": "Das Buch ist gut."
+    },
+    {
+      "word": "der Tisch",
+      "meaning": "table",
+      "article": "der",
+      "plural": "die Tische",
+      "example": "Der Stift liegt auf dem Tisch."
+    },
+    {
+      "word": "der Stuhl",
+      "meaning": "chair",
+      "article": "der",
+      "plural": "die Stühle",
+      "example": "Der Stuhl ist bequem."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "The verb 'sein' (to be)",
+      "explanation": "The verb 'sein' is irregular. Memorize these forms first: ich bin (I am), du bist (you are), er/sie/es ist (he/she/it is), Sie sind (you are - formal).",
+      "examples": [
+        "Ich bin glücklich.",
+        "Bist du neu hier?",
+        "Sie ist aus Frankreich.",
+        "Sind Sie Herr Müller?"
+      ]
+    },
+    {
+      "topic": "The verb 'heißen' (to be called)",
+      "explanation": "A regular verb with a slight spelling change for 'du': ich heiße, du heißt, er/sie heißt, Sie heißen.",
+      "examples": [
+        "Ich heiße Clara.",
+        "Wie heißt du?",
+        "Er heißt Max."
+      ]
+    },
+    {
+      "topic": "The verb 'kommen' (to come)",
+      "explanation": "A completely regular verb: ich komme, du kommst, er/sie kommt, Sie kommen.",
+      "examples": [
+        "Ich komme aus Italien.",
+        "Woher kommst du?"
+      ]
+    },
+    {
+      "topic": "W-Questions",
+      "explanation": "Questions that ask for information start with a W-word. The verb is always in the second position.",
+      "examples": [
+        "Wie heißt du?",
+        "Wer ist das?",
+        "Woher kommen Sie?"
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "c1-fill-1",
+      "type": "fill_blank",
+      "prompt": "Guten Tag, ich ___ Peter.",
+      "answer": "bin",
+      "hint": "I am",
+      "topic": "sein"
+    },
+    {
+      "id": "c1-fill-2",
+      "type": "fill_blank",
+      "prompt": "Wie ___ Sie?",
+      "answer": "heißen",
+      "hint": "What are you called? (formal)",
+      "topic": "heißen"
+    },
+    {
+      "id": "c1-fill-3",
+      "type": "fill_blank",
+      "prompt": "Woher ___ du?",
+      "answer": "kommst",
+      "hint": "Where do you come from? (informal)",
+      "topic": "kommen"
+    },
+    {
+      "id": "c1-fill-4",
+      "type": "fill_blank",
+      "prompt": "Ich komme ___ Spanien.",
+      "answer": "aus",
+      "hint": "from",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c1-choice-1",
+      "type": "choice",
+      "prompt": "Choose the formal greeting.",
+      "options": [
+        "Hallo",
+        "Guten Tag",
+        "Tschüss",
+        "Hi"
+      ],
+      "answer": "Guten Tag",
+      "topic": "greetings"
+    },
+    {
+      "id": "c1-choice-2",
+      "type": "choice",
+      "prompt": "___ ist das? - Das ist Monika.",
+      "options": [
+        "Wie",
+        "Woher",
+        "Wer",
+        "Was"
+      ],
+      "answer": "Wer",
+      "topic": "W-Questions"
+    },
+    {
+      "id": "c1-order-1",
+      "type": "sentence_order",
+      "prompt": "Introduce yourself.",
+      "tokens": [
+        "heiße",
+        "Ich",
+        "Markus",
+        "."
+      ],
+      "answer": [
+        "Ich",
+        "heiße",
+        "Markus",
+        "."
+      ],
+      "topic": "Aussagen"
+    },
+    {
+      "id": "c1-order-2",
+      "type": "sentence_order",
+      "prompt": "Ask someone where they are from (formal).",
+      "tokens": [
+        "kommen",
+        "Sie",
+        "Woher",
+        "?"
+      ],
+      "answer": [
+        "Woher",
+        "kommen",
+        "Sie",
+        "?"
+      ],
+      "topic": "W-Questions"
+    }
+  ],
+  "games": [
+    {
+      "id": "c1-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "Good morning, Mrs. Schmidt.",
+      "tokens": [
+        "Guten",
+        "Morgen,",
+        "Frau",
+        "Schmidt."
+      ],
+      "answer": [
+        "Guten",
+        "Morgen,",
+        "Frau",
+        "Schmidt."
+      ]
+    },
+    {
+      "id": "c1-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "I come from Austria.",
+      "tokens": [
+        "komme",
+        "aus",
+        "Ich",
+        "Österreich."
+      ],
+      "answer": [
+        "Ich",
+        "komme",
+        "aus",
+        "Österreich."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c1-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'Wer bist du?' mean?",
+      "options": [
+        "Where are you from?",
+        "Who are you?",
+        "How are you?",
+        "What is your name?"
+      ],
+      "answer": "Who are you?",
+      "topic": "questions"
+    },
+    {
+      "id": "c1-quiz-2",
+      "type": "fill_blank",
+      "prompt": "Er ___ aus den USA.",
+      "answer": "kommt",
+      "topic": "verbs"
+    },
+    {
+      "id": "c1-quiz-3",
+      "type": "mcq",
+      "prompt": "Which phrase is a formal farewell?",
+      "options": [
+        "Auf Wiedersehen",
+        "Tschüss",
+        "Hallo",
+        "Gute Nacht"
+      ],
+      "answer": "Auf Wiedersehen",
+      "topic": "greetings"
+    },
+    {
+      "id": "c1-quiz-4",
+      "type": "fill_blank",
+      "prompt": "___ kommst du? - Aus Berlin.",
+      "answer": "Woher",
+      "topic": "questions"
+    }
+  ]
+}

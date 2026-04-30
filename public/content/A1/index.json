@@ -1,0 +1,102 @@
+{
+  "level": "A1",
+  "status": "Open",
+  "chapters": [
+    {
+      "id": "A1_01",
+      "file": "chapter1.json"
+    },
+    {
+      "id": "A1_02",
+      "file": "chapter2.json"
+    },
+    {
+      "id": "A1_03",
+      "file": "chapter3.json"
+    },
+    {
+      "id": "A1_04",
+      "file": "chapter4.json"
+    },
+    {
+      "id": "A1_05",
+      "file": "chapter5.json"
+    },
+    {
+      "id": "A1_06",
+      "file": "chapter6.json"
+    },
+    {
+      "id": "A1_07",
+      "file": "chapter7.json"
+    },
+    {
+      "id": "A1_08",
+      "file": "chapter8.json"
+    },
+    {
+      "id": "A1_09",
+      "file": "chapter9.json"
+    },
+    {
+      "id": "A1_10",
+      "file": "chapter10.json"
+    },
+    {
+      "id": "A1_11",
+      "file": "chapter11.json"
+    },
+    {
+      "id": "A1_12",
+      "file": "chapter12.json"
+    },
+    {
+      "id": "A1_13",
+      "file": "chapter13.json"
+    },
+    {
+      "id": "A1_14",
+      "file": "chapter14.json"
+    },
+    {
+      "id": "A1_15",
+      "file": "chapter15.json"
+    },
+    {
+      "id": "A1_16",
+      "file": "chapter16.json"
+    },
+    {
+      "id": "A1_17",
+      "file": "chapter17.json"
+    },
+    {
+      "id": "A1_18",
+      "file": "chapter18.json"
+    },
+    {
+      "id": "A1_19",
+      "file": "chapter19.json"
+    },
+    {
+      "id": "A1_20",
+      "file": "chapter20.json"
+    },
+    {
+      "id": "A1_21",
+      "file": "chapter21.json"
+    },
+    {
+      "id": "A1_22",
+      "file": "chapter22.json"
+    },
+    {
+      "id": "A1_23",
+      "file": "chapter23.json"
+    },
+    {
+      "id": "A1_24",
+      "file": "chapter24.json"
+    }
+  ]
+}

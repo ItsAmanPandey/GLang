@@ -1,0 +1,540 @@
+{
+  "id": "A1_Ch17",
+  "level": "A1",
+  "number": 17,
+  "title": "Digital und vernetzt",
+  "subtitle": "Media, Internet, and Modern Communication",
+  "focus": [
+    "Media",
+    "Communication",
+    "Internet",
+    "Opinions"
+  ],
+  "vocabulary": [
+    {
+      "word": "das Handy",
+      "meaning": "mobile phone",
+      "article": "das",
+      "plural": "die Handys",
+      "example": "Mein Handy klingelt."
+    },
+    {
+      "word": "das Smartphone",
+      "meaning": "smartphone",
+      "article": "das",
+      "plural": "die Smartphones",
+      "example": "Ich habe ein neues Smartphone."
+    },
+    {
+      "word": "der Computer",
+      "meaning": "computer",
+      "article": "der",
+      "plural": "die Computer",
+      "example": "Der Computer ist langsam."
+    },
+    {
+      "word": "der Laptop",
+      "meaning": "laptop",
+      "article": "der",
+      "plural": "die Laptops",
+      "example": "Ich arbeite am Laptop."
+    },
+    {
+      "word": "das Tablet",
+      "meaning": "tablet",
+      "article": "das",
+      "plural": "die Tablets",
+      "example": "Sie liest auf dem Tablet."
+    },
+    {
+      "word": "das Internet",
+      "meaning": "internet",
+      "article": "das",
+      "example": "Ich brauche Internet."
+    },
+    {
+      "word": "die Webseite",
+      "meaning": "website",
+      "article": "die",
+      "plural": "die Webseiten",
+      "example": "Die Webseite ist gut."
+    },
+    {
+      "word": "die App",
+      "meaning": "app",
+      "article": "die",
+      "plural": "die Apps",
+      "example": "Diese App ist nützlich."
+    },
+    {
+      "word": "die E-Mail",
+      "meaning": "email",
+      "article": "die",
+      "plural": "die E-Mails",
+      "example": "Ich schreibe eine E-Mail."
+    },
+    {
+      "word": "die Nachricht",
+      "meaning": "message/news",
+      "article": "die",
+      "plural": "die Nachrichten",
+      "example": "Hast du meine Nachricht gelesen?"
+    },
+    {
+      "word": "die SMS",
+      "meaning": "text message",
+      "article": "die",
+      "plural": "die SMS",
+      "example": "Schick mir eine SMS."
+    },
+    {
+      "word": "anrufen",
+      "meaning": "to call (phone)",
+      "example": "Ich rufe dich an."
+    },
+    {
+      "word": "telefonieren",
+      "meaning": "to talk on the phone",
+      "example": "Sie telefoniert gerade."
+    },
+    {
+      "word": "schicken",
+      "meaning": "to send",
+      "example": "Ich schicke dir ein Foto."
+    },
+    {
+      "word": "empfangen",
+      "meaning": "to receive",
+      "example": "Ich habe eine Nachricht empfangen."
+    },
+    {
+      "word": "herunterladen",
+      "meaning": "to download",
+      "example": "Ich lade die App herunter."
+    },
+    {
+      "word": "hochladen",
+      "meaning": "to upload",
+      "example": "Er lädt ein Video hoch."
+    },
+    {
+      "word": "posten",
+      "meaning": "to post (online)",
+      "example": "Sie postet ein Foto."
+    },
+    {
+      "word": "teilen",
+      "meaning": "to share",
+      "example": "Ich teile den Link mit dir."
+    },
+    {
+      "word": "suchen",
+      "meaning": "to search",
+      "example": "Ich suche im Internet."
+    },
+    {
+      "word": "finden",
+      "meaning": "to find",
+      "example": "Ich finde die Information online."
+    },
+    {
+      "word": "die Zeitung",
+      "meaning": "newspaper",
+      "article": "die",
+      "plural": "die Zeitungen",
+      "example": "Er liest die Zeitung."
+    },
+    {
+      "word": "die Zeitschrift",
+      "meaning": "magazine",
+      "article": "die",
+      "plural": "die Zeitschriften",
+      "example": "Die Zeitschrift ist interessant."
+    },
+    {
+      "word": "das Buch",
+      "meaning": "book",
+      "article": "das",
+      "plural": "die Bücher",
+      "example": "Ich lese ein Buch."
+    },
+    {
+      "word": "das Radio",
+      "meaning": "radio",
+      "article": "das",
+      "plural": "die Radios",
+      "example": "Ich höre Radio."
+    },
+    {
+      "word": "der Fernseher",
+      "meaning": "television set",
+      "article": "der",
+      "plural": "die Fernseher",
+      "example": "Der Fernseher ist an."
+    },
+    {
+      "word": "fernsehen",
+      "meaning": "to watch TV",
+      "example": "Abends sehe ich fern."
+    },
+    {
+      "word": "der Film",
+      "meaning": "film/movie",
+      "article": "der",
+      "plural": "die Filme",
+      "example": "Der Film war spannend."
+    },
+    {
+      "word": "die Sendung",
+      "meaning": "show/program",
+      "article": "die",
+      "plural": "die Sendungen",
+      "example": "Welche Sendung siehst du?"
+    },
+    {
+      "word": "die Nachrichten",
+      "meaning": "the news",
+      "article": "die",
+      "example": "Ich schaue die Nachrichten."
+    },
+    {
+      "word": "das Passwort",
+      "meaning": "password",
+      "article": "das",
+      "plural": "die Passwörter",
+      "example": "Ich habe mein Passwort vergessen."
+    },
+    {
+      "word": "das WLAN",
+      "meaning": "WiFi",
+      "article": "das",
+      "example": "Gibt es hier WLAN?"
+    },
+    {
+      "word": "der Drucker",
+      "meaning": "printer",
+      "article": "der",
+      "plural": "die Drucker",
+      "example": "Der Drucker funktioniert nicht."
+    },
+    {
+      "word": "drucken",
+      "meaning": "to print",
+      "example": "Ich drucke das Dokument."
+    },
+    {
+      "word": "speichern",
+      "meaning": "to save",
+      "example": "Speicher die Datei!"
+    },
+    {
+      "word": "löschen",
+      "meaning": "to delete",
+      "example": "Ich lösche die alte E-Mail."
+    },
+    {
+      "word": "die Datei",
+      "meaning": "file",
+      "article": "die",
+      "plural": "die Dateien",
+      "example": "Die Datei ist zu groß."
+    },
+    {
+      "word": "das Foto",
+      "meaning": "photo",
+      "article": "das",
+      "plural": "die Fotos",
+      "example": "Das Foto ist schön."
+    },
+    {
+      "word": "das Video",
+      "meaning": "video",
+      "article": "das",
+      "plural": "die Videos",
+      "example": "Schau dir das Video an."
+    },
+    {
+      "word": "online",
+      "meaning": "online",
+      "example": "Ich kaufe online ein."
+    },
+    {
+      "word": "nützlich",
+      "meaning": "useful",
+      "example": "Die App ist sehr nützlich."
+    },
+    {
+      "word": "schnell",
+      "meaning": "fast",
+      "example": "Das Internet ist schnell."
+    },
+    {
+      "word": "langsam",
+      "meaning": "slow",
+      "example": "Der Computer ist langsam."
+    },
+    {
+      "word": "kaputt",
+      "meaning": "broken",
+      "example": "Mein Handy ist kaputt."
+    },
+    {
+      "word": "neu",
+      "meaning": "new",
+      "example": "Ich brauche ein neues Handy."
+    },
+    {
+      "word": "alt",
+      "meaning": "old",
+      "example": "Der Laptop ist schon alt."
+    },
+    {
+      "word": "einfach",
+      "meaning": "easy/simple",
+      "example": "Die App ist einfach zu benutzen."
+    },
+    {
+      "word": "schwierig",
+      "meaning": "difficult",
+      "example": "Das Passwort ist schwierig."
+    },
+    {
+      "word": "kostenlos",
+      "meaning": "free (no cost)",
+      "example": "Die App ist kostenlos."
+    },
+    {
+      "word": "die Meinung",
+      "meaning": "opinion",
+      "article": "die",
+      "plural": "die Meinungen",
+      "example": "Was ist deine Meinung?"
+    },
+    {
+      "word": "meinen",
+      "meaning": "to think/mean",
+      "example": "Was meinst du?"
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Expressing Opinions",
+      "explanation": "To express your opinion in German, use phrases like 'Ich finde, dass...', 'Ich denke, dass...', 'Ich glaube, dass...', or 'Meiner Meinung nach...'. With 'dass', the verb goes to the end of the clause.",
+      "examples": [
+        "Ich finde, dass das Internet nützlich ist.",
+        "Ich denke, dass Handys wichtig sind.",
+        "Meiner Meinung nach ist das Buch gut.",
+        "Ich glaube, dass er recht hat."
+      ]
+    },
+    {
+      "topic": "More Separable Verbs",
+      "explanation": "Verbs like anrufen, fernsehen, herunterladen, and hochladen are separable. In the present tense, the prefix goes to the end. In the Perfekt, 'ge-' goes between the prefix and the stem.",
+      "examples": [
+        "Ich rufe dich morgen an.",
+        "Abends sehe ich oft fern.",
+        "Ich habe die App heruntergeladen.",
+        "Er hat ein Foto hochgeladen."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c17-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I call you tomorrow.",
+      "tokens": [
+        "Ich",
+        "rufe",
+        "dich",
+        "morgen",
+        "an.",
+        "auf."
+      ],
+      "answer": [
+        "Ich",
+        "rufe",
+        "dich",
+        "morgen",
+        "an."
+      ]
+    },
+    {
+      "id": "c17-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "The internet is fast.",
+      "tokens": [
+        "Das",
+        "Internet",
+        "ist",
+        "schnell.",
+        "langsam."
+      ],
+      "answer": [
+        "Das",
+        "Internet",
+        "ist",
+        "schnell."
+      ]
+    },
+    {
+      "id": "c17-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "I watch TV in the evening.",
+      "tokens": [
+        "Abends",
+        "sehe",
+        "ich",
+        "fern.",
+        "höre",
+        "Radio."
+      ],
+      "answer": [
+        "Abends",
+        "sehe",
+        "ich",
+        "fern."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c17-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'das Handy' mean in German?",
+      "options": [
+        "hand",
+        "mobile phone",
+        "glove",
+        "bag"
+      ],
+      "answer": "mobile phone",
+      "topic": "media"
+    },
+    {
+      "id": "c17-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you say 'I watch TV' using the separable verb?",
+      "options": [
+        "Ich sehe fern",
+        "Ich schaue Fernseher",
+        "Ich fernsehe",
+        "Ich TV sehe"
+      ],
+      "answer": "Ich sehe fern",
+      "topic": "verbs"
+    },
+    {
+      "id": "c17-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ dich morgen an. (call)",
+      "answer": "rufe",
+      "topic": "separable_verbs"
+    },
+    {
+      "id": "c17-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Die App ist ___. (free/no cost)",
+      "answer": "kostenlos",
+      "topic": "adjectives"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c17-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ dich morgen an. (call)",
+      "answer": "rufe",
+      "hint": "call",
+      "topic": "separable_verbs"
+    },
+    {
+      "id": "c17-fill-2",
+      "type": "fill_blank",
+      "prompt": "Abends ___ ich fern. (watch TV)",
+      "answer": "sehe",
+      "hint": "watch",
+      "topic": "separable_verbs"
+    },
+    {
+      "id": "c17-fill-3",
+      "type": "fill_blank",
+      "prompt": "Die App ist ___. (free/no cost)",
+      "answer": "kostenlos",
+      "hint": "free",
+      "topic": "adjectives"
+    },
+    {
+      "id": "c17-choice-1",
+      "type": "choice",
+      "prompt": "What is 'das WLAN'?",
+      "options": [
+        "cable",
+        "WiFi",
+        "Bluetooth",
+        "hotspot"
+      ],
+      "answer": "WiFi",
+      "topic": "media"
+    },
+    {
+      "id": "c17-choice-2",
+      "type": "choice",
+      "prompt": "What does 'herunterladen' mean?",
+      "options": [
+        "to upload",
+        "to download",
+        "to delete",
+        "to save"
+      ],
+      "answer": "to download",
+      "topic": "media"
+    },
+    {
+      "id": "c17-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: I send you a photo.",
+      "tokens": [
+        "Ich",
+        "schicke",
+        "dir",
+        "ein",
+        "Foto."
+      ],
+      "answer": [
+        "Ich",
+        "schicke",
+        "dir",
+        "ein",
+        "Foto."
+      ],
+      "topic": "communication"
+    },
+    {
+      "id": "c17-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: The computer is broken.",
+      "tokens": [
+        "Der",
+        "Computer",
+        "ist",
+        "kaputt."
+      ],
+      "answer": [
+        "Der",
+        "Computer",
+        "ist",
+        "kaputt."
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "c17-fill-4",
+      "type": "fill_blank",
+      "prompt": "Ich habe mein Passwort ___. (forgotten)",
+      "answer": "vergessen",
+      "hint": "forgotten",
+      "topic": "verbs"
+    }
+  ]
+}

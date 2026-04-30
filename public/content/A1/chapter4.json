@@ -1,0 +1,554 @@
+{
+  "id": "A1_04",
+  "level": "A1",
+  "number": 4,
+  "title": "Mein Tag",
+  "subtitle": "Time, Daily Routine, and Separable Verbs",
+  "focus": [
+    "Asking and telling the time",
+    "Days of the week and times of day",
+    "Talking about your daily routine",
+    "Using separable verbs (trennbare Verben)"
+  ],
+  "tips": [
+    {
+      "title": "Separable Verbs split up",
+      "body": "When using a separable verb like 'aufstehen' (to wake up) in a normal sentence, the prefix goes to the very end. Example: Ich stehe um 7 Uhr auf."
+    },
+    {
+      "title": "Time prepositions",
+      "body": "Use 'um' for exact times (um acht Uhr). Use 'am' for days of the week and parts of the day (am Montag, am Morgen)."
+    },
+    {
+      "title": "Invert the subject and verb",
+      "body": "If you start a sentence with time, the verb MUST stay in the second position. Example: 'Am Montag gehe ich zur Arbeit.' (NOT: Am Montag ich gehe...)"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "die Zeit",
+      "meaning": "time",
+      "article": "die",
+      "plural": "die Zeiten",
+      "example": "Ich habe keine Zeit."
+    },
+    {
+      "word": "die Uhr",
+      "meaning": "clock / o'clock",
+      "article": "die",
+      "plural": "die Uhren",
+      "example": "Es ist acht Uhr."
+    },
+    {
+      "word": "Viertel",
+      "meaning": "quarter",
+      "example": "Es ist Viertel nach acht."
+    },
+    {
+      "word": "halb",
+      "meaning": "half",
+      "example": "Es ist halb neun (8:30)."
+    },
+    {
+      "word": "nach",
+      "meaning": "past",
+      "example": "Zehn nach zwei."
+    },
+    {
+      "word": "vor",
+      "meaning": "to / before",
+      "example": "Viertel vor drei."
+    },
+    {
+      "word": "der Morgen",
+      "meaning": "morning",
+      "article": "der",
+      "plural": "die Morgen",
+      "example": "Am Morgen trinke ich Kaffee."
+    },
+    {
+      "word": "der Vormittag",
+      "meaning": "late morning",
+      "article": "der",
+      "plural": "die Vormittage",
+      "example": "Am Vormittag arbeite ich."
+    },
+    {
+      "word": "der Mittag",
+      "meaning": "noon",
+      "article": "der",
+      "plural": "die Mittage",
+      "example": "Am Mittag esse ich."
+    },
+    {
+      "word": "der Nachmittag",
+      "meaning": "afternoon",
+      "article": "der",
+      "plural": "die Nachmittage",
+      "example": "Am Nachmittag lerne ich Deutsch."
+    },
+    {
+      "word": "der Abend",
+      "meaning": "evening",
+      "article": "der",
+      "plural": "die Abende",
+      "example": "Am Abend sehe ich fern."
+    },
+    {
+      "word": "die Nacht",
+      "meaning": "night",
+      "article": "die",
+      "plural": "die Nächte",
+      "example": "In der Nacht schlafe ich."
+    },
+    {
+      "word": "der Montag",
+      "meaning": "Monday",
+      "article": "der",
+      "plural": "die Montage",
+      "example": "Am Montag gehe ich ins Büro."
+    },
+    {
+      "word": "der Dienstag",
+      "meaning": "Tuesday",
+      "article": "der",
+      "plural": "die Dienstage",
+      "example": "Dienstag ist der zweite Tag."
+    },
+    {
+      "word": "der Mittwoch",
+      "meaning": "Wednesday",
+      "article": "der",
+      "plural": "die Mittwoche",
+      "example": "Am Mittwoch mache ich Sport."
+    },
+    {
+      "word": "der Donnerstag",
+      "meaning": "Thursday",
+      "article": "der",
+      "plural": "die Donnerstage",
+      "example": "Am Donnerstag treffe ich Freunde."
+    },
+    {
+      "word": "der Freitag",
+      "meaning": "Friday",
+      "article": "der",
+      "plural": "die Freitage",
+      "example": "Freitag ist schön."
+    },
+    {
+      "word": "der Samstag",
+      "meaning": "Saturday",
+      "article": "der",
+      "plural": "die Samstage",
+      "example": "Am Samstag schlafe ich lange."
+    },
+    {
+      "word": "der Sonntag",
+      "meaning": "Sunday",
+      "article": "der",
+      "plural": "die Sonntage",
+      "example": "Am Sonntag arbeite ich nicht."
+    },
+    {
+      "word": "das Wochenende",
+      "meaning": "weekend",
+      "article": "das",
+      "plural": "die Wochenenden",
+      "example": "Schönes Wochenende!"
+    },
+    {
+      "word": "aufstehen",
+      "meaning": "to get up",
+      "example": "Ich stehe um sechs Uhr auf."
+    },
+    {
+      "word": "anfangen",
+      "meaning": "to start / begin",
+      "example": "Der Kurs fängt um neun Uhr an."
+    },
+    {
+      "word": "arbeiten",
+      "meaning": "to work",
+      "example": "Er arbeitet von 9 bis 17 Uhr."
+    },
+    {
+      "word": "einkaufen",
+      "meaning": "to shop",
+      "example": "Wir kaufen im Supermarkt ein."
+    },
+    {
+      "word": "fernsehen",
+      "meaning": "to watch TV",
+      "example": "Am Abend sehe ich fern."
+    },
+    {
+      "word": "schlafen",
+      "meaning": "to sleep",
+      "example": "Das Baby schläft."
+    },
+    {
+      "word": "machen",
+      "meaning": "to do / make",
+      "example": "Was machst du am Wochenende?"
+    },
+    {
+      "word": "gehen",
+      "meaning": "to go",
+      "example": "Ich gehe ins Kino."
+    },
+    {
+      "word": "spät",
+      "meaning": "late",
+      "example": "Wie spät ist es?"
+    },
+    {
+      "word": "früh",
+      "meaning": "early",
+      "example": "Ich stehe sehr früh auf."
+    },
+    {
+      "word": "von ... bis ...",
+      "meaning": "from ... to ...",
+      "example": "Ich arbeite von acht bis fünf."
+    },
+    {
+      "word": "der Tag",
+      "meaning": "day",
+      "article": "der",
+      "plural": "die Tage",
+      "example": "Ein schöner Tag."
+    },
+    {
+      "word": "die Woche",
+      "meaning": "week",
+      "article": "die",
+      "plural": "die Wochen",
+      "example": "Eine Woche hat sieben Tage."
+    },
+    {
+      "word": "der Monat",
+      "meaning": "month",
+      "article": "der",
+      "plural": "die Monate",
+      "example": "Der Monat hat 30 Tage."
+    },
+    {
+      "word": "das Jahr",
+      "meaning": "year",
+      "article": "das",
+      "plural": "die Jahre",
+      "example": "Ein Jahr hat 12 Monate."
+    },
+    {
+      "word": "die Minute",
+      "meaning": "minute",
+      "article": "die",
+      "plural": "die Minuten",
+      "example": "Warte eine Minute."
+    },
+    {
+      "word": "die Stunde",
+      "meaning": "hour",
+      "article": "die",
+      "plural": "die Stunden",
+      "example": "Der Film dauert zwei Stunden."
+    },
+    {
+      "word": "frühstücken",
+      "meaning": "to have breakfast",
+      "example": "Wir frühstücken um 8 Uhr."
+    },
+    {
+      "word": "aufräumen",
+      "meaning": "to clean up",
+      "example": "Ich räume mein Zimmer auf."
+    },
+    {
+      "word": "anrufen",
+      "meaning": "to call (phone)",
+      "example": "Ich rufe meine Mutter an."
+    },
+    {
+      "word": "zurückkommen",
+      "meaning": "to come back",
+      "example": "Wann kommst du zurück?"
+    },
+    {
+      "word": "der Termin",
+      "meaning": "appointment",
+      "article": "der",
+      "plural": "die Termine",
+      "example": "Ich habe einen Termin."
+    },
+    {
+      "word": "die Arbeit",
+      "meaning": "work",
+      "article": "die",
+      "plural": "die Arbeiten",
+      "example": "Die Arbeit ist anstrengend."
+    },
+    {
+      "word": "die Pause",
+      "meaning": "break",
+      "article": "die",
+      "plural": "die Pausen",
+      "example": "Wir machen jetzt eine Pause."
+    },
+    {
+      "word": "müde",
+      "meaning": "tired",
+      "example": "Ich bin sehr müde."
+    },
+    {
+      "word": "pünktlich",
+      "meaning": "punctual / on time",
+      "example": "Der Zug ist pünktlich."
+    },
+    {
+      "word": "das Frühstück",
+      "meaning": "breakfast",
+      "article": "das",
+      "plural": "die Frühstücke",
+      "example": "Das Frühstück ist fertig."
+    },
+    {
+      "word": "das Mittagessen",
+      "meaning": "lunch",
+      "article": "das",
+      "plural": "die Mittagessen",
+      "example": "Wir machen Mittagessen."
+    },
+    {
+      "word": "das Abendessen",
+      "meaning": "dinner",
+      "article": "das",
+      "plural": "die Abendessen",
+      "example": "Abendessen um sechs."
+    },
+    {
+      "word": "duschen",
+      "meaning": "to take a shower",
+      "example": "Ich dusche am Morgen."
+    },
+    {
+      "word": "aufwachen",
+      "meaning": "to wake up",
+      "example": "Ich wache früh auf."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Telling Time",
+      "explanation": "To ask the time: 'Wie spät ist es?' or 'Wie viel Uhr ist es?'. To answer: 'Es ist...'. Use 'vor' (to) and 'nach' (past). 'Halb' always looks to the next hour (halb acht = 7:30).",
+      "examples": [
+        "Es ist zehn Uhr.",
+        "Es ist Viertel nach drei (3:15).",
+        "Es ist halb fünf (4:30)."
+      ]
+    },
+    {
+      "topic": "Separable Verbs (Trennbare Verben)",
+      "explanation": "Some verbs have a prefix (auf, ein, an, fern). The prefix separates from the verb and goes to the END of the sentence.",
+      "examples": [
+        "aufstehen -> Ich stehe früh auf.",
+        "einkaufen -> Wir kaufen im Supermarkt ein.",
+        "anfangen -> Wann fängt der Film an?"
+      ]
+    },
+    {
+      "topic": "Time prepositions",
+      "explanation": "Use 'um' for exact clock times. Use 'am' for days and parts of the day (except 'in der Nacht').",
+      "examples": [
+        "um 8 Uhr",
+        "am Montag",
+        "am Vormittag",
+        "in der Nacht"
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "c4-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ um 7 Uhr auf.",
+      "answer": "stehe",
+      "hint": "The verb part of aufstehen.",
+      "topic": "separable verbs"
+    },
+    {
+      "id": "c4-fill-2",
+      "type": "fill_blank",
+      "prompt": "Der Film fängt um 20 Uhr ___.",
+      "answer": "an",
+      "hint": "The prefix of anfangen.",
+      "topic": "separable verbs"
+    },
+    {
+      "id": "c4-fill-3",
+      "type": "fill_blank",
+      "prompt": "Wir spielen ___ Samstag Fußball.",
+      "answer": "am",
+      "hint": "preposition for days",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c4-fill-4",
+      "type": "fill_blank",
+      "prompt": "Ich arbeite ___ acht Uhr.",
+      "answer": "um",
+      "hint": "preposition for exact time",
+      "topic": "prepositions"
+    },
+    {
+      "id": "c4-choice-1",
+      "type": "choice",
+      "prompt": "What time is 'halb acht'?",
+      "options": [
+        "8:30",
+        "7:30",
+        "8:00",
+        "7:00"
+      ],
+      "answer": "7:30",
+      "topic": "time"
+    },
+    {
+      "id": "c4-choice-2",
+      "type": "choice",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Ich am Montag gehe arbeiten.",
+        "Am Montag gehe ich arbeiten.",
+        "Am Montag ich gehe arbeiten.",
+        "Gehe ich am Montag arbeiten."
+      ],
+      "answer": "Am Montag gehe ich arbeiten.",
+      "topic": "word order"
+    },
+    {
+      "id": "c4-order-1",
+      "type": "sentence_order",
+      "prompt": "Say you go shopping at 4 pm.",
+      "tokens": [
+        "kaufe",
+        "um",
+        "Ich",
+        "ein",
+        "16 Uhr",
+        "."
+      ],
+      "answer": [
+        "Ich",
+        "kaufe",
+        "um",
+        "16 Uhr",
+        "ein",
+        "."
+      ],
+      "topic": "separable verbs"
+    },
+    {
+      "id": "c4-order-2",
+      "type": "sentence_order",
+      "prompt": "Ask for the time.",
+      "tokens": [
+        "es",
+        "spät",
+        "Wie",
+        "ist",
+        "?"
+      ],
+      "answer": [
+        "Wie",
+        "spät",
+        "ist",
+        "es",
+        "?"
+      ],
+      "topic": "time"
+    }
+  ],
+  "games": [
+    {
+      "id": "c4-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I watch TV in the evening.",
+      "tokens": [
+        "sehe",
+        "fern.",
+        "Am Abend",
+        "ich"
+      ],
+      "answer": [
+        "Am Abend",
+        "sehe",
+        "ich",
+        "fern."
+      ]
+    },
+    {
+      "id": "c4-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "The course starts at 9.",
+      "tokens": [
+        "Kurs",
+        "um",
+        "fängt",
+        "Der",
+        "9 Uhr",
+        "an."
+      ],
+      "answer": [
+        "Der",
+        "Kurs",
+        "fängt",
+        "um",
+        "9 Uhr",
+        "an."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c4-quiz-1",
+      "type": "mcq",
+      "prompt": "Which day comes after Dienstag?",
+      "options": [
+        "Montag",
+        "Donnerstag",
+        "Mittwoch",
+        "Freitag"
+      ],
+      "answer": "Mittwoch",
+      "topic": "days"
+    },
+    {
+      "id": "c4-quiz-2",
+      "type": "fill_blank",
+      "prompt": "Wie spät ___ es?",
+      "answer": "ist",
+      "topic": "time"
+    },
+    {
+      "id": "c4-quiz-3",
+      "type": "mcq",
+      "prompt": "Es ist 14:15. Es ist ___.",
+      "options": [
+        "Viertel nach zwei",
+        "Viertel vor drei",
+        "halb drei",
+        "Viertel vor zwei"
+      ],
+      "answer": "Viertel nach zwei",
+      "topic": "time"
+    },
+    {
+      "id": "c4-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Ich stehe um sechs Uhr ___.",
+      "answer": "auf",
+      "topic": "separable verbs"
+    }
+  ]
+}

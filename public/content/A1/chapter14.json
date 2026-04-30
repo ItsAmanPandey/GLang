@@ -1,0 +1,559 @@
+{
+  "id": "A1_Ch14",
+  "level": "A1",
+  "number": 14,
+  "title": "Eine Wohnung finden",
+  "subtitle": "Housing Search, Rent, and Furnishing a Home",
+  "focus": [
+    "Housing",
+    "Finding an Apartment",
+    "Furniture",
+    "Living Costs"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Wohnung",
+      "meaning": "apartment",
+      "article": "die",
+      "plural": "die Wohnungen",
+      "example": "Ich suche eine neue Wohnung."
+    },
+    {
+      "word": "das Haus",
+      "meaning": "house",
+      "article": "das",
+      "plural": "die Häuser",
+      "example": "Wir wohnen in einem Haus."
+    },
+    {
+      "word": "der Quadratmeter",
+      "meaning": "square meter",
+      "article": "der",
+      "plural": "die Quadratmeter",
+      "example": "Die Wohnung hat 80 Quadratmeter."
+    },
+    {
+      "word": "das Zimmer",
+      "meaning": "room",
+      "article": "das",
+      "plural": "die Zimmer",
+      "example": "Ich habe ein Zimmer gemietet."
+    },
+    {
+      "word": "der Balkon",
+      "meaning": "balcony",
+      "article": "der",
+      "plural": "die Balkone",
+      "example": "Meine Wohnung hat einen Balkon."
+    },
+    {
+      "word": "die Miete",
+      "meaning": "rent",
+      "article": "die",
+      "plural": "die Mieten",
+      "example": "Die Miete ist sehr hoch."
+    },
+    {
+      "word": "die Kaution",
+      "meaning": "deposit",
+      "article": "die",
+      "plural": "die Kautionen",
+      "example": "Du musst eine Kaution bezahlen."
+    },
+    {
+      "word": "die Nebenkosten",
+      "meaning": "additional costs/utilities",
+      "article": "die",
+      "plural": "-",
+      "example": "Wie hoch sind die Nebenkosten?"
+    },
+    {
+      "word": "der Vermieter",
+      "meaning": "landlord",
+      "article": "der",
+      "plural": "die Vermieter",
+      "example": "Der Vermieter ist freundlich."
+    },
+    {
+      "word": "der Mieter",
+      "meaning": "tenant",
+      "article": "der",
+      "plural": "die Mieter",
+      "example": "Der Mieter zahlt pünktlich."
+    },
+    {
+      "word": "mieten",
+      "meaning": "to rent (as tenant)",
+      "example": "Wir mieten ein Haus."
+    },
+    {
+      "word": "vermieten",
+      "meaning": "to rent out",
+      "example": "Er vermietet seine Wohnung."
+    },
+    {
+      "word": "umziehen",
+      "meaning": "to move (house)",
+      "example": "Ich ziehe nächsten Monat um."
+    },
+    {
+      "word": "der Umzug",
+      "meaning": "the move/relocation",
+      "article": "der",
+      "plural": "die Umzüge",
+      "example": "Der Umzug war sehr stressig."
+    },
+    {
+      "word": "einrichten",
+      "meaning": "to furnish/decorate",
+      "example": "Ich richte mein Zimmer neu ein."
+    },
+    {
+      "word": "die Anzeige",
+      "meaning": "advertisement",
+      "article": "die",
+      "plural": "die Anzeigen",
+      "example": "Ich habe die Anzeige im Internet gelesen."
+    },
+    {
+      "word": "hell",
+      "meaning": "bright",
+      "example": "Das Wohnzimmer ist sehr hell."
+    },
+    {
+      "word": "dunkel",
+      "meaning": "dark",
+      "example": "Der Flur ist dunkel."
+    },
+    {
+      "word": "ruhig",
+      "meaning": "quiet",
+      "example": "Die Straße ist sehr ruhig."
+    },
+    {
+      "word": "laut",
+      "meaning": "loud/noisy",
+      "example": "Die Nachbarn sind laut."
+    },
+    {
+      "word": "teuer",
+      "meaning": "expensive",
+      "example": "Die Miete in München ist teuer."
+    },
+    {
+      "word": "billig",
+      "meaning": "cheap",
+      "example": "Das Zimmer ist billig."
+    },
+    {
+      "word": "günstig",
+      "meaning": "affordable",
+      "example": "Wir haben eine günstige Wohnung gefunden."
+    },
+    {
+      "word": "groß",
+      "meaning": "big",
+      "example": "Die Küche ist groß."
+    },
+    {
+      "word": "klein",
+      "meaning": "small",
+      "example": "Mein Bad ist zu klein."
+    },
+    {
+      "word": "das Wohnzimmer",
+      "meaning": "living room",
+      "article": "das",
+      "plural": "die Wohnzimmer",
+      "example": "Wir sitzen oft im Wohnzimmer."
+    },
+    {
+      "word": "das Schlafzimmer",
+      "meaning": "bedroom",
+      "article": "das",
+      "plural": "die Schlafzimmer",
+      "example": "Im Schlafzimmer steht ein großes Bett."
+    },
+    {
+      "word": "die Küche",
+      "meaning": "kitchen",
+      "article": "die",
+      "plural": "die Küchen",
+      "example": "Die Küche hat einen Herd."
+    },
+    {
+      "word": "das Badezimmer",
+      "meaning": "bathroom",
+      "article": "das",
+      "plural": "die Badezimmer",
+      "example": "Das Badezimmer hat kein Fenster."
+    },
+    {
+      "word": "der Flur",
+      "meaning": "hallway",
+      "article": "der",
+      "plural": "die Flure",
+      "example": "Lass die Schuhe im Flur."
+    },
+    {
+      "word": "der Keller",
+      "meaning": "basement/cellar",
+      "article": "der",
+      "plural": "die Keller",
+      "example": "Die Waschmaschine steht im Keller."
+    },
+    {
+      "word": "das Erdgeschoss",
+      "meaning": "ground floor",
+      "article": "das",
+      "plural": "die Erdgeschosse",
+      "example": "Die Wohnung ist im Erdgeschoss."
+    },
+    {
+      "word": "der Stock",
+      "meaning": "floor/story",
+      "article": "der",
+      "plural": "die Stockwerke",
+      "example": "Ich wohne im dritten Stock."
+    },
+    {
+      "word": "der Aufzug",
+      "meaning": "elevator",
+      "article": "der",
+      "plural": "die Aufzüge",
+      "example": "Zum Glück gibt es einen Aufzug."
+    },
+    {
+      "word": "das Möbel",
+      "meaning": "furniture",
+      "article": "das",
+      "plural": "die Möbel",
+      "example": "Wir brauchen neue Möbel."
+    },
+    {
+      "word": "der Schrank",
+      "meaning": "closet/cabinet",
+      "article": "der",
+      "plural": "die Schränke",
+      "example": "Der Schrank ist aus Holz."
+    },
+    {
+      "word": "das Bett",
+      "meaning": "bed",
+      "article": "das",
+      "plural": "die Betten",
+      "example": "Das Bett ist bequem."
+    },
+    {
+      "word": "der Tisch",
+      "meaning": "table",
+      "article": "der",
+      "plural": "die Tische",
+      "example": "Der Tisch ist neu."
+    },
+    {
+      "word": "der Stuhl",
+      "meaning": "chair",
+      "article": "der",
+      "plural": "die Stühle",
+      "example": "Wir brauchen vier Stühle."
+    },
+    {
+      "word": "das Sofa",
+      "meaning": "sofa",
+      "article": "das",
+      "plural": "die Sofas",
+      "example": "Das Sofa ist sehr weich."
+    },
+    {
+      "word": "der Sessel",
+      "meaning": "armchair",
+      "article": "der",
+      "plural": "die Sessel",
+      "example": "Opa sitzt im Sessel."
+    },
+    {
+      "word": "der Teppich",
+      "meaning": "carpet/rug",
+      "article": "der",
+      "plural": "die Teppiche",
+      "example": "Der Teppich ist rot."
+    },
+    {
+      "word": "die Lampe",
+      "meaning": "lamp",
+      "article": "die",
+      "plural": "die Lampen",
+      "example": "Mach bitte die Lampe an."
+    },
+    {
+      "word": "das Bild",
+      "meaning": "picture",
+      "article": "das",
+      "plural": "die Bilder",
+      "example": "Das Bild gefällt mir."
+    },
+    {
+      "word": "stellen",
+      "meaning": "to place (upright)",
+      "example": "Ich stelle die Vase auf den Tisch."
+    },
+    {
+      "word": "legen",
+      "meaning": "to lay (flat)",
+      "example": "Ich lege das Buch auf das Bett."
+    },
+    {
+      "word": "hängen",
+      "meaning": "to hang",
+      "example": "Ich hänge das Bild an die Wand."
+    },
+    {
+      "word": "stehen",
+      "meaning": "to stand",
+      "example": "Der Schrank steht in der Ecke."
+    },
+    {
+      "word": "liegen",
+      "meaning": "to lie",
+      "example": "Der Teppich liegt auf dem Boden."
+    },
+    {
+      "word": "der Schlüssel",
+      "meaning": "key",
+      "article": "der",
+      "plural": "die Schlüssel",
+      "example": "Hier ist dein Wohnungsschlüssel."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Prepositions with Accusative (Movement)",
+      "explanation": "When indicating movement to a place (where to?), two-way prepositions take the Accusative case (den, die, das, die). E.g. 'Ich stelle die Lampe auf den Tisch' (I place the lamp onto the table).",
+      "examples": [
+        "Ich stelle die Lampe auf den Tisch.",
+        "Er legt das Buch auf das Regal.",
+        "Sie hängt das Bild an die Wand.",
+        "Wir stellen den Schrank in die Ecke."
+      ]
+    },
+    {
+      "topic": "Ordinal Numbers for Floors",
+      "explanation": "To say which floor you live on, use 'im' + ordinal number. 'im ersten Stock' (on the first floor), 'im zweiten Stock' (on the second floor).",
+      "examples": [
+        "Ich wohne im ersten Stock.",
+        "Das Büro ist im zweiten Stock.",
+        "Die Wohnung im dritten Stock ist frei.",
+        "Der Aufzug fährt bis zum vierten Stock."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "game_14_0",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I am looking for a new apartment.",
+      "tokens": [
+        "Ich",
+        "suche",
+        "eine",
+        "neue",
+        "Wohnung.",
+        "Haus."
+      ],
+      "answer": [
+        "Ich",
+        "suche",
+        "eine",
+        "neue",
+        "Wohnung."
+      ]
+    },
+    {
+      "id": "game_14_1",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: The rent is very high.",
+      "tokens": [
+        "Die",
+        "Miete",
+        "ist",
+        "sehr",
+        "hoch.",
+        "billig."
+      ],
+      "answer": [
+        "Die",
+        "Miete",
+        "ist",
+        "sehr",
+        "hoch."
+      ]
+    },
+    {
+      "id": "game_14_2",
+      "type": "sentenceBuilder",
+      "prompt": "Translate: I live on the third floor.",
+      "tokens": [
+        "Ich",
+        "wohne",
+        "im",
+        "dritten",
+        "Stock.",
+        "zweiten"
+      ],
+      "answer": [
+        "Ich",
+        "wohne",
+        "im",
+        "dritten",
+        "Stock."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c14-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'die Miete' mean?",
+      "options": [
+        "the deposit",
+        "the rent",
+        "the bill",
+        "the key"
+      ],
+      "answer": "the rent",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-quiz-2",
+      "type": "mcq",
+      "prompt": "What is 'der Aufzug'?",
+      "options": [
+        "staircase",
+        "balcony",
+        "elevator",
+        "basement"
+      ],
+      "answer": "elevator",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich suche eine neue ___.",
+      "answer": "Wohnung",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Ich wohne im dritten ___.",
+      "answer": "Stock",
+      "topic": "housing"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c14-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich suche eine neue ___.",
+      "answer": "Wohnung",
+      "hint": "apartment",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-fill-2",
+      "type": "fill_blank",
+      "prompt": "Die ___ ist sehr hoch. (rent)",
+      "answer": "Miete",
+      "hint": "rent",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-fill-3",
+      "type": "fill_blank",
+      "prompt": "Ich wohne im dritten ___.",
+      "answer": "Stock",
+      "hint": "floor",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-choice-1",
+      "type": "choice",
+      "prompt": "What is 'der Aufzug'?",
+      "options": [
+        "stairs",
+        "balcony",
+        "elevator",
+        "basement"
+      ],
+      "answer": "elevator",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-choice-2",
+      "type": "choice",
+      "prompt": "What does 'umziehen' mean?",
+      "options": [
+        "to renovate",
+        "to move house",
+        "to decorate",
+        "to clean"
+      ],
+      "answer": "to move house",
+      "topic": "housing"
+    },
+    {
+      "id": "c14-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: The apartment has a balcony.",
+      "tokens": [
+        "Die",
+        "Wohnung",
+        "hat",
+        "einen",
+        "Balkon."
+      ],
+      "answer": [
+        "Die",
+        "Wohnung",
+        "hat",
+        "einen",
+        "Balkon."
+      ],
+      "topic": "housing"
+    },
+    {
+      "id": "c14-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: I put the lamp on the table.",
+      "tokens": [
+        "Ich",
+        "stelle",
+        "die",
+        "Lampe",
+        "auf",
+        "den",
+        "Tisch."
+      ],
+      "answer": [
+        "Ich",
+        "stelle",
+        "die",
+        "Lampe",
+        "auf",
+        "den",
+        "Tisch."
+      ],
+      "topic": "furniture"
+    },
+    {
+      "id": "c14-fill-4",
+      "type": "fill_blank",
+      "prompt": "Das Wohnzimmer ist sehr ___. (bright)",
+      "answer": "hell",
+      "hint": "bright",
+      "topic": "adjectives"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "id": "A1_Ch16",
+  "level": "A1",
+  "number": 16,
+  "title": "Feiern und Traditionen",
+  "subtitle": "Festivals, Holidays, and German Customs",
+  "focus": [
+    "Festivities",
+    "Holidays",
+    "Traditions",
+    "Invitations"
+  ],
+  "vocabulary": [
+    {
+      "word": "das Fest",
+      "meaning": "celebration/festival",
+      "article": "das",
+      "plural": "die Feste",
+      "example": "Das Fest war wunderbar."
+    },
+    {
+      "word": "der Feiertag",
+      "meaning": "public holiday",
+      "article": "der",
+      "plural": "die Feiertage",
+      "example": "Morgen ist ein Feiertag."
+    },
+    {
+      "word": "Weihnachten",
+      "meaning": "Christmas",
+      "example": "An Weihnachten besuchen wir die Familie."
+    },
+    {
+      "word": "Ostern",
+      "meaning": "Easter",
+      "example": "Zu Ostern suchen die Kinder Eier."
+    },
+    {
+      "word": "Silvester",
+      "meaning": "New Year's Eve",
+      "example": "An Silvester gibt es Feuerwerk."
+    },
+    {
+      "word": "der Geburtstag",
+      "meaning": "birthday",
+      "article": "der",
+      "plural": "die Geburtstage",
+      "example": "Herzlichen Glückwunsch zum Geburtstag!"
+    },
+    {
+      "word": "die Party",
+      "meaning": "party",
+      "article": "die",
+      "plural": "die Partys",
+      "example": "Wir machen eine Party."
+    },
+    {
+      "word": "die Hochzeit",
+      "meaning": "wedding",
+      "article": "die",
+      "plural": "die Hochzeiten",
+      "example": "Die Hochzeit ist im Juni."
+    },
+    {
+      "word": "die Einladung",
+      "meaning": "invitation",
+      "article": "die",
+      "plural": "die Einladungen",
+      "example": "Danke für die Einladung!"
+    },
+    {
+      "word": "einladen",
+      "meaning": "to invite",
+      "example": "Ich lade dich ein."
+    },
+    {
+      "word": "feiern",
+      "meaning": "to celebrate",
+      "example": "Wir feiern heute Abend."
+    },
+    {
+      "word": "gratulieren",
+      "meaning": "to congratulate",
+      "example": "Ich gratuliere dir!"
+    },
+    {
+      "word": "schenken",
+      "meaning": "to give (a gift)",
+      "example": "Was schenkst du ihr?"
+    },
+    {
+      "word": "das Geschenk",
+      "meaning": "gift/present",
+      "article": "das",
+      "plural": "die Geschenke",
+      "example": "Das Geschenk ist schön verpackt."
+    },
+    {
+      "word": "die Überraschung",
+      "meaning": "surprise",
+      "article": "die",
+      "plural": "die Überraschungen",
+      "example": "Das ist eine Überraschung!"
+    },
+    {
+      "word": "der Kuchen",
+      "meaning": "cake",
+      "article": "der",
+      "plural": "die Kuchen",
+      "example": "Ich backe einen Kuchen."
+    },
+    {
+      "word": "die Kerze",
+      "meaning": "candle",
+      "article": "die",
+      "plural": "die Kerzen",
+      "example": "Blas die Kerzen aus!"
+    },
+    {
+      "word": "die Dekoration",
+      "meaning": "decoration",
+      "article": "die",
+      "plural": "die Dekorationen",
+      "example": "Die Dekoration ist schön."
+    },
+    {
+      "word": "schmücken",
+      "meaning": "to decorate",
+      "example": "Wir schmücken den Weihnachtsbaum."
+    },
+    {
+      "word": "der Weihnachtsbaum",
+      "meaning": "Christmas tree",
+      "article": "der",
+      "plural": "die Weihnachtsbäume",
+      "example": "Der Weihnachtsbaum ist groß."
+    },
+    {
+      "word": "der Adventskalender",
+      "meaning": "advent calendar",
+      "article": "der",
+      "plural": "die Adventskalender",
+      "example": "Kinder lieben den Adventskalender."
+    },
+    {
+      "word": "das Feuerwerk",
+      "meaning": "fireworks",
+      "article": "das",
+      "plural": "die Feuerwerke",
+      "example": "Das Feuerwerk ist laut."
+    },
+    {
+      "word": "das Neujahr",
+      "meaning": "New Year",
+      "article": "das",
+      "example": "Frohes Neujahr!"
+    },
+    {
+      "word": "der Karneval",
+      "meaning": "carnival",
+      "article": "der",
+      "example": "Im Karneval verkleiden wir uns."
+    },
+    {
+      "word": "das Kostüm",
+      "meaning": "costume",
+      "article": "das",
+      "plural": "die Kostüme",
+      "example": "Mein Kostüm ist ein Pirat."
+    },
+    {
+      "word": "sich verkleiden",
+      "meaning": "to dress up",
+      "example": "Die Kinder verkleiden sich."
+    },
+    {
+      "word": "tanzen",
+      "meaning": "to dance",
+      "example": "Wir tanzen die ganze Nacht."
+    },
+    {
+      "word": "singen",
+      "meaning": "to sing",
+      "example": "Wir singen Weihnachtslieder."
+    },
+    {
+      "word": "das Lied",
+      "meaning": "song",
+      "article": "das",
+      "plural": "die Lieder",
+      "example": "Kennst du dieses Lied?"
+    },
+    {
+      "word": "die Musik",
+      "meaning": "music",
+      "article": "die",
+      "example": "Die Musik ist toll."
+    },
+    {
+      "word": "der Gast",
+      "meaning": "guest",
+      "article": "der",
+      "plural": "die Gäste",
+      "example": "Die Gäste kommen um acht."
+    },
+    {
+      "word": "der Gastgeber",
+      "meaning": "host",
+      "article": "der",
+      "plural": "die Gastgeber",
+      "example": "Der Gastgeber begrüßt alle."
+    },
+    {
+      "word": "willkommen",
+      "meaning": "welcome",
+      "example": "Herzlich willkommen!"
+    },
+    {
+      "word": "sich freuen",
+      "meaning": "to be happy/look forward to",
+      "example": "Ich freue mich auf die Party."
+    },
+    {
+      "word": "wünschen",
+      "meaning": "to wish",
+      "example": "Ich wünsche dir alles Gute!"
+    },
+    {
+      "word": "das Essen",
+      "meaning": "food/meal",
+      "article": "das",
+      "plural": "die Essen",
+      "example": "Das Essen schmeckt gut."
+    },
+    {
+      "word": "das Getränk",
+      "meaning": "drink/beverage",
+      "article": "das",
+      "plural": "die Getränke",
+      "example": "Was für Getränke gibt es?"
+    },
+    {
+      "word": "anstoßen",
+      "meaning": "to toast/clink glasses",
+      "example": "Lasst uns anstoßen!"
+    },
+    {
+      "word": "der Sekt",
+      "meaning": "sparkling wine",
+      "article": "der",
+      "example": "Wir trinken Sekt um Mitternacht."
+    },
+    {
+      "word": "Prost!",
+      "meaning": "Cheers!",
+      "example": "Prost, auf das neue Jahr!"
+    },
+    {
+      "word": "die Tradition",
+      "meaning": "tradition",
+      "article": "die",
+      "plural": "die Traditionen",
+      "example": "Das ist eine alte Tradition."
+    },
+    {
+      "word": "der Brauch",
+      "meaning": "custom",
+      "article": "der",
+      "plural": "die Bräuche",
+      "example": "Das ist ein schöner Brauch."
+    },
+    {
+      "word": "die Karte",
+      "meaning": "card",
+      "article": "die",
+      "plural": "die Karten",
+      "example": "Ich schreibe eine Karte."
+    },
+    {
+      "word": "der Ballon",
+      "meaning": "balloon",
+      "article": "der",
+      "plural": "die Ballons",
+      "example": "Wir brauchen noch Ballons."
+    },
+    {
+      "word": "die Blume",
+      "meaning": "flower",
+      "article": "die",
+      "plural": "die Blumen",
+      "example": "Ich bringe Blumen mit."
+    },
+    {
+      "word": "mitbringen",
+      "meaning": "to bring along",
+      "example": "Was soll ich mitbringen?"
+    },
+    {
+      "word": "vorbereiten",
+      "meaning": "to prepare",
+      "example": "Wir bereiten alles vor."
+    },
+    {
+      "word": "aufräumen",
+      "meaning": "to tidy up",
+      "example": "Nach der Party räumen wir auf."
+    },
+    {
+      "word": "genießen",
+      "meaning": "to enjoy",
+      "example": "Genieß den Abend!"
+    },
+    {
+      "word": "zusammen",
+      "meaning": "together",
+      "example": "Wir feiern zusammen."
+    },
+    {
+      "word": "gemeinsam",
+      "meaning": "together/jointly",
+      "example": "Wir kochen gemeinsam."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Reflexive Verbs",
+      "explanation": "Some German verbs are reflexive and need a reflexive pronoun: mich, dich, sich, uns, euch, sich. E.g. 'Ich freue mich' (I am happy). The pronoun changes based on the subject.",
+      "examples": [
+        "Ich freue mich auf die Party.",
+        "Er verkleidet sich als Pirat.",
+        "Wir freuen uns auf Weihnachten.",
+        "Freust du dich?"
+      ]
+    },
+    {
+      "topic": "Separable Verbs in Context",
+      "explanation": "Verbs like einladen, mitbringen, aufräumen, anstoßen, and vorbereiten are separable. In the present tense, the prefix goes to the end.",
+      "examples": [
+        "Ich lade dich zur Party ein.",
+        "Bringst du einen Kuchen mit?",
+        "Wir stoßen um Mitternacht an.",
+        "Sie räumt nach der Party auf."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c16-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I invite you to the party.",
+      "tokens": [
+        "Ich",
+        "lade",
+        "dich",
+        "zur",
+        "Party",
+        "ein.",
+        "aus."
+      ],
+      "answer": [
+        "Ich",
+        "lade",
+        "dich",
+        "zur",
+        "Party",
+        "ein."
+      ]
+    },
+    {
+      "id": "c16-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "Happy birthday!",
+      "tokens": [
+        "Herzlichen",
+        "Glückwunsch",
+        "zum",
+        "Geburtstag!",
+        "Neujahr!"
+      ],
+      "answer": [
+        "Herzlichen",
+        "Glückwunsch",
+        "zum",
+        "Geburtstag!"
+      ]
+    },
+    {
+      "id": "c16-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "We celebrate together.",
+      "tokens": [
+        "Wir",
+        "feiern",
+        "zusammen.",
+        "allein.",
+        "gemeinsam."
+      ],
+      "answer": [
+        "Wir",
+        "feiern",
+        "zusammen."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c16-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'Herzlichen Glückwunsch' mean?",
+      "options": [
+        "Merry Christmas",
+        "Happy birthday/Congratulations",
+        "Happy New Year",
+        "Welcome"
+      ],
+      "answer": "Happy birthday/Congratulations",
+      "topic": "greetings"
+    },
+    {
+      "id": "c16-quiz-2",
+      "type": "mcq",
+      "prompt": "What does 'schenken' mean?",
+      "options": [
+        "to buy",
+        "to wrap",
+        "to give a gift",
+        "to open"
+      ],
+      "answer": "to give a gift",
+      "topic": "verbs"
+    },
+    {
+      "id": "c16-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ mich auf die Party. (look forward to)",
+      "answer": "freue",
+      "topic": "reflexive"
+    },
+    {
+      "id": "c16-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Wir schmücken den ___. (Christmas tree)",
+      "answer": "Weihnachtsbaum",
+      "topic": "holidays"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c16-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ dich zur Party ein.",
+      "answer": "lade",
+      "hint": "invite",
+      "topic": "separable_verbs"
+    },
+    {
+      "id": "c16-fill-2",
+      "type": "fill_blank",
+      "prompt": "Wir schmücken den ___. (Christmas tree)",
+      "answer": "Weihnachtsbaum",
+      "hint": "Christmas tree",
+      "topic": "holidays"
+    },
+    {
+      "id": "c16-fill-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ mich auf die Party.",
+      "answer": "freue",
+      "hint": "look forward to",
+      "topic": "reflexive"
+    },
+    {
+      "id": "c16-choice-1",
+      "type": "choice",
+      "prompt": "What does 'schenken' mean?",
+      "options": [
+        "to buy",
+        "to wrap",
+        "to give a gift",
+        "to open"
+      ],
+      "answer": "to give a gift",
+      "topic": "verbs"
+    },
+    {
+      "id": "c16-choice-2",
+      "type": "choice",
+      "prompt": "When is Silvester?",
+      "options": [
+        "December 24",
+        "December 25",
+        "December 31",
+        "January 1"
+      ],
+      "answer": "December 31",
+      "topic": "holidays"
+    },
+    {
+      "id": "c16-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: Happy birthday!",
+      "tokens": [
+        "Herzlichen",
+        "Glückwunsch",
+        "zum",
+        "Geburtstag!"
+      ],
+      "answer": [
+        "Herzlichen",
+        "Glückwunsch",
+        "zum",
+        "Geburtstag!"
+      ],
+      "topic": "greetings"
+    },
+    {
+      "id": "c16-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: We celebrate together.",
+      "tokens": [
+        "Wir",
+        "feiern",
+        "zusammen."
+      ],
+      "answer": [
+        "Wir",
+        "feiern",
+        "zusammen."
+      ],
+      "topic": "celebrations"
+    },
+    {
+      "id": "c16-fill-4",
+      "type": "fill_blank",
+      "prompt": "Was ___ du ihr? (give as gift)",
+      "answer": "schenkst",
+      "hint": "give as gift",
+      "topic": "verbs"
+    }
+  ]
+}

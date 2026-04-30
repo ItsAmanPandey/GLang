@@ -1,0 +1,538 @@
+{
+  "id": "A1_Ch22",
+  "level": "A1",
+  "number": 22,
+  "title": "Unterwegs im Urlaub",
+  "subtitle": "Travel Planning, Hotels, and Comparisons",
+  "focus": [
+    "Travel Planning",
+    "Hotel",
+    "Vacation Activities",
+    "Comparisons"
+  ],
+  "vocabulary": [
+    {
+      "word": "die Reise",
+      "meaning": "trip/journey",
+      "article": "die",
+      "plural": "die Reisen",
+      "example": "Die Reise war toll."
+    },
+    {
+      "word": "der Urlaub",
+      "meaning": "vacation",
+      "article": "der",
+      "plural": "die Urlaube",
+      "example": "Ich fahre in den Urlaub."
+    },
+    {
+      "word": "reisen",
+      "meaning": "to travel",
+      "example": "Ich reise gern."
+    },
+    {
+      "word": "das Hotel",
+      "meaning": "hotel",
+      "article": "das",
+      "plural": "die Hotels",
+      "example": "Das Hotel ist am Strand."
+    },
+    {
+      "word": "die Pension",
+      "meaning": "guesthouse",
+      "article": "die",
+      "plural": "die Pensionen",
+      "example": "Die Pension ist günstiger."
+    },
+    {
+      "word": "die Jugendherberge",
+      "meaning": "youth hostel",
+      "article": "die",
+      "plural": "die Jugendherbergen",
+      "example": "Wir übernachten in der Jugendherberge."
+    },
+    {
+      "word": "das Einzelzimmer",
+      "meaning": "single room",
+      "article": "das",
+      "plural": "die Einzelzimmer",
+      "example": "Ich brauche ein Einzelzimmer."
+    },
+    {
+      "word": "das Doppelzimmer",
+      "meaning": "double room",
+      "article": "das",
+      "plural": "die Doppelzimmer",
+      "example": "Ein Doppelzimmer mit Frühstück bitte."
+    },
+    {
+      "word": "buchen",
+      "meaning": "to book",
+      "example": "Ich buche online."
+    },
+    {
+      "word": "übernachten",
+      "meaning": "to stay overnight",
+      "example": "Wo übernachten wir?"
+    },
+    {
+      "word": "das Frühstück",
+      "meaning": "breakfast",
+      "article": "das",
+      "example": "Das Frühstück ist inklusive."
+    },
+    {
+      "word": "das Mittagessen",
+      "meaning": "lunch",
+      "article": "das",
+      "example": "Um 12 Uhr gibt es Mittagessen."
+    },
+    {
+      "word": "das Abendessen",
+      "meaning": "dinner",
+      "article": "das",
+      "example": "Zum Abendessen gehen wir aus."
+    },
+    {
+      "word": "der Koffer",
+      "meaning": "suitcase",
+      "article": "der",
+      "plural": "die Koffer",
+      "example": "Mein Koffer ist schwer."
+    },
+    {
+      "word": "der Rucksack",
+      "meaning": "backpack",
+      "article": "der",
+      "plural": "die Rucksäcke",
+      "example": "Nimm den Rucksack mit."
+    },
+    {
+      "word": "packen",
+      "meaning": "to pack",
+      "example": "Ich muss noch packen."
+    },
+    {
+      "word": "der Reisepass",
+      "meaning": "passport",
+      "article": "der",
+      "plural": "die Reisepässe",
+      "example": "Hast du deinen Reisepass?"
+    },
+    {
+      "word": "der Ausweis",
+      "meaning": "ID card",
+      "article": "der",
+      "plural": "die Ausweise",
+      "example": "Zeigen Sie Ihren Ausweis."
+    },
+    {
+      "word": "die Landkarte",
+      "meaning": "map",
+      "article": "die",
+      "plural": "die Landkarten",
+      "example": "Schau auf die Landkarte."
+    },
+    {
+      "word": "der Strand",
+      "meaning": "beach",
+      "article": "der",
+      "plural": "die Strände",
+      "example": "Der Strand ist schön."
+    },
+    {
+      "word": "das Meer",
+      "meaning": "sea",
+      "article": "das",
+      "plural": "die Meere",
+      "example": "Ich schwimme im Meer."
+    },
+    {
+      "word": "die Berge",
+      "meaning": "mountains",
+      "article": "die",
+      "example": "Wir fahren in die Berge."
+    },
+    {
+      "word": "der Ausflug",
+      "meaning": "day trip",
+      "article": "der",
+      "plural": "die Ausflüge",
+      "example": "Wir machen einen Ausflug."
+    },
+    {
+      "word": "besichtigen",
+      "meaning": "to visit/sightsee",
+      "example": "Wir besichtigen das Schloss."
+    },
+    {
+      "word": "das Schloss",
+      "meaning": "castle",
+      "article": "das",
+      "plural": "die Schlösser",
+      "example": "Das Schloss ist alt."
+    },
+    {
+      "word": "die Kirche",
+      "meaning": "church",
+      "article": "die",
+      "plural": "die Kirchen",
+      "example": "Die Kirche ist im Zentrum."
+    },
+    {
+      "word": "das Denkmal",
+      "meaning": "monument",
+      "article": "das",
+      "plural": "die Denkmäler",
+      "example": "Wir fotografieren das Denkmal."
+    },
+    {
+      "word": "die Sehenswürdigkeit",
+      "meaning": "sight/attraction",
+      "article": "die",
+      "plural": "die Sehenswürdigkeiten",
+      "example": "Berlin hat viele Sehenswürdigkeiten."
+    },
+    {
+      "word": "die Postkarte",
+      "meaning": "postcard",
+      "article": "die",
+      "plural": "die Postkarten",
+      "example": "Ich schreibe eine Postkarte."
+    },
+    {
+      "word": "das Souvenir",
+      "meaning": "souvenir",
+      "article": "das",
+      "plural": "die Souvenirs",
+      "example": "Ich kaufe Souvenirs."
+    },
+    {
+      "word": "sonnig",
+      "meaning": "sunny",
+      "example": "Das Wetter ist sonnig."
+    },
+    {
+      "word": "warm",
+      "meaning": "warm",
+      "example": "Es ist warm am Meer."
+    },
+    {
+      "word": "kalt",
+      "meaning": "cold",
+      "example": "In den Bergen ist es kalt."
+    },
+    {
+      "word": "schön",
+      "meaning": "beautiful",
+      "example": "Die Landschaft ist schön."
+    },
+    {
+      "word": "entspannen",
+      "meaning": "to relax",
+      "example": "Im Urlaub entspanne ich mich."
+    },
+    {
+      "word": "sich erholen",
+      "meaning": "to recover/rest",
+      "example": "Ich muss mich erholen."
+    },
+    {
+      "word": "besser",
+      "meaning": "better",
+      "example": "Dieses Hotel ist besser."
+    },
+    {
+      "word": "schlechter",
+      "meaning": "worse",
+      "example": "Das Wetter wird schlechter."
+    },
+    {
+      "word": "größer",
+      "meaning": "bigger",
+      "example": "Das Zimmer ist größer."
+    },
+    {
+      "word": "kleiner",
+      "meaning": "smaller",
+      "example": "Die Pension ist kleiner."
+    },
+    {
+      "word": "teurer",
+      "meaning": "more expensive",
+      "example": "Das Hotel ist teurer."
+    },
+    {
+      "word": "billiger",
+      "meaning": "cheaper",
+      "example": "Die Jugendherberge ist billiger."
+    },
+    {
+      "word": "lieber",
+      "meaning": "rather/preferably",
+      "example": "Ich fahre lieber ans Meer."
+    },
+    {
+      "word": "am liebsten",
+      "meaning": "most preferably",
+      "example": "Am liebsten fahre ich nach Italien."
+    },
+    {
+      "word": "als",
+      "meaning": "than (comparison)",
+      "example": "Berlin ist größer als München."
+    },
+    {
+      "word": "so...wie",
+      "meaning": "as...as",
+      "example": "Hamburg ist so schön wie Köln."
+    },
+    {
+      "word": "das Abenteuer",
+      "meaning": "adventure",
+      "article": "das",
+      "plural": "die Abenteuer",
+      "example": "Die Reise war ein Abenteuer."
+    },
+    {
+      "word": "genießen",
+      "meaning": "to enjoy",
+      "example": "Wir genießen den Urlaub."
+    },
+    {
+      "word": "erleben",
+      "meaning": "to experience",
+      "example": "Wir erleben viel Neues."
+    },
+    {
+      "word": "zurückkommen",
+      "meaning": "to come back",
+      "example": "Wann kommst du zurück?"
+    },
+    {
+      "word": "vermissen",
+      "meaning": "to miss",
+      "example": "Ich vermisse meine Familie."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Comparatives",
+      "explanation": "Add '-er' to the adjective stem. Many short adjectives get an umlaut (groß→größer, alt→älter). Use 'als' for 'than'. E.g. 'Berlin ist größer als München'.",
+      "examples": [
+        "Das Hotel ist teurer als die Pension.",
+        "Der Sommer ist wärmer als der Frühling.",
+        "Mein Koffer ist schwerer als deiner.",
+        "Dieses Zimmer ist schöner als das andere."
+      ]
+    },
+    {
+      "topic": "Superlatives",
+      "explanation": "Use 'am + adjective + sten' or 'der/die/das + adjective + ste'. Short adjectives often get an umlaut. E.g. 'am größten', 'der schönste'.",
+      "examples": [
+        "Das ist das schönste Hotel.",
+        "Am liebsten fahre ich nach Italien.",
+        "Der Rhein ist der längste Fluss.",
+        "Das war der beste Urlaub."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c22-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I would like to book a room.",
+      "tokens": [
+        "Ich",
+        "möchte",
+        "ein",
+        "Zimmer",
+        "buchen.",
+        "mieten."
+      ],
+      "answer": [
+        "Ich",
+        "möchte",
+        "ein",
+        "Zimmer",
+        "buchen."
+      ]
+    },
+    {
+      "id": "c22-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "Berlin is bigger than Munich.",
+      "tokens": [
+        "Berlin",
+        "ist",
+        "größer",
+        "als",
+        "München.",
+        "kleiner"
+      ],
+      "answer": [
+        "Berlin",
+        "ist",
+        "größer",
+        "als",
+        "München."
+      ]
+    },
+    {
+      "id": "c22-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "When do you come back?",
+      "tokens": [
+        "Wann",
+        "kommst",
+        "du",
+        "zurück?",
+        "weg?"
+      ],
+      "answer": [
+        "Wann",
+        "kommst",
+        "du",
+        "zurück?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c22-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'buchen' mean?",
+      "options": [
+        "to pack",
+        "to book",
+        "to fly",
+        "to cancel"
+      ],
+      "answer": "to book",
+      "topic": "travel"
+    },
+    {
+      "id": "c22-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you form a comparative in German?",
+      "options": [
+        "adjective + -er",
+        "adjective + -est",
+        "mehr + adjective",
+        "am + adjective"
+      ],
+      "answer": "adjective + -er",
+      "topic": "grammar"
+    },
+    {
+      "id": "c22-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Das Hotel ist ___ als die Pension. (more expensive)",
+      "answer": "teurer",
+      "topic": "comparatives"
+    },
+    {
+      "id": "c22-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Hast du deinen ___? (passport)",
+      "answer": "Reisepass",
+      "topic": "travel"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c22-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ ein Zimmer buchen. (would like)",
+      "answer": "möchte",
+      "hint": "would like",
+      "topic": "polite"
+    },
+    {
+      "id": "c22-fill-2",
+      "type": "fill_blank",
+      "prompt": "Das Hotel ist ___ als die Pension. (more expensive)",
+      "answer": "teurer",
+      "hint": "more expensive",
+      "topic": "comparatives"
+    },
+    {
+      "id": "c22-fill-3",
+      "type": "fill_blank",
+      "prompt": "Hast du deinen ___? (passport)",
+      "answer": "Reisepass",
+      "hint": "passport",
+      "topic": "travel"
+    },
+    {
+      "id": "c22-choice-1",
+      "type": "choice",
+      "prompt": "What is 'die Sehenswürdigkeit'?",
+      "options": [
+        "the hotel",
+        "the sight/attraction",
+        "the beach",
+        "the ticket"
+      ],
+      "answer": "the sight/attraction",
+      "topic": "travel"
+    },
+    {
+      "id": "c22-choice-2",
+      "type": "choice",
+      "prompt": "What does 'übernachten' mean?",
+      "options": [
+        "to eat",
+        "to sleep",
+        "to stay overnight",
+        "to travel"
+      ],
+      "answer": "to stay overnight",
+      "topic": "travel"
+    },
+    {
+      "id": "c22-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: We visit the castle.",
+      "tokens": [
+        "Wir",
+        "besichtigen",
+        "das",
+        "Schloss."
+      ],
+      "answer": [
+        "Wir",
+        "besichtigen",
+        "das",
+        "Schloss."
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "c22-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: I miss my family.",
+      "tokens": [
+        "Ich",
+        "vermisse",
+        "meine",
+        "Familie."
+      ],
+      "answer": [
+        "Ich",
+        "vermisse",
+        "meine",
+        "Familie."
+      ],
+      "topic": "emotions"
+    },
+    {
+      "id": "c22-fill-4",
+      "type": "fill_blank",
+      "prompt": "Am ___ fahre ich nach Italien. (most preferably)",
+      "answer": "liebsten",
+      "hint": "most preferably",
+      "topic": "superlatives"
+    }
+  ]
+}

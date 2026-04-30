@@ -1,0 +1,518 @@
+{
+  "id": "A1_Ch20",
+  "level": "A1",
+  "number": 20,
+  "title": "Ziele und Wuensche",
+  "subtitle": "Future Plans, Wishes, and the Verb 'werden'",
+  "focus": [
+    "Future Plans",
+    "Wishes",
+    "Modal Verb wollen",
+    "Expressing Intentions"
+  ],
+  "vocabulary": [
+    {
+      "word": "der Plan",
+      "meaning": "plan",
+      "article": "der",
+      "plural": "die Pläne",
+      "example": "Was sind deine Pläne?"
+    },
+    {
+      "word": "die Zukunft",
+      "meaning": "future",
+      "article": "die",
+      "example": "Was machst du in der Zukunft?"
+    },
+    {
+      "word": "der Traum",
+      "meaning": "dream",
+      "article": "der",
+      "plural": "die Träume",
+      "example": "Mein Traum ist eine Weltreise."
+    },
+    {
+      "word": "das Ziel",
+      "meaning": "goal",
+      "article": "das",
+      "plural": "die Ziele",
+      "example": "Was ist dein Ziel?"
+    },
+    {
+      "word": "wollen",
+      "meaning": "to want",
+      "example": "Ich will Deutsch lernen."
+    },
+    {
+      "word": "möchten",
+      "meaning": "would like",
+      "example": "Ich möchte nach Berlin fahren."
+    },
+    {
+      "word": "werden",
+      "meaning": "will/to become",
+      "example": "Ich werde Arzt."
+    },
+    {
+      "word": "hoffen",
+      "meaning": "to hope",
+      "example": "Ich hoffe, dass es klappt."
+    },
+    {
+      "word": "planen",
+      "meaning": "to plan",
+      "example": "Wir planen einen Ausflug."
+    },
+    {
+      "word": "vorhaben",
+      "meaning": "to intend/plan",
+      "example": "Was hast du am Wochenende vor?"
+    },
+    {
+      "word": "sich vornehmen",
+      "meaning": "to resolve/intend",
+      "example": "Ich nehme mir vor, mehr Sport zu machen."
+    },
+    {
+      "word": "versprechen",
+      "meaning": "to promise",
+      "example": "Ich verspreche es dir."
+    },
+    {
+      "word": "versuchen",
+      "meaning": "to try",
+      "example": "Ich versuche mein Bestes."
+    },
+    {
+      "word": "schaffen",
+      "meaning": "to manage/achieve",
+      "example": "Du schaffst das!"
+    },
+    {
+      "word": "erreichen",
+      "meaning": "to reach/achieve",
+      "example": "Ich will mein Ziel erreichen."
+    },
+    {
+      "word": "anfangen",
+      "meaning": "to begin/start",
+      "example": "Wann fangen wir an?"
+    },
+    {
+      "word": "aufhören",
+      "meaning": "to stop",
+      "example": "Ich höre mit dem Rauchen auf."
+    },
+    {
+      "word": "weitermachen",
+      "meaning": "to continue",
+      "example": "Mach einfach weiter!"
+    },
+    {
+      "word": "sich entscheiden",
+      "meaning": "to decide",
+      "example": "Ich kann mich nicht entscheiden."
+    },
+    {
+      "word": "die Entscheidung",
+      "meaning": "decision",
+      "article": "die",
+      "plural": "die Entscheidungen",
+      "example": "Das ist eine schwere Entscheidung."
+    },
+    {
+      "word": "die Möglichkeit",
+      "meaning": "possibility/opportunity",
+      "article": "die",
+      "plural": "die Möglichkeiten",
+      "example": "Es gibt viele Möglichkeiten."
+    },
+    {
+      "word": "die Chance",
+      "meaning": "chance/opportunity",
+      "article": "die",
+      "plural": "die Chancen",
+      "example": "Das ist eine gute Chance."
+    },
+    {
+      "word": "die Erfahrung",
+      "meaning": "experience",
+      "article": "die",
+      "plural": "die Erfahrungen",
+      "example": "Er hat viel Erfahrung."
+    },
+    {
+      "word": "das Studium",
+      "meaning": "studies (university)",
+      "article": "das",
+      "plural": "die Studien",
+      "example": "Nach dem Studium will ich arbeiten."
+    },
+    {
+      "word": "die Ausbildung",
+      "meaning": "training/apprenticeship",
+      "article": "die",
+      "plural": "die Ausbildungen",
+      "example": "Sie macht eine Ausbildung."
+    },
+    {
+      "word": "der Führerschein",
+      "meaning": "driver's license",
+      "article": "der",
+      "plural": "die Führerscheine",
+      "example": "Ich will meinen Führerschein machen."
+    },
+    {
+      "word": "die Prüfung",
+      "meaning": "exam",
+      "article": "die",
+      "plural": "die Prüfungen",
+      "example": "Die Prüfung ist nächste Woche."
+    },
+    {
+      "word": "bestehen",
+      "meaning": "to pass (an exam)",
+      "example": "Ich habe die Prüfung bestanden."
+    },
+    {
+      "word": "die Reise",
+      "meaning": "journey/trip",
+      "article": "die",
+      "plural": "die Reisen",
+      "example": "Ich plane eine Reise."
+    },
+    {
+      "word": "das Ausland",
+      "meaning": "abroad",
+      "article": "das",
+      "example": "Ich möchte ins Ausland gehen."
+    },
+    {
+      "word": "umziehen",
+      "meaning": "to move (house)",
+      "example": "Wir ziehen nächstes Jahr um."
+    },
+    {
+      "word": "sparen",
+      "meaning": "to save (money)",
+      "example": "Ich spare für ein Auto."
+    },
+    {
+      "word": "verbessern",
+      "meaning": "to improve",
+      "example": "Ich will mein Deutsch verbessern."
+    },
+    {
+      "word": "ändern",
+      "meaning": "to change",
+      "example": "Ich möchte mein Leben ändern."
+    },
+    {
+      "word": "vielleicht",
+      "meaning": "maybe/perhaps",
+      "example": "Vielleicht fahre ich nach München."
+    },
+    {
+      "word": "bestimmt",
+      "meaning": "definitely/certainly",
+      "example": "Das klappt bestimmt!"
+    },
+    {
+      "word": "wahrscheinlich",
+      "meaning": "probably",
+      "example": "Wahrscheinlich bleibe ich hier."
+    },
+    {
+      "word": "hoffentlich",
+      "meaning": "hopefully",
+      "example": "Hoffentlich regnet es nicht."
+    },
+    {
+      "word": "bald",
+      "meaning": "soon",
+      "example": "Bald habe ich Urlaub."
+    },
+    {
+      "word": "später",
+      "meaning": "later",
+      "example": "Später will ich eine Familie haben."
+    },
+    {
+      "word": "irgendwann",
+      "meaning": "someday",
+      "example": "Irgendwann fahre ich nach Japan."
+    },
+    {
+      "word": "bereit",
+      "meaning": "ready",
+      "example": "Bist du bereit?"
+    },
+    {
+      "word": "fertig",
+      "meaning": "ready/done/finished",
+      "example": "Ich bin fertig mit der Arbeit."
+    },
+    {
+      "word": "erfolgreich",
+      "meaning": "successful",
+      "example": "Er ist sehr erfolgreich."
+    },
+    {
+      "word": "fleißig",
+      "meaning": "hardworking/diligent",
+      "example": "Sie ist eine fleißige Studentin."
+    },
+    {
+      "word": "der Wunsch",
+      "meaning": "wish",
+      "article": "der",
+      "plural": "die Wünsche",
+      "example": "Was ist dein größter Wunsch?"
+    },
+    {
+      "word": "träumen",
+      "meaning": "to dream",
+      "example": "Ich träume von einer Reise."
+    },
+    {
+      "word": "sich Sorgen machen",
+      "meaning": "to worry",
+      "example": "Mach dir keine Sorgen!"
+    },
+    {
+      "word": "aufgeben",
+      "meaning": "to give up",
+      "example": "Gib nicht auf!"
+    },
+    {
+      "word": "klappen",
+      "meaning": "to work out",
+      "example": "Es wird schon klappen."
+    },
+    {
+      "word": "gelingen",
+      "meaning": "to succeed",
+      "example": "Das Projekt ist gelungen."
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "The Modal Verb 'wollen' (to want)",
+      "explanation": "Conjugation: ich will, du willst, er/sie/es will, wir wollen, ihr wollt, sie/Sie wollen. The main verb goes at the end in infinitive form. Use 'möchten' for a more polite request.",
+      "examples": [
+        "Ich will nach Deutschland fahren.",
+        "Was willst du studieren?",
+        "Er will Ingenieur werden.",
+        "Wir wollen zusammen feiern."
+      ]
+    },
+    {
+      "topic": "Future with 'werden'",
+      "explanation": "The simplest way to talk about the future in German is to use the present tense with a time indicator (morgen, nächste Woche, etc.). You can also use 'werden' + infinitive for emphasis. Conjugation: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden.",
+      "examples": [
+        "Ich werde nächstes Jahr studieren.",
+        "Du wirst die Prüfung bestehen.",
+        "Wir werden nach Berlin fahren.",
+        "Es wird bestimmt klappen."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "c20-sentence-1",
+      "type": "sentence_builder",
+      "prompt": "I want to learn German.",
+      "tokens": [
+        "Ich",
+        "will",
+        "Deutsch",
+        "lernen.",
+        "sprechen."
+      ],
+      "answer": [
+        "Ich",
+        "will",
+        "Deutsch",
+        "lernen."
+      ]
+    },
+    {
+      "id": "c20-sentence-2",
+      "type": "sentence_builder",
+      "prompt": "What are your plans?",
+      "tokens": [
+        "Was",
+        "sind",
+        "deine",
+        "Pläne?",
+        "Träume?"
+      ],
+      "answer": [
+        "Was",
+        "sind",
+        "deine",
+        "Pläne?"
+      ]
+    },
+    {
+      "id": "c20-sentence-3",
+      "type": "sentence_builder",
+      "prompt": "I will pass the exam.",
+      "tokens": [
+        "Ich",
+        "werde",
+        "die",
+        "Prüfung",
+        "bestehen.",
+        "schaffen."
+      ],
+      "answer": [
+        "Ich",
+        "werde",
+        "die",
+        "Prüfung",
+        "bestehen."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c20-quiz-1",
+      "type": "mcq",
+      "prompt": "What does 'wollen' mean?",
+      "options": [
+        "to be able to",
+        "to have to",
+        "to want",
+        "to be allowed to"
+      ],
+      "answer": "to want",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c20-quiz-2",
+      "type": "mcq",
+      "prompt": "How do you form the future tense in German?",
+      "options": [
+        "haben + Partizip II",
+        "sein + Partizip II",
+        "werden + Infinitiv",
+        "wollen + Infinitiv"
+      ],
+      "answer": "werden + Infinitiv",
+      "topic": "grammar"
+    },
+    {
+      "id": "c20-quiz-3",
+      "type": "fill_blank",
+      "prompt": "Ich ___ nächstes Jahr studieren. (will)",
+      "answer": "werde",
+      "topic": "future"
+    },
+    {
+      "id": "c20-quiz-4",
+      "type": "fill_blank",
+      "prompt": "Was hast du am Wochenende ___? (planned)",
+      "answer": "vor",
+      "topic": "separable_verbs"
+    }
+  ],
+  "practice": [
+    {
+      "id": "c20-fill-1",
+      "type": "fill_blank",
+      "prompt": "Ich ___ Deutsch lernen. (want)",
+      "answer": "will",
+      "hint": "want",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c20-fill-2",
+      "type": "fill_blank",
+      "prompt": "Ich ___ nächstes Jahr studieren. (will)",
+      "answer": "werde",
+      "hint": "will",
+      "topic": "future"
+    },
+    {
+      "id": "c20-fill-3",
+      "type": "fill_blank",
+      "prompt": "Was hast du am Wochenende ___? (planned)",
+      "answer": "vor",
+      "hint": "planned",
+      "topic": "separable_verbs"
+    },
+    {
+      "id": "c20-choice-1",
+      "type": "choice",
+      "prompt": "What does 'wollen' mean?",
+      "options": [
+        "can",
+        "must",
+        "want",
+        "may"
+      ],
+      "answer": "want",
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c20-choice-2",
+      "type": "choice",
+      "prompt": "How is the future formed?",
+      "options": [
+        "haben + Partizip",
+        "sein + Partizip",
+        "werden + Infinitiv",
+        "wollen + Infinitiv"
+      ],
+      "answer": "werden + Infinitiv",
+      "topic": "grammar"
+    },
+    {
+      "id": "c20-sent-1",
+      "type": "sentence_order",
+      "prompt": "Arrange: I want to learn German.",
+      "tokens": [
+        "Ich",
+        "will",
+        "Deutsch",
+        "lernen."
+      ],
+      "answer": [
+        "Ich",
+        "will",
+        "Deutsch",
+        "lernen."
+      ],
+      "topic": "modal_verbs"
+    },
+    {
+      "id": "c20-sent-2",
+      "type": "sentence_order",
+      "prompt": "Arrange: You will pass the exam.",
+      "tokens": [
+        "Du",
+        "wirst",
+        "die",
+        "Prüfung",
+        "bestehen."
+      ],
+      "answer": [
+        "Du",
+        "wirst",
+        "die",
+        "Prüfung",
+        "bestehen."
+      ],
+      "topic": "future"
+    },
+    {
+      "id": "c20-fill-4",
+      "type": "fill_blank",
+      "prompt": "Ich ___ für ein Auto. (save money)",
+      "answer": "spare",
+      "hint": "save",
+      "topic": "verbs"
+    }
+  ]
+}
