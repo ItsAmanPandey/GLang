@@ -554,5 +554,19 @@
       "hint": "internship",
       "topic": "work"
     }
+  ],
+  "tips": [
+    {
+      "title": "No article for professions",
+      "body": "Unlike English, German drops the article when stating professions: 'Ich bin Lehrer' (I am a teacher), not 'Ich bin ein Lehrer'. The article is only added with an adjective: 'Ich bin ein guter Lehrer'."
+    },
+    {
+      "title": "Feminine job forms with '-in'",
+      "body": "Almost all masculine professions have a feminine form ending in '-in': der Lehrer / die Lehrerin, der Arzt / die Aerztin. The plural feminine adds '-nen': die Lehrerinnen."
+    },
+    {
+      "title": "'von Beruf' for asking about jobs",
+      "body": "The standard way to ask someone's profession is 'Was sind Sie von Beruf?' (What is your profession?). Answer with: 'Ich bin ... von Beruf'."
+    }
   ]
 }

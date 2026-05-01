@@ -527,5 +527,19 @@
       "hint": "success/luck",
       "topic": "greetings"
     }
+  ],
+  "tips": [
+    {
+      "title": "The six modal verbs",
+      "body": "Memorize all six: koennen (can), muessen (must), wollen (want), sollen (should), duerfen (may), moegen (like). They all send the main verb to the end as an infinitive."
+    },
+    {
+      "title": "Word order golden rule",
+      "body": "The conjugated verb is ALWAYS in position 2 in a main clause. Time-Manner-Place order for details: 'Ich fahre morgen mit dem Zug nach Berlin' (when, how, where)."
+    },
+    {
+      "title": "Keep practicing after A1",
+      "body": "You now know about 1200 words and core grammar. To keep improving: read simple German texts, listen to Deutsche Welle's 'Langsam gesprochene Nachrichten', and try writing a daily diary entry in German."
+    }
   ]
 }

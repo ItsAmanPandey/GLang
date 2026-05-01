@@ -546,5 +546,19 @@
       "hint": "size",
       "topic": "shopping"
     }
+  ],
+  "tips": [
+    {
+      "title": "'gefallen' flips the subject",
+      "body": "Unlike English 'I like the dress', German says 'Das Kleid gefaellt mir' (The dress pleases me). The thing you like is the subject, and you are in the dative case."
+    },
+    {
+      "title": "Adjective opposites help memorization",
+      "body": "Learn adjective pairs together: gross/klein, teuer/billig, lang/kurz, eng/weit. Opposites are much easier to remember than isolated words."
+    },
+    {
+      "title": "Shopping phrases to memorize",
+      "body": "Three must-know phrases: 'Kann ich das anprobieren?' (Can I try this on?), 'Haben Sie das in Groesse M?' (Do you have this in size M?), 'Das ist zu teuer' (That is too expensive)."
+    }
   ]
 }

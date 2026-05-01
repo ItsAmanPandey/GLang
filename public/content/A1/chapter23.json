@@ -524,5 +524,19 @@
       "hint": "stress",
       "topic": "health"
     }
+  ],
+  "tips": [
+    {
+      "title": "Imperative forms",
+      "body": "To give health advice directly: 'du' form drops the -st ending: 'Trink mehr Wasser!'. 'ihr' form keeps the -t: 'Trinkt mehr!'. 'Sie' form puts the verb first: 'Trinken Sie mehr!'."
+    },
+    {
+      "title": "'sollen' for gentle advice",
+      "body": "'Sollen' is softer than the imperative: 'Du sollst weniger Zucker essen' (You should eat less sugar). Use it when the advice is not an emergency. For urgent advice, use the imperative."
+    },
+    {
+      "title": "Frequency words",
+      "body": "From most to least frequent: immer (always), oft (often), manchmal (sometimes), selten (rarely), nie (never). These usually go right after the verb: 'Ich trainiere oft'."
+    }
   ]
 }

@@ -537,5 +537,19 @@
       "hint": "give as gift",
       "topic": "verbs"
     }
+  ],
+  "tips": [
+    {
+      "title": "Reflexive pronouns must match",
+      "body": "With 'sich freuen', 'sich verkleiden', etc., the pronoun changes with the subject: ich freue mich, du freust dich, er freut sich, wir freuen uns."
+    },
+    {
+      "title": "Separable verbs in celebrations",
+      "body": "'Einladen' (to invite), 'mitbringen' (to bring along), 'aufraumen' (to tidy up) all split: 'Ich lade dich ein', 'Bring bitte Kuchen mit', 'Wir raeumen danach auf'."
+    },
+    {
+      "title": "Holiday greetings to know",
+      "body": "Frohe Weihnachten (Merry Christmas), Frohes Neues Jahr (Happy New Year), Frohe Ostern (Happy Easter), Herzlichen Glueckwunsch zum Geburtstag (Happy Birthday)."
+    }
   ]
 }

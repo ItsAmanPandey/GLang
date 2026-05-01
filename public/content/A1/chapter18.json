@@ -505,5 +505,19 @@
       "hint": "forgive",
       "topic": "verbs"
     }
+  ],
+  "tips": [
+    {
+      "title": "Emotion prepositions to memorize",
+      "body": "Each emotion verb has a fixed preposition: 'sich freuen ueber + Akk' (happy about), 'Angst haben vor + Dat' (afraid of), 'wuetend auf + Akk' (angry at), 'stolz auf + Akk' (proud of)."
+    },
+    {
+      "title": "Prefix 'un-' for opposites",
+      "body": "Many German adjectives form their opposite with 'un-': gluecklich/ungluecklich, freundlich/unfreundlich, hoeflich/unhoeflich, geduldig/ungeduldig. This is a quick way to double your vocabulary."
+    },
+    {
+      "title": "Reflexive emotions",
+      "body": "Many emotional expressions need a reflexive pronoun: 'Ich freue mich' (I am happy), 'Er aergert sich' (He is annoyed), 'Sie hat sich verliebt' (She fell in love)."
+    }
   ]
 }

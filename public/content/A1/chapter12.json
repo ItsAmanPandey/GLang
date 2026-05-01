@@ -523,5 +523,19 @@
       "hint": "delay",
       "topic": "time"
     }
+  ],
+  "tips": [
+    {
+      "title": "Time prepositions: am, um, im",
+      "body": "Use 'am' for days and parts of the day (am Montag, am Abend), 'um' for clock times (um 8 Uhr), and 'im' for months and seasons (im Januar, im Sommer)."
+    },
+    {
+      "title": "Ordinal numbers for dates",
+      "body": "Dates use ordinal numbers: 'der erste' (1st), 'der zweite' (2nd), 'der dritte' (3rd). From 4-19 add '-te', from 20 add '-ste': 'der vierte', 'der zwanzigste'."
+    },
+    {
+      "title": "Time words change word order",
+      "body": "When a time expression starts the sentence, the verb stays second and the subject moves: 'Am Montag gehe ich arbeiten' (not 'Am Montag ich gehe')."
+    }
   ]
 }

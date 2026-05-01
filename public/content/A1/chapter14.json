@@ -555,5 +555,19 @@
       "hint": "bright",
       "topic": "adjectives"
     }
+  ],
+  "tips": [
+    {
+      "title": "Housing ad abbreviations",
+      "body": "German housing ads use abbreviations: ZKB = Zimmer, Kueche, Bad (room, kitchen, bath), EG = Erdgeschoss (ground floor), OG = Obergeschoss (upper floor), NK = Nebenkosten (utilities)."
+    },
+    {
+      "title": "Two-way prepositions in housing",
+      "body": "When you describe WHERE furniture IS, use dative: 'Der Schrank steht in der Ecke'. When you describe WHERE you PUT it, use accusative: 'Ich stelle den Schrank in die Ecke'."
+    },
+    {
+      "title": "Floor numbering differs",
+      "body": "In Germany, the ground floor is 'das Erdgeschoss' (EG), and 'der erste Stock' is actually what English speakers call the second floor. Always count one less than you expect."
+    }
   ]
 }

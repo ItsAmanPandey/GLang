@@ -514,5 +514,19 @@
       "hint": "save",
       "topic": "verbs"
     }
+  ],
+  "tips": [
+    {
+      "title": "Present tense for future",
+      "body": "In everyday German, you often use the present tense plus a time word for the future: 'Ich fahre morgen nach Berlin' (I am going to Berlin tomorrow). No need for 'werden' in casual speech."
+    },
+    {
+      "title": "'werden' conjugation",
+      "body": "The verb 'werden' is irregular: ich werde, du wirst, er/sie/es wird, wir werden, ihr werdet, sie/Sie werden. The main verb goes at the end as an infinitive."
+    },
+    {
+      "title": "'wollen' vs 'moechten'",
+      "body": "'Wollen' (to want) is direct and strong: 'Ich will das'. 'Moechten' (would like) is polite: 'Ich moechte das'. Use 'moechten' in formal or polite situations, 'wollen' among friends."
+    }
   ]
 }

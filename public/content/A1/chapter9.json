@@ -570,5 +570,19 @@
       "hint": "corner",
       "topic": "furniture"
     }
+  ],
+  "tips": [
+    {
+      "title": "'liegen' vs 'legen'",
+      "body": "'Liegen' (to lie) describes a static position and uses dative: 'Das Buch liegt auf dem Tisch'. 'Legen' (to lay/put) describes movement and uses accusative: 'Ich lege das Buch auf den Tisch'."
+    },
+    {
+      "title": "'stehen' vs 'stellen'",
+      "body": "Same pattern: 'stehen' (standing, dative) vs 'stellen' (placing upright, accusative). Tall objects 'stehen' (lamps, vases), flat objects 'liegen' (books, carpets)."
+    },
+    {
+      "title": "Dative after position prepositions",
+      "body": "When describing WHERE something is (no movement), use dative: auf dem Tisch, an der Wand, in dem Schrank. When describing WHERE TO (movement), use accusative."
+    }
   ]
 }

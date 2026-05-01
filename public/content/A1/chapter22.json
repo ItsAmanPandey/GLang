@@ -534,5 +534,19 @@
       "hint": "most preferably",
       "topic": "superlatives"
     }
+  ],
+  "tips": [
+    {
+      "title": "Comparative = stem + '-er'",
+      "body": "Most adjectives: add -er (schneller, billiger). Short adjectives often add an umlaut: gross -> groesser, alt -> aelter, warm -> waermer. Then use 'als' for 'than': 'Berlin ist groesser als Muenchen'."
+    },
+    {
+      "title": "Superlative = 'am ...sten'",
+      "body": "Use 'am + adjective + sten' for 'the most': am schnellsten, am billigsten. With an umlaut: am groessten, am aeltesten. Or with a noun: 'der schnellste Zug'."
+    },
+    {
+      "title": "'so ... wie' for equality",
+      "body": "To say something is 'as ... as', use 'so ... wie': 'Hamburg ist so schoen wie Koeln' (Hamburg is as beautiful as Cologne). Add 'genau' for emphasis: 'genauso gross wie'."
+    }
   ]
 }

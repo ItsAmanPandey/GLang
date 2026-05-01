@@ -536,5 +536,19 @@
       "hint": "forgotten",
       "topic": "verbs"
     }
+  ],
+  "tips": [
+    {
+      "title": "'dass' sends the verb to the end",
+      "body": "After 'Ich finde, dass...' or 'Ich glaube, dass...', the conjugated verb goes to the very end of the clause: 'Ich finde, dass das Internet nuetzlich ist'."
+    },
+    {
+      "title": "Separable verbs in Perfekt",
+      "body": "When separable verbs form the Partizip II, 'ge-' goes between the prefix and the stem: an-ge-rufen, herunter-ge-laden, fern-ge-sehen."
+    },
+    {
+      "title": "False friends in media",
+      "body": "'Das Handy' means mobile phone (not 'handy'). 'Bekommen' means 'to receive' (not 'to become'). Watch out for these common traps."
+    }
   ]
 }

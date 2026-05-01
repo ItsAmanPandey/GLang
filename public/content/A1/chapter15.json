@@ -518,5 +518,19 @@
       "hint": "read (past)",
       "topic": "perfekt"
     }
+  ],
+  "tips": [
+    {
+      "title": "'haben' vs 'sein' in Perfekt",
+      "body": "Most verbs use 'haben': 'Ich habe gekocht'. Verbs of movement or state change use 'sein': 'Ich bin gegangen', 'Er ist gewachsen'. Memorize the 'sein' verbs -- there are fewer of them."
+    },
+    {
+      "title": "Partizip II patterns",
+      "body": "Regular verbs: ge- + stem + -t (gemacht, gelernt). Irregular verbs: ge- + changed stem + -en (gegessen, geschrieben). Verbs ending in -ieren skip 'ge-': studiert, telefoniert."
+    },
+    {
+      "title": "Time signals for past tense",
+      "body": "Words that signal Perfekt: gestern (yesterday), letzte Woche (last week), vor zwei Tagen (two days ago), schon (already), noch nie (never before)."
+    }
   ]
 }

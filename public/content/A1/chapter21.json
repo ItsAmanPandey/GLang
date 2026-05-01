@@ -554,5 +554,19 @@
       "hint": "vegetarian",
       "topic": "food"
     }
+  ],
+  "tips": [
+    {
+      "title": "Accusative when ordering",
+      "body": "When you say what you want, the noun is in accusative: 'Ich nehme einen Salat' (der becomes einen), 'Ich moechte eine Suppe' (die stays eine), 'Ich haette gern ein Bier' (das stays ein)."
+    },
+    {
+      "title": "'Zahlen bitte' or 'Die Rechnung bitte'",
+      "body": "Both work for asking for the bill. 'Zahlen bitte' is more casual. 'Die Rechnung bitte' is more formal. Tipping in Germany is usually 5-10%, rounded up."
+    },
+    {
+      "title": "Three ways to order politely",
+      "body": "'Ich moechte...' (I would like), 'Ich haette gern...' (I would gladly have), 'Ich nehme...' (I will take). All three are perfectly polite. Avoid 'Ich will...' -- it sounds demanding."
+    }
   ]
 }

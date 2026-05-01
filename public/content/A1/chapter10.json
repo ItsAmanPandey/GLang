@@ -566,5 +566,19 @@
       "hint": "left",
       "topic": "directions"
     }
+  ],
+  "tips": [
+    {
+      "title": "Polite direction phrases",
+      "body": "Start directions with 'Entschuldigung' (excuse me) and use the 'Sie' form: 'Gehen Sie geradeaus', 'Biegen Sie links ab'. This is the standard polite register."
+    },
+    {
+      "title": "'gegenueber' needs dative",
+      "body": "'Gegenueber' (opposite) takes the dative case: 'gegenueber dem Bahnhof' (opposite the train station), 'gegenueber der Post' (opposite the post office)."
+    },
+    {
+      "title": "Landmark-based navigation",
+      "body": "Germans often give directions using landmarks: 'an der Ampel' (at the traffic light), 'an der Kreuzung' (at the crossroads), 'an der Ecke' (at the corner)."
+    }
   ]
 }

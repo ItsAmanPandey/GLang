@@ -562,5 +562,19 @@
       "hint": "prescription",
       "topic": "health"
     }
+  ],
+  "tips": [
+    {
+      "title": "'weh tun' is separable",
+      "body": "'Weh tun' (to hurt) splits in a sentence: 'Mein Kopf tut weh'. For plural body parts use 'tun': 'Meine Beine tun weh'."
+    },
+    {
+      "title": "Body part articles matter",
+      "body": "Most body parts follow a pattern: der Kopf, der Arm, der Bauch (masculine for outer parts), die Hand, die Nase (feminine for many), das Auge, das Ohr (neuter for sensory organs)."
+    },
+    {
+      "title": "'sollen' for doctor's advice",
+      "body": "Use 'sollen' when giving health advice: 'Du sollst mehr schlafen'. It translates to 'should' and sounds like a recommendation rather than an order."
+    }
   ]
 }

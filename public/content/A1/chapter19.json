@@ -547,5 +547,19 @@
       "hint": "dirty",
       "topic": "environment"
     }
+  ],
+  "tips": [
+    {
+      "title": "'muessen' vs 'sollen'",
+      "body": "'Muessen' expresses strong necessity (must/have to): 'Ich muss gehen'. 'Sollen' expresses recommendation or moral duty (should): 'Du sollst mehr recyceln'. 'Muessen' is stronger."
+    },
+    {
+      "title": "Compound nouns use the last word",
+      "body": "In compound nouns, the LAST word determines the article and meaning: der Regenbogen (der Bogen = arch), das Schwimmbad (das Bad = bath). The first word modifies the meaning."
+    },
+    {
+      "title": "Plural animal patterns",
+      "body": "Many animal plurals add an umlaut: der Hund/die Hunde, der Vogel/die Voegel, die Kuh/die Kuehe. But some stay the same: das Schwein/die Schweine, der Fisch/die Fische."
+    }
   ]
 }

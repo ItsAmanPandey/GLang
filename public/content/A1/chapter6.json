@@ -551,5 +551,19 @@
       "hint": "to",
       "topic": "travel"
     }
+  ],
+  "tips": [
+    {
+      "title": "Weather is impersonal",
+      "body": "German uses 'es' (it) for weather: 'Es regnet' (It is raining), 'Es schneit' (It is snowing). There is no real subject -- 'es' is just a placeholder."
+    },
+    {
+      "title": "'nach' vs 'in' for travel",
+      "body": "Use 'nach' for cities and countries without an article: 'Ich fahre nach Berlin'. Use 'in' with article for countries that take one: 'Ich fahre in die Schweiz'."
+    },
+    {
+      "title": "Seasons take 'im'",
+      "body": "Seasons always use the preposition 'im': 'im Sommer' (in summer), 'im Winter' (in winter). Think of 'im' as short for 'in dem'."
+    }
   ]
 }

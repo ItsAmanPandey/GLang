@@ -533,5 +533,19 @@
       "hint": "opposite",
       "topic": "directions"
     }
+  ],
+  "tips": [
+    {
+      "title": "Separable verbs for transport",
+      "body": "'Einsteigen' (get on), 'aussteigen' (get off), 'umsteigen' (transfer) split in main clauses: 'Ich steige am Hauptbahnhof um'. Learn these three and you can navigate any transit system."
+    },
+    {
+      "title": "'zu Fuss' for walking",
+      "body": "The expression 'zu Fuss gehen' means to go on foot / to walk. 'Fuss' keeps its capital F because it is a noun, even inside the phrase."
+    },
+    {
+      "title": "Ask with 'Wie komme ich zu...?'",
+      "body": "The most natural way to ask for directions: 'Wie komme ich zum Bahnhof?' (How do I get to the station?). 'Zum' = zu + dem (dative masculine/neuter)."
+    }
   ]
 }
