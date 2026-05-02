@@ -23,12 +23,12 @@
       "table": {
         "headers": ["Modal", "Meaning", "Example"],
         "rows": [
-          ["kÃ¶nnen", "ability / possibility", "Ich kann schwimmen."],
-          ["mÃ¼ssen", "obligation / necessity", "Ich muss arbeiten."],
+          ["können", "ability / possibility", "Ich kann schwimmen."],
+          ["müssen", "obligation / necessity", "Ich muss arbeiten."],
           ["wollen", "desire / intention", "Ich will nach Hause gehen."],
-          ["dÃ¼rfen", "permission", "Darf ich hier sitzen?"],
+          ["dürfen", "permission", "Darf ich hier sitzen?"],
           ["sollen", "instruction / recommendation", "Du sollst mehr lernen."],
-          ["mÃ¶gen / mÃ¶chten", "preference / wish", "Ich mÃ¶chte einen Kaffee."]
+          ["mögen / möchten", "preference / wish", "Ich möchte einen Kaffee."]
         ]
       },
       "examples": []
@@ -38,25 +38,25 @@
       "heading": "Conjugation table",
       "explanation": "All modal verbs are irregular in the ich and er/es/sie forms. Notice that ich and er/es/sie forms are identical for every modal.",
       "table": {
-        "headers": ["Pronoun", "kÃ¶nnen", "mÃ¼ssen", "wollen", "dÃ¼rfen", "sollen", "mÃ¶chten"],
+        "headers": ["Pronoun", "können", "müssen", "wollen", "dürfen", "sollen", "möchten"],
         "rows": [
-          ["ich", "kann", "muss", "will", "darf", "soll", "mÃ¶chte"],
-          ["du", "kannst", "musst", "willst", "darfst", "sollst", "mÃ¶chtest"],
-          ["er/es/sie", "kann", "muss", "will", "darf", "soll", "mÃ¶chte"],
-          ["wir", "kÃ¶nnen", "mÃ¼ssen", "wollen", "dÃ¼rfen", "sollen", "mÃ¶chten"],
-          ["ihr", "kÃ¶nnt", "mÃ¼sst", "wollt", "dÃ¼rft", "sollt", "mÃ¶chtet"],
-          ["sie/Sie", "kÃ¶nnen", "mÃ¼ssen", "wollen", "dÃ¼rfen", "sollen", "mÃ¶chten"]
+          ["ich", "kann", "muss", "will", "darf", "soll", "möchte"],
+          ["du", "kannst", "musst", "willst", "darfst", "sollst", "möchtest"],
+          ["er/es/sie", "kann", "muss", "will", "darf", "soll", "möchte"],
+          ["wir", "können", "müssen", "wollen", "dürfen", "sollen", "möchten"],
+          ["ihr", "könnt", "müsst", "wollt", "dürft", "sollt", "möchtet"],
+          ["sie/Sie", "können", "müssen", "wollen", "dürfen", "sollen", "möchten"]
         ]
       },
       "examples": []
     },
     {
       "id": "gf7-concept-4",
-      "heading": "mÃ¶chten vs mÃ¶gen",
-      "explanation": "'mÃ¶chten' (would like to) expresses a polite wish or request. 'mÃ¶gen' (to like) expresses a general preference. At A1 level, mÃ¶chten is far more common.",
+      "heading": "möchten vs mögen",
+      "explanation": "'möchten' (would like to) expresses a polite wish or request. 'mögen' (to like) expresses a general preference. At A1 level, möchten is far more common.",
       "examples": [
-        { "de": "Ich mÃ¶chte einen Tee bestellen.", "en": "I would like to order a tea.", "note": "mÃ¶chten = polite wish" },
-        { "de": "Ich mag Schokolade.", "en": "I like chocolate.", "note": "mÃ¶gen = general preference" }
+        { "de": "Ich möchte einen Tee bestellen.", "en": "I would like to order a tea.", "note": "möchten = polite wish" },
+        { "de": "Ich mag Schokolade.", "en": "I like chocolate.", "note": "mögen = general preference" }
       ]
     },
     {
@@ -65,7 +65,7 @@
       "explanation": "The conjugated modal sits in position 2. The infinitive of the main verb goes to the very end. Subject, objects, and adverbs sit in between.",
       "examples": [
         { "de": "Ich | kann | morgen nicht | kommen.", "en": "I cannot come tomorrow.", "note": "kann=pos.2, kommen=end" },
-        { "de": "Wir | mÃ¼ssen | jeden Tag Deutsch | lernen.", "en": "We must learn German every day.", "note": "mÃ¼ssen=pos.2, lernen=end" }
+        { "de": "Wir | müssen | jeden Tag Deutsch | lernen.", "en": "We must learn German every day.", "note": "müssen=pos.2, lernen=end" }
       ]
     },
     {
@@ -84,93 +84,93 @@
     { "id": "gf7-p3", "type": "fill_blank", "prompt": "Er ___ nach Hause gehen. (wants to)", "answer": "will", "topic": "Modalverben" },
     { "id": "gf7-p4", "type": "fill_blank", "prompt": "___ ich hier sitzen? (may)", "answer": "Darf", "topic": "Modalverben" },
     { "id": "gf7-p5", "type": "fill_blank", "prompt": "Du ___ mehr lernen. (should)", "answer": "sollst", "topic": "Modalverben" },
-    { "id": "gf7-p6", "type": "fill_blank", "prompt": "Ich ___ einen Kaffee. (would like)", "answer": "mÃ¶chte", "topic": "Modalverben" },
+    { "id": "gf7-p6", "type": "fill_blank", "prompt": "Ich ___ einen Kaffee. (would like)", "answer": "möchte", "topic": "Modalverben" },
     { "id": "gf7-p7", "type": "fill_blank", "prompt": "Wir ___ morgen ins Kino gehen. (want to)", "answer": "wollen", "topic": "Modalverben" },
     { "id": "gf7-p8", "type": "fill_blank", "prompt": "Sie ___ gut kochen. (can)", "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-p9", "type": "fill_blank", "prompt": "Ihr ___ leise sein. (must)", "answer": "mÃ¼sst", "topic": "Modalverben" },
+    { "id": "gf7-p9", "type": "fill_blank", "prompt": "Ihr ___ leise sein. (must)", "answer": "müsst", "topic": "Modalverben" },
     { "id": "gf7-p10", "type": "fill_blank", "prompt": "___ du schwimmen? (can)", "answer": "Kannst", "topic": "Modalverben" },
     { "id": "gf7-p11", "type": "fill_blank", "prompt": "Man ___ hier nicht rauchen. (may not)", "answer": "darf", "topic": "Modalverben" },
-    { "id": "gf7-p12", "type": "fill_blank", "prompt": "Wir ___ heute Abend essen gehen. (would like)", "answer": "mÃ¶chten", "topic": "Modalverben" },
+    { "id": "gf7-p12", "type": "fill_blank", "prompt": "Wir ___ heute Abend essen gehen. (would like)", "answer": "möchten", "topic": "Modalverben" },
     { "id": "gf7-p13", "type": "choice", "prompt": "Your friend asks to help move a sofa. You are able to. Which fits?", "options": ["Ich kann das Sofa tragen.", "Ich muss das Sofa tragen.", "Ich darf das Sofa tragen.", "Ich soll das Sofa tragen."], "answer": "Ich kann das Sofa tragen.", "topic": "Modalverben" },
     { "id": "gf7-p14", "type": "choice", "prompt": "The doctor says you need to rest. Which fits?", "options": ["Ich kann schlafen.", "Ich will schlafen.", "Ich soll mich ausruhen.", "Ich darf mich ausruhen."], "answer": "Ich soll mich ausruhen.", "topic": "Modalverben" },
     { "id": "gf7-p15", "type": "choice", "prompt": "A child asks a parent: 'May I have ice cream?'", "options": ["Kann ich ein Eis haben?", "Darf ich ein Eis haben?", "Muss ich ein Eis haben?", "Will ich ein Eis haben?"], "answer": "Darf ich ein Eis haben?", "topic": "Modalverben" },
-    { "id": "gf7-p16", "type": "choice", "prompt": "You have an exam tomorrow. Which fits?", "options": ["Ich kann heute lernen.", "Ich mÃ¶chte heute lernen.", "Ich muss heute lernen.", "Ich darf heute lernen."], "answer": "Ich muss heute lernen.", "topic": "Modalverben" },
-    { "id": "gf7-p17", "type": "choice", "prompt": "You dream about a holiday. Which fits?", "options": ["Ich muss nach Spanien fliegen.", "Ich soll nach Spanien fliegen.", "Ich mÃ¶chte nach Spanien fliegen.", "Ich darf nach Spanien fliegen."], "answer": "Ich mÃ¶chte nach Spanien fliegen.", "topic": "Modalverben" },
-    { "id": "gf7-p18", "type": "choice", "prompt": "Sign in the park: 'Dogs not allowed.' Which fits?", "options": ["Hunde kÃ¶nnen hier nicht spielen.", "Hunde mÃ¼ssen hier nicht spielen.", "Hunde dÃ¼rfen hier nicht spielen.", "Hunde wollen hier nicht spielen."], "answer": "Hunde dÃ¼rfen hier nicht spielen.", "topic": "Modalverben" },
+    { "id": "gf7-p16", "type": "choice", "prompt": "You have an exam tomorrow. Which fits?", "options": ["Ich kann heute lernen.", "Ich möchte heute lernen.", "Ich muss heute lernen.", "Ich darf heute lernen."], "answer": "Ich muss heute lernen.", "topic": "Modalverben" },
+    { "id": "gf7-p17", "type": "choice", "prompt": "You dream about a holiday. Which fits?", "options": ["Ich muss nach Spanien fliegen.", "Ich soll nach Spanien fliegen.", "Ich möchte nach Spanien fliegen.", "Ich darf nach Spanien fliegen."], "answer": "Ich möchte nach Spanien fliegen.", "topic": "Modalverben" },
+    { "id": "gf7-p18", "type": "choice", "prompt": "Sign in the park: 'Dogs not allowed.' Which fits?", "options": ["Hunde können hier nicht spielen.", "Hunde müssen hier nicht spielen.", "Hunde dürfen hier nicht spielen.", "Hunde wollen hier nicht spielen."], "answer": "Hunde dürfen hier nicht spielen.", "topic": "Modalverben" },
     { "id": "gf7-p19", "type": "fill_blank", "prompt": "Er ___ gut Gitarre spielen. (can)", "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-p20", "type": "fill_blank", "prompt": "Wir ___ um 8 Uhr da sein. (must)", "answer": "mÃ¼ssen", "topic": "Modalverben" },
-    { "id": "gf7-p21", "type": "fill_blank", "prompt": "Sie ___ gern nach Japan reisen. (would like)", "answer": "mÃ¶chte", "topic": "Modalverben" },
-    { "id": "gf7-p22", "type": "fill_blank", "prompt": "___ ihr morgen kommen? (can)", "answer": "KÃ¶nnt", "topic": "Modalverben" },
+    { "id": "gf7-p20", "type": "fill_blank", "prompt": "Wir ___ um 8 Uhr da sein. (must)", "answer": "müssen", "topic": "Modalverben" },
+    { "id": "gf7-p21", "type": "fill_blank", "prompt": "Sie ___ gern nach Japan reisen. (would like)", "answer": "möchte", "topic": "Modalverben" },
+    { "id": "gf7-p22", "type": "fill_blank", "prompt": "___ ihr morgen kommen? (can)", "answer": "Könnt", "topic": "Modalverben" },
     { "id": "gf7-p23", "type": "sentence_order", "prompt": "I can speak German.", "tokens": ["kann", "Deutsch", "Ich", "sprechen", "."], "answer": ["Ich", "kann", "Deutsch", "sprechen", "."], "topic": "Modalverben" },
     { "id": "gf7-p24", "type": "sentence_order", "prompt": "You must do the homework.", "tokens": ["musst", "die", "Du", "Hausaufgabe", "machen", "."], "answer": ["Du", "musst", "die", "Hausaufgabe", "machen", "."], "topic": "Modalverben" },
     { "id": "gf7-p25", "type": "sentence_order", "prompt": "May I sit here?", "tokens": ["ich", "Darf", "sitzen", "hier", "?"], "answer": ["Darf", "ich", "hier", "sitzen", "?"], "topic": "Modalverben" },
     { "id": "gf7-p26", "type": "sentence_order", "prompt": "We want to go to the cinema.", "tokens": ["wollen", "ins", "Wir", "Kino", "gehen", "."], "answer": ["Wir", "wollen", "ins", "Kino", "gehen", "."], "topic": "Modalverben" },
     { "id": "gf7-p27", "type": "fill_blank", "prompt": "Ich ___ heute nicht kommen. (can)", "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-p28", "type": "fill_blank", "prompt": "Die Kinder ___ drauÃŸen spielen. (want to)", "answer": "wollen", "topic": "Modalverben" },
-    { "id": "gf7-p29", "type": "fill_blank", "prompt": "___ Sie bitte das Fenster Ã¶ffnen? (could/would â€” polite)", "answer": "KÃ¶nnen", "topic": "Modalverben" },
+    { "id": "gf7-p28", "type": "fill_blank", "prompt": "Die Kinder ___ draußen spielen. (want to)", "answer": "wollen", "topic": "Modalverben" },
+    { "id": "gf7-p29", "type": "fill_blank", "prompt": "___ Sie bitte das Fenster öffnen? (could/would — polite)", "answer": "Können", "topic": "Modalverben" },
     { "id": "gf7-p30", "type": "fill_blank", "prompt": "Man ___ hier nicht parken. (may not)", "answer": "darf", "topic": "Modalverben" },
     { "id": "gf7-p31", "type": "fill_blank", "prompt": "Er ___ den Arzt besuchen. (should)", "answer": "soll", "topic": "Modalverben" },
-    { "id": "gf7-p32", "type": "fill_blank", "prompt": "Ich ___ ein Buch lesen. (would like)", "answer": "mÃ¶chte", "topic": "Modalverben" },
+    { "id": "gf7-p32", "type": "fill_blank", "prompt": "Ich ___ ein Buch lesen. (would like)", "answer": "möchte", "topic": "Modalverben" },
     { "id": "gf7-p33", "type": "fill_blank", "prompt": "___ du mir helfen? (can)", "answer": "Kannst", "topic": "Modalverben" },
-    { "id": "gf7-p34", "type": "fill_blank", "prompt": "Wir ___ um 7 Uhr aufstehen. (must)", "answer": "mÃ¼ssen", "topic": "Modalverben" },
+    { "id": "gf7-p34", "type": "fill_blank", "prompt": "Wir ___ um 7 Uhr aufstehen. (must)", "answer": "müssen", "topic": "Modalverben" },
     { "id": "gf7-p35", "type": "fill_blank", "prompt": "Er ___ Arzt werden. (wants to)", "answer": "will", "topic": "Modalverben" },
     { "id": "gf7-p36", "type": "fill_blank", "prompt": "Sie ___ drei Sprachen sprechen. (can)", "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-p37", "type": "choice", "prompt": "Which modal expresses ability?", "options": ["mÃ¼ssen", "kÃ¶nnen", "sollen", "dÃ¼rfen"], "answer": "kÃ¶nnen", "topic": "Modalverben" },
-    { "id": "gf7-p38", "type": "choice", "prompt": "Which modal expresses permission?", "options": ["kÃ¶nnen", "mÃ¼ssen", "dÃ¼rfen", "wollen"], "answer": "dÃ¼rfen", "topic": "Modalverben" },
-    { "id": "gf7-p39", "type": "sentence_order", "prompt": "She would like to order a tea.", "tokens": ["mÃ¶chte", "einen", "Sie", "Tee", "bestellen", "."], "answer": ["Sie", "mÃ¶chte", "einen", "Tee", "bestellen", "."], "topic": "Modalverben" },
+    { "id": "gf7-p37", "type": "choice", "prompt": "Which modal expresses ability?", "options": ["müssen", "können", "sollen", "dürfen"], "answer": "können", "topic": "Modalverben" },
+    { "id": "gf7-p38", "type": "choice", "prompt": "Which modal expresses permission?", "options": ["können", "müssen", "dürfen", "wollen"], "answer": "dürfen", "topic": "Modalverben" },
+    { "id": "gf7-p39", "type": "sentence_order", "prompt": "She would like to order a tea.", "tokens": ["möchte", "einen", "Sie", "Tee", "bestellen", "."], "answer": ["Sie", "möchte", "einen", "Tee", "bestellen", "."], "topic": "Modalverben" },
     { "id": "gf7-p40", "type": "sentence_order", "prompt": "You may not smoke here.", "tokens": ["darfst", "hier", "Du", "nicht", "rauchen", "."], "answer": ["Du", "darfst", "hier", "nicht", "rauchen", "."], "topic": "Modalverben" },
     { "id": "gf7-p41", "type": "fill_blank", "prompt": "Ich ___ leider nicht kommen. (can)", "answer": "kann", "topic": "Modalverben" },
     { "id": "gf7-p42", "type": "fill_blank", "prompt": "___ wir jetzt anfangen? (shall)", "answer": "Sollen", "topic": "Modalverben" },
     { "id": "gf7-p43", "type": "fill_blank", "prompt": "Sie ___ Klavier spielen. (can)", "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-p44", "type": "fill_blank", "prompt": "Ihr ___ pÃ¼nktlich sein. (must)", "answer": "mÃ¼sst", "topic": "Modalverben" },
-    { "id": "gf7-p45", "type": "fill_blank", "prompt": "Ich ___ gern Pizza essen. (would like)", "answer": "mÃ¶chte", "topic": "Modalverben" },
-    { "id": "gf7-p46", "type": "fill_blank", "prompt": "Die Studenten ___ die PrÃ¼fung bestehen. (must)", "answer": "mÃ¼ssen", "topic": "Modalverben" },
+    { "id": "gf7-p44", "type": "fill_blank", "prompt": "Ihr ___ pünktlich sein. (must)", "answer": "müsst", "topic": "Modalverben" },
+    { "id": "gf7-p45", "type": "fill_blank", "prompt": "Ich ___ gern Pizza essen. (would like)", "answer": "möchte", "topic": "Modalverben" },
+    { "id": "gf7-p46", "type": "fill_blank", "prompt": "Die Studenten ___ die Prüfung bestehen. (must)", "answer": "müssen", "topic": "Modalverben" },
     { "id": "gf7-p47", "type": "fill_blank", "prompt": "Er ___ das Auto reparieren. (can)", "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-p48", "type": "fill_blank", "prompt": "___ ich das Fenster Ã¶ffnen? (may)", "answer": "Darf", "topic": "Modalverben" },
+    { "id": "gf7-p48", "type": "fill_blank", "prompt": "___ ich das Fenster öffnen? (may)", "answer": "Darf", "topic": "Modalverben" },
     { "id": "gf7-p49", "type": "fill_blank", "prompt": "Du ___ den Chef fragen. (should)", "answer": "sollst", "topic": "Modalverben" },
     { "id": "gf7-p50", "type": "fill_blank", "prompt": "Wir ___ zusammen kochen. (want to)", "answer": "wollen", "topic": "Modalverben" }
   ],
   "quiz": [
     { "id": "gf7-q1", "type": "mcq", "prompt": "What do modal verbs modify?", "options": ["The subject", "The tense", "The meaning of the main verb", "The article"], "answer": "The meaning of the main verb", "topic": "Modalverben" },
     { "id": "gf7-q2", "type": "fill_blank", "prompt": "Ich ___ gut schwimmen. (can)", "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-q3", "type": "mcq", "prompt": "Which modal means 'must'?", "options": ["kÃ¶nnen", "mÃ¼ssen", "dÃ¼rfen", "sollen"], "answer": "mÃ¼ssen", "topic": "Modalverben" },
+    { "id": "gf7-q3", "type": "mcq", "prompt": "Which modal means 'must'?", "options": ["können", "müssen", "dürfen", "sollen"], "answer": "müssen", "topic": "Modalverben" },
     { "id": "gf7-q4", "type": "fill_blank", "prompt": "___ ich ein Glas Wasser haben? (may)", "answer": "Darf", "topic": "Modalverben" },
     { "id": "gf7-q5", "type": "mcq", "prompt": "Where does the infinitive go in a modal sentence?", "options": ["Position 1", "Position 2", "After the modal", "At the end"], "answer": "At the end", "topic": "Modalverben" },
-    { "id": "gf7-q6", "type": "fill_blank", "prompt": "Wir ___ morgen frÃ¼h aufstehen. (must)", "answer": "mÃ¼ssen", "topic": "Modalverben" },
-    { "id": "gf7-q7", "type": "mcq", "prompt": "What does 'mÃ¶chten' express?", "options": ["Obligation", "Ability", "A polite wish", "Permission"], "answer": "A polite wish", "topic": "Modalverben" },
+    { "id": "gf7-q6", "type": "fill_blank", "prompt": "Wir ___ morgen früh aufstehen. (must)", "answer": "müssen", "topic": "Modalverben" },
+    { "id": "gf7-q7", "type": "mcq", "prompt": "What does 'möchten' express?", "options": ["Obligation", "Ability", "A polite wish", "Permission"], "answer": "A polite wish", "topic": "Modalverben" },
     { "id": "gf7-q8", "type": "fill_blank", "prompt": "Er ___ Arzt werden. (wants to)", "answer": "will", "topic": "Modalverben" },
     { "id": "gf7-q9", "type": "mcq", "prompt": "Which is correct for negation?", "options": ["Ich kann nicht kommen.", "Ich nicht kann kommen.", "Ich kann kommen nicht.", "Nicht ich kann kommen."], "answer": "Ich kann nicht kommen.", "topic": "Modalverben" },
     { "id": "gf7-q10", "type": "fill_blank", "prompt": "Du ___ mehr Wasser trinken. (should)", "answer": "sollst", "topic": "Modalverben" },
-    { "id": "gf7-q11", "type": "mcq", "prompt": "ich/er forms are identical for modals. What is 'er' form of 'kÃ¶nnen'?", "options": ["kÃ¶nnt", "kann", "kÃ¶nnen", "kannst"], "answer": "kann", "topic": "Modalverben" },
-    { "id": "gf7-q12", "type": "fill_blank", "prompt": "Sie ___ einen Tee bestellen. (would like)", "answer": "mÃ¶chte", "topic": "Modalverben" }
+    { "id": "gf7-q11", "type": "mcq", "prompt": "ich/er forms are identical for modals. What is 'er' form of 'können'?", "options": ["könnt", "kann", "können", "kannst"], "answer": "kann", "topic": "Modalverben" },
+    { "id": "gf7-q12", "type": "fill_blank", "prompt": "Sie ___ einen Tee bestellen. (would like)", "answer": "möchte", "topic": "Modalverben" }
   ],
   "games": [
     {
       "type": "situation_chooser",
       "id": "gf7-sc-1",
       "items": [
-        { "id": "sc-1", "scenario": "You know how to ride a bicycle.", "question": "Which sentence fits?", "options": ["Ich kann Fahrrad fahren.", "Ich muss Fahrrad fahren.", "Ich darf Fahrrad fahren.", "Ich soll Fahrrad fahren."], "answer": "Ich kann Fahrrad fahren.", "explanation": "'kÃ¶nnen' expresses ability." },
-        { "id": "sc-2", "scenario": "Your alarm rings at 6 AM for work.", "question": "Which sentence fits?", "options": ["Ich kann frÃ¼h aufstehen.", "Ich muss frÃ¼h aufstehen.", "Ich mÃ¶chte frÃ¼h aufstehen.", "Ich darf frÃ¼h aufstehen."], "answer": "Ich muss frÃ¼h aufstehen.", "explanation": "'mÃ¼ssen' expresses obligation." },
-        { "id": "sc-3", "scenario": "You are at a restaurant and want coffee.", "question": "Which sentence fits?", "options": ["Ich muss einen Kaffee.", "Ich soll einen Kaffee.", "Ich mÃ¶chte einen Kaffee.", "Ich kann einen Kaffee."], "answer": "Ich mÃ¶chte einen Kaffee.", "explanation": "'mÃ¶chten' expresses a polite wish." },
-        { "id": "sc-4", "scenario": "A sign says 'No photography'. You want to take a picture.", "question": "Which sentence fits?", "options": ["Ich kann hier nicht fotografieren.", "Ich darf hier nicht fotografieren.", "Ich will hier nicht fotografieren.", "Ich muss hier nicht fotografieren."], "answer": "Ich darf hier nicht fotografieren.", "explanation": "'dÃ¼rfen' expresses permission (or lack of it)." },
+        { "id": "sc-1", "scenario": "You know how to ride a bicycle.", "question": "Which sentence fits?", "options": ["Ich kann Fahrrad fahren.", "Ich muss Fahrrad fahren.", "Ich darf Fahrrad fahren.", "Ich soll Fahrrad fahren."], "answer": "Ich kann Fahrrad fahren.", "explanation": "'können' expresses ability." },
+        { "id": "sc-2", "scenario": "Your alarm rings at 6 AM for work.", "question": "Which sentence fits?", "options": ["Ich kann früh aufstehen.", "Ich muss früh aufstehen.", "Ich möchte früh aufstehen.", "Ich darf früh aufstehen."], "answer": "Ich muss früh aufstehen.", "explanation": "'müssen' expresses obligation." },
+        { "id": "sc-3", "scenario": "You are at a restaurant and want coffee.", "question": "Which sentence fits?", "options": ["Ich muss einen Kaffee.", "Ich soll einen Kaffee.", "Ich möchte einen Kaffee.", "Ich kann einen Kaffee."], "answer": "Ich möchte einen Kaffee.", "explanation": "'möchten' expresses a polite wish." },
+        { "id": "sc-4", "scenario": "A sign says 'No photography'. You want to take a picture.", "question": "Which sentence fits?", "options": ["Ich kann hier nicht fotografieren.", "Ich darf hier nicht fotografieren.", "Ich will hier nicht fotografieren.", "Ich muss hier nicht fotografieren."], "answer": "Ich darf hier nicht fotografieren.", "explanation": "'dürfen' expresses permission (or lack of it)." },
         { "id": "sc-5", "scenario": "Your teacher tells you to study more.", "question": "Which sentence fits?", "options": ["Ich kann mehr lernen.", "Ich will mehr lernen.", "Ich soll mehr lernen.", "Ich darf mehr lernen."], "answer": "Ich soll mehr lernen.", "explanation": "'sollen' expresses instruction from someone else." },
         { "id": "sc-6", "scenario": "You plan a trip to Italy this summer.", "question": "Which sentence fits?", "options": ["Ich muss nach Italien fahren.", "Ich soll nach Italien fahren.", "Ich will nach Italien fahren.", "Ich darf nach Italien fahren."], "answer": "Ich will nach Italien fahren.", "explanation": "'wollen' expresses strong desire/intention." },
-        { "id": "sc-7", "scenario": "A child asks a parent before eating candy.", "question": "Which sentence fits?", "options": ["Kann ich Bonbons essen?", "Darf ich Bonbons essen?", "Muss ich Bonbons essen?", "Soll ich Bonbons essen?"], "answer": "Darf ich Bonbons essen?", "explanation": "'dÃ¼rfen' for asking permission." },
-        { "id": "sc-8", "scenario": "Your friend speaks 4 languages fluently.", "question": "Which sentence fits?", "options": ["Sie muss vier Sprachen sprechen.", "Sie will vier Sprachen sprechen.", "Sie kann vier Sprachen sprechen.", "Sie darf vier Sprachen sprechen."], "answer": "Sie kann vier Sprachen sprechen.", "explanation": "'kÃ¶nnen' expresses ability." },
+        { "id": "sc-7", "scenario": "A child asks a parent before eating candy.", "question": "Which sentence fits?", "options": ["Kann ich Bonbons essen?", "Darf ich Bonbons essen?", "Muss ich Bonbons essen?", "Soll ich Bonbons essen?"], "answer": "Darf ich Bonbons essen?", "explanation": "'dürfen' for asking permission." },
+        { "id": "sc-8", "scenario": "Your friend speaks 4 languages fluently.", "question": "Which sentence fits?", "options": ["Sie muss vier Sprachen sprechen.", "Sie will vier Sprachen sprechen.", "Sie kann vier Sprachen sprechen.", "Sie darf vier Sprachen sprechen."], "answer": "Sie kann vier Sprachen sprechen.", "explanation": "'können' expresses ability." },
         { "id": "sc-9", "scenario": "The doctor recommends exercising daily.", "question": "Which sentence fits?", "options": ["Ich kann jeden Tag Sport machen.", "Ich soll jeden Tag Sport machen.", "Ich will jeden Tag Sport machen.", "Ich darf jeden Tag Sport machen."], "answer": "Ich soll jeden Tag Sport machen.", "explanation": "'sollen' for a recommendation." },
-        { "id": "sc-10", "scenario": "You really enjoy chocolate cake.", "question": "Which sentence fits?", "options": ["Ich soll Schokoladenkuchen essen.", "Ich muss Schokoladenkuchen essen.", "Ich mÃ¶chte Schokoladenkuchen essen.", "Ich darf Schokoladenkuchen essen."], "answer": "Ich mÃ¶chte Schokoladenkuchen essen.", "explanation": "'mÃ¶chten' expresses a wish." }
+        { "id": "sc-10", "scenario": "You really enjoy chocolate cake.", "question": "Which sentence fits?", "options": ["Ich soll Schokoladenkuchen essen.", "Ich muss Schokoladenkuchen essen.", "Ich möchte Schokoladenkuchen essen.", "Ich darf Schokoladenkuchen essen."], "answer": "Ich möchte Schokoladenkuchen essen.", "explanation": "'möchten' expresses a wish." }
       ]
     },
     {
       "type": "conjugation_grid",
       "id": "gf7-cg-1",
       "verbs": [
-        { "id": "cg-1", "verb": "kÃ¶nnen", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["kann", "kannst", "kann", "kÃ¶nnen", "kÃ¶nnt", "kÃ¶nnen"] },
-        { "id": "cg-2", "verb": "mÃ¼ssen", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["muss", "musst", "muss", "mÃ¼ssen", "mÃ¼sst", "mÃ¼ssen"] },
+        { "id": "cg-1", "verb": "können", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["kann", "kannst", "kann", "können", "könnt", "können"] },
+        { "id": "cg-2", "verb": "müssen", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["muss", "musst", "muss", "müssen", "müsst", "müssen"] },
         { "id": "cg-3", "verb": "wollen", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["will", "willst", "will", "wollen", "wollt", "wollen"] },
-        { "id": "cg-4", "verb": "dÃ¼rfen", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["darf", "darfst", "darf", "dÃ¼rfen", "dÃ¼rft", "dÃ¼rfen"] },
+        { "id": "cg-4", "verb": "dürfen", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["darf", "darfst", "darf", "dürfen", "dürft", "dürfen"] },
         { "id": "cg-5", "verb": "sollen", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["soll", "sollst", "soll", "sollen", "sollt", "sollen"] },
-        { "id": "cg-6", "verb": "mÃ¶chten", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["mÃ¶chte", "mÃ¶chtest", "mÃ¶chte", "mÃ¶chten", "mÃ¶chtet", "mÃ¶chten"] }
+        { "id": "cg-6", "verb": "möchten", "tense": "modal", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["möchte", "möchtest", "möchte", "möchten", "möchtet", "möchten"] }
       ]
     },
     {
@@ -180,11 +180,11 @@
         { "id": "sb-1", "prompt": "I can speak German.", "tokens": ["kann", "Deutsch", "Ich", "sprechen", "."], "answer": ["Ich", "kann", "Deutsch", "sprechen", "."] },
         { "id": "sb-2", "prompt": "You must do the homework.", "tokens": ["musst", "die", "Du", "Hausaufgabe", "machen", "."], "answer": ["Du", "musst", "die", "Hausaufgabe", "machen", "."] },
         { "id": "sb-3", "prompt": "She wants to go home.", "tokens": ["will", "nach", "Sie", "Hause", "gehen", "."], "answer": ["Sie", "will", "nach", "Hause", "gehen", "."] },
-        { "id": "sb-4", "prompt": "May I open the window?", "tokens": ["ich", "Darf", "Fenster", "das", "Ã¶ffnen", "?"], "answer": ["Darf", "ich", "das", "Fenster", "Ã¶ffnen", "?"] },
-        { "id": "sb-5", "prompt": "We would like to eat pizza.", "tokens": ["mÃ¶chten", "Pizza", "Wir", "essen", "."], "answer": ["Wir", "mÃ¶chten", "Pizza", "essen", "."] },
+        { "id": "sb-4", "prompt": "May I open the window?", "tokens": ["ich", "Darf", "Fenster", "das", "öffnen", "?"], "answer": ["Darf", "ich", "das", "Fenster", "öffnen", "?"] },
+        { "id": "sb-5", "prompt": "We would like to eat pizza.", "tokens": ["möchten", "Pizza", "Wir", "essen", "."], "answer": ["Wir", "möchten", "Pizza", "essen", "."] },
         { "id": "sb-6", "prompt": "You should drink more water.", "tokens": ["sollst", "mehr", "Du", "Wasser", "trinken", "."], "answer": ["Du", "sollst", "mehr", "Wasser", "trinken", "."] },
         { "id": "sb-7", "prompt": "He cannot come today.", "tokens": ["kann", "heute", "Er", "nicht", "kommen", "."], "answer": ["Er", "kann", "heute", "nicht", "kommen", "."] },
-        { "id": "sb-8", "prompt": "They want to play football.", "tokens": ["wollen", "FuÃŸball", "Sie", "spielen", "."], "answer": ["Sie", "wollen", "FuÃŸball", "spielen", "."] }
+        { "id": "sb-8", "prompt": "They want to play football.", "tokens": ["wollen", "Fußball", "Sie", "spielen", "."], "answer": ["Sie", "wollen", "Fußball", "spielen", "."] }
       ]
     }
   ]

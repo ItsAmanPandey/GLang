@@ -14,17 +14,17 @@
     {
       "id": "gf2-concept-1",
       "heading": "What the accusative marks",
-      "explanation": "The accusative case marks the direct object â€” the thing being acted upon. Compare: 'Das ist ein Hund.' (nominative â€” the dog IS something) vs 'Ich sehe einen Hund.' (accusative â€” the dog is being SEEN). Notice: only the masculine article changes. Neuter, feminine, and plural articles stay the same.",
+      "explanation": "The accusative case marks the direct object — the thing being acted upon. Compare: 'Das ist ein Hund.' (nominative — the dog IS something) vs 'Ich sehe einen Hund.' (accusative — the dog is being SEEN). Notice: only the masculine article changes. Neuter, feminine, and plural articles stay the same.",
       "examples": [
         {
           "de": "Das ist ein Hund.",
           "en": "That is a dog. (Nominativ)",
-          "note": "subject â€” no change"
+          "note": "subject — no change"
         },
         {
           "de": "Ich sehe einen Hund.",
           "en": "I see a dog. (Akkusativ)",
-          "note": "direct object â€” ein â†’ einen"
+          "note": "direct object — ein → einen"
         }
       ]
     },
@@ -35,34 +35,34 @@
       "table": {
         "headers": [
           "Gender",
-          "Definit (Nom â†’ Akk)",
-          "Indefinit (Nom â†’ Akk)",
-          "Negativ (Nom â†’ Akk)"
+          "Definit (Nom → Akk)",
+          "Indefinit (Nom → Akk)",
+          "Negativ (Nom → Akk)"
         ],
         "rows": [
           [
             "Masculine",
-            "der â†’ den",
-            "ein â†’ einen",
-            "kein â†’ keinen"
+            "der → den",
+            "ein → einen",
+            "kein → keinen"
           ],
           [
             "Neuter",
-            "das â†’ das",
-            "ein â†’ ein",
-            "kein â†’ kein"
+            "das → das",
+            "ein → ein",
+            "kein → kein"
           ],
           [
             "Feminine",
-            "die â†’ die",
-            "eine â†’ eine",
-            "keine â†’ keine"
+            "die → die",
+            "eine → eine",
+            "keine → keine"
           ],
           [
             "Plural",
-            "die â†’ die",
-            "â€” â†’ â€”",
-            "keine â†’ keine"
+            "die → die",
+            "— → —",
+            "keine → keine"
           ]
         ]
       },
@@ -70,7 +70,7 @@
         {
           "de": "Ich kaufe den Kuchen.",
           "en": "I buy the cake.",
-          "note": "masc: der â†’ den"
+          "note": "masc: der → den"
         },
         {
           "de": "Sie trinkt das Wasser.",
@@ -141,17 +141,17 @@
         {
           "de": "Siehst du mich?",
           "en": "Do you see me?",
-          "note": "ich â†’ mich"
+          "note": "ich → mich"
         },
         {
           "de": "Ich kenne ihn gut.",
           "en": "I know him well.",
-          "note": "er â†’ ihn"
+          "note": "er → ihn"
         },
         {
           "de": "Wir besuchen euch morgen.",
           "en": "We visit you tomorrow.",
-          "note": "ihr â†’ euch"
+          "note": "ihr → euch"
         }
       ]
     },
@@ -186,7 +186,7 @@
           "note": "sehen = to see"
         },
         {
-          "de": "Findest du den SchlÃ¼ssel?",
+          "de": "Findest du den Schlüssel?",
           "en": "Do you find the key?",
           "note": "finden = to find"
         },
@@ -318,7 +318,7 @@
       "type": "fill_blank",
       "prompt": "Hast du ___ Schwester?",
       "answer": "eine",
-      "hint": "accusative feminine â€” no change",
+      "hint": "accusative feminine — no change",
       "topic": "Akkusativ"
     },
     {
@@ -407,7 +407,7 @@
       ],
       "answer": "ein",
       "topic": "Akkusativ",
-      "explanation": "Kalender is masculine â€” accusative requires 'einen'"
+      "explanation": "Kalender is masculine — accusative requires 'einen'"
     },
     {
       "id": "gf2-p20",
@@ -421,7 +421,7 @@
       ],
       "answer": "der",
       "topic": "Akkusativ",
-      "explanation": "Hund is masculine â€” accusative requires 'den'"
+      "explanation": "Hund is masculine — accusative requires 'den'"
     },
     {
       "id": "gf2-p21",
@@ -435,21 +435,21 @@
       ],
       "answer": "ein",
       "topic": "Akkusativ",
-      "explanation": "Stuhl is masculine â€” accusative requires 'einen'"
+      "explanation": "Stuhl is masculine — accusative requires 'einen'"
     },
     {
       "id": "gf2-p22",
       "type": "choice",
-      "prompt": "Which word is WRONG? 'Hast du der SchlÃ¼ssel?'",
+      "prompt": "Which word is WRONG? 'Hast du der Schlüssel?'",
       "options": [
         "Hast",
         "du",
         "der",
-        "SchlÃ¼ssel"
+        "Schlüssel"
       ],
       "answer": "der",
       "topic": "Akkusativ",
-      "explanation": "SchlÃ¼ssel is masculine â€” accusative requires 'den'"
+      "explanation": "Schlüssel is masculine — accusative requires 'den'"
     },
     {
       "id": "gf2-p23",
@@ -463,7 +463,7 @@
       ],
       "answer": "ein",
       "topic": "Akkusativ",
-      "explanation": "Mantel is masculine â€” accusative requires 'einen'"
+      "explanation": "Mantel is masculine — accusative requires 'einen'"
     },
     {
       "id": "gf2-p24",
@@ -477,7 +477,7 @@
       ],
       "answer": "der",
       "topic": "Akkusativ",
-      "explanation": "Bus is masculine â€” accusative requires 'den'"
+      "explanation": "Bus is masculine — accusative requires 'den'"
     },
     {
       "id": "gf2-p25",
@@ -988,7 +988,7 @@
         },
         {
           "id": "ab-8",
-          "noun": "TÃ¼r",
+          "noun": "Tür",
           "article": "die",
           "mode": "akkusativ"
         },
@@ -1066,7 +1066,7 @@
         },
         {
           "id": "ab-21",
-          "noun": "SchlÃ¼ssel",
+          "noun": "Schlüssel",
           "article": "den",
           "mode": "akkusativ"
         },
