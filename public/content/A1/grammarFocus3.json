@@ -1,0 +1,153 @@
+{
+  "id": "A1_GF3",
+  "level": "A1",
+  "type": "grammarFocus",
+  "number": "GF3",
+  "title": "Trennbare Verben",
+  "subtitle": "Separable verbs and their prefix positions",
+  "focus": ["Separable Verbs", "Satzklammer", "Past Participle"],
+  "conceptSections": [
+    {
+      "id": "gf3-concept-1",
+      "heading": "How separable verbs work",
+      "explanation": "Many German verbs have a prefix that separates from the verb stem in main clauses. The conjugated stem stays in position 2, while the prefix moves to the very end of the sentence. This creates a 'bracket' (Satzklammer) around the middle of the sentence. For example: 'ankommen' â†’ 'Ich komme um 8 Uhr an.' â€” the 'an' goes to the end.",
+      "examples": [
+        { "de": "ankommen â†’ Ich komme um 8 Uhr an.", "en": "to arrive â†’ I arrive at 8 o'clock.", "note": "an- separates to end" },
+        { "de": "aufstehen â†’ Er steht jeden Tag frÃ¼h auf.", "en": "to get up â†’ He gets up early every day.", "note": "auf- separates to end" },
+        { "de": "einkaufen â†’ Wir kaufen am Samstag ein.", "en": "to shop â†’ We shop on Saturday.", "note": "ein- separates to end" }
+      ]
+    },
+    {
+      "id": "gf3-concept-2",
+      "heading": "Common separable verbs",
+      "explanation": "Here are 12 frequently used separable verbs at A1 level. Learn the complete verb and practise splitting it in sentences.",
+      "examples": [
+        { "de": "Ich stehe um sechs Uhr auf.", "en": "I get up at six o'clock.", "note": "aufstehen" },
+        { "de": "Der Zug kommt pÃ¼nktlich an.", "en": "The train arrives on time.", "note": "ankommen" },
+        { "de": "Sie fÃ¤ngt morgen mit der Arbeit an.", "en": "She starts work tomorrow.", "note": "anfangen" },
+        { "de": "Bitte rÃ¤um dein Zimmer auf!", "en": "Please tidy your room!", "note": "aufrÃ¤umen" },
+        { "de": "Er macht das Licht aus.", "en": "He turns off the light.", "note": "ausmachen" },
+        { "de": "Wir laden euch zur Party ein.", "en": "We invite you to the party.", "note": "einladen" },
+        { "de": "Sie kauft im Supermarkt ein.", "en": "She shops at the supermarket.", "note": "einkaufen" },
+        { "de": "Ich rufe dich heute Abend an.", "en": "I'll call you this evening.", "note": "anrufen" },
+        { "de": "Machst du bitte das Fenster auf?", "en": "Would you please open the window?", "note": "aufmachen" },
+        { "de": "Der Film fÃ¤ngt um acht an.", "en": "The movie starts at eight.", "note": "anfangen" },
+        { "de": "Kommst du mit?", "en": "Are you coming along?", "note": "mitkommen" },
+        { "de": "Er gibt das Geld zurÃ¼ck.", "en": "He gives the money back.", "note": "zurÃ¼ckgeben" }
+      ]
+    },
+    {
+      "id": "gf3-concept-3",
+      "heading": "Past participle of separable verbs",
+      "explanation": "When forming the past participle (Partizip II) of a separable verb, the 'ge-' is inserted between the prefix and the stem. For regular (weak) verbs the ending is '-t', for irregular (strong) verbs it is '-en' with a possible stem change.",
+      "table": {
+        "headers": ["Infinitive", "Past Participle", "Pattern"],
+        "rows": [
+          ["einkaufen", "eingekauft", "ein + ge + kauf + t"],
+          ["aufrÃ¤umen", "aufgerÃ¤umt", "auf + ge + rÃ¤um + t"],
+          ["anrufen", "angerufen", "an + ge + ruf + en"],
+          ["aufstehen", "aufgestanden", "auf + ge + stand + en"],
+          ["ankommen", "angekommen", "an + ge + komm + en"],
+          ["anfangen", "angefangen", "an + ge + fang + en"],
+          ["einladen", "eingeladen", "ein + ge + lad + en"],
+          ["mitkommen", "mitgekommen", "mit + ge + komm + en"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich habe gestern eingekauft.", "en": "I went shopping yesterday.", "note": "einkaufen â†’ eingekauft" },
+        { "de": "Er ist schon angekommen.", "en": "He has already arrived.", "note": "ankommen â†’ angekommen" },
+        { "de": "Wir haben das Zimmer aufgerÃ¤umt.", "en": "We tidied the room.", "note": "aufrÃ¤umen â†’ aufgerÃ¤umt" }
+      ]
+    }
+  ],
+  "practice": [
+    { "id": "gf3-p1", "type": "fill_blank", "prompt": "Ich stehe jeden Tag um 7 Uhr ___. (aufstehen)", "answer": "auf", "topic": "Trennbare Verben" },
+    { "id": "gf3-p2", "type": "fill_blank", "prompt": "Der Zug kommt um 9 Uhr ___. (ankommen)", "answer": "an", "topic": "Trennbare Verben" },
+    { "id": "gf3-p3", "type": "fill_blank", "prompt": "Wir kaufen am Samstag ___. (einkaufen)", "answer": "ein", "topic": "Trennbare Verben" },
+    { "id": "gf3-p4", "type": "fill_blank", "prompt": "Sie rÃ¤umt die KÃ¼che ___. (aufrÃ¤umen)", "answer": "auf", "topic": "Trennbare Verben" },
+    { "id": "gf3-p5", "type": "fill_blank", "prompt": "Er macht das Licht ___. (ausmachen)", "answer": "aus", "topic": "Trennbare Verben" },
+    { "id": "gf3-p6", "type": "fill_blank", "prompt": "Ich rufe dich morgen ___. (anrufen)", "answer": "an", "topic": "Trennbare Verben" },
+    { "id": "gf3-p7", "type": "fill_blank", "prompt": "Die Kinder kommen immer gern ___. (mitkommen)", "answer": "mit", "topic": "Trennbare Verben" },
+    { "id": "gf3-p8", "type": "fill_blank", "prompt": "Er gibt das Buch ___. (zurÃ¼ckgeben)", "answer": "zurÃ¼ck", "topic": "Trennbare Verben" },
+    { "id": "gf3-p9", "type": "fill_blank", "prompt": "Mach bitte die TÃ¼r ___! (aufmachen)", "answer": "auf", "topic": "Trennbare Verben" },
+    { "id": "gf3-p10", "type": "fill_blank", "prompt": "Der Film fÃ¤ngt um 20 Uhr ___. (anfangen)", "answer": "an", "topic": "Trennbare Verben" },
+    { "id": "gf3-p11", "type": "fill_blank", "prompt": "Wir laden unsere Freunde zur Feier ___. (einladen)", "answer": "ein", "topic": "Trennbare Verben" },
+    { "id": "gf3-p12", "type": "fill_blank", "prompt": "Er zieht sich warm ___. (anziehen)", "answer": "an", "topic": "Trennbare Verben" },
+    { "id": "gf3-p13", "type": "sentence_order", "prompt": "I get up at 7 o'clock.", "tokens": ["stehe", "um", "Ich", "7", "Uhr", "auf", "."], "answer": ["Ich", "stehe", "um", "7", "Uhr", "auf", "."], "topic": "Trennbare Verben" },
+    { "id": "gf3-p14", "type": "sentence_order", "prompt": "She calls her mother.", "tokens": ["ruft", "ihre", "Sie", "Mutter", "an", "."], "answer": ["Sie", "ruft", "ihre", "Mutter", "an", "."], "topic": "Trennbare Verben" },
+    { "id": "gf3-p15", "type": "sentence_order", "prompt": "The movie starts at 8.", "tokens": ["fÃ¤ngt", "Der", "um", "Film", "8", "an", "."], "answer": ["Der", "Film", "fÃ¤ngt", "um", "8", "an", "."], "topic": "Trennbare Verben" },
+    { "id": "gf3-p16", "type": "sentence_order", "prompt": "We shop on Saturday.", "tokens": ["kaufen", "am", "Wir", "Samstag", "ein", "."], "answer": ["Wir", "kaufen", "am", "Samstag", "ein", "."], "topic": "Trennbare Verben" },
+    { "id": "gf3-p17", "type": "sentence_order", "prompt": "He turns off the light.", "tokens": ["macht", "Er", "das", "Licht", "aus", "."], "answer": ["Er", "macht", "das", "Licht", "aus", "."], "topic": "Trennbare Verben" },
+    { "id": "gf3-p18", "type": "sentence_order", "prompt": "Are you coming along?", "tokens": ["du", "Kommst", "mit", "?"], "answer": ["Kommst", "du", "mit", "?"], "topic": "Trennbare Verben" },
+    { "id": "gf3-p19", "type": "fill_blank", "prompt": "Ich habe gestern ___. (einkaufen â€” past participle)", "answer": "eingekauft", "topic": "Partizip II" },
+    { "id": "gf3-p20", "type": "fill_blank", "prompt": "Er ist pÃ¼nktlich ___. (ankommen â€” past participle)", "answer": "angekommen", "topic": "Partizip II" },
+    { "id": "gf3-p21", "type": "fill_blank", "prompt": "Wir haben das Zimmer ___. (aufrÃ¤umen â€” past participle)", "answer": "aufgerÃ¤umt", "topic": "Partizip II" },
+    { "id": "gf3-p22", "type": "fill_blank", "prompt": "Sie hat ihren Freund ___. (anrufen â€” past participle)", "answer": "angerufen", "topic": "Partizip II" },
+    { "id": "gf3-p23", "type": "fill_blank", "prompt": "Er ist heute frÃ¼h ___. (aufstehen â€” past participle)", "answer": "aufgestanden", "topic": "Partizip II" },
+    { "id": "gf3-p24", "type": "fill_blank", "prompt": "Hast du die TÃ¼r ___? (aufmachen â€” past participle)", "answer": "aufgemacht", "topic": "Partizip II" },
+    { "id": "gf3-p25", "type": "fill_blank", "prompt": "Sie ___ morgen um 6 Uhr ___. (aufstehen, present)", "answer": ["steht", "auf"], "hint": "Two blanks: conjugated stem + prefix", "topic": "Trennbare Verben" },
+    { "id": "gf3-p26", "type": "choice", "prompt": "Which verb is separable?", "options": ["verstehen", "bekommen", "aufrÃ¤umen", "erzÃ¤hlen"], "answer": "aufrÃ¤umen", "topic": "Trennbare Verben" },
+    { "id": "gf3-p27", "type": "choice", "prompt": "Which verb is separable?", "options": ["besuchen", "mitkommen", "vergessen", "beginnen"], "answer": "mitkommen", "topic": "Trennbare Verben" },
+    { "id": "gf3-p28", "type": "choice", "prompt": "Which verb is separable?", "options": ["erzÃ¤hlen", "empfehlen", "einladen", "gefallen"], "answer": "einladen", "topic": "Trennbare Verben" },
+    { "id": "gf3-p29", "type": "choice", "prompt": "What is the past participle of 'anfangen'?", "options": ["gefangen", "angefangen", "gefangt", "angegangt"], "answer": "angefangen", "topic": "Partizip II" },
+    { "id": "gf3-p30", "type": "choice", "prompt": "What is the past participle of 'einladen'?", "options": ["geladen", "eingeladen", "eingeladet", "geladt"], "answer": "eingeladen", "topic": "Partizip II" },
+    { "id": "gf3-p31", "type": "fill_blank", "prompt": "Bitte mach das Fenster ___! (zumachen)", "answer": "zu", "topic": "Trennbare Verben" },
+    { "id": "gf3-p32", "type": "fill_blank", "prompt": "Er sieht heute Abend ___. (fernsehen)", "answer": "fern", "topic": "Trennbare Verben" },
+    { "id": "gf3-p33", "type": "fill_blank", "prompt": "Wann fÃ¤hrt der Bus ___? (abfahren)", "answer": "ab", "topic": "Trennbare Verben" },
+    { "id": "gf3-p34", "type": "fill_blank", "prompt": "Ich bringe das Buch morgen ___. (mitbringen)", "answer": "mit", "topic": "Trennbare Verben" },
+    { "id": "gf3-p35", "type": "fill_blank", "prompt": "Sie schreibt die Hausaufgabe ___. (abschreiben)", "answer": "ab", "topic": "Trennbare Verben" },
+    { "id": "gf3-p36", "type": "fill_blank", "prompt": "Wir fangen jetzt ___. (anfangen)", "answer": "an", "topic": "Trennbare Verben" },
+    { "id": "gf3-p37", "type": "fill_blank", "prompt": "Der Bus hÃ¤lt hier ___. (anhalten)", "answer": "an", "topic": "Trennbare Verben" },
+    { "id": "gf3-p38", "type": "fill_blank", "prompt": "Sie hat alle Freunde ___. (einladen â€” past participle)", "answer": "eingeladen", "topic": "Partizip II" },
+    { "id": "gf3-p39", "type": "fill_blank", "prompt": "Wir sind gestern ___. (mitkommen â€” past participle)", "answer": "mitgekommen", "topic": "Partizip II" },
+    { "id": "gf3-p40", "type": "sentence_order", "prompt": "Please tidy the room.", "tokens": ["Bitte", "rÃ¤um", "Zimmer", "das", "auf", "!"], "answer": ["Bitte", "rÃ¤um", "das", "Zimmer", "auf", "!"], "topic": "Trennbare Verben" },
+    { "id": "gf3-p41", "type": "sentence_order", "prompt": "I called you yesterday.", "tokens": ["habe", "dich", "Ich", "gestern", "angerufen", "."], "answer": ["Ich", "habe", "dich", "gestern", "angerufen", "."], "topic": "Partizip II" },
+    { "id": "gf3-p42", "type": "fill_blank", "prompt": "Er hat den Mantel ___. (anziehen â€” past participle)", "answer": "angezogen", "topic": "Partizip II" },
+    { "id": "gf3-p43", "type": "fill_blank", "prompt": "Hast du schon ___? (einkaufen â€” past participle)", "answer": "eingekauft", "topic": "Partizip II" },
+    { "id": "gf3-p44", "type": "choice", "prompt": "Where does the prefix go in a main clause?", "options": ["Before the verb", "After the subject", "At the end", "Before the object"], "answer": "At the end", "topic": "Trennbare Verben" },
+    { "id": "gf3-p45", "type": "choice", "prompt": "Where does 'ge-' go in the past participle of separable verbs?", "options": ["At the beginning", "Between prefix and stem", "At the end", "It is not used"], "answer": "Between prefix and stem", "topic": "Partizip II" },
+    { "id": "gf3-p46", "type": "fill_blank", "prompt": "Der Unterricht hÃ¶rt um 15 Uhr ___. (aufhÃ¶ren)", "answer": "auf", "topic": "Trennbare Verben" },
+    { "id": "gf3-p47", "type": "fill_blank", "prompt": "Er hat die TÃ¼r ___. (zumachen â€” past participle)", "answer": "zugemacht", "topic": "Partizip II" },
+    { "id": "gf3-p48", "type": "fill_blank", "prompt": "Wann stehst du morgen ___? (aufstehen)", "answer": "auf", "topic": "Trennbare Verben" },
+    { "id": "gf3-p49", "type": "fill_blank", "prompt": "Sie hat gestern ___. (fernsehen â€” past participle)", "answer": "ferngesehen", "topic": "Partizip II" },
+    { "id": "gf3-p50", "type": "fill_blank", "prompt": "Der Kurs fÃ¤ngt um 9 Uhr ___. (anfangen)", "answer": "an", "topic": "Trennbare Verben" }
+  ],
+  "quiz": [
+    { "id": "gf3-q1", "type": "mcq", "prompt": "What happens to a separable prefix in a main clause?", "options": ["It stays attached", "It moves to the end", "It is deleted", "It moves to position 1"], "answer": "It moves to the end", "topic": "Trennbare Verben" },
+    { "id": "gf3-q2", "type": "fill_blank", "prompt": "Ich stehe um 7 Uhr ___. (aufstehen)", "answer": "auf", "topic": "Trennbare Verben" },
+    { "id": "gf3-q3", "type": "mcq", "prompt": "Which is a separable verb?", "options": ["besuchen", "verstehen", "anfangen", "erzÃ¤hlen"], "answer": "anfangen", "topic": "Trennbare Verben" },
+    { "id": "gf3-q4", "type": "fill_blank", "prompt": "Er hat gestern ___. (einkaufen â€” past participle)", "answer": "eingekauft", "topic": "Partizip II" },
+    { "id": "gf3-q5", "type": "mcq", "prompt": "What is the past participle of 'ankommen'?", "options": ["angekommen", "geankommen", "angekommt", "gekommen"], "answer": "angekommen", "topic": "Partizip II" },
+    { "id": "gf3-q6", "type": "fill_blank", "prompt": "Wir kaufen morgen ___. (einkaufen)", "answer": "ein", "topic": "Trennbare Verben" },
+    { "id": "gf3-q7", "type": "mcq", "prompt": "Where is 'ge-' placed in the past participle of separable verbs?", "options": ["At the start", "At the end", "Between prefix and stem", "It disappears"], "answer": "Between prefix and stem", "topic": "Partizip II" },
+    { "id": "gf3-q8", "type": "fill_blank", "prompt": "Sie ruft ihre Mutter ___. (anrufen)", "answer": "an", "topic": "Trennbare Verben" },
+    { "id": "gf3-q9", "type": "fill_blank", "prompt": "Er ist um 8 Uhr ___. (aufstehen â€” past participle)", "answer": "aufgestanden", "topic": "Partizip II" },
+    { "id": "gf3-q10", "type": "mcq", "prompt": "Complete: 'Der Zug ___ um 10 Uhr ___.' (abfahren)", "options": ["fÃ¤hrt ... ab", "abfÃ¤hrt ...", "fahrt ... ab", "fÃ¤hrt ... an"], "answer": "fÃ¤hrt ... ab", "topic": "Trennbare Verben" }
+  ],
+  "games": [
+    {
+      "type": "sentence_builder",
+      "id": "gf3-sb-1",
+      "sentences": [
+        { "id": "sb-1", "prompt": "I get up at 6 o'clock.", "tokens": ["stehe", "um", "Ich", "6", "Uhr", "auf", "."], "answer": ["Ich", "stehe", "um", "6", "Uhr", "auf", "."] },
+        { "id": "sb-2", "prompt": "She calls her friend.", "tokens": ["ruft", "ihre", "Sie", "Freundin", "an", "."], "answer": ["Sie", "ruft", "ihre", "Freundin", "an", "."] },
+        { "id": "sb-3", "prompt": "The train arrives at 9.", "tokens": ["kommt", "Der", "um", "Zug", "9", "an", "."], "answer": ["Der", "Zug", "kommt", "um", "9", "an", "."] },
+        { "id": "sb-4", "prompt": "We shop on Saturday.", "tokens": ["kaufen", "am", "Wir", "Samstag", "ein", "."], "answer": ["Wir", "kaufen", "am", "Samstag", "ein", "."] },
+        { "id": "sb-5", "prompt": "He turns off the light.", "tokens": ["macht", "Er", "das", "Licht", "aus", "."], "answer": ["Er", "macht", "das", "Licht", "aus", "."] },
+        { "id": "sb-6", "prompt": "Please open the window.", "tokens": ["Bitte", "mach", "Fenster", "das", "auf", "!"], "answer": ["Bitte", "mach", "das", "Fenster", "auf", "!"] },
+        { "id": "sb-7", "prompt": "The lesson starts at 9.", "tokens": ["fÃ¤ngt", "Der", "um", "Unterricht", "9", "an", "."], "answer": ["Der", "Unterricht", "fÃ¤ngt", "um", "9", "an", "."] },
+        { "id": "sb-8", "prompt": "Are you coming along?", "tokens": ["du", "Kommst", "mit", "?"], "answer": ["Kommst", "du", "mit", "?"] }
+      ]
+    },
+    {
+      "type": "conjugation_grid",
+      "id": "gf3-cg-1",
+      "verbs": [
+        { "id": "cg-1", "verb": "aufstehen", "tense": "present", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["stehe auf", "stehst auf", "steht auf", "stehen auf", "steht auf", "stehen auf"] },
+        { "id": "cg-2", "verb": "einkaufen", "tense": "present", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["kaufe ein", "kaufst ein", "kauft ein", "kaufen ein", "kauft ein", "kaufen ein"] },
+        { "id": "cg-3", "verb": "anrufen", "tense": "present", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["rufe an", "rufst an", "ruft an", "rufen an", "ruft an", "rufen an"] },
+        { "id": "cg-4", "verb": "anfangen", "tense": "present", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["fange an", "fÃ¤ngst an", "fÃ¤ngt an", "fangen an", "fangt an", "fangen an"] }
+      ]
+    }
+  ]
+}

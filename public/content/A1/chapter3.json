@@ -21,7 +21,7 @@
     },
     {
       "title": "Prices in German",
-      "body": "A price like 2,50 € is spoken as 'zwei Euro fünfzig'."
+      "body": "A price like 2,50 â‚¬ is spoken as 'zwei Euro fÃ¼nfzig'."
     }
   ],
   "vocabulary": [
@@ -30,126 +30,144 @@
       "meaning": "bread",
       "article": "das",
       "plural": "die Brote",
-      "example": "Ich esse gern Brot."
+      "example": "Ich esse gern Brot.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Apfel",
       "meaning": "apple",
       "article": "der",
-      "plural": "die Äpfel",
-      "example": "Ein Apfel am Tag ist gesund."
+      "plural": "die Ã„pfel",
+      "example": "Ein Apfel am Tag ist gesund.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Banane",
       "meaning": "banana",
       "article": "die",
       "plural": "die Bananen",
-      "example": "Die Banane ist gelb."
+      "example": "Die Banane ist gelb.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Tomate",
       "meaning": "tomato",
       "article": "die",
       "plural": "die Tomaten",
-      "example": "Tomaten sind rot."
+      "example": "Tomaten sind rot.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "der Käse",
+      "word": "der KÃ¤se",
       "meaning": "cheese",
       "article": "der",
-      "plural": "die Käse",
-      "example": "Ich esse Käse zum Frühstück."
+      "plural": "die KÃ¤se",
+      "example": "Ich esse KÃ¤se zum FrÃ¼hstÃ¼ck.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Wurst",
       "meaning": "sausage",
       "article": "die",
-      "plural": "die Würste",
-      "example": "In Deutschland gibt es viel Wurst."
+      "plural": "die WÃ¼rste",
+      "example": "In Deutschland gibt es viel Wurst.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Ei",
       "meaning": "egg",
       "article": "das",
       "plural": "die Eier",
-      "example": "Ich koche zwei Eier."
+      "example": "Ich koche zwei Eier.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Reis",
       "meaning": "rice",
       "article": "der",
       "plural": "die Reissorten",
-      "example": "Wir essen Hähnchen mit Reis."
+      "example": "Wir essen HÃ¤hnchen mit Reis.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Fleisch",
       "meaning": "meat",
       "article": "das",
       "plural": "die Fleischsorten",
-      "example": "Ich esse kein Fleisch, ich bin Vegetarier."
+      "example": "Ich esse kein Fleisch, ich bin Vegetarier.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Fisch",
       "meaning": "fish",
       "article": "der",
       "plural": "die Fische",
-      "example": "Der Fisch schmeckt sehr gut."
+      "example": "Der Fisch schmeckt sehr gut.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Kartoffel",
       "meaning": "potato",
       "article": "die",
       "plural": "die Kartoffeln",
-      "example": "Kartoffeln sind gesund."
+      "example": "Kartoffeln sind gesund.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Wasser",
       "meaning": "water",
       "article": "das",
       "plural": "die Wasser",
-      "example": "Ein Glas Wasser, bitte."
+      "example": "Ein Glas Wasser, bitte.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Kaffee",
       "meaning": "coffee",
       "article": "der",
       "plural": "die Kaffees",
-      "example": "Ich trinke Kaffee am Morgen."
+      "example": "Ich trinke Kaffee am Morgen.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Tee",
       "meaning": "tea",
       "article": "der",
       "plural": "die Tees",
-      "example": "Trinkst du lieber Kaffee oder Tee?"
+      "example": "Trinkst du lieber Kaffee oder Tee?",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Milch",
       "meaning": "milk",
       "article": "die",
       "plural": "-",
-      "example": "Kaffee mit Milch, bitte."
+      "example": "Kaffee mit Milch, bitte.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Saft",
       "meaning": "juice",
       "article": "der",
-      "plural": "die Säfte",
-      "example": "Apfelsaft trinke ich sehr gern."
+      "plural": "die SÃ¤fte",
+      "example": "Apfelsaft trinke ich sehr gern.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Supermarkt",
       "meaning": "supermarket",
       "article": "der",
-      "plural": "die Supermärkte",
-      "example": "Ich kaufe im Supermarkt ein."
+      "plural": "die SupermÃ¤rkte",
+      "example": "Ich kaufe im Supermarkt ein.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Preis",
       "meaning": "price",
       "article": "der",
       "plural": "die Preise",
-      "example": "Der Preis ist sehr hoch."
+      "example": "Der Preis ist sehr hoch.",
+      "grammarRef": "GF1"
     },
     {
       "word": "kosten",
@@ -159,7 +177,7 @@
     {
       "word": "kaufen",
       "meaning": "to buy",
-      "example": "Ich kaufe Äpfel und Bananen."
+      "example": "Ich kaufe Ã„pfel und Bananen."
     },
     {
       "word": "essen",
@@ -207,9 +225,9 @@
       "example": "Das kostet zwanzig Euro."
     },
     {
-      "word": "dreißig",
+      "word": "dreiÃŸig",
       "meaning": "thirty",
-      "example": "Ich brauche dreißig Gramm Käse."
+      "example": "Ich brauche dreiÃŸig Gramm KÃ¤se."
     },
     {
       "word": "vierzig",
@@ -217,9 +235,9 @@
       "example": "Vierzig Minuten warten."
     },
     {
-      "word": "fünfzig",
+      "word": "fÃ¼nfzig",
       "meaning": "fifty",
-      "example": "Fünfzig Cent, bitte."
+      "example": "FÃ¼nfzig Cent, bitte."
     },
     {
       "word": "hundert",
@@ -227,142 +245,161 @@
       "example": "Das Buch kostet fast hundert Euro."
     },
     {
-      "word": "das Gemüse",
+      "word": "das GemÃ¼se",
       "meaning": "vegetables",
       "article": "das",
       "plural": "-",
-      "example": "Gemüse ist gesund."
+      "example": "GemÃ¼se ist gesund.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Obst",
       "meaning": "fruit",
       "article": "das",
       "plural": "-",
-      "example": "Ich esse gern Obst."
+      "example": "Ich esse gern Obst.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Salat",
       "meaning": "salad / lettuce",
       "article": "der",
       "plural": "die Salate",
-      "example": "Wir machen einen Salat."
+      "example": "Wir machen einen Salat.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Suppe",
       "meaning": "soup",
       "article": "die",
       "plural": "die Suppen",
-      "example": "Die Suppe ist heiß."
+      "example": "Die Suppe ist heiÃŸ.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Butter",
       "meaning": "butter",
       "article": "die",
       "plural": "-",
-      "example": "Brot mit Butter."
+      "example": "Brot mit Butter.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "das Öl",
+      "word": "das Ã–l",
       "meaning": "oil",
       "article": "das",
-      "plural": "die Öle",
-      "example": "Salat mit Öl."
+      "plural": "die Ã–le",
+      "example": "Salat mit Ã–l.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Salz",
       "meaning": "salt",
       "article": "das",
       "plural": "die Salze",
-      "example": "Ein bisschen Salz."
+      "example": "Ein bisschen Salz.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Zucker",
       "meaning": "sugar",
       "article": "der",
       "plural": "die Zucker",
-      "example": "Kaffee ohne Zucker."
+      "example": "Kaffee ohne Zucker.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Kuchen",
       "meaning": "cake",
       "article": "der",
       "plural": "die Kuchen",
-      "example": "Der Kuchen schmeckt lecker."
+      "example": "Der Kuchen schmeckt lecker.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "das Brötchen",
+      "word": "das BrÃ¶tchen",
       "meaning": "bread roll",
       "article": "das",
-      "plural": "die Brötchen",
-      "example": "Zwei Brötchen, bitte."
+      "plural": "die BrÃ¶tchen",
+      "example": "Zwei BrÃ¶tchen, bitte.",
+      "grammarRef": "GF1"
     },
     {
       "word": "bezahlen",
       "meaning": "to pay",
-      "example": "Ich möchte bezahlen."
+      "example": "Ich mÃ¶chte bezahlen."
     },
     {
       "word": "das Geld",
       "meaning": "money",
       "article": "das",
       "plural": "die Gelder",
-      "example": "Ich habe kein Geld."
+      "example": "Ich habe kein Geld.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Kasse",
       "meaning": "cash register / checkout",
       "article": "die",
       "plural": "die Kassen",
-      "example": "Bitte zahlen Sie an der Kasse."
+      "example": "Bitte zahlen Sie an der Kasse.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Flasche",
       "meaning": "bottle",
       "article": "die",
       "plural": "die Flaschen",
-      "example": "Eine Flasche Wasser."
+      "example": "Eine Flasche Wasser.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Glas",
       "meaning": "glass",
       "article": "das",
-      "plural": "die Gläser",
-      "example": "Ein Glas Wein."
+      "plural": "die GlÃ¤ser",
+      "example": "Ein Glas Wein.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "das Hähnchen",
+      "word": "das HÃ¤hnchen",
       "meaning": "chicken",
       "article": "das",
-      "plural": "die Hähnchen",
-      "example": "Wir essen Hähnchen."
+      "plural": "die HÃ¤hnchen",
+      "example": "Wir essen HÃ¤hnchen.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Rindfleisch",
       "meaning": "beef",
       "article": "das",
       "plural": "-",
-      "example": "Rindfleisch ist teuer."
+      "example": "Rindfleisch ist teuer.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Schweinefleisch",
       "meaning": "pork",
       "article": "das",
       "plural": "-",
-      "example": "Ich esse kein Schweinefleisch."
+      "example": "Ich esse kein Schweinefleisch.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Knoblauch",
       "meaning": "garlic",
       "article": "der",
       "plural": "-",
-      "example": "Mit Knoblauch, bitte."
+      "example": "Mit Knoblauch, bitte.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Zwiebel",
       "meaning": "onion",
       "article": "die",
       "plural": "die Zwiebeln",
-      "example": "Zwiebeln sind scharf."
+      "example": "Zwiebeln sind scharf.",
+      "grammarRef": "GF1"
     }
   ],
   "grammar": [
@@ -386,16 +423,16 @@
       "topic": "The verb 'essen' (to eat)",
       "explanation": "'Essen' is irregular in the du and er/sie/es forms: ich esse, du isst, er/sie/es isst, wir essen, ihr esst, Sie/sie essen.",
       "examples": [
-        "Ich esse gern Käse.",
+        "Ich esse gern KÃ¤se.",
         "Isst du Fleisch?"
       ]
     },
     {
-      "topic": "The verb 'möchten' (would like)",
-      "explanation": "Used for polite requests, especially in restaurants/shops: ich möchte, du möchtest, er/sie möchte, wir möchten, ihr möchtet, Sie/sie möchten.",
+      "topic": "The verb 'mÃ¶chten' (would like)",
+      "explanation": "Used for polite requests, especially in restaurants/shops: ich mÃ¶chte, du mÃ¶chtest, er/sie mÃ¶chte, wir mÃ¶chten, ihr mÃ¶chtet, Sie/sie mÃ¶chten.",
       "examples": [
-        "Ich möchte einen Kaffee, bitte.",
-        "Was möchten Sie trinken?"
+        "Ich mÃ¶chte einen Kaffee, bitte.",
+        "Was mÃ¶chten Sie trinken?"
       ]
     }
   ],
@@ -406,7 +443,8 @@
       "prompt": "Ich ___ gern Brot.",
       "answer": "esse",
       "hint": "to eat (ich form)",
-      "topic": "essen"
+      "topic": "essen",
+      "grammarRef": "GF1"
     },
     {
       "id": "c3-fill-2",
@@ -414,7 +452,8 @@
       "prompt": "Was ___ das Brot? - 3 Euro.",
       "answer": "kostet",
       "hint": "to cost",
-      "topic": "kosten"
+      "topic": "kosten",
+      "grammarRef": "GF1"
     },
     {
       "id": "c3-fill-3",
@@ -422,7 +461,8 @@
       "prompt": "Wir haben ___ Brot mehr.",
       "answer": "kein",
       "hint": "no (neuter)",
-      "topic": "kein"
+      "topic": "kein",
+      "grammarRef": "GF1"
     },
     {
       "id": "c3-fill-4",
@@ -430,14 +470,15 @@
       "prompt": "Ich trinke Kaffee, aber ___ Tee.",
       "answer": "keinen",
       "hint": "no (masculine accusative - just try keinen for now)",
-      "topic": "kein"
+      "topic": "kein",
+      "grammarRef": "GF1"
     },
     {
       "id": "c3-choice-1",
       "type": "choice",
       "prompt": "Which word is a drink?",
       "options": [
-        "der Käse",
+        "der KÃ¤se",
         "der Saft",
         "das Fleisch",
         "der Reis"
@@ -464,19 +505,19 @@
       "prompt": "Say you would like a tea.",
       "tokens": [
         "einen",
-        "möchte",
+        "mÃ¶chte",
         "Ich",
         "Tee",
         "."
       ],
       "answer": [
         "Ich",
-        "möchte",
+        "mÃ¶chte",
         "einen",
         "Tee",
         "."
       ],
-      "topic": "möchten"
+      "topic": "mÃ¶chten"
     },
     {
       "id": "c3-order-2",

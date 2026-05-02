@@ -1,0 +1,208 @@
+{
+  "id": "A1_GF5",
+  "level": "A1",
+  "type": "grammarFocus",
+  "number": "GF5",
+  "title": "Perfekt mit sein",
+  "subtitle": "Motion and change-of-state verbs with sein",
+  "focus": ["Perfekt mit sein", "Movement Verbs", "PrÃ¤teritum war/hatte"],
+  "conceptSections": [
+    {
+      "id": "gf5-concept-1",
+      "heading": "Which verbs take sein?",
+      "explanation": "Some verbs use 'sein' instead of 'haben' as the auxiliary in Perfekt. These fall into two categories: verbs of physical movement from point A to point B (gehen, fahren, kommen, fliegen, laufen, reisen, schwimmen), and verbs expressing a change of state (aufwachen, einschlafen, werden, passieren, sterben).",
+      "examples": [
+        { "de": "Ich bin nach Berlin gefahren.", "en": "I drove/went to Berlin.", "note": "fahren = movement Aâ†’B â†’ sein" },
+        { "de": "Er ist gestern angekommen.", "en": "He arrived yesterday.", "note": "ankommen = movement â†’ sein" },
+        { "de": "Sie ist eingeschlafen.", "en": "She fell asleep.", "note": "einschlafen = change of state â†’ sein" },
+        { "de": "Das Kind ist schnell gewachsen.", "en": "The child grew quickly.", "note": "wachsen = change of state â†’ sein" }
+      ]
+    },
+    {
+      "id": "gf5-concept-2",
+      "heading": "sein conjugation in Perfekt",
+      "explanation": "When using sein as the auxiliary, conjugate it the same way as in present tense. The past participle still goes to the end.",
+      "table": {
+        "headers": ["Pronoun", "sein (conjugated)"],
+        "rows": [
+          ["ich", "bin"],
+          ["du", "bist"],
+          ["er/es/sie", "ist"],
+          ["wir", "sind"],
+          ["ihr", "seid"],
+          ["sie/Sie", "sind"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich bin nach Hause gegangen.", "en": "I went home.", "note": "gehen â†’ gegangen, with sein" },
+        { "de": "Wir sind in die Stadt gefahren.", "en": "We drove into town.", "note": "fahren â†’ gefahren, with sein" }
+      ]
+    },
+    {
+      "id": "gf5-concept-3",
+      "heading": "PrÃ¤teritum of sein and haben",
+      "explanation": "The verbs 'sein' and 'haben' are special: they commonly appear in PrÃ¤teritum (simple past) even in spoken German, unlike other verbs. Learn these two sets of forms alongside Perfekt.",
+      "table": {
+        "headers": ["Pronoun", "sein â†’ war", "haben â†’ hatte"],
+        "rows": [
+          ["ich", "war", "hatte"],
+          ["du", "warst", "hattest"],
+          ["er/es/sie", "war", "hatte"],
+          ["wir", "waren", "hatten"],
+          ["ihr", "wart", "hattet"],
+          ["sie/Sie", "waren", "hatten"]
+        ]
+      },
+      "examples": [
+        { "de": "Gestern war ich in Berlin.", "en": "Yesterday I was in Berlin.", "note": "war = PrÃ¤teritum of sein" },
+        { "de": "Gestern bin ich nach Berlin gefahren.", "en": "Yesterday I went to Berlin.", "note": "Perfekt with sein for the journey" },
+        { "de": "Ich hatte keine Zeit.", "en": "I had no time.", "note": "hatte = PrÃ¤teritum of haben" }
+      ]
+    },
+    {
+      "id": "gf5-concept-4",
+      "heading": "haben vs sein comparison",
+      "explanation": "Here is a side-by-side comparison showing which common verbs take haben and which take sein.",
+      "table": {
+        "headers": ["haben verbs", "Example", "sein verbs", "Example"],
+        "rows": [
+          ["machen", "Ich habe es gemacht.", "gehen", "Ich bin gegangen."],
+          ["kaufen", "Sie hat Obst gekauft.", "kommen", "Er ist gekommen."],
+          ["lernen", "Wir haben gelernt.", "fahren", "Wir sind gefahren."],
+          ["essen", "Er hat Pizza gegessen.", "fliegen", "Sie ist geflogen."],
+          ["trinken", "Ich habe Tee getrunken.", "laufen", "Er ist gelaufen."],
+          ["lesen", "Sie hat gelesen.", "reisen", "Wir sind gereist."],
+          ["schreiben", "Ich habe geschrieben.", "schwimmen", "Sie ist geschwommen."],
+          ["kochen", "Er hat gekocht.", "aufwachen", "Ich bin aufgewacht."]
+        ]
+      },
+      "examples": []
+    }
+  ],
+  "practice": [
+    { "id": "gf5-p1", "type": "fill_blank", "prompt": "Ich ___ nach Berlin gefahren. (sein)", "answer": "bin", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p2", "type": "fill_blank", "prompt": "Er ___ gestern angekommen. (sein)", "answer": "ist", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p3", "type": "fill_blank", "prompt": "Wir ___ ins Kino gegangen. (sein)", "answer": "sind", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p4", "type": "fill_blank", "prompt": "Sie ___ nach Paris geflogen. (sein)", "answer": "ist", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p5", "type": "fill_blank", "prompt": "Die Kinder ___ schnell gelaufen. (sein)", "answer": "sind", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p6", "type": "fill_blank", "prompt": "Du ___ zu spÃ¤t gekommen. (sein)", "answer": "bist", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p7", "type": "fill_blank", "prompt": "Ihr ___ nach Hamburg gereist. (sein)", "answer": "seid", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p8", "type": "fill_blank", "prompt": "Ich ___ um 6 Uhr aufgewacht. (sein)", "answer": "bin", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p9", "type": "fill_blank", "prompt": "Ich bin nach Hause ___. (gehen)", "answer": "gegangen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p10", "type": "fill_blank", "prompt": "Sie ist nach Spanien ___. (fliegen)", "answer": "geflogen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p11", "type": "fill_blank", "prompt": "Er ist im See ___. (schwimmen)", "answer": "geschwommen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p12", "type": "fill_blank", "prompt": "Wir sind mit dem Auto ___. (fahren)", "answer": "gefahren", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p13", "type": "fill_blank", "prompt": "Sie ist schnell ___. (laufen)", "answer": "gelaufen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p14", "type": "fill_blank", "prompt": "Er ist um 22 Uhr ___. (einschlafen)", "answer": "eingeschlafen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p15", "type": "fill_blank", "prompt": "Gestern ___ ich mÃ¼de. (sein â€” PrÃ¤teritum)", "answer": "war", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p16", "type": "fill_blank", "prompt": "Er ___ gestern keine Zeit. (haben â€” PrÃ¤teritum)", "answer": "hatte", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p17", "type": "fill_blank", "prompt": "Wir ___ letzte Woche in MÃ¼nchen. (sein â€” PrÃ¤teritum)", "answer": "waren", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p18", "type": "fill_blank", "prompt": "Sie ___ viel Arbeit. (haben â€” PrÃ¤teritum)", "answer": "hatte", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p19", "type": "choice", "prompt": "Which auxiliary? 'Ich ___ nach Wien gefahren.'", "options": ["habe", "bin", "hatte", "war"], "answer": "bin", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p20", "type": "choice", "prompt": "Which auxiliary? 'Sie ___ Pizza gegessen.'", "options": ["ist", "hat", "bin", "sind"], "answer": "hat", "topic": "Perfekt" },
+    { "id": "gf5-p21", "type": "choice", "prompt": "Which auxiliary? 'Wir ___ nach Hause gegangen.'", "options": ["haben", "sind", "habt", "seid"], "answer": "sind", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p22", "type": "choice", "prompt": "Which auxiliary? 'Er ___ ein Buch gelesen.'", "options": ["ist", "hat", "bin", "war"], "answer": "hat", "topic": "Perfekt" },
+    { "id": "gf5-p23", "type": "choice", "prompt": "Which auxiliary? 'Das Kind ___ eingeschlafen.'", "options": ["hat", "ist", "war", "hatte"], "answer": "ist", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p24", "type": "choice", "prompt": "Which auxiliary? 'Ich ___ Musik gehÃ¶rt.'", "options": ["bin", "habe", "war", "hatte"], "answer": "habe", "topic": "Perfekt" },
+    { "id": "gf5-p25", "type": "sentence_order", "prompt": "I went to Berlin.", "tokens": ["bin", "nach", "Ich", "Berlin", "gefahren", "."], "answer": ["Ich", "bin", "nach", "Berlin", "gefahren", "."], "topic": "Perfekt mit sein" },
+    { "id": "gf5-p26", "type": "sentence_order", "prompt": "She flew to Paris.", "tokens": ["ist", "nach", "Sie", "Paris", "geflogen", "."], "answer": ["Sie", "ist", "nach", "Paris", "geflogen", "."], "topic": "Perfekt mit sein" },
+    { "id": "gf5-p27", "type": "sentence_order", "prompt": "We went home.", "tokens": ["sind", "nach", "Wir", "Hause", "gegangen", "."], "answer": ["Wir", "sind", "nach", "Hause", "gegangen", "."], "topic": "Perfekt mit sein" },
+    { "id": "gf5-p28", "type": "sentence_order", "prompt": "Yesterday I was in Munich.", "tokens": ["war", "Gestern", "in", "ich", "MÃ¼nchen", "."], "answer": ["Gestern", "war", "ich", "in", "MÃ¼nchen", "."], "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p29", "type": "fill_blank", "prompt": "Du ___ zu Hause. (sein â€” PrÃ¤teritum)", "answer": "warst", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p30", "type": "fill_blank", "prompt": "Ihr ___ Hunger. (haben â€” PrÃ¤teritum)", "answer": "hattet", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p31", "type": "fill_blank", "prompt": "Das Wetter ___ gut. (sein â€” PrÃ¤teritum)", "answer": "war", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p32", "type": "fill_blank", "prompt": "Ich ___ im Schwimmbad ___. (schwimmen â€” Perfekt)", "answer": ["bin", "geschwommen"], "topic": "Perfekt mit sein" },
+    { "id": "gf5-p33", "type": "choice", "prompt": "Which auxiliary? 'Er ___ um 7 Uhr aufgewacht.'", "options": ["hat", "ist", "war", "hatte"], "answer": "ist", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p34", "type": "choice", "prompt": "Which auxiliary? 'Sie ___ eine Torte gebacken.'", "options": ["ist", "hat", "bin", "sind"], "answer": "hat", "topic": "Perfekt" },
+    { "id": "gf5-p35", "type": "fill_blank", "prompt": "Er ist nach Italien ___. (reisen)", "answer": "gereist", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p36", "type": "fill_blank", "prompt": "Das Baby ist ___. (aufwachen)", "answer": "aufgewacht", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p37", "type": "fill_blank", "prompt": "Wir ___ gestern krank. (sein â€” PrÃ¤teritum)", "answer": "waren", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p38", "type": "fill_blank", "prompt": "Er ___ gestern Kopfschmerzen. (haben â€” PrÃ¤teritum)", "answer": "hatte", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-p39", "type": "fill_blank", "prompt": "Ich bin durch den Park ___. (joggen)", "answer": "gejoggt", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p40", "type": "fill_blank", "prompt": "Die Katze ist auf den Baum ___. (klettern)", "answer": "geklettert", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p41", "type": "choice", "prompt": "Why does 'gehen' use 'sein'?", "options": ["It is irregular", "It shows movement from A to B", "It is transitive", "It has no object"], "answer": "It shows movement from A to B", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p42", "type": "choice", "prompt": "Why does 'einschlafen' use 'sein'?", "options": ["It is a movement verb", "It is a change of state", "It is regular", "It takes an object"], "answer": "It is a change of state", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p43", "type": "fill_blank", "prompt": "Wir sind gestern spÃ¤t nach Hause ___. (kommen)", "answer": "gekommen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p44", "type": "fill_blank", "prompt": "Er ist in den Bus ___. (einsteigen)", "answer": "eingestiegen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p45", "type": "fill_blank", "prompt": "Sie ist am Bahnhof ___. (aussteigen)", "answer": "ausgestiegen", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p46", "type": "fill_blank", "prompt": "Ihr ___ im Hotel geblieben. (sein)", "answer": "seid", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p47", "type": "fill_blank", "prompt": "Ich bin zu Hause ___. (bleiben)", "answer": "geblieben", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p48", "type": "sentence_order", "prompt": "The children ran quickly.", "tokens": ["sind", "Die", "schnell", "Kinder", "gelaufen", "."], "answer": ["Die", "Kinder", "sind", "schnell", "gelaufen", "."], "topic": "Perfekt mit sein" },
+    { "id": "gf5-p49", "type": "fill_blank", "prompt": "Es ist kalt ___. (werden)", "answer": "geworden", "topic": "Perfekt mit sein" },
+    { "id": "gf5-p50", "type": "fill_blank", "prompt": "Was ist ___? (passieren)", "answer": "passiert", "topic": "Perfekt mit sein" }
+  ],
+  "quiz": [
+    { "id": "gf5-q1", "type": "mcq", "prompt": "Which category of verbs uses 'sein' in Perfekt?", "options": ["All irregular verbs", "Verbs with objects", "Movement and change-of-state verbs", "Reflexive verbs"], "answer": "Movement and change-of-state verbs", "topic": "Perfekt mit sein" },
+    { "id": "gf5-q2", "type": "fill_blank", "prompt": "Ich ___ nach Berlin geflogen.", "answer": "bin", "topic": "Perfekt mit sein" },
+    { "id": "gf5-q3", "type": "mcq", "prompt": "Which auxiliary? 'Er ___ Pizza gegessen.'", "options": ["ist", "hat", "war", "bin"], "answer": "hat", "topic": "Perfekt" },
+    { "id": "gf5-q4", "type": "fill_blank", "prompt": "Gestern ___ ich in Hamburg. (sein â€” PrÃ¤teritum)", "answer": "war", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-q5", "type": "mcq", "prompt": "What is 'war' the past tense of?", "options": ["haben", "werden", "sein", "wollen"], "answer": "sein", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-q6", "type": "fill_blank", "prompt": "Wir ___ nach Hause gegangen.", "answer": "sind", "topic": "Perfekt mit sein" },
+    { "id": "gf5-q7", "type": "mcq", "prompt": "Which auxiliary? 'Sie ___ schnell gelaufen.'", "options": ["hat", "ist", "war", "bin"], "answer": "ist", "topic": "Perfekt mit sein" },
+    { "id": "gf5-q8", "type": "fill_blank", "prompt": "Er ___ keine Zeit. (haben â€” PrÃ¤teritum)", "answer": "hatte", "topic": "PrÃ¤teritum" },
+    { "id": "gf5-q9", "type": "mcq", "prompt": "Why does 'bleiben' use 'sein'?", "options": ["It has no object", "It shows a state (staying)", "It is regular", "It takes dative"], "answer": "It shows a state (staying)", "topic": "Perfekt mit sein" },
+    { "id": "gf5-q10", "type": "fill_blank", "prompt": "Das Kind ist um 7 Uhr ___. (aufwachen)", "answer": "aufgewacht", "topic": "Perfekt mit sein" }
+  ],
+  "games": [
+    {
+      "type": "preposition_sorter",
+      "id": "gf5-ps-1",
+      "items": [
+        { "id": "ps-1", "word": "gehen", "correctBucket": "sein" },
+        { "id": "ps-2", "word": "fahren", "correctBucket": "sein" },
+        { "id": "ps-3", "word": "kommen", "correctBucket": "sein" },
+        { "id": "ps-4", "word": "fliegen", "correctBucket": "sein" },
+        { "id": "ps-5", "word": "laufen", "correctBucket": "sein" },
+        { "id": "ps-6", "word": "reisen", "correctBucket": "sein" },
+        { "id": "ps-7", "word": "schwimmen", "correctBucket": "sein" },
+        { "id": "ps-8", "word": "aufwachen", "correctBucket": "sein" },
+        { "id": "ps-9", "word": "einschlafen", "correctBucket": "sein" },
+        { "id": "ps-10", "word": "bleiben", "correctBucket": "sein" },
+        { "id": "ps-11", "word": "werden", "correctBucket": "sein" },
+        { "id": "ps-12", "word": "passieren", "correctBucket": "sein" },
+        { "id": "ps-13", "word": "machen", "correctBucket": "haben" },
+        { "id": "ps-14", "word": "kaufen", "correctBucket": "haben" },
+        { "id": "ps-15", "word": "lesen", "correctBucket": "haben" },
+        { "id": "ps-16", "word": "essen", "correctBucket": "haben" },
+        { "id": "ps-17", "word": "trinken", "correctBucket": "haben" },
+        { "id": "ps-18", "word": "schreiben", "correctBucket": "haben" },
+        { "id": "ps-19", "word": "kochen", "correctBucket": "haben" },
+        { "id": "ps-20", "word": "spielen", "correctBucket": "haben" },
+        { "id": "ps-21", "word": "arbeiten", "correctBucket": "haben" },
+        { "id": "ps-22", "word": "lernen", "correctBucket": "haben" },
+        { "id": "ps-23", "word": "sehen", "correctBucket": "haben" },
+        { "id": "ps-24", "word": "hÃ¶ren", "correctBucket": "haben" }
+      ],
+      "buckets": [
+        { "id": "haben", "label": "haben" },
+        { "id": "sein", "label": "sein" }
+      ]
+    },
+    {
+      "type": "timeline_story",
+      "id": "gf5-ts-1",
+      "variants": [
+        {
+          "storyTitle": "Linas Reise nach MÃ¼nchen",
+          "events": [
+            { "id": "ts-e1", "de": "Lina ist um 6 Uhr aufgewacht.", "en": "Lina woke up at 6.", "order": 1 },
+            { "id": "ts-e2", "de": "Sie ist zum Bahnhof gegangen.", "en": "She walked to the train station.", "order": 2 },
+            { "id": "ts-e3", "de": "Der Zug ist um 8 Uhr abgefahren.", "en": "The train departed at 8.", "order": 3 },
+            { "id": "ts-e4", "de": "Sie ist um 11 Uhr in MÃ¼nchen angekommen.", "en": "She arrived in Munich at 11.", "order": 4 },
+            { "id": "ts-e5", "de": "Nachmittags ist sie durch die Stadt gelaufen.", "en": "In the afternoon she walked through the city.", "order": 5 }
+          ]
+        },
+        {
+          "storyTitle": "Ein Tag am See",
+          "events": [
+            { "id": "ts2-e1", "de": "Wir sind frÃ¼h zum See gefahren.", "en": "We drove to the lake early.", "order": 1 },
+            { "id": "ts2-e2", "de": "Dann sind wir im kalten Wasser geschwommen.", "en": "Then we swam in the cold water.", "order": 2 },
+            { "id": "ts2-e3", "de": "Die Sonne ist am Nachmittag gekommen.", "en": "The sun came in the afternoon.", "order": 3 },
+            { "id": "ts2-e4", "de": "SpÃ¤t sind wir wieder nach Hause gekommen.", "en": "Late we came home again.", "order": 4 },
+            { "id": "ts2-e5", "de": "Ich bin sofort eingeschlafen.", "en": "I fell asleep immediately.", "order": 5 }
+          ]
+        }
+      ]
+    }
+  ]
+}

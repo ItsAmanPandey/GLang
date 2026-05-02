@@ -28,7 +28,7 @@
       "meaning": "language",
       "article": "die",
       "plural": "die Sprachen",
-      "example": "Deutsch ist eine schöne Sprache."
+      "example": "Deutsch ist eine schÃ¶ne Sprache."
     },
     {
       "word": "sprechen",
@@ -45,20 +45,20 @@
       "word": "der Wortschatz",
       "meaning": "vocabulary",
       "article": "der",
-      "example": "Mein Wortschatz wächst."
+      "example": "Mein Wortschatz wÃ¤chst."
     },
     {
       "word": "der Satz",
       "meaning": "sentence",
       "article": "der",
-      "plural": "die Sätze",
+      "plural": "die SÃ¤tze",
       "example": "Bilde einen Satz."
     },
     {
       "word": "das Wort",
       "meaning": "word",
       "article": "das",
-      "plural": "die Wörter",
+      "plural": "die WÃ¶rter",
       "example": "Was bedeutet dieses Wort?"
     },
     {
@@ -67,9 +67,9 @@
       "example": "Was bedeutet das?"
     },
     {
-      "word": "erklären",
+      "word": "erklÃ¤ren",
       "meaning": "to explain",
-      "example": "Können Sie das erklären?"
+      "example": "KÃ¶nnen Sie das erklÃ¤ren?"
     },
     {
       "word": "verstehen",
@@ -77,9 +77,9 @@
       "example": "Ich verstehe das nicht."
     },
     {
-      "word": "übersetzen",
+      "word": "Ã¼bersetzen",
       "meaning": "to translate",
-      "example": "Übersetze den Satz."
+      "example": "Ãœbersetze den Satz."
     },
     {
       "word": "die Aussprache",
@@ -95,7 +95,7 @@
     {
       "word": "buchstabieren",
       "meaning": "to spell",
-      "example": "Können Sie das buchstabieren?"
+      "example": "KÃ¶nnen Sie das buchstabieren?"
     },
     {
       "word": "die Frage",
@@ -124,7 +124,7 @@
     {
       "word": "leicht",
       "meaning": "easy",
-      "example": "Die Übung ist leicht."
+      "example": "Die Ãœbung ist leicht."
     },
     {
       "word": "schwer",
@@ -132,9 +132,9 @@
       "example": "Deutsch ist manchmal schwer."
     },
     {
-      "word": "üben",
+      "word": "Ã¼ben",
       "meaning": "to practice",
-      "example": "Ich muss mehr üben."
+      "example": "Ich muss mehr Ã¼ben."
     },
     {
       "word": "sich vorstellen",
@@ -142,9 +142,9 @@
       "example": "Darf ich mich vorstellen?"
     },
     {
-      "word": "erzählen",
+      "word": "erzÃ¤hlen",
       "meaning": "to tell/narrate",
-      "example": "Erzähl mir von deinem Tag."
+      "example": "ErzÃ¤hl mir von deinem Tag."
     },
     {
       "word": "beschreiben",
@@ -173,7 +173,7 @@
     {
       "word": "bestehen",
       "meaning": "to pass (exam)",
-      "example": "Ich habe die Prüfung bestanden."
+      "example": "Ich habe die PrÃ¼fung bestanden."
     },
     {
       "word": "die Note",
@@ -187,14 +187,14 @@
       "meaning": "course",
       "article": "der",
       "plural": "die Kurse",
-      "example": "Der Deutschkurs macht Spaß."
+      "example": "Der Deutschkurs macht SpaÃŸ."
     },
     {
-      "word": "der Anfänger",
+      "word": "der AnfÃ¤nger",
       "meaning": "beginner",
       "article": "der",
-      "plural": "die Anfänger",
-      "example": "Ich bin Anfänger."
+      "plural": "die AnfÃ¤nger",
+      "example": "Ich bin AnfÃ¤nger."
     },
     {
       "word": "der Fehler",
@@ -221,11 +221,11 @@
       "example": "Ich bekomme ein Zertifikat."
     },
     {
-      "word": "die Prüfung",
+      "word": "die PrÃ¼fung",
       "meaning": "exam",
       "article": "die",
-      "plural": "die Prüfungen",
-      "example": "Die A1-Prüfung kommt bald."
+      "plural": "die PrÃ¼fungen",
+      "example": "Die A1-PrÃ¼fung kommt bald."
     },
     {
       "word": "vorbereiten",
@@ -238,11 +238,11 @@
       "example": "Fasse den Text zusammen."
     },
     {
-      "word": "das Gespräch",
+      "word": "das GesprÃ¤ch",
       "meaning": "conversation",
       "article": "das",
-      "plural": "die Gespräche",
-      "example": "Das Gespräch war nett."
+      "plural": "die GesprÃ¤che",
+      "example": "Das GesprÃ¤ch war nett."
     },
     {
       "word": "sich unterhalten",
@@ -269,13 +269,13 @@
     {
       "word": "vorschlagen",
       "meaning": "to suggest",
-      "example": "Ich schlage vor, dass wir üben."
+      "example": "Ich schlage vor, dass wir Ã¼ben."
     },
     {
       "word": "der Vorschlag",
       "meaning": "suggestion",
       "article": "der",
-      "plural": "die Vorschläge",
+      "plural": "die VorschlÃ¤ge",
       "example": "Das ist ein guter Vorschlag."
     },
     {
@@ -296,23 +296,23 @@
     {
       "word": "Viel Erfolg!",
       "meaning": "Good luck!",
-      "example": "Viel Erfolg bei der Prüfung!"
+      "example": "Viel Erfolg bei der PrÃ¼fung!"
     },
     {
-      "word": "Tschüss!",
+      "word": "TschÃ¼ss!",
       "meaning": "Bye!",
-      "example": "Tschüss, bis bald!"
+      "example": "TschÃ¼ss, bis bald!"
     }
   ],
   "grammar": [
     {
       "topic": "Review: Present Tense",
-      "explanation": "Regular verbs: remove -en from the infinitive, add endings: -e, -st, -t, -en, -t, -en. Irregular verbs change their stem vowel in du/er forms (e.g. sprechen→sprichst, lesen→liest).",
+      "explanation": "Regular verbs: remove -en from the infinitive, add endings: -e, -st, -t, -en, -t, -en. Irregular verbs change their stem vowel in du/er forms (e.g. sprechenâ†’sprichst, lesenâ†’liest).",
       "examples": [
         "Ich lerne Deutsch.",
         "Du sprichst gut.",
         "Er liest ein Buch.",
-        "Wir machen Übungen."
+        "Wir machen Ãœbungen."
       ]
     },
     {
@@ -321,17 +321,17 @@
       "examples": [
         "Ich habe Deutsch gelernt.",
         "Er ist nach Berlin gefahren.",
-        "Wir haben viel geübt.",
-        "Sie hat die Prüfung bestanden."
+        "Wir haben viel geÃ¼bt.",
+        "Sie hat die PrÃ¼fung bestanden."
       ]
     },
     {
       "topic": "Review: Modal Verbs",
-      "explanation": "können (can), müssen (must), wollen (want), sollen (should), dürfen (may), möchten (would like). The main verb goes at the end in infinitive form.",
+      "explanation": "kÃ¶nnen (can), mÃ¼ssen (must), wollen (want), sollen (should), dÃ¼rfen (may), mÃ¶chten (would like). The main verb goes at the end in infinitive form.",
       "examples": [
         "Ich kann Deutsch sprechen.",
-        "Du musst mehr üben.",
-        "Er will die Prüfung bestehen.",
+        "Du musst mehr Ã¼ben.",
+        "Er will die PrÃ¼fung bestehen.",
         "Wir sollen den Text wiederholen."
       ]
     }
@@ -380,7 +380,7 @@
         "Erfolg",
         "bei",
         "der",
-        "Prüfung!",
+        "PrÃ¼fung!",
         "Arbeit!"
       ],
       "answer": [
@@ -388,7 +388,7 @@
         "Erfolg",
         "bei",
         "der",
-        "Prüfung!"
+        "PrÃ¼fung!"
       ]
     }
   ],
@@ -398,7 +398,7 @@
       "type": "mcq",
       "prompt": "Which tense uses 'haben/sein + Partizip II'?",
       "options": [
-        "Präsens",
+        "PrÃ¤sens",
         "Futur",
         "Perfekt",
         "Imperativ"
@@ -422,7 +422,7 @@
     {
       "id": "c24-quiz-3",
       "type": "fill_blank",
-      "prompt": "Ich ___ die Prüfung bestanden. (have)",
+      "prompt": "Ich ___ die PrÃ¼fung bestanden. (have)",
       "answer": "habe",
       "topic": "perfekt"
     },
@@ -454,8 +454,8 @@
     {
       "id": "c24-fill-3",
       "type": "fill_blank",
-      "prompt": "Können Sie das ___? (explain)",
-      "answer": "erklären",
+      "prompt": "KÃ¶nnen Sie das ___? (explain)",
+      "answer": "erklÃ¤ren",
       "hint": "explain",
       "topic": "verbs"
     },
@@ -477,8 +477,8 @@
       "type": "choice",
       "prompt": "Which modal verb means 'should'?",
       "options": [
-        "können",
-        "müssen",
+        "kÃ¶nnen",
+        "mÃ¼ssen",
         "sollen",
         "wollen"
       ],
@@ -522,7 +522,7 @@
     {
       "id": "c24-fill-4",
       "type": "fill_blank",
-      "prompt": "Viel ___ bei der Prüfung! (success)",
+      "prompt": "Viel ___ bei der PrÃ¼fung! (success)",
       "answer": "Erfolg",
       "hint": "success/luck",
       "topic": "greetings"

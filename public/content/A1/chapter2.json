@@ -5,10 +5,10 @@
   "title": "Menschen und Berufe",
   "subtitle": "Personal Details and Occupations",
   "focus": [
-    "über Beruf und Arbeit sprechen",
+    "Ã¼ber Beruf und Arbeit sprechen",
     "Alter, Wohnort und Familienstand nennen",
     "Zahlen bis 100 verwenden",
-    "Negation mit nicht und kein üben",
+    "Negation mit nicht und kein Ã¼ben",
     "als, bei und in unterscheiden"
   ],
   "tips": [
@@ -31,7 +31,8 @@
       "meaning": "year",
       "article": "das",
       "plural": "die Jahre",
-      "example": "Ich bin 28 Jahre alt."
+      "example": "Ich bin 28 Jahre alt.",
+      "grammarRef": "GF1"
     },
     {
       "word": "alt",
@@ -53,7 +54,8 @@
       "meaning": "single person",
       "article": "der",
       "plural": "die Singles",
-      "example": "Ich bin Single."
+      "example": "Ich bin Single.",
+      "grammarRef": "GF1"
     },
     {
       "word": "allein",
@@ -75,7 +77,8 @@
       "meaning": "child",
       "article": "das",
       "plural": "die Kinder",
-      "example": "Sie haben ein Kind."
+      "example": "Sie haben ein Kind.",
+      "grammarRef": "GF1"
     },
     {
       "word": "kein",
@@ -112,74 +115,85 @@
       "meaning": "place of residence",
       "article": "der",
       "plural": "die Wohnorte",
-      "example": "Mein Wohnort ist Fulda."
+      "example": "Mein Wohnort ist Fulda.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Herkunft",
       "meaning": "origin",
       "article": "die",
-      "example": "Meine Herkunft ist Indien."
+      "example": "Meine Herkunft ist Indien.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Alter",
       "meaning": "age",
       "article": "das",
-      "example": "Alter: 24 Jahre."
+      "example": "Alter: 24 Jahre.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Familienstand",
       "meaning": "marital status",
       "article": "der",
-      "example": "Familienstand: verheiratet."
+      "example": "Familienstand: verheiratet.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Interview",
       "meaning": "interview",
       "article": "das",
       "plural": "die Interviews",
-      "example": "Das Interview ist kurz."
+      "example": "Das Interview ist kurz.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Partner",
       "meaning": "partner",
       "article": "der",
       "plural": "die Partner",
-      "example": "Das ist mein Partner."
+      "example": "Das ist mein Partner.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Partnerin",
       "meaning": "female partner",
       "article": "die",
       "plural": "die Partnerinnen",
-      "example": "Das ist meine Partnerin."
+      "example": "Das ist meine Partnerin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Satz",
       "meaning": "sentence",
       "article": "der",
-      "plural": "die Sätze",
-      "example": "Der Satz ist richtig."
+      "plural": "die SÃ¤tze",
+      "example": "Der Satz ist richtig.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Punkt",
       "meaning": "point",
       "article": "der",
       "plural": "die Punkte",
-      "example": "Ein richtiger Satz bekommt einen Punkt."
+      "example": "Ein richtiger Satz bekommt einen Punkt.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Zahl",
       "meaning": "number",
       "article": "die",
       "plural": "die Zahlen",
-      "example": "Die Zahl ist 62."
+      "example": "Die Zahl ist 62.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "das Rätsel",
+      "word": "das RÃ¤tsel",
       "meaning": "puzzle",
       "article": "das",
-      "plural": "die Rätsel",
-      "example": "Das Rätsel ist leicht."
+      "plural": "die RÃ¤tsel",
+      "example": "Das RÃ¤tsel ist leicht.",
+      "grammarRef": "GF1"
     },
     {
       "word": "plus",
@@ -196,7 +210,8 @@
       "meaning": "profession",
       "article": "der",
       "plural": "die Berufe",
-      "example": "Was bist du von Beruf?"
+      "example": "Was bist du von Beruf?",
+      "grammarRef": "GF1"
     },
     {
       "word": "beruflich",
@@ -223,27 +238,31 @@
       "meaning": "company",
       "article": "die",
       "plural": "die Firmen",
-      "example": "Die Firma heißt HotSped."
+      "example": "Die Firma heiÃŸt HotSped.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Job",
       "meaning": "job",
       "article": "der",
       "plural": "die Jobs",
-      "example": "Ich habe zwei Jobs."
+      "example": "Ich habe zwei Jobs.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Stelle",
       "meaning": "position / job",
       "article": "die",
       "plural": "die Stellen",
-      "example": "Ich habe eine Stelle als Friseurin."
+      "example": "Ich habe eine Stelle als Friseurin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Studium",
       "meaning": "studies / degree program",
       "article": "das",
-      "example": "Mein Studium ist Medizin."
+      "example": "Mein Studium ist Medizin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "studieren",
@@ -255,14 +274,16 @@
       "meaning": "training / apprenticeship",
       "article": "die",
       "plural": "die Ausbildungen",
-      "example": "Ich mache eine Ausbildung."
+      "example": "Ich mache eine Ausbildung.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Praktikum",
       "meaning": "internship",
       "article": "das",
       "plural": "die Praktika",
-      "example": "Ich mache ein Praktikum."
+      "example": "Ich mache ein Praktikum.",
+      "grammarRef": "GF1"
     },
     {
       "word": "im Moment",
@@ -279,287 +300,328 @@
       "meaning": "parcel delivery worker",
       "article": "der",
       "plural": "die Paketzusteller",
-      "example": "Arno ist Paketzusteller."
+      "example": "Arno ist Paketzusteller.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Paketzustellerin",
       "meaning": "female parcel delivery worker",
       "article": "die",
       "plural": "die Paketzustellerinnen",
-      "example": "Sie arbeitet als Paketzustellerin."
+      "example": "Sie arbeitet als Paketzustellerin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Ingenieur",
       "meaning": "engineer",
       "article": "der",
       "plural": "die Ingenieure",
-      "example": "Er ist Ingenieur."
+      "example": "Er ist Ingenieur.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Ingenieurin",
       "meaning": "female engineer",
       "article": "die",
       "plural": "die Ingenieurinnen",
-      "example": "Sie ist Ingenieurin."
+      "example": "Sie ist Ingenieurin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Kfz-Mechatroniker",
       "meaning": "automotive mechatronics technician",
       "article": "der",
       "plural": "die Kfz-Mechatroniker",
-      "example": "Er macht eine Ausbildung als Kfz-Mechatroniker."
+      "example": "Er macht eine Ausbildung als Kfz-Mechatroniker.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Kfz-Mechatronikerin",
       "meaning": "female automotive mechatronics technician",
       "article": "die",
       "plural": "die Kfz-Mechatronikerinnen",
-      "example": "Sie macht eine Ausbildung als Kfz-Mechatronikerin."
+      "example": "Sie macht eine Ausbildung als Kfz-Mechatronikerin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Student",
       "meaning": "male university student",
       "article": "der",
       "plural": "die Studenten",
-      "example": "Er ist Student."
+      "example": "Er ist Student.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Studentin",
       "meaning": "female university student",
       "article": "die",
       "plural": "die Studentinnen",
-      "example": "Sie ist Studentin."
+      "example": "Sie ist Studentin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Journalist",
       "meaning": "journalist",
       "article": "der",
       "plural": "die Journalisten",
-      "example": "Er arbeitet als Journalist."
+      "example": "Er arbeitet als Journalist.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Journalistin",
       "meaning": "female journalist",
       "article": "die",
       "plural": "die Journalistinnen",
-      "example": "Sie arbeitet als Journalistin."
+      "example": "Sie arbeitet als Journalistin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Friseur",
       "meaning": "hairdresser",
       "article": "der",
       "plural": "die Friseure",
-      "example": "Er ist Friseur."
+      "example": "Er ist Friseur.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Friseurin",
       "meaning": "female hairdresser",
       "article": "die",
       "plural": "die Friseurinnen",
-      "example": "Lydia arbeitet als Friseurin."
+      "example": "Lydia arbeitet als Friseurin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Architekt",
       "meaning": "architect",
       "article": "der",
       "plural": "die Architekten",
-      "example": "Hamid ist Architekt."
+      "example": "Hamid ist Architekt.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Architektin",
       "meaning": "female architect",
       "article": "die",
       "plural": "die Architektinnen",
-      "example": "Sie arbeitet als Architektin."
+      "example": "Sie arbeitet als Architektin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Arzt",
       "meaning": "doctor",
       "article": "der",
-      "plural": "die Ärzte",
-      "example": "Er ist Arzt."
+      "plural": "die Ã„rzte",
+      "example": "Er ist Arzt.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "die Ärztin",
+      "word": "die Ã„rztin",
       "meaning": "female doctor",
       "article": "die",
-      "plural": "die Ärztinnen",
-      "example": "Sie ist Ärztin."
+      "plural": "die Ã„rztinnen",
+      "example": "Sie ist Ã„rztin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Lehrer",
       "meaning": "teacher",
       "article": "der",
       "plural": "die Lehrer",
-      "example": "Er ist Lehrer."
+      "example": "Er ist Lehrer.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Lehrerin",
       "meaning": "female teacher",
       "article": "die",
       "plural": "die Lehrerinnen",
-      "example": "Sie ist Lehrerin."
+      "example": "Sie ist Lehrerin.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "der Verkäufer",
+      "word": "der VerkÃ¤ufer",
       "meaning": "salesperson",
       "article": "der",
-      "plural": "die Verkäufer",
-      "example": "Er arbeitet als Verkäufer."
+      "plural": "die VerkÃ¤ufer",
+      "example": "Er arbeitet als VerkÃ¤ufer.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "die Verkäuferin",
+      "word": "die VerkÃ¤uferin",
       "meaning": "female salesperson",
       "article": "die",
-      "plural": "die Verkäuferinnen",
-      "example": "Juana ist Verkäuferin."
+      "plural": "die VerkÃ¤uferinnen",
+      "example": "Juana ist VerkÃ¤uferin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Kellner",
       "meaning": "waiter",
       "article": "der",
       "plural": "die Kellner",
-      "example": "Er arbeitet als Kellner."
+      "example": "Er arbeitet als Kellner.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Kellnerin",
       "meaning": "waitress",
       "article": "die",
       "plural": "die Kellnerinnen",
-      "example": "Sie arbeitet als Kellnerin."
+      "example": "Sie arbeitet als Kellnerin.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "der Schüler",
+      "word": "der SchÃ¼ler",
       "meaning": "school student",
       "article": "der",
-      "plural": "die Schüler",
-      "example": "Er ist Schüler."
+      "plural": "die SchÃ¼ler",
+      "example": "Er ist SchÃ¼ler.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "die Schülerin",
+      "word": "die SchÃ¼lerin",
       "meaning": "female school student",
       "article": "die",
-      "plural": "die Schülerinnen",
-      "example": "Sie ist Schülerin."
+      "plural": "die SchÃ¼lerinnen",
+      "example": "Sie ist SchÃ¼lerin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Rentner",
       "meaning": "retired man",
       "article": "der",
       "plural": "die Rentner",
-      "example": "Er ist Rentner."
+      "example": "Er ist Rentner.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Rentnerin",
       "meaning": "retired woman",
       "article": "die",
       "plural": "die Rentnerinnen",
-      "example": "Sie ist Rentnerin."
+      "example": "Sie ist Rentnerin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Krankenschwester",
       "meaning": "nurse",
       "article": "die",
       "plural": "die Krankenschwestern",
-      "example": "Ana macht eine Ausbildung als Krankenschwester."
+      "example": "Ana macht eine Ausbildung als Krankenschwester.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Tier",
       "meaning": "animal",
       "article": "das",
       "plural": "die Tiere",
-      "example": "Ich mag Tiere."
+      "example": "Ich mag Tiere.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Tierarzt",
       "meaning": "veterinarian",
       "article": "der",
-      "plural": "die Tierärzte",
-      "example": "Thomas ist Tierarzt."
+      "plural": "die TierÃ¤rzte",
+      "example": "Thomas ist Tierarzt.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "die Tierärztin",
+      "word": "die TierÃ¤rztin",
       "meaning": "female veterinarian",
       "article": "die",
-      "plural": "die Tierärztinnen",
-      "example": "Sie ist Tierärztin."
+      "plural": "die TierÃ¤rztinnen",
+      "example": "Sie ist TierÃ¤rztin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Schauspieler",
       "meaning": "actor",
       "article": "der",
       "plural": "die Schauspieler",
-      "example": "Melanie kennt einen Schauspieler."
+      "example": "Melanie kennt einen Schauspieler.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Schauspielerin",
       "meaning": "actress",
       "article": "die",
       "plural": "die Schauspielerinnen",
-      "example": "Sie ist Schauspielerin."
+      "example": "Sie ist Schauspielerin.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "der Sänger",
+      "word": "der SÃ¤nger",
       "meaning": "singer",
       "article": "der",
-      "plural": "die Sänger",
-      "example": "Lukas ist Sänger."
+      "plural": "die SÃ¤nger",
+      "example": "Lukas ist SÃ¤nger.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "die Sängerin",
+      "word": "die SÃ¤ngerin",
       "meaning": "female singer",
       "article": "die",
-      "plural": "die Sängerinnen",
-      "example": "Sie ist Sängerin."
+      "plural": "die SÃ¤ngerinnen",
+      "example": "Sie ist SÃ¤ngerin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Onkel",
       "meaning": "uncle",
       "article": "der",
       "plural": "die Onkel",
-      "example": "Mein Onkel lebt in Berlin."
+      "example": "Mein Onkel lebt in Berlin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Tante",
       "meaning": "aunt",
       "article": "die",
       "plural": "die Tanten",
-      "example": "Meine Tante heißt Maria."
+      "example": "Meine Tante heiÃŸt Maria.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Cousin",
       "meaning": "cousin (male)",
       "article": "der",
       "plural": "die Cousins",
-      "example": "Das ist mein Cousin."
+      "example": "Das ist mein Cousin.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Cousine",
       "meaning": "cousin (female)",
       "article": "die",
       "plural": "die Cousinen",
-      "example": "Meine Cousine ist jung."
+      "example": "Meine Cousine ist jung.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Baby",
       "meaning": "baby",
       "article": "das",
       "plural": "die Babys",
-      "example": "Das Baby schläft."
+      "example": "Das Baby schlÃ¤ft.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Mann",
       "meaning": "man / husband",
       "article": "der",
-      "plural": "die Männer",
-      "example": "Das ist mein Mann."
+      "plural": "die MÃ¤nner",
+      "example": "Das ist mein Mann.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Frau",
       "meaning": "woman / wife",
       "article": "die",
       "plural": "die Frauen",
-      "example": "Meine Frau arbeitet."
+      "example": "Meine Frau arbeitet.",
+      "grammarRef": "GF1"
     },
     {
       "word": "ledig",
@@ -571,33 +633,37 @@
       "meaning": "address",
       "article": "die",
       "plural": "die Adressen",
-      "example": "Wie ist deine Adresse?"
+      "example": "Wie ist deine Adresse?",
+      "grammarRef": "GF1"
     },
     {
-      "word": "die Straße",
+      "word": "die StraÃŸe",
       "meaning": "street",
       "article": "die",
-      "plural": "die Straßen",
-      "example": "Die Straße ist ruhig."
+      "plural": "die StraÃŸen",
+      "example": "Die StraÃŸe ist ruhig.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Hausnummer",
       "meaning": "house number",
       "article": "die",
       "plural": "die Hausnummern",
-      "example": "Meine Hausnummer ist 12."
+      "example": "Meine Hausnummer ist 12.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Stadt",
       "meaning": "city",
       "article": "die",
-      "plural": "die Städte",
-      "example": "Hamburg ist eine Stadt."
+      "plural": "die StÃ¤dte",
+      "example": "Hamburg ist eine Stadt.",
+      "grammarRef": "GF1"
     }
   ],
   "grammar": [
     {
-      "topic": "Konjugation im Präsens",
+      "topic": "Konjugation im PrÃ¤sens",
       "explanation": "Regular verbs change their endings for ich, du, er/sie, wir, ihr and sie/Sie.",
       "examples": [
         "ich wohne",
@@ -649,7 +715,7 @@
       "examples": [
         "Student - Studentin",
         "Kellner - Kellnerin",
-        "Arzt - Ärztin"
+        "Arzt - Ã„rztin"
       ]
     }
   ],
@@ -683,7 +749,8 @@
       "type": "fill_blank",
       "prompt": "Habt ihr Kinder? Ja, wir ___ drei Kinder.",
       "answer": "haben",
-      "topic": "haben"
+      "topic": "haben",
+      "grammarRef": "GF1"
     },
     {
       "id": "c2-fill-5",
@@ -730,12 +797,12 @@
       "type": "choice",
       "prompt": "Choose the correct feminine profession.",
       "options": [
-        "die Ärztin",
-        "der Ärztin",
+        "die Ã„rztin",
+        "der Ã„rztin",
         "die Arzt",
-        "das Ärztin"
+        "das Ã„rztin"
       ],
-      "answer": "die Ärztin",
+      "answer": "die Ã„rztin",
       "topic": "-in"
     },
     {
@@ -757,7 +824,7 @@
       "prompt": "Build the sentence.",
       "tokens": [
         "arbeitet",
-        "Ärztin",
+        "Ã„rztin",
         "Sie",
         "als"
       ],
@@ -765,7 +832,7 @@
         "Sie",
         "arbeitet",
         "als",
-        "Ärztin"
+        "Ã„rztin"
       ],
       "topic": "als"
     },

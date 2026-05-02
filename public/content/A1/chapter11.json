@@ -29,7 +29,7 @@
       "word": "der Arbeitsplatz",
       "meaning": "workplace",
       "article": "der",
-      "plural": "die Arbeitsplätze",
+      "plural": "die ArbeitsplÃ¤tze",
       "example": "Mein Arbeitsplatz ist sauber."
     },
     {
@@ -70,14 +70,14 @@
       "meaning": "company",
       "article": "die",
       "plural": "die Firmen",
-      "example": "Die Firma ist sehr groß."
+      "example": "Die Firma ist sehr groÃŸ."
     },
     {
-      "word": "das Büro",
+      "word": "das BÃ¼ro",
       "meaning": "office",
       "article": "das",
-      "plural": "die Büros",
-      "example": "Ich bin im Büro."
+      "plural": "die BÃ¼ros",
+      "example": "Ich bin im BÃ¼ro."
     },
     {
       "word": "der Lehrer",
@@ -91,21 +91,21 @@
       "meaning": "teacher (female)",
       "article": "die",
       "plural": "die Lehrerinnen",
-      "example": "Die Lehrerin erklärt das gut."
+      "example": "Die Lehrerin erklÃ¤rt das gut."
     },
     {
       "word": "der Arzt",
       "meaning": "doctor (male)",
       "article": "der",
-      "plural": "die Ärzte",
+      "plural": "die Ã„rzte",
       "example": "Der Arzt untersucht den Patienten."
     },
     {
-      "word": "die Ärztin",
+      "word": "die Ã„rztin",
       "meaning": "doctor (female)",
       "article": "die",
-      "plural": "die Ärztinnen",
-      "example": "Sie ist Ärztin."
+      "plural": "die Ã„rztinnen",
+      "example": "Sie ist Ã„rztin."
     },
     {
       "word": "der Ingenieur",
@@ -115,18 +115,18 @@
       "example": "Mein Bruder ist Ingenieur."
     },
     {
-      "word": "der Verkäufer",
+      "word": "der VerkÃ¤ufer",
       "meaning": "salesman",
       "article": "der",
-      "plural": "die Verkäufer",
-      "example": "Der Verkäufer berät mich."
+      "plural": "die VerkÃ¤ufer",
+      "example": "Der VerkÃ¤ufer berÃ¤t mich."
     },
     {
-      "word": "die Verkäuferin",
+      "word": "die VerkÃ¤uferin",
       "meaning": "saleswoman",
       "article": "die",
-      "plural": "die Verkäuferinnen",
-      "example": "Sie arbeitet als Verkäuferin."
+      "plural": "die VerkÃ¤uferinnen",
+      "example": "Sie arbeitet als VerkÃ¤uferin."
     },
     {
       "word": "der Kellner",
@@ -164,18 +164,18 @@
       "example": "Die Studentin lernt viel."
     },
     {
-      "word": "der Schüler",
+      "word": "der SchÃ¼ler",
       "meaning": "pupil/student (school)",
       "article": "der",
-      "plural": "die Schüler",
-      "example": "Der Schüler macht Hausaufgaben."
+      "plural": "die SchÃ¼ler",
+      "example": "Der SchÃ¼ler macht Hausaufgaben."
     },
     {
-      "word": "die Schülerin",
+      "word": "die SchÃ¼lerin",
       "meaning": "pupil/student (female)",
       "article": "die",
-      "plural": "die Schülerinnen",
-      "example": "Die Schülerin liest ein Buch."
+      "plural": "die SchÃ¼lerinnen",
+      "example": "Die SchÃ¼lerin liest ein Buch."
     },
     {
       "word": "studieren",
@@ -188,11 +188,11 @@
       "example": "Ich lerne Deutsch."
     },
     {
-      "word": "die Universität",
+      "word": "die UniversitÃ¤t",
       "meaning": "university",
       "article": "die",
-      "plural": "die Universitäten",
-      "example": "Die Universität ist alt."
+      "plural": "die UniversitÃ¤ten",
+      "example": "Die UniversitÃ¤t ist alt."
     },
     {
       "word": "die Schule",
@@ -233,9 +233,9 @@
       "example": "Er ist momentan arbeitslos."
     },
     {
-      "word": "selbstständig",
+      "word": "selbststÃ¤ndig",
       "meaning": "self-employed",
-      "example": "Sie ist selbstständig."
+      "example": "Sie ist selbststÃ¤ndig."
     },
     {
       "word": "die Stelle",
@@ -325,7 +325,7 @@
       "word": "das Gehalt",
       "meaning": "salary",
       "article": "das",
-      "plural": "die Gehälter",
+      "plural": "die GehÃ¤lter",
       "example": "Das Gehalt ist gut."
     },
     {
@@ -347,7 +347,7 @@
       "explanation": "To state your profession in German, you say 'Ich bin [Beruf] von Beruf' or simply 'Ich bin [Beruf]'. You do NOT use the article 'ein/eine' here! E.g. 'Ich bin Lehrer', NOT 'Ich bin ein Lehrer'.",
       "examples": [
         "Ich bin Lehrer.",
-        "Sie ist Ärztin.",
+        "Sie ist Ã„rztin.",
         "Er ist Ingenieur von Beruf.",
         "Bist du Student?"
       ]
@@ -356,10 +356,10 @@
       "topic": "Masculine vs Feminine Professions",
       "explanation": "Professions almost always have a male and female form. The female form usually ends in '-in' and takes the plural '-innen'. E.g. 'der Lehrer' -> 'die Lehrerin'.",
       "examples": [
-        "der Lehrer – die Lehrerin",
-        "der Arzt – die Ärztin",
-        "der Verkäufer – die Verkäuferin",
-        "der Kellner – die Kellnerin"
+        "der Lehrer â€“ die Lehrerin",
+        "der Arzt â€“ die Ã„rztin",
+        "der VerkÃ¤ufer â€“ die VerkÃ¤uferin",
+        "der Kellner â€“ die Kellnerin"
       ]
     }
   ],
@@ -371,13 +371,13 @@
       "tokens": [
         "Sie",
         "ist",
-        "Ärztin.",
+        "Ã„rztin.",
         "eine"
       ],
       "answer": [
         "Sie",
         "ist",
-        "Ärztin."
+        "Ã„rztin."
       ]
     },
     {
@@ -425,18 +425,18 @@
       "type": "mcq",
       "prompt": "How do you say 'She is a doctor'?",
       "options": [
-        "Sie ist eine Ärztin",
-        "Sie ist Ärztin",
-        "Sie hat Ärztin",
-        "Sie wird Ärztin"
+        "Sie ist eine Ã„rztin",
+        "Sie ist Ã„rztin",
+        "Sie hat Ã„rztin",
+        "Sie wird Ã„rztin"
       ],
-      "answer": "Sie ist Ärztin",
+      "answer": "Sie ist Ã„rztin",
       "topic": "professions"
     },
     {
       "id": "c11-quiz-2",
       "type": "mcq",
-      "prompt": "What is 'das Büro'?",
+      "prompt": "What is 'das BÃ¼ro'?",
       "options": [
         "the factory",
         "the office",
@@ -466,7 +466,7 @@
       "id": "c11-fill-1",
       "type": "fill_blank",
       "prompt": "Sie ist ___ von Beruf. (doctor f.)",
-      "answer": "Ärztin",
+      "answer": "Ã„rztin",
       "hint": "female doctor",
       "topic": "professions"
     },
@@ -489,7 +489,7 @@
     {
       "id": "c11-choice-1",
       "type": "choice",
-      "prompt": "What is 'das Büro'?",
+      "prompt": "What is 'das BÃ¼ro'?",
       "options": [
         "factory",
         "office",

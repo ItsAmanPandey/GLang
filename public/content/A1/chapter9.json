@@ -22,7 +22,7 @@
       "word": "das Haus",
       "meaning": "house",
       "article": "das",
-      "plural": "die Häuser",
+      "plural": "die HÃ¤user",
       "example": "Das Haus ist sehr alt."
     },
     {
@@ -47,17 +47,17 @@
       "example": "Das Bett steht im Schlafzimmer."
     },
     {
-      "word": "die Küche",
+      "word": "die KÃ¼che",
       "meaning": "kitchen",
       "article": "die",
-      "plural": "die Küchen",
-      "example": "Wir kochen in der Küche."
+      "plural": "die KÃ¼chen",
+      "example": "Wir kochen in der KÃ¼che."
     },
     {
       "word": "das Bad",
       "meaning": "bathroom",
       "article": "das",
-      "plural": "die Bäder",
+      "plural": "die BÃ¤der",
       "example": "Das Bad ist neu."
     },
     {
@@ -78,15 +78,15 @@
       "word": "der Garten",
       "meaning": "garden/yard",
       "article": "der",
-      "plural": "die Gärten",
-      "example": "Der Garten ist groß."
+      "plural": "die GÃ¤rten",
+      "example": "Der Garten ist groÃŸ."
     },
     {
-      "word": "die Tür",
+      "word": "die TÃ¼r",
       "meaning": "door",
       "article": "die",
-      "plural": "die Türen",
-      "example": "Mach bitte die Tür zu."
+      "plural": "die TÃ¼ren",
+      "example": "Mach bitte die TÃ¼r zu."
     },
     {
       "word": "das Fenster",
@@ -99,14 +99,14 @@
       "word": "die Wand",
       "meaning": "wall",
       "article": "die",
-      "plural": "die Wände",
-      "example": "Die Wand ist weiß."
+      "plural": "die WÃ¤nde",
+      "example": "Die Wand ist weiÃŸ."
     },
     {
       "word": "der Boden",
       "meaning": "floor",
       "article": "der",
-      "plural": "die Böden",
+      "plural": "die BÃ¶den",
       "example": "Der Boden ist aus Holz."
     },
     {
@@ -114,7 +114,7 @@
       "meaning": "ceiling/blanket",
       "article": "die",
       "plural": "die Decken",
-      "example": "Die Lampe hängt an der Decke."
+      "example": "Die Lampe hÃ¤ngt an der Decke."
     },
     {
       "word": "die Miete",
@@ -143,11 +143,11 @@
       "example": "Mein Nachbar ist freundlich."
     },
     {
-      "word": "das Möbel",
+      "word": "das MÃ¶bel",
       "meaning": "furniture",
       "article": "das",
-      "plural": "die Möbel",
-      "example": "Wir kaufen neue Möbel."
+      "plural": "die MÃ¶bel",
+      "example": "Wir kaufen neue MÃ¶bel."
     },
     {
       "word": "der Tisch",
@@ -160,7 +160,7 @@
       "word": "der Stuhl",
       "meaning": "chair",
       "article": "der",
-      "plural": "die Stühle",
+      "plural": "die StÃ¼hle",
       "example": "Der Stuhl ist bequem."
     },
     {
@@ -168,13 +168,13 @@
       "meaning": "bed",
       "article": "das",
       "plural": "die Betten",
-      "example": "Das Bett ist groß."
+      "example": "Das Bett ist groÃŸ."
     },
     {
       "word": "der Schrank",
       "meaning": "wardrobe/cabinet",
       "article": "der",
-      "plural": "die Schränke",
+      "plural": "die SchrÃ¤nke",
       "example": "Die Kleidung ist im Schrank."
     },
     {
@@ -196,7 +196,7 @@
       "meaning": "shelf",
       "article": "das",
       "plural": "die Regale",
-      "example": "Die Bücher sind im Regal."
+      "example": "Die BÃ¼cher sind im Regal."
     },
     {
       "word": "die Lampe",
@@ -220,18 +220,18 @@
       "example": "Der Fernseher ist neu."
     },
     {
-      "word": "der Kühlschrank",
+      "word": "der KÃ¼hlschrank",
       "meaning": "fridge",
       "article": "der",
-      "plural": "die Kühlschränke",
-      "example": "Die Milch ist im Kühlschrank."
+      "plural": "die KÃ¼hlschrÃ¤nke",
+      "example": "Die Milch ist im KÃ¼hlschrank."
     },
     {
       "word": "der Herd",
       "meaning": "stove",
       "article": "der",
       "plural": "die Herde",
-      "example": "Der Herd ist heiß."
+      "example": "Der Herd ist heiÃŸ."
     },
     {
       "word": "die Waschmaschine",
@@ -245,7 +245,7 @@
       "meaning": "picture",
       "article": "das",
       "plural": "die Bilder",
-      "example": "Das Bild hängt an der Wand."
+      "example": "Das Bild hÃ¤ngt an der Wand."
     },
     {
       "word": "stellen",
@@ -258,9 +258,9 @@
       "example": "Leg das Buch auf das Bett."
     },
     {
-      "word": "hängen",
+      "word": "hÃ¤ngen",
       "meaning": "to hang",
-      "example": "Das Bild hängt dort."
+      "example": "Das Bild hÃ¤ngt dort."
     },
     {
       "word": "stehen",
@@ -283,9 +283,9 @@
       "example": "Im Flur ist es dunkel."
     },
     {
-      "word": "groß",
+      "word": "groÃŸ",
       "meaning": "big/large",
-      "example": "Das Haus ist groß."
+      "example": "Das Haus ist groÃŸ."
     },
     {
       "word": "klein",
@@ -293,24 +293,24 @@
       "example": "Meine Wohnung ist klein."
     },
     {
-      "word": "gemütlich",
+      "word": "gemÃ¼tlich",
       "meaning": "cozy/comfortable",
-      "example": "Das Sofa ist sehr gemütlich."
+      "example": "Das Sofa ist sehr gemÃ¼tlich."
     },
     {
-      "word": "schön",
+      "word": "schÃ¶n",
       "meaning": "beautiful/nice",
-      "example": "Du hast eine schöne Wohnung."
+      "example": "Du hast eine schÃ¶ne Wohnung."
     },
     {
-      "word": "hässlich",
+      "word": "hÃ¤sslich",
       "meaning": "ugly",
-      "example": "Der Teppich ist hässlich."
+      "example": "Der Teppich ist hÃ¤sslich."
     },
     {
       "word": "teuer",
       "meaning": "expensive",
-      "example": "Die Möbel sind teuer."
+      "example": "Die MÃ¶bel sind teuer."
     },
     {
       "word": "billig",
@@ -323,18 +323,18 @@
       "example": "Wir ziehen im Sommer um."
     },
     {
-      "word": "der Schlüssel",
+      "word": "der SchlÃ¼ssel",
       "meaning": "key",
       "article": "der",
-      "plural": "die Schlüssel",
-      "example": "Hier ist der Schlüssel zur Wohnung."
+      "plural": "die SchlÃ¼ssel",
+      "example": "Hier ist der SchlÃ¼ssel zur Wohnung."
     },
     {
       "word": "die Treppe",
       "meaning": "stairs",
       "article": "die",
       "plural": "die Treppen",
-      "example": "Wir müssen die Treppe nehmen."
+      "example": "Wir mÃ¼ssen die Treppe nehmen."
     }
   ],
   "grammar": [
@@ -345,7 +345,7 @@
         "Das Buch liegt auf dem Tisch.",
         "Die Lampe steht auf dem Schreibtisch.",
         "Der Teppich liegt auf dem Boden.",
-        "Das Bild hängt an der Wand."
+        "Das Bild hÃ¤ngt an der Wand."
       ]
     },
     {
@@ -354,7 +354,7 @@
       "examples": [
         "Ich lege das Buch auf den Tisch.",
         "Er stellt die Vase auf den Schrank.",
-        "Sie hängt das Bild an die Wand.",
+        "Sie hÃ¤ngt das Bild an die Wand.",
         "Wir legen den Teppich auf den Boden."
       ]
     }
@@ -392,7 +392,7 @@
         "ist",
         "sehr",
         "klein.",
-        "groß."
+        "groÃŸ."
       ],
       "answer": [
         "Meine",
@@ -412,7 +412,7 @@
         "steht",
         "im",
         "Schlafzimmer.",
-        "Küche."
+        "KÃ¼che."
       ],
       "answer": [
         "Das",
@@ -444,7 +444,7 @@
       "options": [
         "stehen",
         "liegen",
-        "hängen",
+        "hÃ¤ngen",
         "sitzen"
       ],
       "answer": "liegen",
@@ -453,7 +453,7 @@
     {
       "id": "c9-quiz-3",
       "type": "fill_blank",
-      "prompt": "Das Bild hängt an der ___.",
+      "prompt": "Das Bild hÃ¤ngt an der ___.",
       "answer": "Wand",
       "topic": "furniture"
     },
@@ -485,7 +485,7 @@
     {
       "id": "c9-fill-3",
       "type": "fill_blank",
-      "prompt": "Das Bild hängt an der ___.",
+      "prompt": "Das Bild hÃ¤ngt an der ___.",
       "answer": "Wand",
       "hint": "wall",
       "topic": "rooms"
@@ -493,7 +493,7 @@
     {
       "id": "c9-choice-1",
       "type": "choice",
-      "prompt": "What is 'die Küche'?",
+      "prompt": "What is 'die KÃ¼che'?",
       "options": [
         "bedroom",
         "bathroom",
@@ -510,7 +510,7 @@
       "options": [
         "stehen",
         "liegen",
-        "hängen",
+        "hÃ¤ngen",
         "sitzen"
       ],
       "answer": "liegen",

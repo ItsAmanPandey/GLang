@@ -1,0 +1,1310 @@
+{
+  "id": "A1_GF2",
+  "level": "A1",
+  "type": "grammarFocus",
+  "number": "GF2",
+  "title": "Der Akkusativ",
+  "subtitle": "Direct objects and article changes",
+  "focus": [
+    "Akkusativ",
+    "Direct Objects",
+    "Accusative Pronouns"
+  ],
+  "conceptSections": [
+    {
+      "id": "gf2-concept-1",
+      "heading": "What the accusative marks",
+      "explanation": "The accusative case marks the direct object â€” the thing being acted upon. Compare: 'Das ist ein Hund.' (nominative â€” the dog IS something) vs 'Ich sehe einen Hund.' (accusative â€” the dog is being SEEN). Notice: only the masculine article changes. Neuter, feminine, and plural articles stay the same.",
+      "examples": [
+        {
+          "de": "Das ist ein Hund.",
+          "en": "That is a dog. (Nominativ)",
+          "note": "subject â€” no change"
+        },
+        {
+          "de": "Ich sehe einen Hund.",
+          "en": "I see a dog. (Akkusativ)",
+          "note": "direct object â€” ein â†’ einen"
+        }
+      ]
+    },
+    {
+      "id": "gf2-concept-2",
+      "heading": "Accusative article changes",
+      "explanation": "Only masculine articles change in the accusative. Feminine, neuter, and plural forms remain identical to the nominative. This is the most important rule to memorise at A1 level.",
+      "table": {
+        "headers": [
+          "Gender",
+          "Definit (Nom â†’ Akk)",
+          "Indefinit (Nom â†’ Akk)",
+          "Negativ (Nom â†’ Akk)"
+        ],
+        "rows": [
+          [
+            "Masculine",
+            "der â†’ den",
+            "ein â†’ einen",
+            "kein â†’ keinen"
+          ],
+          [
+            "Neuter",
+            "das â†’ das",
+            "ein â†’ ein",
+            "kein â†’ kein"
+          ],
+          [
+            "Feminine",
+            "die â†’ die",
+            "eine â†’ eine",
+            "keine â†’ keine"
+          ],
+          [
+            "Plural",
+            "die â†’ die",
+            "â€” â†’ â€”",
+            "keine â†’ keine"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "de": "Ich kaufe den Kuchen.",
+          "en": "I buy the cake.",
+          "note": "masc: der â†’ den"
+        },
+        {
+          "de": "Sie trinkt das Wasser.",
+          "en": "She drinks the water.",
+          "note": "neuter: das stays das"
+        },
+        {
+          "de": "Wir lesen die Zeitung.",
+          "en": "We read the newspaper.",
+          "note": "fem: die stays die"
+        }
+      ]
+    },
+    {
+      "id": "gf2-concept-3",
+      "heading": "Accusative personal pronouns",
+      "explanation": "When the direct object is a pronoun, use the accusative pronoun forms. Compare them side by side with the nominative to see the pattern.",
+      "table": {
+        "headers": [
+          "Nominativ",
+          "Akkusativ",
+          "English"
+        ],
+        "rows": [
+          [
+            "ich",
+            "mich",
+            "me"
+          ],
+          [
+            "du",
+            "dich",
+            "you (informal)"
+          ],
+          [
+            "er",
+            "ihn",
+            "him"
+          ],
+          [
+            "es",
+            "es",
+            "it"
+          ],
+          [
+            "sie",
+            "sie",
+            "her"
+          ],
+          [
+            "wir",
+            "uns",
+            "us"
+          ],
+          [
+            "ihr",
+            "euch",
+            "you (plural)"
+          ],
+          [
+            "sie/Sie",
+            "sie/Sie",
+            "them / you (formal)"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "de": "Siehst du mich?",
+          "en": "Do you see me?",
+          "note": "ich â†’ mich"
+        },
+        {
+          "de": "Ich kenne ihn gut.",
+          "en": "I know him well.",
+          "note": "er â†’ ihn"
+        },
+        {
+          "de": "Wir besuchen euch morgen.",
+          "en": "We visit you tomorrow.",
+          "note": "ihr â†’ euch"
+        }
+      ]
+    },
+    {
+      "id": "gf2-concept-4",
+      "heading": "Common verbs with accusative objects",
+      "explanation": "These A1-level verbs frequently take a direct object in the accusative case. Learn them with example sentences to build natural patterns.",
+      "examples": [
+        {
+          "de": "Ich kaufe einen Apfel.",
+          "en": "I buy an apple.",
+          "note": "kaufen = to buy"
+        },
+        {
+          "de": "Hast du einen Hund?",
+          "en": "Do you have a dog?",
+          "note": "haben = to have"
+        },
+        {
+          "de": "Wir brauchen ein neues Auto.",
+          "en": "We need a new car.",
+          "note": "brauchen = to need"
+        },
+        {
+          "de": "Nehmen Sie den Bus?",
+          "en": "Do you take the bus?",
+          "note": "nehmen = to take"
+        },
+        {
+          "de": "Ich sehe den Berg.",
+          "en": "I see the mountain.",
+          "note": "sehen = to see"
+        },
+        {
+          "de": "Findest du den SchlÃ¼ssel?",
+          "en": "Do you find the key?",
+          "note": "finden = to find"
+        },
+        {
+          "de": "Was machst du?",
+          "en": "What are you doing?",
+          "note": "machen = to do/make"
+        },
+        {
+          "de": "Sie isst einen Salat.",
+          "en": "She eats a salad.",
+          "note": "essen = to eat"
+        },
+        {
+          "de": "Er trinkt einen Kaffee.",
+          "en": "He drinks a coffee.",
+          "note": "trinken = to drink"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "id": "gf2-p1",
+      "type": "fill_blank",
+      "prompt": "Ich kaufe ___ Tisch. (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p2",
+      "type": "fill_blank",
+      "prompt": "Siehst du ___ Vogel? (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p3",
+      "type": "fill_blank",
+      "prompt": "Wir brauchen ___ Stuhl. (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p4",
+      "type": "fill_blank",
+      "prompt": "Er hat ___ Bruder.",
+      "answer": "einen",
+      "hint": "accusative indefinite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p5",
+      "type": "fill_blank",
+      "prompt": "Ich trinke ___ Kaffee.",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p6",
+      "type": "fill_blank",
+      "prompt": "Sie liest ___ Buch. (neuter)",
+      "answer": [
+        "das",
+        "ein"
+      ],
+      "hint": "neuter stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p7",
+      "type": "fill_blank",
+      "prompt": "Wir essen ___ Suppe. (fem.)",
+      "answer": [
+        "die",
+        "eine"
+      ],
+      "hint": "feminine stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p8",
+      "type": "fill_blank",
+      "prompt": "Ich nehme ___ Mantel. (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p9",
+      "type": "fill_blank",
+      "prompt": "Kennst du ___ Mann dort?",
+      "answer": "den",
+      "hint": "accusative definite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p10",
+      "type": "fill_blank",
+      "prompt": "Das Kind hat ___ Ball.",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p11",
+      "type": "fill_blank",
+      "prompt": "Hast du ___ Schwester?",
+      "answer": "eine",
+      "hint": "accusative feminine â€” no change",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p12",
+      "type": "fill_blank",
+      "prompt": "Ich finde ___ Film gut.",
+      "answer": "den",
+      "hint": "accusative definite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p13",
+      "type": "fill_blank",
+      "prompt": "Wir kaufen ___ Lampe.",
+      "answer": [
+        "die",
+        "eine"
+      ],
+      "hint": "feminine stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p14",
+      "type": "fill_blank",
+      "prompt": "Sie braucht ___ Regenschirm. (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p15",
+      "type": "fill_blank",
+      "prompt": "Ich habe ___ Hund. (masc.)",
+      "answer": [
+        "keinen",
+        "einen"
+      ],
+      "hint": "accusative masculine indefinite/negative",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p16",
+      "type": "fill_blank",
+      "prompt": "Trinkst du ___ Tee? (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p17",
+      "type": "fill_blank",
+      "prompt": "Er macht ___ Hausaufgabe. (fem.)",
+      "answer": [
+        "die",
+        "eine"
+      ],
+      "hint": "feminine stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p18",
+      "type": "fill_blank",
+      "prompt": "Ich sehe ___ Auto. (neuter)",
+      "answer": [
+        "das",
+        "ein"
+      ],
+      "hint": "neuter stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p19",
+      "type": "choice",
+      "prompt": "Which word is WRONG? 'Ich kaufe ein Kalender.'",
+      "options": [
+        "Ich",
+        "kaufe",
+        "ein",
+        "Kalender"
+      ],
+      "answer": "ein",
+      "topic": "Akkusativ",
+      "explanation": "Kalender is masculine â€” accusative requires 'einen'"
+    },
+    {
+      "id": "gf2-p20",
+      "type": "choice",
+      "prompt": "Which word is WRONG? 'Er sieht der Hund.'",
+      "options": [
+        "Er",
+        "sieht",
+        "der",
+        "Hund"
+      ],
+      "answer": "der",
+      "topic": "Akkusativ",
+      "explanation": "Hund is masculine â€” accusative requires 'den'"
+    },
+    {
+      "id": "gf2-p21",
+      "type": "choice",
+      "prompt": "Which word is WRONG? 'Wir brauchen ein Stuhl.'",
+      "options": [
+        "Wir",
+        "brauchen",
+        "ein",
+        "Stuhl"
+      ],
+      "answer": "ein",
+      "topic": "Akkusativ",
+      "explanation": "Stuhl is masculine â€” accusative requires 'einen'"
+    },
+    {
+      "id": "gf2-p22",
+      "type": "choice",
+      "prompt": "Which word is WRONG? 'Hast du der SchlÃ¼ssel?'",
+      "options": [
+        "Hast",
+        "du",
+        "der",
+        "SchlÃ¼ssel"
+      ],
+      "answer": "der",
+      "topic": "Akkusativ",
+      "explanation": "SchlÃ¼ssel is masculine â€” accusative requires 'den'"
+    },
+    {
+      "id": "gf2-p23",
+      "type": "choice",
+      "prompt": "Which word is WRONG? 'Sie kauft ein Mantel.'",
+      "options": [
+        "Sie",
+        "kauft",
+        "ein",
+        "Mantel"
+      ],
+      "answer": "ein",
+      "topic": "Akkusativ",
+      "explanation": "Mantel is masculine â€” accusative requires 'einen'"
+    },
+    {
+      "id": "gf2-p24",
+      "type": "choice",
+      "prompt": "Which word is WRONG? 'Ich nehme der Bus.'",
+      "options": [
+        "Ich",
+        "nehme",
+        "der",
+        "Bus"
+      ],
+      "answer": "der",
+      "topic": "Akkusativ",
+      "explanation": "Bus is masculine â€” accusative requires 'den'"
+    },
+    {
+      "id": "gf2-p25",
+      "type": "sentence_order",
+      "prompt": "I buy a table.",
+      "tokens": [
+        "kaufe",
+        "Ich",
+        "einen",
+        "Tisch",
+        "."
+      ],
+      "answer": [
+        "Ich",
+        "kaufe",
+        "einen",
+        "Tisch",
+        "."
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p26",
+      "type": "sentence_order",
+      "prompt": "She sees the dog.",
+      "tokens": [
+        "sieht",
+        "Sie",
+        "den",
+        "Hund",
+        "."
+      ],
+      "answer": [
+        "Sie",
+        "sieht",
+        "den",
+        "Hund",
+        "."
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p27",
+      "type": "sentence_order",
+      "prompt": "We need a chair.",
+      "tokens": [
+        "einen",
+        "Wir",
+        "Stuhl",
+        "brauchen",
+        "."
+      ],
+      "answer": [
+        "Wir",
+        "brauchen",
+        "einen",
+        "Stuhl",
+        "."
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p28",
+      "type": "sentence_order",
+      "prompt": "He drinks the coffee.",
+      "tokens": [
+        "trinkt",
+        "Er",
+        "den",
+        "Kaffee",
+        "."
+      ],
+      "answer": [
+        "Er",
+        "trinkt",
+        "den",
+        "Kaffee",
+        "."
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p29",
+      "type": "choice",
+      "prompt": "Choose the correct accusative pronoun: Ich kenne ___ gut. (er)",
+      "options": [
+        "er",
+        "ihn",
+        "ihm",
+        "sein"
+      ],
+      "answer": "ihn",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p30",
+      "type": "choice",
+      "prompt": "Choose the correct accusative pronoun: Siehst du ___? (ich)",
+      "options": [
+        "ich",
+        "mir",
+        "mich",
+        "mein"
+      ],
+      "answer": "mich",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p31",
+      "type": "choice",
+      "prompt": "Choose the correct accusative pronoun: Wir besuchen ___. (ihr)",
+      "options": [
+        "ihr",
+        "euch",
+        "euer",
+        "ihnen"
+      ],
+      "answer": "euch",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p32",
+      "type": "choice",
+      "prompt": "Choose the correct accusative pronoun: Er liebt ___. (sie, singular)",
+      "options": [
+        "sie",
+        "ihr",
+        "ihnen",
+        "sich"
+      ],
+      "answer": "sie",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p33",
+      "type": "fill_blank",
+      "prompt": "Ich esse ___ Apfel. (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p34",
+      "type": "fill_blank",
+      "prompt": "Hast du ___ Computer? (masc.)",
+      "answer": "einen",
+      "hint": "accusative indefinite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p35",
+      "type": "fill_blank",
+      "prompt": "Wir sehen ___ Kinder. (plural)",
+      "answer": "die",
+      "hint": "plural stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p36",
+      "type": "fill_blank",
+      "prompt": "Ich habe ___ Katze. (fem.)",
+      "answer": [
+        "die",
+        "eine"
+      ],
+      "hint": "feminine stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p37",
+      "type": "fill_blank",
+      "prompt": "Er findet ___ Stift nicht. (masc.)",
+      "answer": "den",
+      "hint": "accusative definite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p38",
+      "type": "fill_blank",
+      "prompt": "Sie nimmt ___ Tasche. (fem.)",
+      "answer": [
+        "die",
+        "eine"
+      ],
+      "hint": "feminine stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p39",
+      "type": "fill_blank",
+      "prompt": "Ich brauche ___ Bleistift. (masc.)",
+      "answer": "einen",
+      "hint": "accusative indefinite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p40",
+      "type": "fill_blank",
+      "prompt": "Kaufst du ___ Brot? (neuter)",
+      "answer": [
+        "das",
+        "ein"
+      ],
+      "hint": "neuter stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p41",
+      "type": "fill_blank",
+      "prompt": "Sie hat ___ Freund. (masc.)",
+      "answer": [
+        "einen",
+        "keinen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p42",
+      "type": "fill_blank",
+      "prompt": "Wir machen ___ Spaziergang. (masc.)",
+      "answer": "einen",
+      "hint": "accusative indefinite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p43",
+      "type": "sentence_order",
+      "prompt": "Do you have a brother?",
+      "tokens": [
+        "du",
+        "einen",
+        "Hast",
+        "Bruder",
+        "?"
+      ],
+      "answer": [
+        "Hast",
+        "du",
+        "einen",
+        "Bruder",
+        "?"
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p44",
+      "type": "sentence_order",
+      "prompt": "I eat the apple.",
+      "tokens": [
+        "Ich",
+        "den",
+        "esse",
+        "Apfel",
+        "."
+      ],
+      "answer": [
+        "Ich",
+        "esse",
+        "den",
+        "Apfel",
+        "."
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p45",
+      "type": "fill_blank",
+      "prompt": "Ich habe ___ Hunger. (masc.)",
+      "answer": "keinen",
+      "hint": "negative accusative masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p46",
+      "type": "fill_blank",
+      "prompt": "Er sucht ___ Wohnung. (fem.)",
+      "answer": [
+        "die",
+        "eine"
+      ],
+      "hint": "feminine stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p47",
+      "type": "fill_blank",
+      "prompt": "Nimmst du ___ Zug? (masc.)",
+      "answer": "den",
+      "hint": "accusative definite masc.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p48",
+      "type": "fill_blank",
+      "prompt": "Ich finde ___ Idee toll. (fem.)",
+      "answer": "die",
+      "hint": "feminine stays the same",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p49",
+      "type": "fill_blank",
+      "prompt": "Wir lesen ___ Artikel. (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-p50",
+      "type": "fill_blank",
+      "prompt": "Sie bestellt ___ Salat. (masc.)",
+      "answer": [
+        "den",
+        "einen"
+      ],
+      "hint": "accusative masculine",
+      "topic": "Akkusativ"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "gf2-q1",
+      "type": "mcq",
+      "prompt": "What does the accusative case mark?",
+      "options": [
+        "The subject",
+        "The direct object",
+        "The indirect object",
+        "The verb"
+      ],
+      "answer": "The direct object",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q2",
+      "type": "mcq",
+      "prompt": "Which gender changes its article in the accusative?",
+      "options": [
+        "Feminine",
+        "Neuter",
+        "Masculine",
+        "Plural"
+      ],
+      "answer": "Masculine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q3",
+      "type": "fill_blank",
+      "prompt": "Ich sehe ___ Baum. (masc. definite)",
+      "answer": "den",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q4",
+      "type": "fill_blank",
+      "prompt": "Hast du ___ Stift? (masc. indefinite)",
+      "answer": "einen",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q5",
+      "type": "mcq",
+      "prompt": "What is the accusative form of 'er'?",
+      "options": [
+        "ihm",
+        "ihn",
+        "er",
+        "sein"
+      ],
+      "answer": "ihn",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q6",
+      "type": "mcq",
+      "prompt": "What is the accusative form of 'ich'?",
+      "options": [
+        "mir",
+        "mich",
+        "mein",
+        "ich"
+      ],
+      "answer": "mich",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q7",
+      "type": "fill_blank",
+      "prompt": "Sie kauft ___ Kleid. (neuter)",
+      "answer": [
+        "das",
+        "ein"
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q8",
+      "type": "mcq",
+      "prompt": "Which is correct? 'Ich sehe ...'",
+      "options": [
+        "der Mann",
+        "den Mann",
+        "dem Mann",
+        "des Mannes"
+      ],
+      "answer": "den Mann",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q9",
+      "type": "fill_blank",
+      "prompt": "Wir brauchen ___ Hilfe. (fem.)",
+      "answer": [
+        "die",
+        "eine"
+      ],
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q10",
+      "type": "mcq",
+      "prompt": "Which sentence has a wrong article?",
+      "options": [
+        "Ich trinke das Wasser.",
+        "Ich kaufe den Kuchen.",
+        "Ich sehe der Hund.",
+        "Ich lese die Zeitung."
+      ],
+      "answer": "Ich sehe der Hund.",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q11",
+      "type": "fill_blank",
+      "prompt": "Er hat ___ Katze. (fem. indefinite)",
+      "answer": "eine",
+      "topic": "Akkusativ"
+    },
+    {
+      "id": "gf2-q12",
+      "type": "mcq",
+      "prompt": "Complete: 'Kennst du ___?' (wir)",
+      "options": [
+        "wir",
+        "uns",
+        "unser",
+        "unsere"
+      ],
+      "answer": "uns",
+      "topic": "Akkusativ"
+    }
+  ],
+  "games": [
+    {
+      "type": "article_battle",
+      "id": "gf2-ab-1",
+      "mode": "akkusativ",
+      "items": [
+        {
+          "id": "ab-1",
+          "noun": "Tisch",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-2",
+          "noun": "Stuhl",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-3",
+          "noun": "Lampe",
+          "article": "die",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-4",
+          "noun": "Fenster",
+          "article": "das",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-5",
+          "noun": "Kuchen",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-6",
+          "noun": "Bett",
+          "article": "das",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-7",
+          "noun": "Schrank",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-8",
+          "noun": "TÃ¼r",
+          "article": "die",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-9",
+          "noun": "Sofa",
+          "article": "das",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-10",
+          "noun": "Garten",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-11",
+          "noun": "Blume",
+          "article": "die",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-12",
+          "noun": "Kind",
+          "article": "das",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-13",
+          "noun": "Apfel",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-14",
+          "noun": "Tasche",
+          "article": "die",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-15",
+          "noun": "Buch",
+          "article": "das",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-16",
+          "noun": "Mantel",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-17",
+          "noun": "Jacke",
+          "article": "die",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-18",
+          "noun": "Hemd",
+          "article": "das",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-19",
+          "noun": "Ball",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-20",
+          "noun": "Milch",
+          "article": "die",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-21",
+          "noun": "SchlÃ¼ssel",
+          "article": "den",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-22",
+          "noun": "Auto",
+          "article": "das",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-23",
+          "noun": "Zeitung",
+          "article": "die",
+          "mode": "akkusativ"
+        },
+        {
+          "id": "ab-24",
+          "noun": "Hund",
+          "article": "den",
+          "mode": "akkusativ"
+        }
+      ]
+    },
+    {
+      "type": "sentence_builder",
+      "id": "gf2-sb-1",
+      "sentences": [
+        {
+          "id": "sb-1",
+          "prompt": "I buy a cake.",
+          "tokens": [
+            "Ich",
+            "kaufe",
+            "einen",
+            "Kuchen",
+            "."
+          ],
+          "answer": [
+            "Ich",
+            "kaufe",
+            "einen",
+            "Kuchen",
+            "."
+          ]
+        },
+        {
+          "id": "sb-2",
+          "prompt": "She sees the dog.",
+          "tokens": [
+            "sieht",
+            "Sie",
+            "den",
+            "Hund",
+            "."
+          ],
+          "answer": [
+            "Sie",
+            "sieht",
+            "den",
+            "Hund",
+            "."
+          ]
+        },
+        {
+          "id": "sb-3",
+          "prompt": "Do you have a brother?",
+          "tokens": [
+            "du",
+            "einen",
+            "Hast",
+            "Bruder",
+            "?"
+          ],
+          "answer": [
+            "Hast",
+            "du",
+            "einen",
+            "Bruder",
+            "?"
+          ]
+        },
+        {
+          "id": "sb-4",
+          "prompt": "We need a table.",
+          "tokens": [
+            "brauchen",
+            "einen",
+            "Wir",
+            "Tisch",
+            "."
+          ],
+          "answer": [
+            "Wir",
+            "brauchen",
+            "einen",
+            "Tisch",
+            "."
+          ]
+        },
+        {
+          "id": "sb-5",
+          "prompt": "He takes the bus.",
+          "tokens": [
+            "nimmt",
+            "den",
+            "Er",
+            "Bus",
+            "."
+          ],
+          "answer": [
+            "Er",
+            "nimmt",
+            "den",
+            "Bus",
+            "."
+          ]
+        },
+        {
+          "id": "sb-6",
+          "prompt": "I eat the apple.",
+          "tokens": [
+            "esse",
+            "den",
+            "Ich",
+            "Apfel",
+            "."
+          ],
+          "answer": [
+            "Ich",
+            "esse",
+            "den",
+            "Apfel",
+            "."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "error_detective",
+      "id": "gf2-ed-1",
+      "items": [
+        {
+          "id": "ed-1",
+          "sentence": "Ich sehe er im Park.",
+          "errorIndex": 2,
+          "errorWord": "er",
+          "correctWord": "ihn",
+          "explanation": "After sehen, the person is the direct object: er becomes ihn."
+        },
+        {
+          "id": "ed-2",
+          "sentence": "Maria besucht wir am Samstag.",
+          "errorIndex": 2,
+          "errorWord": "wir",
+          "correctWord": "uns",
+          "explanation": "Wir changes to uns when it is the direct object."
+        },
+        {
+          "id": "ed-3",
+          "sentence": "Der Lehrer fragt du heute.",
+          "errorIndex": 3,
+          "errorWord": "du",
+          "correctWord": "dich",
+          "explanation": "Du changes to dich in the accusative case."
+        },
+        {
+          "id": "ed-4",
+          "sentence": "Ich finde sie Bruder nett.",
+          "errorIndex": 2,
+          "errorWord": "sie",
+          "correctWord": "ihren",
+          "explanation": "For her brother as a direct object, use the accusative possessive: ihren Bruder."
+        },
+        {
+          "id": "ed-5",
+          "sentence": "Wir nehmen den Zug nicht heute.",
+          "errorIndex": 4,
+          "errorWord": "nicht",
+          "correctWord": "heute nicht",
+          "explanation": "For this sentence, nicht normally comes near the end: Wir nehmen den Zug heute nicht."
+        },
+        {
+          "id": "ed-6",
+          "sentence": "Kannst du hilfst mich?",
+          "errorIndex": 2,
+          "errorWord": "hilfst",
+          "correctWord": "helfen",
+          "explanation": "After a modal verb, the second verb stays in the infinitive at the end."
+        },
+        {
+          "id": "ed-7",
+          "sentence": "Sie m?chte kaufen eine Fahrkarte.",
+          "errorIndex": 2,
+          "errorWord": "kaufen",
+          "correctWord": "eine Fahrkarte kaufen",
+          "explanation": "With m?chte, the infinitive goes at the end."
+        },
+        {
+          "id": "ed-8",
+          "sentence": "Er ruft ich morgen an.",
+          "errorIndex": 2,
+          "errorWord": "ich",
+          "correctWord": "mich",
+          "explanation": "Ich becomes mich when it is the direct object."
+        },
+        {
+          "id": "ed-9",
+          "sentence": "Ich brauche du um acht.",
+          "errorIndex": 2,
+          "errorWord": "du",
+          "correctWord": "dich",
+          "explanation": "Brauchen takes a direct object: du becomes dich."
+        },
+        {
+          "id": "ed-10",
+          "sentence": "Wir treffen ihr im Cafe.",
+          "errorIndex": 2,
+          "errorWord": "ihr",
+          "correctWord": "euch",
+          "explanation": "Ihr changes to euch as an accusative object."
+        },
+        {
+          "id": "ed-11",
+          "sentence": "Hast du gesehen mich?",
+          "errorIndex": 3,
+          "errorWord": "mich?",
+          "correctWord": "mich gesehen?",
+          "explanation": "In Perfekt, the participle goes at the end: Hast du mich gesehen?"
+        },
+        {
+          "id": "ed-12",
+          "sentence": "Ich lade ein meine Freunde.",
+          "errorIndex": 2,
+          "errorWord": "ein",
+          "correctWord": "meine Freunde ein",
+          "explanation": "With separable verbs, the prefix moves to the end."
+        }
+      ]
+    }
+  ]
+}

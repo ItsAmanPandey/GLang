@@ -45,7 +45,7 @@
       "meaning": "birthday",
       "article": "der",
       "plural": "die Geburtstage",
-      "example": "Herzlichen Glückwunsch zum Geburtstag!"
+      "example": "Herzlichen GlÃ¼ckwunsch zum Geburtstag!"
     },
     {
       "word": "die Party",
@@ -66,7 +66,7 @@
       "meaning": "invitation",
       "article": "die",
       "plural": "die Einladungen",
-      "example": "Danke für die Einladung!"
+      "example": "Danke fÃ¼r die Einladung!"
     },
     {
       "word": "einladen",
@@ -93,14 +93,14 @@
       "meaning": "gift/present",
       "article": "das",
       "plural": "die Geschenke",
-      "example": "Das Geschenk ist schön verpackt."
+      "example": "Das Geschenk ist schÃ¶n verpackt."
     },
     {
-      "word": "die Überraschung",
+      "word": "die Ãœberraschung",
       "meaning": "surprise",
       "article": "die",
-      "plural": "die Überraschungen",
-      "example": "Das ist eine Überraschung!"
+      "plural": "die Ãœberraschungen",
+      "example": "Das ist eine Ãœberraschung!"
     },
     {
       "word": "der Kuchen",
@@ -121,19 +121,19 @@
       "meaning": "decoration",
       "article": "die",
       "plural": "die Dekorationen",
-      "example": "Die Dekoration ist schön."
+      "example": "Die Dekoration ist schÃ¶n."
     },
     {
-      "word": "schmücken",
+      "word": "schmÃ¼cken",
       "meaning": "to decorate",
-      "example": "Wir schmücken den Weihnachtsbaum."
+      "example": "Wir schmÃ¼cken den Weihnachtsbaum."
     },
     {
       "word": "der Weihnachtsbaum",
       "meaning": "Christmas tree",
       "article": "der",
-      "plural": "die Weihnachtsbäume",
-      "example": "Der Weihnachtsbaum ist groß."
+      "plural": "die WeihnachtsbÃ¤ume",
+      "example": "Der Weihnachtsbaum ist groÃŸ."
     },
     {
       "word": "der Adventskalender",
@@ -162,11 +162,11 @@
       "example": "Im Karneval verkleiden wir uns."
     },
     {
-      "word": "das Kostüm",
+      "word": "das KostÃ¼m",
       "meaning": "costume",
       "article": "das",
-      "plural": "die Kostüme",
-      "example": "Mein Kostüm ist ein Pirat."
+      "plural": "die KostÃ¼me",
+      "example": "Mein KostÃ¼m ist ein Pirat."
     },
     {
       "word": "sich verkleiden",
@@ -200,15 +200,15 @@
       "word": "der Gast",
       "meaning": "guest",
       "article": "der",
-      "plural": "die Gäste",
-      "example": "Die Gäste kommen um acht."
+      "plural": "die GÃ¤ste",
+      "example": "Die GÃ¤ste kommen um acht."
     },
     {
       "word": "der Gastgeber",
       "meaning": "host",
       "article": "der",
       "plural": "die Gastgeber",
-      "example": "Der Gastgeber begrüßt alle."
+      "example": "Der Gastgeber begrÃ¼ÃŸt alle."
     },
     {
       "word": "willkommen",
@@ -221,9 +221,9 @@
       "example": "Ich freue mich auf die Party."
     },
     {
-      "word": "wünschen",
+      "word": "wÃ¼nschen",
       "meaning": "to wish",
-      "example": "Ich wünsche dir alles Gute!"
+      "example": "Ich wÃ¼nsche dir alles Gute!"
     },
     {
       "word": "das Essen",
@@ -233,16 +233,16 @@
       "example": "Das Essen schmeckt gut."
     },
     {
-      "word": "das Getränk",
+      "word": "das GetrÃ¤nk",
       "meaning": "drink/beverage",
       "article": "das",
-      "plural": "die Getränke",
-      "example": "Was für Getränke gibt es?"
+      "plural": "die GetrÃ¤nke",
+      "example": "Was fÃ¼r GetrÃ¤nke gibt es?"
     },
     {
-      "word": "anstoßen",
+      "word": "anstoÃŸen",
       "meaning": "to toast/clink glasses",
-      "example": "Lasst uns anstoßen!"
+      "example": "Lasst uns anstoÃŸen!"
     },
     {
       "word": "der Sekt",
@@ -266,8 +266,8 @@
       "word": "der Brauch",
       "meaning": "custom",
       "article": "der",
-      "plural": "die Bräuche",
-      "example": "Das ist ein schöner Brauch."
+      "plural": "die BrÃ¤uche",
+      "example": "Das ist ein schÃ¶ner Brauch."
     },
     {
       "word": "die Karte",
@@ -301,14 +301,14 @@
       "example": "Wir bereiten alles vor."
     },
     {
-      "word": "aufräumen",
+      "word": "aufrÃ¤umen",
       "meaning": "to tidy up",
-      "example": "Nach der Party räumen wir auf."
+      "example": "Nach der Party rÃ¤umen wir auf."
     },
     {
-      "word": "genießen",
+      "word": "genieÃŸen",
       "meaning": "to enjoy",
-      "example": "Genieß den Abend!"
+      "example": "GenieÃŸ den Abend!"
     },
     {
       "word": "zusammen",
@@ -334,12 +334,12 @@
     },
     {
       "topic": "Separable Verbs in Context",
-      "explanation": "Verbs like einladen, mitbringen, aufräumen, anstoßen, and vorbereiten are separable. In the present tense, the prefix goes to the end.",
+      "explanation": "Verbs like einladen, mitbringen, aufrÃ¤umen, anstoÃŸen, and vorbereiten are separable. In the present tense, the prefix goes to the end.",
       "examples": [
         "Ich lade dich zur Party ein.",
         "Bringst du einen Kuchen mit?",
-        "Wir stoßen um Mitternacht an.",
-        "Sie räumt nach der Party auf."
+        "Wir stoÃŸen um Mitternacht an.",
+        "Sie rÃ¤umt nach der Party auf."
       ]
     }
   ],
@@ -372,14 +372,14 @@
       "prompt": "Happy birthday!",
       "tokens": [
         "Herzlichen",
-        "Glückwunsch",
+        "GlÃ¼ckwunsch",
         "zum",
         "Geburtstag!",
         "Neujahr!"
       ],
       "answer": [
         "Herzlichen",
-        "Glückwunsch",
+        "GlÃ¼ckwunsch",
         "zum",
         "Geburtstag!"
       ]
@@ -406,7 +406,7 @@
     {
       "id": "c16-quiz-1",
       "type": "mcq",
-      "prompt": "What does 'Herzlichen Glückwunsch' mean?",
+      "prompt": "What does 'Herzlichen GlÃ¼ckwunsch' mean?",
       "options": [
         "Merry Christmas",
         "Happy birthday/Congratulations",
@@ -439,7 +439,7 @@
     {
       "id": "c16-quiz-4",
       "type": "fill_blank",
-      "prompt": "Wir schmücken den ___. (Christmas tree)",
+      "prompt": "Wir schmÃ¼cken den ___. (Christmas tree)",
       "answer": "Weihnachtsbaum",
       "topic": "holidays"
     }
@@ -456,7 +456,7 @@
     {
       "id": "c16-fill-2",
       "type": "fill_blank",
-      "prompt": "Wir schmücken den ___. (Christmas tree)",
+      "prompt": "Wir schmÃ¼cken den ___. (Christmas tree)",
       "answer": "Weihnachtsbaum",
       "hint": "Christmas tree",
       "topic": "holidays"
@@ -501,13 +501,13 @@
       "prompt": "Arrange: Happy birthday!",
       "tokens": [
         "Herzlichen",
-        "Glückwunsch",
+        "GlÃ¼ckwunsch",
         "zum",
         "Geburtstag!"
       ],
       "answer": [
         "Herzlichen",
-        "Glückwunsch",
+        "GlÃ¼ckwunsch",
         "zum",
         "Geburtstag!"
       ],

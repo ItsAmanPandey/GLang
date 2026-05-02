@@ -37,7 +37,7 @@
       "meaning": "jeans",
       "article": "die",
       "plural": "die Jeans",
-      "example": "Er trägt immer Jeans."
+      "example": "Er trÃ¤gt immer Jeans."
     },
     {
       "word": "der Pullover",
@@ -57,7 +57,7 @@
       "word": "der Mantel",
       "meaning": "coat",
       "article": "der",
-      "plural": "die Mäntel",
+      "plural": "die MÃ¤ntel",
       "example": "Im Winter brauche ich einen Mantel."
     },
     {
@@ -65,7 +65,7 @@
       "meaning": "shirt (button-up)",
       "article": "das",
       "plural": "die Hemden",
-      "example": "Er trägt ein weißes Hemd."
+      "example": "Er trÃ¤gt ein weiÃŸes Hemd."
     },
     {
       "word": "das Kleid",
@@ -78,7 +78,7 @@
       "word": "der Rock",
       "meaning": "skirt",
       "article": "der",
-      "plural": "die Röcke",
+      "plural": "die RÃ¶cke",
       "example": "Sie kauft einen Rock."
     },
     {
@@ -99,8 +99,8 @@
       "word": "der Hut",
       "meaning": "hat",
       "article": "der",
-      "plural": "die Hüte",
-      "example": "Er trägt einen Hut."
+      "plural": "die HÃ¼te",
+      "example": "Er trÃ¤gt einen Hut."
     },
     {
       "word": "die Brille",
@@ -112,7 +112,7 @@
     {
       "word": "kaufen",
       "meaning": "to buy",
-      "example": "Ich möchte ein Auto kaufen."
+      "example": "Ich mÃ¶chte ein Auto kaufen."
     },
     {
       "word": "verkaufen",
@@ -142,16 +142,16 @@
       "example": "Die Schuhe sind sehr billig."
     },
     {
-      "word": "günstig",
+      "word": "gÃ¼nstig",
       "meaning": "favorable/affordable",
-      "example": "Das Angebot ist günstig."
+      "example": "Das Angebot ist gÃ¼nstig."
     },
     {
-      "word": "die Größe",
+      "word": "die GrÃ¶ÃŸe",
       "meaning": "size",
       "article": "die",
-      "plural": "die Größen",
-      "example": "Welche Größe haben Sie?"
+      "plural": "die GrÃ¶ÃŸen",
+      "example": "Welche GrÃ¶ÃŸe haben Sie?"
     },
     {
       "word": "die Farbe",
@@ -176,9 +176,9 @@
       "example": "Die Sonne ist gelb."
     },
     {
-      "word": "grün",
+      "word": "grÃ¼n",
       "meaning": "green",
-      "example": "Das Gras ist grün."
+      "example": "Das Gras ist grÃ¼n."
     },
     {
       "word": "schwarz",
@@ -186,9 +186,9 @@
       "example": "Mein Hund ist schwarz."
     },
     {
-      "word": "weiß",
+      "word": "weiÃŸ",
       "meaning": "white",
-      "example": "Schnee ist weiß."
+      "example": "Schnee ist weiÃŸ."
     },
     {
       "word": "grau",
@@ -235,28 +235,28 @@
     {
       "word": "gefallen",
       "meaning": "to like / be pleasing to",
-      "example": "Das gefällt mir."
+      "example": "Das gefÃ¤llt mir."
     },
     {
-      "word": "das Geschäft",
+      "word": "das GeschÃ¤ft",
       "meaning": "shop/store",
       "article": "das",
-      "plural": "die Geschäfte",
-      "example": "Das Geschäft schließt um 20 Uhr."
+      "plural": "die GeschÃ¤fte",
+      "example": "Das GeschÃ¤ft schlieÃŸt um 20 Uhr."
     },
     {
-      "word": "der Verkäufer",
+      "word": "der VerkÃ¤ufer",
       "meaning": "salesman",
       "article": "der",
-      "plural": "die Verkäufer",
-      "example": "Der Verkäufer ist nett."
+      "plural": "die VerkÃ¤ufer",
+      "example": "Der VerkÃ¤ufer ist nett."
     },
     {
-      "word": "die Verkäuferin",
+      "word": "die VerkÃ¤uferin",
       "meaning": "saleswoman",
       "article": "die",
-      "plural": "die Verkäuferinnen",
-      "example": "Fragen Sie die Verkäuferin."
+      "plural": "die VerkÃ¤uferinnen",
+      "example": "Fragen Sie die VerkÃ¤uferin."
     },
     {
       "word": "der Kunde",
@@ -294,7 +294,7 @@
       "meaning": "jewelry",
       "article": "der",
       "plural": "-",
-      "example": "Sie trägt viel Schmuck."
+      "example": "Sie trÃ¤gt viel Schmuck."
     },
     {
       "word": "die Uhr",
@@ -306,7 +306,7 @@
     {
       "word": "bezahlen",
       "meaning": "to pay",
-      "example": "Ich möchte bezahlen."
+      "example": "Ich mÃ¶chte bezahlen."
     },
     {
       "word": "die Kasse",
@@ -326,12 +326,12 @@
   "grammar": [
     {
       "topic": "The verb 'gefallen'",
-      "explanation": "The verb 'gefallen' means 'to be pleasing to'. The object being liked is the subject of the sentence, and the person who likes it is in the dative case. E.g. 'Das Hemd gefällt mir.' (I like the shirt / The shirt pleases me).",
+      "explanation": "The verb 'gefallen' means 'to be pleasing to'. The object being liked is the subject of the sentence, and the person who likes it is in the dative case. E.g. 'Das Hemd gefÃ¤llt mir.' (I like the shirt / The shirt pleases me).",
       "examples": [
-        "Das Kleid gefällt mir.",
+        "Das Kleid gefÃ¤llt mir.",
         "Die Schuhe gefallen ihr nicht.",
-        "Gefällt dir die Jacke?",
-        "Der Mantel gefällt ihm."
+        "GefÃ¤llt dir die Jacke?",
+        "Der Mantel gefÃ¤llt ihm."
       ]
     },
     {
@@ -339,9 +339,9 @@
       "explanation": "'Passen' means 'to fit'. Like 'gefallen', the person it fits takes the dative case. E.g. 'Die Hose passt mir.' (The pants fit me).",
       "examples": [
         "Die Hose passt nicht.",
-        "Welche Größe brauchen Sie?",
+        "Welche GrÃ¶ÃŸe brauchen Sie?",
         "Das T-Shirt ist zu klein.",
-        "Haben Sie das in Größe M?"
+        "Haben Sie das in GrÃ¶ÃŸe M?"
       ]
     }
   ],
@@ -374,7 +374,7 @@
         "Ich",
         "kaufe",
         "ein",
-        "grünes",
+        "grÃ¼nes",
         "Kleid.",
         "rotes"
       ],
@@ -382,7 +382,7 @@
         "Ich",
         "kaufe",
         "ein",
-        "grünes",
+        "grÃ¼nes",
         "Kleid."
       ]
     },
@@ -427,17 +427,17 @@
       "prompt": "How do you say 'I like the dress' using 'gefallen'?",
       "options": [
         "Ich mag das Kleid",
-        "Das Kleid gefällt mir",
+        "Das Kleid gefÃ¤llt mir",
         "Ich finde das Kleid",
         "Das Kleid passt mir"
       ],
-      "answer": "Das Kleid gefällt mir",
+      "answer": "Das Kleid gefÃ¤llt mir",
       "topic": "verbs"
     },
     {
       "id": "c7-quiz-3",
       "type": "fill_blank",
-      "prompt": "Der Rock ist zu ___. Haben Sie ihn größer?",
+      "prompt": "Der Rock ist zu ___. Haben Sie ihn grÃ¶ÃŸer?",
       "answer": "klein",
       "topic": "shopping"
     },
@@ -445,7 +445,7 @@
       "id": "c7-quiz-4",
       "type": "fill_blank",
       "prompt": "Welche ___ brauchen Sie?",
-      "answer": "Größe",
+      "answer": "GrÃ¶ÃŸe",
       "topic": "shopping"
     }
   ],
@@ -454,7 +454,7 @@
       "id": "c7-fill-1",
       "type": "fill_blank",
       "prompt": "Das Kleid ___ mir. (pleases)",
-      "answer": "gefällt",
+      "answer": "gefÃ¤llt",
       "hint": "to please",
       "topic": "gefallen"
     },
@@ -470,7 +470,7 @@
       "id": "c7-fill-3",
       "type": "fill_blank",
       "prompt": "Welche ___ brauchen Sie? (size)",
-      "answer": "Größe",
+      "answer": "GrÃ¶ÃŸe",
       "hint": "size",
       "topic": "shopping"
     },
@@ -509,14 +509,14 @@
         "Schuhe",
         "sind",
         "zu",
-        "groß."
+        "groÃŸ."
       ],
       "answer": [
         "Die",
         "Schuhe",
         "sind",
         "zu",
-        "groß."
+        "groÃŸ."
       ],
       "topic": "clothing"
     },
@@ -527,13 +527,13 @@
       "tokens": [
         "Die",
         "Jacke",
-        "gefällt",
+        "gefÃ¤llt",
         "mir."
       ],
       "answer": [
         "Die",
         "Jacke",
-        "gefällt",
+        "gefÃ¤llt",
         "mir."
       ],
       "topic": "gefallen"
@@ -542,7 +542,7 @@
       "id": "c7-fill-4",
       "type": "fill_blank",
       "prompt": "Haben Sie das in ___ M?",
-      "answer": "Größe",
+      "answer": "GrÃ¶ÃŸe",
       "hint": "size",
       "topic": "shopping"
     }

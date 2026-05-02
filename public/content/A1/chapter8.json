@@ -12,17 +12,17 @@
   ],
   "vocabulary": [
     {
-      "word": "der Körper",
+      "word": "der KÃ¶rper",
       "meaning": "body",
       "article": "der",
-      "plural": "die Körper",
-      "example": "Der Körper braucht Schlaf."
+      "plural": "die KÃ¶rper",
+      "example": "Der KÃ¶rper braucht Schlaf."
     },
     {
       "word": "der Kopf",
       "meaning": "head",
       "article": "der",
-      "plural": "die Köpfe",
+      "plural": "die KÃ¶pfe",
       "example": "Mein Kopf tut weh."
     },
     {
@@ -51,27 +51,27 @@
       "meaning": "nose",
       "article": "die",
       "plural": "die Nasen",
-      "example": "Er hat eine große Nase."
+      "example": "Er hat eine groÃŸe Nase."
     },
     {
       "word": "der Mund",
       "meaning": "mouth",
       "article": "der",
-      "plural": "die Münder",
+      "plural": "die MÃ¼nder",
       "example": "Mach den Mund auf."
     },
     {
       "word": "der Zahn",
       "meaning": "tooth",
       "article": "der",
-      "plural": "die Zähne",
-      "example": "Ich putze meine Zähne."
+      "plural": "die ZÃ¤hne",
+      "example": "Ich putze meine ZÃ¤hne."
     },
     {
       "word": "der Hals",
       "meaning": "neck/throat",
       "article": "der",
-      "plural": "die Hälse",
+      "plural": "die HÃ¤lse",
       "example": "Mein Hals tut weh."
     },
     {
@@ -85,7 +85,7 @@
       "word": "die Hand",
       "meaning": "hand",
       "article": "die",
-      "plural": "die Hände",
+      "plural": "die HÃ¤nde",
       "example": "Gib mir deine Hand."
     },
     {
@@ -99,29 +99,29 @@
       "word": "der Bauch",
       "meaning": "stomach/belly",
       "article": "der",
-      "plural": "die Bäuche",
+      "plural": "die BÃ¤uche",
       "example": "Ich habe Bauchschmerzen."
     },
     {
-      "word": "der Rücken",
+      "word": "der RÃ¼cken",
       "meaning": "back",
       "article": "der",
-      "plural": "die Rücken",
-      "example": "Mein Rücken tut weh."
+      "plural": "die RÃ¼cken",
+      "example": "Mein RÃ¼cken tut weh."
     },
     {
       "word": "das Bein",
       "meaning": "leg",
       "article": "das",
       "plural": "die Beine",
-      "example": "Mein Bein ist müde."
+      "example": "Mein Bein ist mÃ¼de."
     },
     {
-      "word": "der Fuß",
+      "word": "der FuÃŸ",
       "meaning": "foot",
       "article": "der",
-      "plural": "die Füße",
-      "example": "Meine Füße sind kalt."
+      "plural": "die FÃ¼ÃŸe",
+      "example": "Meine FÃ¼ÃŸe sind kalt."
     },
     {
       "word": "die Gesundheit",
@@ -205,22 +205,22 @@
       "word": "der Arzt",
       "meaning": "doctor (male)",
       "article": "der",
-      "plural": "die Ärzte",
+      "plural": "die Ã„rzte",
       "example": "Ich muss zum Arzt gehen."
     },
     {
-      "word": "die Ärztin",
+      "word": "die Ã„rztin",
       "meaning": "doctor (female)",
       "article": "die",
-      "plural": "die Ärztinnen",
-      "example": "Die Ärztin ist sehr nett."
+      "plural": "die Ã„rztinnen",
+      "example": "Die Ã„rztin ist sehr nett."
     },
     {
       "word": "die Praxis",
       "meaning": "doctor's office",
       "article": "die",
       "plural": "die Praxen",
-      "example": "Die Praxis öffnet um 8 Uhr."
+      "example": "Die Praxis Ã¶ffnet um 8 Uhr."
     },
     {
       "word": "der Termin",
@@ -261,7 +261,7 @@
       "word": "das Krankenhaus",
       "meaning": "hospital",
       "article": "das",
-      "plural": "die Krankenhäuser",
+      "plural": "die KrankenhÃ¤user",
       "example": "Er ist im Krankenhaus."
     },
     {
@@ -296,9 +296,9 @@
       "example": "Ich muss schlafen."
     },
     {
-      "word": "müde",
+      "word": "mÃ¼de",
       "meaning": "tired",
-      "example": "Ich bin sehr müde."
+      "example": "Ich bin sehr mÃ¼de."
     },
     {
       "word": "das Bett",
@@ -344,11 +344,11 @@
       "example": "Ich brauche frische Luft."
     },
     {
-      "word": "die Diät",
+      "word": "die DiÃ¤t",
       "meaning": "diet",
       "article": "die",
-      "plural": "die Diäten",
-      "example": "Er macht eine Diät."
+      "plural": "die DiÃ¤ten",
+      "example": "Er macht eine DiÃ¤t."
     }
   ],
   "grammar": [

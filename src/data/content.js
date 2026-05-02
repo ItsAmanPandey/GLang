@@ -19,5 +19,14 @@ export async function loadChapters(level = "A1") {
     })
   );
 
-  return chapters.sort((a, b) => a.number - b.number);
+  return chapters.sort((a, b) => {
+    const isAGrammar = a.type === "grammarFocus";
+    const isBGrammar = b.type === "grammarFocus";
+    if (isAGrammar && !isBGrammar) return 1;
+    if (!isAGrammar && isBGrammar) return -1;
+    if (isAGrammar && isBGrammar) {
+      return parseInt(a.number.replace("GF", "")) - parseInt(b.number.replace("GF", ""));
+    }
+    return a.number - b.number;
+  });
 }

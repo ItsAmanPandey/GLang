@@ -1,4 +1,4 @@
-import { CheckCircle2, Layers3, ListChecks, PencilLine, RotateCcw, Volume2 } from "lucide-react";
+import { CheckCircle2, Layers3, ListChecks, PencilLine, RotateCcw, Volume2, Turtle } from "lucide-react";
 import { useMemo, useState } from "react";
 import { useTTS } from "../hooks/useTTS.js";
 import {
@@ -9,6 +9,8 @@ import {
   spellingTarget,
   stripArticle,
 } from "../utils/practice.js";
+import { useKeyboardNav } from "../hooks/useKeyboardNav.js";
+import { useGrammarRef } from "./GrammarRefDrawer.jsx";
 
 const modes = [
   { id: "cards", label: "Cards", icon: Layers3 },
@@ -29,7 +31,8 @@ export default function VocabularyPractice({ chapter }) {
   const [articleGuess, setArticleGuess] = useState("");
   const [pluralGuess, setPluralGuess] = useState("");
   const [feedback, setFeedback] = useState(null);
-  const { speak } = useTTS();
+  const { speak, speakSlow } = useTTS();
+  const { openRef } = useGrammarRef();
 
   const item = chapter.vocabulary[index % chapter.vocabulary.length];
   const nounItems = useMemo(() => chapter.vocabulary.filter(hasArticleAndPlural), [chapter.vocabulary]);
@@ -57,17 +60,20 @@ export default function VocabularyPractice({ chapter }) {
   }
 
   function checkTypedAnswer() {
-    setFeedback(isCorrectAnswer(answer, item.word) ? "correct" : "review");
+    const isCorrect = isCorrectAnswer(answer, item.word);
+    setFeedback(isCorrect ? "correct" : "review");
   }
 
   function chooseOption(option) {
     setAnswer(option);
-    setFeedback(isCorrectAnswer(option, item.word) ? "correct" : "review");
+    const isCorrect = isCorrectAnswer(option, item.word);
+    setFeedback(isCorrect ? "correct" : "review");
   }
 
   function checkArticlePlural() {
     const articleCorrect = isCorrectAnswer(articleGuess, nounItem.article);
     const pluralCorrect = isCorrectAnswer(pluralGuess, nounItem.plural) || isCorrectAnswer(pluralGuess, stripArticle(nounItem.plural));
+    const allCorrect = articleCorrect && pluralCorrect;
     setFeedback({
       kind: "articlePlural",
       articleCorrect,
@@ -76,11 +82,32 @@ export default function VocabularyPractice({ chapter }) {
   }
 
   function checkSpelling() {
-    setFeedback(isCorrectAnswer(answer, target) ? "correct" : { kind: "spelling" });
+    const isCorrect = isCorrectAnswer(answer, target);
+    setFeedback(isCorrect ? "correct" : { kind: "spelling" });
   }
 
+  useKeyboardNav({
+    onNumber: (num) => {
+      if (mode === "mcq" && num >= 1 && num <= mcq.options.length) {
+        chooseOption(mcq.options[num - 1]);
+      } else if (mode === "articlePlural" && num >= 1 && num <= articles.length) {
+        setArticleGuess(articles[num - 1]);
+      }
+    },
+    onEnter: () => {
+      if (mode === "typing") checkTypedAnswer();
+      else if (mode === "spelling") checkSpelling();
+      else if (mode === "articlePlural") checkArticlePlural();
+      else nextCard();
+    },
+    onSpace: () => {
+      if (mode === "cards") setFlipped((current) => !current);
+      else speak(item.word);
+    }
+  });
+
   return (
-    <section className="space-y-5">
+    <section className="min-h-[520px] space-y-5">
       <div className="flex flex-wrap gap-2">
         {modes.map((practiceMode) => {
           const Icon = practiceMode.icon;
@@ -92,7 +119,7 @@ export default function VocabularyPractice({ chapter }) {
                 setMode(practiceMode.id);
                 resetAnswers();
               }}
-              className={`inline-flex items-center gap-2 border px-4 py-2 text-sm font-semibold rounded-lg transition-colors ${
+              className={`inline-flex h-12 min-w-[132px] items-center justify-center gap-2 border px-4 text-sm font-semibold rounded-lg transition-colors ${
                 mode === practiceMode.id 
                   ? "border-marigold bg-marigold text-white shadow-md" 
                   : "border-[var(--border-color)] bg-[var(--surface-color)] hover:bg-marigold/10 hover:text-marigold"
@@ -106,7 +133,7 @@ export default function VocabularyPractice({ chapter }) {
       </div>
 
       {mode === "cards" && (
-        <div className="max-w-xl">
+        <div className="w-full max-w-3xl">
           <button
             type="button"
             onClick={() => setFlipped((current) => !current)}
@@ -119,13 +146,22 @@ export default function VocabularyPractice({ chapter }) {
                   <p className="text-sm uppercase tracking-wide opacity-50 font-semibold">German</p>
                   <p className="mt-3 text-4xl font-bold">{item.word}</p>
                   {item.article && <p className="mt-3 text-lg font-semibold text-marigold">{item.article}</p>}
-                  <button 
-                    onClick={(e) => { e.stopPropagation(); speak(item.word); }}
-                    className="absolute top-0 right-0 p-3 rounded-full hover:bg-[var(--border-color)] text-marigold transition-colors"
-                    aria-label="Listen"
-                  >
-                    <Volume2 size={24} />
-                  </button>
+                  <div className="absolute top-0 right-0 flex items-center gap-1">
+                    <button 
+                      onClick={(e) => { e.stopPropagation(); speakSlow(item.word); }}
+                      className="p-3 rounded-full hover:bg-[var(--border-color)] text-marigold transition-colors"
+                      aria-label="Listen slowly"
+                    >
+                      <Turtle size={20} />
+                    </button>
+                    <button 
+                      onClick={(e) => { e.stopPropagation(); speak(item.word); }}
+                      className="p-3 rounded-full hover:bg-[var(--border-color)] text-marigold transition-colors"
+                      aria-label="Listen"
+                    >
+                      <Volume2 size={24} />
+                    </button>
+                  </div>
                 </div>
               </div>
               <div className="card-face card-back absolute inset-0 grid place-items-center glass-panel p-8 bg-[var(--border-color)]">
@@ -141,7 +177,7 @@ export default function VocabularyPractice({ chapter }) {
       )}
 
       {mode === "typing" && (
-        <div className="max-w-xl glass-panel p-6">
+        <div className="w-full max-w-3xl min-h-[320px] glass-panel p-6">
           <p className="text-sm uppercase tracking-wide opacity-50 font-semibold">English</p>
           <p className="mt-2 text-2xl font-bold text-marigold">{item.meaning}</p>
           <input
@@ -156,37 +192,56 @@ export default function VocabularyPractice({ chapter }) {
               Check
             </button>
             <Feedback status={feedback} answer={item.word} />
+            {feedback === "review" && item.grammarRef && (
+              <button 
+                type="button" 
+                onClick={() => openRef(item.grammarRef)} 
+                className="inline-flex items-center gap-1 text-sm font-bold text-purple-600 dark:text-purple-400 hover:underline"
+              >
+                Review this concept →
+              </button>
+            )}
           </div>
         </div>
       )}
 
       {mode === "mcq" && (
-        <div className="max-w-2xl glass-panel p-6">
+        <div className="w-full max-w-3xl min-h-[320px] glass-panel p-6">
           <p className="text-xl font-bold">{mcq.prompt}</p>
           <div className="mt-6 grid gap-3 sm:grid-cols-2">
-            {mcq.options.map((option) => (
+            {mcq.options.map((option, i) => (
               <button
                 key={option}
                 type="button"
                 onClick={() => chooseOption(option)}
-                className={`rounded-lg border px-4 py-4 text-left font-medium transition-all ${
+                className={`rounded-lg border px-4 py-4 text-left font-medium transition-all flex items-center gap-3 ${
                   answer === option 
                     ? "border-marigold bg-marigold text-white shadow-md" 
                     : "border-[var(--border-color)] bg-[var(--surface-color)] hover:border-marigold/50 hover:bg-[var(--border-color)]"
                 }`}
               >
+                <span className="opacity-50 text-sm font-bold bg-ink/10 px-2 py-0.5 rounded">{i + 1}</span>
                 {option}
               </button>
             ))}
           </div>
-          <div className="mt-4">
+          <div className="mt-4 flex flex-wrap gap-4 items-center">
             <Feedback status={feedback} answer={item.word} />
+            {feedback === "review" && item.grammarRef && (
+              <button 
+                type="button" 
+                onClick={() => openRef(item.grammarRef)} 
+                className="inline-flex items-center gap-1 text-sm font-bold text-purple-600 dark:text-purple-400 hover:underline"
+              >
+                Review this concept →
+              </button>
+            )}
           </div>
         </div>
       )}
 
       {mode === "articlePlural" && (
-        <div className="max-w-2xl border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft">
+        <div className="w-full max-w-3xl min-h-[320px] border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft">
           {nounItem ? (
             <>
               <p className="text-sm uppercase tracking-wide text-ink/50">Guess article and plural</p>
@@ -226,6 +281,15 @@ export default function VocabularyPractice({ chapter }) {
                   Check
                 </button>
                 <ArticlePluralFeedback feedback={feedback} item={nounItem} />
+                {(feedback?.articleCorrect === false || feedback?.pluralCorrect === false) && nounItem.grammarRef && (
+                  <button 
+                    type="button" 
+                    onClick={() => openRef(nounItem.grammarRef)} 
+                    className="inline-flex items-center gap-1 text-sm font-bold text-purple-600 dark:text-purple-400 hover:underline"
+                  >
+                    Review this concept →
+                  </button>
+                )}
               </div>
             </>
           ) : (
@@ -235,7 +299,7 @@ export default function VocabularyPractice({ chapter }) {
       )}
 
       {mode === "spelling" && (
-        <div className="max-w-xl border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft">
+        <div className="w-full max-w-3xl min-h-[320px] border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft">
           <p className="text-sm uppercase tracking-wide text-ink/50">Spelling Bee</p>
           <p className="mt-2 text-2xl font-bold">{item.meaning}</p>
           <p className="mt-3 text-sm text-ink/60">
@@ -261,6 +325,15 @@ export default function VocabularyPractice({ chapter }) {
               </span>
             ) : (
               <Feedback status={feedback} answer={target} />
+            )}
+            {(feedback?.kind === "spelling" || feedback === "review") && item.grammarRef && (
+              <button 
+                type="button" 
+                onClick={() => openRef(item.grammarRef)} 
+                className="inline-flex items-center gap-1 text-sm font-bold text-purple-600 dark:text-purple-400 hover:underline"
+              >
+                Review this concept →
+              </button>
             )}
           </div>
         </div>

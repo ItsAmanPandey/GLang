@@ -1,9 +1,66 @@
 import { Clock3, RotateCcw, Trophy, Volume2 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
-import { buildVocabularyMcq, isCorrectAnswer, shuffle } from "../utils/practice.js";
+import { buildVocabularyMcq, isCorrectAnswer, shuffle, stripArticle } from "../utils/practice.js";
 import { useTTS } from "../hooks/useTTS.js";
+import ArticleBattle from "./games/ArticleBattle.jsx";
+import ErrorDetective from "./games/ErrorDetective.jsx";
+import ConjugationGrid from "./games/ConjugationGrid.jsx";
+import SituationChooser from "./games/SituationChooser.jsx";
+import PrepositionSorter from "./games/PrepositionSorter.jsx";
+import TimelineStory from "./games/TimelineStory.jsx";
 
-export default function GamesPanel({ chapter }) {
+const SEIN_VERBS = new Set([
+  "gehen", "fahren", "kommen", "fliegen", "laufen", "reisen", "schwimmen", "aufwachen", "einschlafen", "bleiben",
+  "werden", "passieren", "ankommen", "abfahren", "einsteigen", "aussteigen", "umsteigen", "fallen", "sterben", "sein",
+]);
+
+const EXTRA_VERBS = [
+  "machen", "kaufen", "lernen", "spielen", "kochen", "schreiben", "lesen", "essen", "trinken", "sehen", "hören",
+  "arbeiten", "wohnen", "leben", "lieben", "suchen", "finden", "fragen", "antworten", "tanzen", "singen", "telefonieren",
+  "besuchen", "bezahlen", "bestellen", "öffnen", "schließen", "putzen", "duschen", "frühstücken", "aufstehen", "einkaufen",
+  "fernsehen", "mitkommen", "anrufen", "ankommen", "abfahren", "einsteigen", "aussteigen", "umsteigen",
+];
+
+const CASE_SORTER_ITEMS = [
+  { word: "durch", correctBucket: "akkusativ" },
+  { word: "für", correctBucket: "akkusativ" },
+  { word: "gegen", correctBucket: "akkusativ" },
+  { word: "ohne", correctBucket: "akkusativ" },
+  { word: "um", correctBucket: "akkusativ" },
+  { word: "bis", correctBucket: "akkusativ" },
+  { word: "entlang", correctBucket: "akkusativ" },
+  { word: "mit", correctBucket: "dativ" },
+  { word: "aus", correctBucket: "dativ" },
+  { word: "bei", correctBucket: "dativ" },
+  { word: "nach", correctBucket: "dativ" },
+  { word: "seit", correctBucket: "dativ" },
+  { word: "von", correctBucket: "dativ" },
+  { word: "zu", correctBucket: "dativ" },
+  { word: "gegenüber", correctBucket: "dativ" },
+];
+
+export default function GamesPanel({ chapter, chapters = [] }) {
+  if (chapter.type === "grammarFocus") {
+    const vocabulary = chapters.flatMap((item) => item.vocabulary ?? []);
+    return (
+      <section className="grid gap-5 xl:grid-cols-2">
+        {chapter.games.map((game, i) => {
+          const key = game.id || i;
+          const expandedGame = expandGrammarGame(game, vocabulary);
+          if (game.type === "article_battle") return <ArticleBattle key={key} gameData={expandedGame} />;
+          if (game.type === "error_detective") return <ErrorDetective key={key} gameData={expandedGame} />;
+          if (game.type === "conjugation_grid") return <ConjugationGrid key={key} gameData={game} />;
+          if (game.type === "situation_chooser") return <SituationChooser key={key} gameData={game} />;
+          if (game.type === "preposition_sorter") return <PrepositionSorter key={key} gameData={expandedGame} />;
+          if (game.type === "haben_sein_sorter") return <PrepositionSorter key={key} gameData={expandedGame} />;
+          if (game.type === "timeline_story") return <TimelineStory key={key} gameData={game} />;
+          if (game.type === "sentence_builder") return <SentenceBuilder key={key} games={game.sentences || [game]} theme="grammar" />;
+          return null;
+        })}
+      </section>
+    );
+  }
+
   return (
     <section className="grid gap-5 xl:grid-cols-2">
       <MemoryMatch vocabulary={chapter.vocabulary} />
@@ -13,6 +70,65 @@ export default function GamesPanel({ chapter }) {
       <QuickFire vocabulary={chapter.vocabulary} />
     </section>
   );
+}
+
+function expandGrammarGame(game, vocabulary) {
+  if (game.type === "article_battle") {
+    const generated = vocabulary
+      .filter((item) => item.article && ["der", "die", "das"].includes(item.article))
+      .map((item, index) => ({
+        id: `book-article-${index}`,
+        noun: stripArticle(item.word),
+        article: articleForMode(item.article, game.mode),
+        mode: game.mode,
+      }));
+
+    return {
+      ...game,
+      items: [...generated, ...(game.items ?? [])],
+    };
+  }
+
+  if (game.type === "preposition_sorter" || game.type === "haben_sein_sorter") {
+    const bucketIds = new Set((game.buckets ?? []).map((bucket) => bucket.id));
+    const generated = bucketIds.has("haben") && bucketIds.has("sein")
+      ? buildHabenSeinItems(vocabulary)
+      : bucketIds.has("akkusativ") && bucketIds.has("dativ")
+      ? CASE_SORTER_ITEMS.map((item, index) => ({ id: `case-${index}`, ...item }))
+      : [];
+
+    return {
+      ...game,
+      items: [...generated, ...(game.items ?? [])],
+    };
+  }
+
+  return game;
+}
+
+function buildHabenSeinItems(vocabulary) {
+  const verbsFromContent = vocabulary
+    .filter((item) => !item.article && /(^to\s|\/ to |can \/ to|would like)/i.test(item.meaning ?? ""))
+    .map((item) => item.word);
+  const verbs = [...new Set([...verbsFromContent, ...EXTRA_VERBS])];
+
+  return verbs.map((word, index) => ({
+    id: `aux-${index}`,
+    word,
+    correctBucket: SEIN_VERBS.has(word) ? "sein" : "haben",
+  }));
+}
+
+function articleForMode(article, mode) {
+  if (mode === "akkusativ") {
+    if (article === "der") return "den";
+    return article;
+  }
+  if (mode === "dativ") {
+    if (article === "die") return "der";
+    return "dem";
+  }
+  return article;
 }
 
 function MemoryMatch({ vocabulary }) {
@@ -79,13 +195,19 @@ function MemoryMatch({ vocabulary }) {
   );
 }
 
-function SentenceBuilder({ games }) {
+function SentenceBuilder({ games, theme = "vocab" }) {
   const [queue, setQueue] = useState(() => shuffle(games));
   const [index, setIndex] = useState(0);
   const game = queue[index % queue.length];
   const [selected, setSelected] = useState([]);
   const [feedback, setFeedback] = useState(null);
   const tokens = useMemo(() => shuffle(game.tokens), [game]);
+  const isGrammarTheme = theme === "grammar";
+  const activeButton = isGrammarTheme ? "bg-purple-600 hover:bg-purple-700" : "bg-ink";
+  const chipClass = isGrammarTheme
+    ? "border-purple-200 bg-purple-50 text-purple-950 dark:border-purple-900/50 dark:bg-purple-900/20 dark:text-purple-100"
+    : "border-ink/10 bg-peachglass text-slate-900";
+  const correctClass = isGrammarTheme ? "font-semibold text-purple-600 dark:text-purple-400" : "font-semibold text-marigold";
 
   useEffect(() => {
     setQueue(shuffle(games));
@@ -123,21 +245,21 @@ function SentenceBuilder({ games }) {
             key={`${token}-${tokenIndex}`}
             type="button"
             onClick={() => setSelected((current) => [...current, token])}
-            className="border border-ink/10 bg-peachglass px-3 py-2 font-semibold text-slate-900"
+            className={`border px-3 py-2 font-semibold ${chipClass}`}
           >
             {token}
           </button>
         ))}
       </div>
       <div className="mt-4 flex flex-wrap items-center gap-3">
-        <button type="button" onClick={check} className="bg-ink px-4 py-2 font-semibold text-[var(--bg-color)]">
+        <button type="button" onClick={check} className={`${activeButton} px-4 py-2 font-semibold text-white`}>
           Check
         </button>
         <button type="button" onClick={next} className="border border-ink/15 bg-[var(--surface-color)] px-4 py-2 font-semibold">
           Next
         </button>
         {feedback && (
-          <span className={feedback === "correct" ? "font-semibold text-marigold" : "font-semibold text-coral"}>
+          <span className={feedback === "correct" ? correctClass : "font-semibold text-coral"}>
             {feedback === "correct" ? "Correct" : game.answer.join(" ")}
           </span>
         )}
@@ -300,8 +422,8 @@ function DragDropPractice({ vocabulary }) {
   const [variation, setVariation] = useState("translation");
   const [pairs, setPairs] = useState([]);
   const [targets, setTargets] = useState([]);
-  const [matched, setMatched] = useState([]);
   const [draggedId, setDraggedId] = useState(null);
+  const [placements, setPlacements] = useState({});
 
   useEffect(() => {
     initGame();
@@ -313,7 +435,7 @@ function DragDropPractice({ vocabulary }) {
     const isArticle = nouns.length >= 3 && Math.random() > 0.5;
     
     setVariation(isArticle ? "article" : "translation");
-    setMatched([]);
+    setPlacements({});
     
     if (isArticle) {
       const selected = shuffle(nouns).slice(0, 5);
@@ -337,13 +459,7 @@ function DragDropPractice({ vocabulary }) {
     const item = pairs.find(p => p.word === sourceId);
     if (!item) return;
 
-    const isMatch = variation === "article" 
-      ? item.article === targetId 
-      : sourceId === targetId;
-
-    if (isMatch) {
-      setMatched(current => [...current, sourceId]);
-    }
+    setPlacements(current => ({ ...current, [sourceId]: targetId }));
     setDraggedId(null);
   }
 
@@ -362,7 +478,7 @@ function DragDropPractice({ vocabulary }) {
           </p>
           <div className="flex flex-wrap gap-2">
             {pairs.map(p => {
-               if (matched.includes(p.word)) return null;
+               if (placements[p.word]) return null;
                return (
                  <div
                    key={p.word}
@@ -371,11 +487,11 @@ function DragDropPractice({ vocabulary }) {
                    onDragEnd={() => setDraggedId(null)}
                    className={`px-4 py-3 border border-ink/20 bg-peachglass text-slate-900 font-semibold rounded-lg cursor-grab active:cursor-grabbing shadow-sm transition-transform hover:scale-105 ${draggedId === p.word ? 'opacity-50' : ''}`}
                  >
-                   {variation === "translation" ? p.meaning : p.word}
+                   {variation === "translation" ? p.meaning : (variation === "article" ? stripArticle(p.word) : p.word)}
                  </div>
                );
             })}
-            {matched.length === pairs.length && <p className="font-semibold text-marigold py-3">All matched!</p>}
+            {Object.keys(placements).length === pairs.length && <p className="font-semibold text-marigold py-3">Round complete!</p>}
           </div>
         </div>
         
@@ -392,12 +508,24 @@ function DragDropPractice({ vocabulary }) {
                    className="min-h-16 p-3 border-2 border-dashed border-ink/30 bg-[var(--surface-color)] rounded-xl flex flex-col items-center justify-center font-bold"
                  >
                    <span className="text-ink/40 mb-2">{t.label}</span>
-                   {variation === "article" && matched.filter(id => pairs.find(p => p.word === id).article === t.id).map(m => (
-                      <span key={m} className="block text-sm text-marigold">{m}</span>
-                   ))}
-                   {variation === "translation" && matched.includes(t.id) && (
-                      <span className="block text-sm text-marigold">✓ Matched</span>
-                   )}
+                   {variation === "article" && Object.entries(placements).filter(([id, target]) => target === t.id).map(([id]) => {
+                      const p = pairs.find(x => x.word === id);
+                      const isCorrect = p.article === t.id;
+                      return (
+                        <span key={id} className={`block text-xs font-bold px-2 py-0.5 rounded m-0.5 ${isCorrect ? 'bg-emerald-100 text-emerald-700' : 'bg-rose-100 text-rose-700 line-through'}`}>
+                          {stripArticle(p.word)}
+                        </span>
+                      );
+                   })}
+                   {variation === "translation" && Object.entries(placements).filter(([id, target]) => target === t.id).map(([id]) => {
+                      const p = pairs.find(x => x.word === id);
+                      const isCorrect = id === t.id;
+                      return (
+                        <span key={id} className={`block text-xs font-bold px-2 py-0.5 rounded m-0.5 ${isCorrect ? 'bg-emerald-100 text-emerald-700' : 'bg-rose-100 text-rose-700 line-through'}`}>
+                           {isCorrect ? 'Correct' : 'Incorrect'}
+                        </span>
+                      );
+                   })}
                  </div>
                );
             })}
@@ -407,4 +535,3 @@ function DragDropPractice({ vocabulary }) {
     </article>
   );
 }
-

@@ -1,10 +1,12 @@
 import { BookOpen, Home as HomeIcon, Layers, ListChecks, Loader2, Dumbbell, Moon, Sun } from "lucide-react";
 import { useCallback, useEffect, useState } from "react";
 import ChapterPage from "./components/ChapterPage.jsx";
+import GrammarFocusPage from "./components/GrammarFocusPage.jsx";
 import Home from "./components/Home.jsx";
 import LevelSelect from "./components/LevelSelect.jsx";
 import PracticeHub from "./components/PracticeHub.jsx";
 import TestQuiz from "./components/TestQuiz.jsx";
+import { GrammarRefProvider } from "./components/GrammarRefDrawer.jsx";
 import { loadChapters } from "./data/content.js";
 import { useProgress } from "./hooks/useProgress.js";
 
@@ -106,8 +108,9 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-[var(--bg-color)] text-[var(--text-color)] transition-colors duration-300">
-      <header className="sticky top-0 z-20 glass border-b-0 border-b-[var(--border-color)]">
+    <GrammarRefProvider chapters={chapters}>
+      <div className="flex min-h-screen flex-col bg-[var(--bg-color)] text-ink selection:bg-marigold/30 transition-colors duration-300">
+        <header className="sticky top-0 z-40 border-b border-ink/10 bg-[var(--bg-color)]/90 px-6 py-4 backdrop-blur-md">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
           <button
             type="button"
@@ -172,14 +175,27 @@ export default function App() {
         )}
 
         {view === views.chapter && selectedChapter && (
-          <ChapterPage
-            chapter={selectedChapter}
-            isComplete={progressApi.progress.completedChapters.includes(selectedChapter.id)}
-            score={progressApi.progress.quizScores[selectedChapter.id]}
-            onRemember={rememberChapter}
-            onComplete={progressApi.markChapterComplete}
-            onQuizComplete={handleQuizComplete}
-          />
+          selectedChapter.type === "grammarFocus" ? (
+            <GrammarFocusPage
+              chapter={selectedChapter}
+              chapters={chapters}
+              isComplete={progressApi.progress.completedChapters.includes(selectedChapter.id)}
+              score={progressApi.progress.quizScores[selectedChapter.id]}
+              onRemember={rememberChapter}
+              onComplete={progressApi.markChapterComplete}
+              onQuizComplete={handleQuizComplete}
+            />
+          ) : (
+            <ChapterPage
+              chapter={selectedChapter}
+              chapters={chapters}
+              isComplete={progressApi.progress.completedChapters.includes(selectedChapter.id)}
+              score={progressApi.progress.quizScores[selectedChapter.id]}
+              onRemember={rememberChapter}
+              onComplete={progressApi.markChapterComplete}
+              onQuizComplete={handleQuizComplete}
+            />
+          )
         )}
 
         {view === views.practice && (
@@ -196,6 +212,7 @@ export default function App() {
         {view === views.test && <TestQuiz chapters={chapters} onComplete={handleQuizComplete} />}
       </main>
     </div>
+    </GrammarRefProvider>
   );
 }
 

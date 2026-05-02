@@ -1,10 +1,17 @@
 import { CheckCircle2, RotateCcw } from "lucide-react";
 import { useEffect, useState } from "react";
 import { scoreAnswers } from "../utils/practice.js";
+import { useKeyboardNav } from "../hooks/useKeyboardNav.js";
+import { useTTS } from "../hooks/useTTS.js";
 
-export default function QuizRunner({ questions, scopeId, onComplete, title = "Quiz" }) {
+export default function QuizRunner({ questions, scopeId, onComplete, title = "Quiz", accent = "marigold" }) {
   const [answers, setAnswers] = useQuizAnswers(questions);
   const [result, setResult] = useQuizResult(questions);
+  const [activeQuestionId, setActiveQuestionId] = useState(questions[0]?.id ?? null);
+  const { speak } = useTTS();
+  const isPurple = accent === "purple";
+
+  const activeQuestion = questions.find((question) => question.id === activeQuestionId) ?? questions[0];
 
   function updateAnswer(questionId, answer) {
     setAnswers((current) => ({ ...current, [questionId]: answer }));
@@ -21,6 +28,22 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
     setResult(null);
   }
 
+  useEffect(() => {
+    setActiveQuestionId(questions[0]?.id ?? null);
+  }, [questions]);
+
+  useKeyboardNav({
+    onNumber: (num) => {
+      if (activeQuestion?.type === "mcq" && num >= 1 && num <= activeQuestion.options.length) {
+        updateAnswer(activeQuestion.id, activeQuestion.options[num - 1]);
+      }
+    },
+    onEnter: submitQuiz,
+    onSpace: () => {
+      if (activeQuestion?.prompt) speak(activeQuestion.prompt);
+    },
+  });
+
   if (!questions.length) {
     return <EmptyState label="No quiz questions yet." />;
   }
@@ -31,7 +54,7 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
     return (
       <section className="space-y-5">
         <div className="border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft">
-          <p className="text-sm font-semibold uppercase tracking-wide text-marigold">{title} Result</p>
+          <p className={`text-sm font-semibold uppercase tracking-wide ${isPurple ? "text-purple-600 dark:text-purple-400" : "text-marigold"}`}>{title} Result</p>
           <div className="mt-2 flex flex-wrap items-end gap-3">
             <span className="text-4xl font-bold">{percent}%</span>
             <span className="pb-1 text-sm text-ink/65">
@@ -47,7 +70,7 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
               ))}
             </div>
           ) : (
-            <p className="mt-3 text-sm text-marigold">No weak topics recorded from this run.</p>
+            <p className={`mt-3 text-sm ${isPurple ? "text-purple-600 dark:text-purple-400" : "text-marigold"}`}>No weak topics recorded from this run.</p>
           )}
         </div>
 
@@ -56,7 +79,7 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
             <article key={question.id} className="border border-ink/10 bg-[var(--surface-color)] p-4">
               <div className="flex items-start justify-between gap-3">
                 <p className="font-medium">{question.prompt}</p>
-                <span className={question.correct ? "text-marigold" : "text-coral"}>
+                <span className={question.correct ? (isPurple ? "text-purple-600 dark:text-purple-400" : "text-marigold") : "text-coral"}>
                   {question.correct ? "Correct" : "Review"}
                 </span>
               </div>
@@ -84,7 +107,13 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
   return (
     <section className="space-y-4">
       {questions.map((question, index) => (
-        <article key={question.id} className="border border-slate-900/10 bg-[var(--surface-color)] p-4 shadow-sm">
+        <article
+          key={question.id}
+          onClick={() => setActiveQuestionId(question.id)}
+          className={`border bg-[var(--surface-color)] p-4 shadow-sm ${
+            activeQuestionId === question.id ? (isPurple ? "border-purple-500/70" : "border-marigold/60") : "border-slate-900/10"
+          }`}
+        >
           <div className="flex gap-4">
             <span className="grid h-8 w-8 shrink-0 place-items-center bg-peachglass text-slate-900 text-sm font-bold">
               {index + 1}
@@ -99,11 +128,14 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
                     <button
                       key={option}
                       type="button"
-                      onClick={() => updateAnswer(question.id, option)}
+                      onClick={() => {
+                        setActiveQuestionId(question.id);
+                        updateAnswer(question.id, option);
+                      }}
                       className={`border px-3 py-2 text-left transition ${
                         answers[question.id] === option
-                          ? "border-marigold bg-marigold text-white"
-                          : "border-ink/10 bg-[var(--surface-color)] hover:border-marigold/50"
+                          ? `${isPurple ? "border-purple-600 bg-purple-600" : "border-marigold bg-marigold"} text-white`
+                          : `${isPurple ? "border-ink/10 bg-[var(--surface-color)] hover:border-purple-400" : "border-ink/10 bg-[var(--surface-color)] hover:border-marigold/50"}`
                       }`}
                     >
                       {option}
@@ -115,6 +147,7 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
               {question.type === "fill_blank" && (
                 <input
                   value={answers[question.id] ?? ""}
+                  onFocus={() => setActiveQuestionId(question.id)}
                   onChange={(event) => updateAnswer(question.id, event.target.value)}
                   className="mt-4 w-full border border-ink/15 bg-[var(--surface-color)] px-3 py-2"
                   placeholder="Type your answer"
@@ -128,7 +161,7 @@ export default function QuizRunner({ questions, scopeId, onComplete, title = "Qu
       <button
         type="button"
         onClick={submitQuiz}
-        className="inline-flex items-center gap-2 bg-ink px-5 py-3 font-semibold text-[var(--bg-color)] shadow-soft"
+        className={`inline-flex items-center gap-2 px-5 py-3 font-semibold text-white shadow-soft ${isPurple ? "bg-purple-600 hover:bg-purple-700" : "bg-ink"}`}
       >
         <CheckCircle2 size={18} />
         Submit

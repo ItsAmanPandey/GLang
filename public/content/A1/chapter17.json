@@ -64,7 +64,7 @@
       "meaning": "app",
       "article": "die",
       "plural": "die Apps",
-      "example": "Diese App ist nützlich."
+      "example": "Diese App ist nÃ¼tzlich."
     },
     {
       "word": "die E-Mail",
@@ -115,7 +115,7 @@
     {
       "word": "hochladen",
       "meaning": "to upload",
-      "example": "Er lädt ein Video hoch."
+      "example": "Er lÃ¤dt ein Video hoch."
     },
     {
       "word": "posten",
@@ -155,7 +155,7 @@
       "word": "das Buch",
       "meaning": "book",
       "article": "das",
-      "plural": "die Bücher",
+      "plural": "die BÃ¼cher",
       "example": "Ich lese ein Buch."
     },
     {
@@ -163,7 +163,7 @@
       "meaning": "radio",
       "article": "das",
       "plural": "die Radios",
-      "example": "Ich höre Radio."
+      "example": "Ich hÃ¶re Radio."
     },
     {
       "word": "der Fernseher",
@@ -201,7 +201,7 @@
       "word": "das Passwort",
       "meaning": "password",
       "article": "das",
-      "plural": "die Passwörter",
+      "plural": "die PasswÃ¶rter",
       "example": "Ich habe mein Passwort vergessen."
     },
     {
@@ -228,23 +228,23 @@
       "example": "Speicher die Datei!"
     },
     {
-      "word": "löschen",
+      "word": "lÃ¶schen",
       "meaning": "to delete",
-      "example": "Ich lösche die alte E-Mail."
+      "example": "Ich lÃ¶sche die alte E-Mail."
     },
     {
       "word": "die Datei",
       "meaning": "file",
       "article": "die",
       "plural": "die Dateien",
-      "example": "Die Datei ist zu groß."
+      "example": "Die Datei ist zu groÃŸ."
     },
     {
       "word": "das Foto",
       "meaning": "photo",
       "article": "das",
       "plural": "die Fotos",
-      "example": "Das Foto ist schön."
+      "example": "Das Foto ist schÃ¶n."
     },
     {
       "word": "das Video",
@@ -259,9 +259,9 @@
       "example": "Ich kaufe online ein."
     },
     {
-      "word": "nützlich",
+      "word": "nÃ¼tzlich",
       "meaning": "useful",
-      "example": "Die App ist sehr nützlich."
+      "example": "Die App ist sehr nÃ¼tzlich."
     },
     {
       "word": "schnell",
@@ -321,7 +321,7 @@
       "topic": "Expressing Opinions",
       "explanation": "To express your opinion in German, use phrases like 'Ich finde, dass...', 'Ich denke, dass...', 'Ich glaube, dass...', or 'Meiner Meinung nach...'. With 'dass', the verb goes to the end of the clause.",
       "examples": [
-        "Ich finde, dass das Internet nützlich ist.",
+        "Ich finde, dass das Internet nÃ¼tzlich ist.",
         "Ich denke, dass Handys wichtig sind.",
         "Meiner Meinung nach ist das Buch gut.",
         "Ich glaube, dass er recht hat."
@@ -386,7 +386,7 @@
         "sehe",
         "ich",
         "fern.",
-        "höre",
+        "hÃ¶re",
         "Radio."
       ],
       "answer": [

@@ -1,0 +1,234 @@
+{
+  "id": "A1_GF6",
+  "level": "A1",
+  "type": "grammarFocus",
+  "number": "GF6",
+  "title": "Der Dativ",
+  "subtitle": "Indirect objects, dative prepositions, and dative verbs",
+  "focus": ["Dativ", "Indirect Objects", "Dative Prepositions"],
+  "conceptSections": [
+    {
+      "id": "gf6-concept-1",
+      "heading": "What the dative marks",
+      "explanation": "The dative case marks the indirect object â€” the recipient or beneficiary of an action. In a sentence with both a direct and indirect object, the indirect object is in the dative. Think of it as the person who receives something.",
+      "examples": [
+        { "de": "Ich gebe dem Kind ein Buch.", "en": "I give the child a book.", "note": "dem Kind = dative (recipient), ein Buch = accusative (thing given)" },
+        { "de": "Sie zeigt der Frau den Weg.", "en": "She shows the woman the way.", "note": "der Frau = dative (recipient), den Weg = accusative" },
+        { "de": "Er schreibt seinem Freund eine Nachricht.", "en": "He writes his friend a message.", "note": "seinem Freund = dative (recipient)" }
+      ]
+    },
+    {
+      "id": "gf6-concept-2",
+      "heading": "Dative article changes",
+      "explanation": "All genders change their articles in the dative. The plural adds an -n to most nouns (unless they already end in -n or -s).",
+      "table": {
+        "headers": ["Gender", "Nominativ", "Dativ", "Indefinit Dativ", "Negativ Dativ"],
+        "rows": [
+          ["Masculine", "der", "dem", "einem", "keinem"],
+          ["Neuter", "das", "dem", "einem", "keinem"],
+          ["Feminine", "die", "der", "einer", "keiner"],
+          ["Plural", "die", "den (+n)", "â€”", "keinen (+n)"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich helfe dem Mann.", "en": "I help the man.", "note": "masc: der â†’ dem" },
+        { "de": "Sie gibt dem Kind Schokolade.", "en": "She gives the child chocolate.", "note": "neuter: das â†’ dem" },
+        { "de": "Er dankt der Lehrerin.", "en": "He thanks the teacher (f).", "note": "fem: die â†’ der" },
+        { "de": "Ich schreibe den Kindern einen Brief.", "en": "I write the children a letter.", "note": "plural: die â†’ den + n on noun" }
+      ]
+    },
+    {
+      "id": "gf6-concept-3",
+      "heading": "Dative personal pronouns",
+      "explanation": "When the indirect object is a pronoun, use the dative pronoun forms.",
+      "table": {
+        "headers": ["Nominativ", "Akkusativ", "Dativ", "English (Dativ)"],
+        "rows": [
+          ["ich", "mich", "mir", "to/for me"],
+          ["du", "dich", "dir", "to/for you"],
+          ["er", "ihn", "ihm", "to/for him"],
+          ["es", "es", "ihm", "to/for it"],
+          ["sie", "sie", "ihr", "to/for her"],
+          ["wir", "uns", "uns", "to/for us"],
+          ["ihr", "euch", "euch", "to/for you (pl.)"],
+          ["sie/Sie", "sie/Sie", "ihnen/Ihnen", "to/for them/you"]
+        ]
+      },
+      "examples": [
+        { "de": "Kannst du mir helfen?", "en": "Can you help me?", "note": "ich â†’ mir" },
+        { "de": "Ich gebe dir das Buch.", "en": "I give you the book.", "note": "du â†’ dir" },
+        { "de": "Er schreibt ihm eine Nachricht.", "en": "He writes him a message.", "note": "er â†’ ihm" }
+      ]
+    },
+    {
+      "id": "gf6-concept-4",
+      "heading": "Dative prepositions",
+      "explanation": "These 8 prepositions ALWAYS take the dative case. Memorise them as a fixed group.",
+      "examples": [
+        { "de": "Ich komme aus der Schweiz.", "en": "I come from Switzerland.", "note": "aus = from (origin)" },
+        { "de": "Er wohnt bei seiner Mutter.", "en": "He lives at his mother's.", "note": "bei = at, near, with" },
+        { "de": "Ich fahre mit dem Bus.", "en": "I travel by bus.", "note": "mit = with, by" },
+        { "de": "Nach dem Essen gehe ich spazieren.", "en": "After eating I go for a walk.", "note": "nach = after, to (cities/countries)" },
+        { "de": "Seit einem Jahr lerne ich Deutsch.", "en": "I have been learning German for a year.", "note": "seit = since, for (time)" },
+        { "de": "Das Geschenk ist von meinem Bruder.", "en": "The gift is from my brother.", "note": "von = from, of" },
+        { "de": "Ich gehe zum Arzt.", "en": "I go to the doctor.", "note": "zu = to (people, places) â€” zum = zu dem" },
+        { "de": "Das CafÃ© ist gegenÃ¼ber dem Bahnhof.", "en": "The cafÃ© is opposite the station.", "note": "gegenÃ¼ber = opposite" }
+      ]
+    },
+    {
+      "id": "gf6-concept-5",
+      "heading": "Verbs that take a dative object",
+      "explanation": "Some verbs take a dative object instead of (or in addition to) an accusative one. These must be learned individually.",
+      "examples": [
+        { "de": "Ich helfe dir gern.", "en": "I'm happy to help you.", "note": "helfen + dative" },
+        { "de": "Das Kleid gefÃ¤llt mir.", "en": "I like the dress. (lit: The dress pleases me.)", "note": "gefallen + dative" },
+        { "de": "Das Buch gehÃ¶rt dem Lehrer.", "en": "The book belongs to the teacher.", "note": "gehÃ¶ren + dative" },
+        { "de": "Die Schuhe passen mir nicht.", "en": "The shoes don't fit me.", "note": "passen + dative" },
+        { "de": "Die Suppe schmeckt den Kindern.", "en": "The children like the soup. (lit: The soup tastes good to the children.)", "note": "schmecken + dative" }
+      ]
+    },
+    {
+      "id": "gf6-concept-6",
+      "heading": "Location prepositions with dative (Wo?)",
+      "explanation": "Two-way prepositions (in, an, auf, etc.) take the dative when answering the question 'Wo?' (Where?). Common contractions: in dem = im, an dem = am.",
+      "examples": [
+        { "de": "Ich bin im Supermarkt.", "en": "I am in the supermarket.", "note": "im = in dem (Wo? â†’ dative)" },
+        { "de": "Das Bild hÃ¤ngt an der Wand.", "en": "The picture hangs on the wall.", "note": "an der Wand = dative (location)" },
+        { "de": "Wir sitzen am Tisch.", "en": "We are sitting at the table.", "note": "am = an dem" }
+      ]
+    }
+  ],
+  "practice": [
+    { "id": "gf6-p1", "type": "fill_blank", "prompt": "Ich gebe ___ Kind ein Geschenk. (the, neuter)", "answer": "dem", "hint": "neuter dative", "topic": "Dativ" },
+    { "id": "gf6-p2", "type": "fill_blank", "prompt": "Sie hilft ___ Mann. (the, masc.)", "answer": "dem", "hint": "masculine dative", "topic": "Dativ" },
+    { "id": "gf6-p3", "type": "fill_blank", "prompt": "Er schreibt ___ Frau einen Brief. (the, fem.)", "answer": "der", "hint": "feminine dative", "topic": "Dativ" },
+    { "id": "gf6-p4", "type": "fill_blank", "prompt": "Ich zeige ___ Kindern den Park. (the, plural)", "answer": "den", "hint": "plural dative", "topic": "Dativ" },
+    { "id": "gf6-p5", "type": "fill_blank", "prompt": "Ich helfe ___ Bruder. (a, masc.)", "answer": "einem", "hint": "masc. dative indefinite", "topic": "Dativ" },
+    { "id": "gf6-p6", "type": "fill_blank", "prompt": "Sie gibt ___ Freundin das Buch. (a, fem.)", "answer": "einer", "hint": "fem. dative indefinite", "topic": "Dativ" },
+    { "id": "gf6-p7", "type": "fill_blank", "prompt": "Er dankt ___ Lehrer. (the, masc.)", "answer": "dem", "hint": "masculine dative", "topic": "Dativ" },
+    { "id": "gf6-p8", "type": "fill_blank", "prompt": "Das Kleid gefÃ¤llt ___ Mutter. (the, fem.)", "answer": "der", "hint": "feminine dative", "topic": "Dativ" },
+    { "id": "gf6-p9", "type": "fill_blank", "prompt": "Das Haus gehÃ¶rt ___ Familie. (the, fem.)", "answer": "der", "hint": "feminine dative", "topic": "Dativ" },
+    { "id": "gf6-p10", "type": "fill_blank", "prompt": "Die Schuhe passen ___ MÃ¤dchen. (the, neuter)", "answer": "dem", "hint": "neuter dative", "topic": "Dativ" },
+    { "id": "gf6-p11", "type": "choice", "prompt": "Choose the correct dative pronoun: Kannst du ___ helfen? (ich)", "options": ["mich", "mir", "mein", "ich"], "answer": "mir", "topic": "Dativ" },
+    { "id": "gf6-p12", "type": "choice", "prompt": "Choose the correct dative pronoun: Ich gebe ___ das Geld. (du)", "options": ["dich", "dir", "dein", "du"], "answer": "dir", "topic": "Dativ" },
+    { "id": "gf6-p13", "type": "choice", "prompt": "Choose the correct dative pronoun: Er schreibt ___ eine Nachricht. (sie, singular)", "options": ["sie", "ihr", "ihren", "ihre"], "answer": "ihr", "topic": "Dativ" },
+    { "id": "gf6-p14", "type": "choice", "prompt": "Choose the correct dative pronoun: Das schmeckt ___ gut. (wir)", "options": ["wir", "uns", "unser", "unsere"], "answer": "uns", "topic": "Dativ" },
+    { "id": "gf6-p15", "type": "choice", "prompt": "Choose the correct dative pronoun: Ich zeige ___ die Stadt. (er)", "options": ["ihn", "ihm", "er", "sein"], "answer": "ihm", "topic": "Dativ" },
+    { "id": "gf6-p16", "type": "choice", "prompt": "Choose the correct dative pronoun: Das gehÃ¶rt ___ nicht. (ihr plural)", "options": ["ihr", "euch", "euer", "euren"], "answer": "euch", "topic": "Dativ" },
+    { "id": "gf6-p17", "type": "fill_blank", "prompt": "Ich fahre ___ dem Bus. (with)", "answer": "mit", "hint": "dative preposition", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p18", "type": "fill_blank", "prompt": "Er kommt ___ der TÃ¼rkei. (from)", "answer": "aus", "hint": "dative preposition", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p19", "type": "fill_blank", "prompt": "___ dem Unterricht gehen wir essen. (after)", "answer": "Nach", "hint": "dative preposition", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p20", "type": "fill_blank", "prompt": "___ einer Woche ist er hier. (since/for)", "answer": "Seit", "hint": "dative preposition", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p21", "type": "fill_blank", "prompt": "Das Geschenk ist ___ meiner Oma. (from)", "answer": "von", "hint": "dative preposition", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p22", "type": "fill_blank", "prompt": "Ich gehe ___ Arzt. (to the, masc.)", "answer": "zum", "hint": "zu + dem", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p23", "type": "fill_blank", "prompt": "Er wohnt ___ seinen Eltern. (at/with)", "answer": "bei", "hint": "dative preposition", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p24", "type": "fill_blank", "prompt": "Die Apotheke ist ___ dem Krankenhaus. (opposite)", "answer": "gegenÃ¼ber", "hint": "dative preposition", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p25", "type": "choice", "prompt": "Identify the indirect object: 'Ich gebe dem Lehrer das Heft.'", "options": ["Ich", "dem Lehrer", "das Heft", "gebe"], "answer": "dem Lehrer", "topic": "Dativ" },
+    { "id": "gf6-p26", "type": "choice", "prompt": "Identify the indirect object: 'Sie zeigt den Kindern das Bild.'", "options": ["Sie", "den Kindern", "das Bild", "zeigt"], "answer": "den Kindern", "topic": "Dativ" },
+    { "id": "gf6-p27", "type": "choice", "prompt": "Identify the indirect object: 'Er kauft seiner Schwester ein Geschenk.'", "options": ["Er", "seiner Schwester", "ein Geschenk", "kauft"], "answer": "seiner Schwester", "topic": "Dativ" },
+    { "id": "gf6-p28", "type": "choice", "prompt": "Identify the indirect object: 'Wir schreiben unseren Eltern einen Brief.'", "options": ["Wir", "unseren Eltern", "einen Brief", "schreiben"], "answer": "unseren Eltern", "topic": "Dativ" },
+    { "id": "gf6-p29", "type": "fill_blank", "prompt": "Ich gebe ___ Hund sein Futter. (the, masc.)", "answer": "dem", "topic": "Dativ" },
+    { "id": "gf6-p30", "type": "fill_blank", "prompt": "Sie bringt ___ Oma Blumen. (the, fem.)", "answer": "der", "topic": "Dativ" },
+    { "id": "gf6-p31", "type": "fill_blank", "prompt": "Ich bin ___ Supermarkt. (in the)", "answer": "im", "hint": "in + dem", "topic": "Dativ" },
+    { "id": "gf6-p32", "type": "fill_blank", "prompt": "Wir sitzen ___ Tisch. (at the)", "answer": "am", "hint": "an + dem", "topic": "Dativ" },
+    { "id": "gf6-p33", "type": "fill_blank", "prompt": "Die Katze liegt auf ___ Sofa. (the, neuter)", "answer": "dem", "topic": "Dativ" },
+    { "id": "gf6-p34", "type": "fill_blank", "prompt": "Der Hund schlÃ¤ft unter ___ Tisch. (the, masc.)", "answer": "dem", "topic": "Dativ" },
+    { "id": "gf6-p35", "type": "fill_blank", "prompt": "Sie erklÃ¤rt ___ Studenten die Aufgabe. (the, plural)", "answer": "den", "topic": "Dativ" },
+    { "id": "gf6-p36", "type": "fill_blank", "prompt": "Die Suppe schmeckt ___ GÃ¤sten gut. (the, plural)", "answer": "den", "topic": "Dativ" },
+    { "id": "gf6-p37", "type": "fill_blank", "prompt": "Kannst du ___ bitte helfen? (ich)", "answer": "mir", "topic": "Dativ" },
+    { "id": "gf6-p38", "type": "fill_blank", "prompt": "Ich bringe ___ ein Glas Wasser. (du)", "answer": "dir", "topic": "Dativ" },
+    { "id": "gf6-p39", "type": "fill_blank", "prompt": "Wir fahren ___ dem Zug. (with)", "answer": "mit", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p40", "type": "fill_blank", "prompt": "___ dem FrÃ¼hstÃ¼ck gehe ich zur Arbeit. (after)", "answer": "Nach", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p41", "type": "fill_blank", "prompt": "Ich wohne ___ zwei Jahren in Fulda. (since)", "answer": "seit", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p42", "type": "fill_blank", "prompt": "Das ist ein Brief ___ meinem Vater. (from)", "answer": "von", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-p43", "type": "fill_blank", "prompt": "Das Bild hÃ¤ngt ___ Wand. (an der)", "answer": ["an der", "an"], "topic": "Dativ" },
+    { "id": "gf6-p44", "type": "fill_blank", "prompt": "Er gibt ___ MÃ¤dchen einen Stift. (the, neuter)", "answer": "dem", "topic": "Dativ" },
+    { "id": "gf6-p45", "type": "fill_blank", "prompt": "Ich danke ___ fÃ¼r die Hilfe. (du)", "answer": "dir", "topic": "Dativ" },
+    { "id": "gf6-p46", "type": "fill_blank", "prompt": "Der Mantel passt ___ nicht. (ich)", "answer": "mir", "topic": "Dativ" },
+    { "id": "gf6-p47", "type": "fill_blank", "prompt": "Das Essen schmeckt ___ sehr gut. (wir)", "answer": "uns", "topic": "Dativ" },
+    { "id": "gf6-p48", "type": "fill_blank", "prompt": "Die Tasche gehÃ¶rt ___ Lehrerin. (the, fem.)", "answer": "der", "topic": "Dativ" },
+    { "id": "gf6-p49", "type": "fill_blank", "prompt": "Er erzÃ¤hlt ___ Freunden eine Geschichte. (his, plural)", "answer": "seinen", "topic": "Dativ" },
+    { "id": "gf6-p50", "type": "fill_blank", "prompt": "Ich gehe ___ Post. (to the, fem.)", "answer": "zur", "hint": "zu + der", "topic": "Dativ-PrÃ¤positionen" }
+  ],
+  "quiz": [
+    { "id": "gf6-q1", "type": "mcq", "prompt": "What does the dative case mark?", "options": ["The subject", "The direct object", "The indirect object", "The verb"], "answer": "The indirect object", "topic": "Dativ" },
+    { "id": "gf6-q2", "type": "fill_blank", "prompt": "Ich gebe ___ Frau das Geld. (the, fem.)", "answer": "der", "topic": "Dativ" },
+    { "id": "gf6-q3", "type": "mcq", "prompt": "What is the dative of 'ich'?", "options": ["mich", "mir", "mein", "ich"], "answer": "mir", "topic": "Dativ" },
+    { "id": "gf6-q4", "type": "fill_blank", "prompt": "Er fÃ¤hrt ___ dem Fahrrad. (with)", "answer": "mit", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-q5", "type": "mcq", "prompt": "Which preposition always takes dative?", "options": ["fÃ¼r", "ohne", "mit", "durch"], "answer": "mit", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-q6", "type": "fill_blank", "prompt": "Das Buch gehÃ¶rt ___ Lehrer. (the, masc.)", "answer": "dem", "topic": "Dativ" },
+    { "id": "gf6-q7", "type": "mcq", "prompt": "What is the dative form of 'das Kind'?", "options": ["das Kind", "des Kindes", "dem Kind", "den Kind"], "answer": "dem Kind", "topic": "Dativ" },
+    { "id": "gf6-q8", "type": "fill_blank", "prompt": "Kannst du ___ helfen? (er)", "answer": "ihm", "topic": "Dativ" },
+    { "id": "gf6-q9", "type": "mcq", "prompt": "Which verb takes a dative object?", "options": ["kaufen", "sehen", "helfen", "trinken"], "answer": "helfen", "topic": "Dativ" },
+    { "id": "gf6-q10", "type": "fill_blank", "prompt": "Ich gehe ___ Schule. (to the)", "answer": "zur", "topic": "Dativ-PrÃ¤positionen" },
+    { "id": "gf6-q11", "type": "mcq", "prompt": "What does 'im' contract from?", "options": ["in dem", "in den", "in das", "in der"], "answer": "in dem", "topic": "Dativ" },
+    { "id": "gf6-q12", "type": "fill_blank", "prompt": "Die Suppe schmeckt ___ gut. (ich)", "answer": "mir", "topic": "Dativ" }
+  ],
+  "games": [
+    {
+      "type": "preposition_sorter",
+      "id": "gf6-ps-1",
+      "items": [
+        { "id": "ps-1", "word": "mit", "correctBucket": "dativ" },
+        { "id": "ps-2", "word": "aus", "correctBucket": "dativ" },
+        { "id": "ps-3", "word": "bei", "correctBucket": "dativ" },
+        { "id": "ps-4", "word": "nach", "correctBucket": "dativ" },
+        { "id": "ps-5", "word": "seit", "correctBucket": "dativ" },
+        { "id": "ps-6", "word": "von", "correctBucket": "dativ" },
+        { "id": "ps-7", "word": "zu", "correctBucket": "dativ" },
+        { "id": "ps-8", "word": "gegenÃ¼ber", "correctBucket": "dativ" },
+        { "id": "ps-9", "word": "durch", "correctBucket": "akkusativ" },
+        { "id": "ps-10", "word": "fÃ¼r", "correctBucket": "akkusativ" },
+        { "id": "ps-11", "word": "gegen", "correctBucket": "akkusativ" },
+        { "id": "ps-12", "word": "ohne", "correctBucket": "akkusativ" },
+        { "id": "ps-13", "word": "um", "correctBucket": "akkusativ" },
+        { "id": "ps-14", "word": "bis", "correctBucket": "akkusativ" },
+        { "id": "ps-15", "word": "entlang", "correctBucket": "akkusativ" },
+        { "id": "ps-16", "word": "wider", "correctBucket": "akkusativ" }
+      ],
+      "buckets": [
+        { "id": "akkusativ", "label": "Akkusativ" },
+        { "id": "dativ", "label": "Dativ" }
+      ]
+    },
+    {
+      "type": "article_battle",
+      "id": "gf6-ab-1",
+      "mode": "dativ",
+      "items": [
+        { "id": "ab-1", "noun": "Tisch", "article": "dem", "mode": "dativ" },
+        { "id": "ab-2", "noun": "Stuhl", "article": "dem", "mode": "dativ" },
+        { "id": "ab-3", "noun": "Lampe", "article": "der", "mode": "dativ" },
+        { "id": "ab-4", "noun": "Fenster", "article": "dem", "mode": "dativ" },
+        { "id": "ab-5", "noun": "KÃ¼che", "article": "der", "mode": "dativ" },
+        { "id": "ab-6", "noun": "Bett", "article": "dem", "mode": "dativ" },
+        { "id": "ab-7", "noun": "Schrank", "article": "dem", "mode": "dativ" },
+        { "id": "ab-8", "noun": "TÃ¼r", "article": "der", "mode": "dativ" },
+        { "id": "ab-9", "noun": "Sofa", "article": "dem", "mode": "dativ" },
+        { "id": "ab-10", "noun": "Garten", "article": "dem", "mode": "dativ" },
+        { "id": "ab-11", "noun": "Blume", "article": "der", "mode": "dativ" },
+        { "id": "ab-12", "noun": "Kind", "article": "dem", "mode": "dativ" },
+        { "id": "ab-13", "noun": "Frau", "article": "der", "mode": "dativ" },
+        { "id": "ab-14", "noun": "Mann", "article": "dem", "mode": "dativ" },
+        { "id": "ab-15", "noun": "Buch", "article": "dem", "mode": "dativ" },
+        { "id": "ab-16", "noun": "Wohnung", "article": "der", "mode": "dativ" },
+        { "id": "ab-17", "noun": "Haus", "article": "dem", "mode": "dativ" },
+        { "id": "ab-18", "noun": "StraÃŸe", "article": "der", "mode": "dativ" },
+        { "id": "ab-19", "noun": "Auto", "article": "dem", "mode": "dativ" },
+        { "id": "ab-20", "noun": "Schule", "article": "der", "mode": "dativ" }
+      ]
+    },
+    {
+      "type": "sentence_builder",
+      "id": "gf6-sb-1",
+      "sentences": [
+        { "id": "sb-1", "prompt": "I give the child a book.", "tokens": ["gebe", "dem", "Ich", "Kind", "Buch", "ein", "."], "answer": ["Ich", "gebe", "dem", "Kind", "ein", "Buch", "."] },
+        { "id": "sb-2", "prompt": "She helps the man.", "tokens": ["hilft", "dem", "Sie", "Mann", "."], "answer": ["Sie", "hilft", "dem", "Mann", "."] },
+        { "id": "sb-3", "prompt": "Can you help me?", "tokens": ["du", "Kannst", "helfen", "mir", "?"], "answer": ["Kannst", "du", "mir", "helfen", "?"] },
+        { "id": "sb-4", "prompt": "He travels by train.", "tokens": ["fÃ¤hrt", "dem", "Er", "mit", "Zug", "."], "answer": ["Er", "fÃ¤hrt", "mit", "dem", "Zug", "."] },
+        { "id": "sb-5", "prompt": "The soup tastes good to us.", "tokens": ["schmeckt", "Die", "Suppe", "gut", "uns", "."], "answer": ["Die", "Suppe", "schmeckt", "uns", "gut", "."] },
+        { "id": "sb-6", "prompt": "I go to the doctor.", "tokens": ["gehe", "Ich", "zum", "Arzt", "."], "answer": ["Ich", "gehe", "zum", "Arzt", "."] }
+      ]
+    }
+  ]
+}

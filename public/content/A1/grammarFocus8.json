@@ -1,0 +1,174 @@
+{
+  "id": "A1_GF8",
+  "level": "A1",
+  "type": "grammarFocus",
+  "number": "GF8",
+  "title": "Konjunktiv II mit wÃ¼rde",
+  "subtitle": "Wishes, hypotheticals, and polite requests",
+  "focus": ["Konjunktiv II", "wÃ¼rde + Infinitiv", "wÃ¤re / hÃ¤tte"],
+  "conceptSections": [
+    {
+      "id": "gf8-concept-1",
+      "heading": "When to use Konjunktiv II",
+      "explanation": "Konjunktiv II is used for hypothetical situations, polite requests, and wishes that are unlikely or not yet real. Compare present tense (real) with Konjunktiv II (hypothetical).",
+      "examples": [
+        { "de": "Ich fahre nach Berlin.", "en": "I am going to Berlin. (real)", "note": "Present tense â€” happening" },
+        { "de": "Ich wÃ¼rde gern nach Berlin fahren.", "en": "I would like to go to Berlin. (wish)", "note": "Konjunktiv II â€” hypothetical" }
+      ]
+    },
+    {
+      "id": "gf8-concept-2",
+      "heading": "Conjugation of wÃ¼rde",
+      "explanation": "The form 'wÃ¼rde' + infinitive is the standard way to express Konjunktiv II for most verbs at A1 level. The infinitive goes to the end, just like with modal verbs.",
+      "table": {
+        "headers": ["Pronoun", "wÃ¼rde"],
+        "rows": [
+          ["ich", "wÃ¼rde"],
+          ["du", "wÃ¼rdest"],
+          ["er/es/sie", "wÃ¼rde"],
+          ["wir", "wÃ¼rden"],
+          ["ihr", "wÃ¼rdet"],
+          ["sie/Sie", "wÃ¼rden"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich wÃ¼rde gern Deutsch lernen.", "en": "I would like to learn German.", "note": "wÃ¼rde + infinitive" },
+        { "de": "WÃ¼rdest du mir helfen?", "en": "Would you help me?", "note": "polite request" }
+      ]
+    },
+    {
+      "id": "gf8-concept-3",
+      "heading": "Common usage patterns",
+      "explanation": "The most frequent Konjunktiv II patterns at A1 level include wishes with 'gern', preferences with 'lieber', and polite requests with 'WÃ¼rden Sie bitte...'.",
+      "examples": [
+        { "de": "Ich wÃ¼rde gern Pizza essen.", "en": "I would like to eat pizza.", "note": "gern = gladly (wish)" },
+        { "de": "Ich wÃ¼rde lieber zu Hause bleiben.", "en": "I would rather stay at home.", "note": "lieber = rather (preference)" },
+        { "de": "WÃ¼rden Sie bitte das Fenster schlieÃŸen?", "en": "Would you please close the window?", "note": "polite formal request" }
+      ]
+    },
+    {
+      "id": "gf8-concept-4",
+      "heading": "wÃ¤re and hÃ¤tte â€” special Konjunktiv II forms",
+      "explanation": "The verbs 'sein' and 'haben' have their own Konjunktiv II forms that are used instead of 'wÃ¼rde sein' and 'wÃ¼rde haben'. These are very common and must be memorised.",
+      "table": {
+        "headers": ["Pronoun", "wÃ¤re (sein)", "hÃ¤tte (haben)"],
+        "rows": [
+          ["ich", "wÃ¤re", "hÃ¤tte"],
+          ["du", "wÃ¤rst", "hÃ¤ttest"],
+          ["er/es/sie", "wÃ¤re", "hÃ¤tte"],
+          ["wir", "wÃ¤ren", "hÃ¤tten"],
+          ["ihr", "wÃ¤rt", "hÃ¤ttet"],
+          ["sie/Sie", "wÃ¤ren", "hÃ¤tten"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich wÃ¤re gern in Italien.", "en": "I would like to be in Italy.", "note": "wÃ¤re = would be" },
+        { "de": "HÃ¤tten Sie einen Moment Zeit?", "en": "Would you have a moment?", "note": "hÃ¤tte = would have" }
+      ]
+    },
+    {
+      "id": "gf8-concept-5",
+      "heading": "Useful vocabulary for wishes",
+      "explanation": "These words often appear with Konjunktiv II to express wishes and preferences.",
+      "examples": [
+        { "de": "Ich wÃ¼rde unbedingt nach Japan reisen.", "en": "I would definitely travel to Japan.", "note": "unbedingt = definitely" },
+        { "de": "Vielleicht wÃ¼rde ich Medizin studieren.", "en": "Maybe I would study medicine.", "note": "vielleicht = maybe" },
+        { "de": "Eigentlich wÃ¼rde ich lieber lesen.", "en": "Actually I would rather read.", "note": "eigentlich = actually" },
+        { "de": "Ich wÃ¼rde auf jeden Fall kommen.", "en": "I would definitely come.", "note": "auf jeden Fall = in any case" },
+        { "de": "Am liebsten wÃ¼rde ich schlafen.", "en": "Most of all I would like to sleep.", "note": "am liebsten = most of all" }
+      ]
+    }
+  ],
+  "practice": [
+    { "id": "gf8-p1", "type": "fill_blank", "prompt": "Ich ___ gern nach Spanien reisen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p2", "type": "fill_blank", "prompt": "___ du mir bitte helfen? (wÃ¼rde)", "answer": "WÃ¼rdest", "topic": "Konjunktiv II" },
+    { "id": "gf8-p3", "type": "fill_blank", "prompt": "Er ___ gern Arzt werden. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p4", "type": "fill_blank", "prompt": "Wir ___ gern ins Kino gehen. (wÃ¼rde)", "answer": "wÃ¼rden", "topic": "Konjunktiv II" },
+    { "id": "gf8-p5", "type": "fill_blank", "prompt": "___ Sie bitte das Fenster Ã¶ffnen? (wÃ¼rde)", "answer": "WÃ¼rden", "topic": "Konjunktiv II" },
+    { "id": "gf8-p6", "type": "fill_blank", "prompt": "Ich ___ lieber zu Hause bleiben. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p7", "type": "fill_blank", "prompt": "___ ihr gern mitmachen? (wÃ¼rde)", "answer": "WÃ¼rdet", "topic": "Konjunktiv II" },
+    { "id": "gf8-p8", "type": "fill_blank", "prompt": "Sie ___ gern Klavier spielen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p9", "type": "fill_blank", "prompt": "Ich ___ gern in Italien. (wÃ¤re)", "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p10", "type": "fill_blank", "prompt": "Er ___ gern reich. (wÃ¤re)", "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p11", "type": "fill_blank", "prompt": "Wir ___ gern in Berlin. (wÃ¤re)", "answer": "wÃ¤ren", "topic": "Konjunktiv II" },
+    { "id": "gf8-p12", "type": "fill_blank", "prompt": "___ du gern berÃ¼hmt? (wÃ¤re)", "answer": "WÃ¤rst", "topic": "Konjunktiv II" },
+    { "id": "gf8-p13", "type": "fill_blank", "prompt": "Ich ___ gern mehr Zeit. (hÃ¤tte)", "answer": "hÃ¤tte", "topic": "Konjunktiv II" },
+    { "id": "gf8-p14", "type": "fill_blank", "prompt": "___ Sie einen Moment Zeit? (hÃ¤tte)", "answer": "HÃ¤tten", "topic": "Konjunktiv II" },
+    { "id": "gf8-p15", "type": "fill_blank", "prompt": "Er ___ gern ein neues Auto. (hÃ¤tte)", "answer": "hÃ¤tte", "topic": "Konjunktiv II" },
+    { "id": "gf8-p16", "type": "fill_blank", "prompt": "Wir ___ gern einen Garten. (hÃ¤tte)", "answer": "hÃ¤tten", "topic": "Konjunktiv II" },
+    { "id": "gf8-p17", "type": "choice", "prompt": "Choose wÃ¤re or hÃ¤tte: 'Ich ___ gern in Paris.'", "options": ["wÃ¤re", "hÃ¤tte", "wÃ¼rde", "kÃ¶nnte"], "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p18", "type": "choice", "prompt": "Choose wÃ¤re or hÃ¤tte: 'Ich ___ gern ein Haus.'", "options": ["wÃ¤re", "hÃ¤tte", "wÃ¼rde", "wÃ¤rst"], "answer": "hÃ¤tte", "topic": "Konjunktiv II" },
+    { "id": "gf8-p19", "type": "choice", "prompt": "Choose wÃ¤re or hÃ¤tte: 'Er ___ gern Lehrer.'", "options": ["hÃ¤tte", "wÃ¤re", "wÃ¼rde", "hÃ¤tten"], "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p20", "type": "choice", "prompt": "Choose wÃ¤re or hÃ¤tte: 'Wir ___ gern mehr Urlaub.'", "options": ["wÃ¤ren", "hÃ¤tten", "wÃ¼rden", "wÃ¤rt"], "answer": "hÃ¤tten", "topic": "Konjunktiv II" },
+    { "id": "gf8-p21", "type": "sentence_order", "prompt": "I would like to travel to Japan.", "tokens": ["wÃ¼rde", "gern", "Ich", "Japan", "nach", "reisen", "."], "answer": ["Ich", "wÃ¼rde", "gern", "nach", "Japan", "reisen", "."], "topic": "Konjunktiv II" },
+    { "id": "gf8-p22", "type": "sentence_order", "prompt": "Would you please help me?", "tokens": ["Sie", "WÃ¼rden", "bitte", "helfen", "mir", "?"], "answer": ["WÃ¼rden", "Sie", "mir", "bitte", "helfen", "?"], "topic": "Konjunktiv II" },
+    { "id": "gf8-p23", "type": "sentence_order", "prompt": "I would rather stay home.", "tokens": ["wÃ¼rde", "lieber", "Ich", "Hause", "zu", "bleiben", "."], "answer": ["Ich", "wÃ¼rde", "lieber", "zu", "Hause", "bleiben", "."], "topic": "Konjunktiv II" },
+    { "id": "gf8-p24", "type": "sentence_order", "prompt": "I would like to be in Italy.", "tokens": ["wÃ¤re", "gern", "Ich", "Italien", "in", "."], "answer": ["Ich", "wÃ¤re", "gern", "in", "Italien", "."], "topic": "Konjunktiv II" },
+    { "id": "gf8-p25", "type": "fill_blank", "prompt": "Am liebsten ___ ich den ganzen Tag schlafen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p26", "type": "fill_blank", "prompt": "Ich ___ unbedingt nach Australien fliegen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p27", "type": "fill_blank", "prompt": "Eigentlich ___ ich lieber lesen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p28", "type": "fill_blank", "prompt": "Ich ___ auf jeden Fall kommen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p29", "type": "fill_blank", "prompt": "Vielleicht ___ ich Medizin studieren. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p30", "type": "fill_blank", "prompt": "___ du gern ein Musiker? (wÃ¤re)", "answer": "WÃ¤rst", "topic": "Konjunktiv II" },
+    { "id": "gf8-p31", "type": "fill_blank", "prompt": "Das ___ sehr nett von dir. (wÃ¤re)", "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p32", "type": "fill_blank", "prompt": "Es ___ schÃ¶n, dich zu sehen. (wÃ¤re)", "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p33", "type": "fill_blank", "prompt": "___ du gern einen Hund? (hÃ¤tte)", "answer": "HÃ¤ttest", "topic": "Konjunktiv II" },
+    { "id": "gf8-p34", "type": "fill_blank", "prompt": "Ich ___ gern eine groÃŸe Wohnung. (hÃ¤tte)", "answer": "hÃ¤tte", "topic": "Konjunktiv II" },
+    { "id": "gf8-p35", "type": "fill_blank", "prompt": "Sie ___ gern mehr Freizeit. (hÃ¤tte)", "answer": "hÃ¤tte", "topic": "Konjunktiv II" },
+    { "id": "gf8-p36", "type": "fill_blank", "prompt": "Ich ___ gern tanzen lernen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p37", "type": "fill_blank", "prompt": "Er ___ gern ein Buch schreiben. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p38", "type": "fill_blank", "prompt": "___ du gern kochen? (wÃ¼rde)", "answer": "WÃ¼rdest", "topic": "Konjunktiv II" },
+    { "id": "gf8-p39", "type": "fill_blank", "prompt": "Wir ___ gern einen Film sehen. (wÃ¼rde)", "answer": "wÃ¼rden", "topic": "Konjunktiv II" },
+    { "id": "gf8-p40", "type": "fill_blank", "prompt": "Ich ___ gern Gitarre spielen kÃ¶nnen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p41", "type": "choice", "prompt": "Polite request at hotel: 'I would like a room.'", "options": ["Ich will ein Zimmer.", "Ich mÃ¶chte ein Zimmer.", "Ich hÃ¤tte gern ein Zimmer.", "Ich muss ein Zimmer haben."], "answer": "Ich hÃ¤tte gern ein Zimmer.", "topic": "Konjunktiv II" },
+    { "id": "gf8-p42", "type": "choice", "prompt": "Which expresses a wish? 'If only I were rich!'", "options": ["Ich bin reich.", "Ich wÃ¤re gern reich.", "Ich muss reich sein.", "Ich will reich sein."], "answer": "Ich wÃ¤re gern reich.", "topic": "Konjunktiv II" },
+    { "id": "gf8-p43", "type": "fill_blank", "prompt": "___ ihr gern nach Frankreich fahren? (wÃ¼rde)", "answer": "WÃ¼rdet", "topic": "Konjunktiv II" },
+    { "id": "gf8-p44", "type": "fill_blank", "prompt": "Das ___ toll! (wÃ¤re)", "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p45", "type": "fill_blank", "prompt": "Ich ___ gern Deutsch perfekt sprechen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p46", "type": "sentence_order", "prompt": "That would be nice.", "tokens": ["wÃ¤re", "Das", "schÃ¶n", "."], "answer": ["Das", "wÃ¤re", "schÃ¶n", "."], "topic": "Konjunktiv II" },
+    { "id": "gf8-p47", "type": "sentence_order", "prompt": "I would have more time.", "tokens": ["hÃ¤tte", "mehr", "Ich", "Zeit", "."], "answer": ["Ich", "hÃ¤tte", "mehr", "Zeit", "."], "topic": "Konjunktiv II" },
+    { "id": "gf8-p48", "type": "fill_blank", "prompt": "Ich ___ gern ein Eis essen. (wÃ¼rde)", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-p49", "type": "fill_blank", "prompt": "Er ___ gern Pilot. (wÃ¤re)", "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-p50", "type": "fill_blank", "prompt": "___ du mir bitte die Butter geben? (wÃ¼rde)", "answer": "WÃ¼rdest", "topic": "Konjunktiv II" }
+  ],
+  "quiz": [
+    { "id": "gf8-q1", "type": "mcq", "prompt": "When is Konjunktiv II used?", "options": ["For past events", "For real situations", "For hypotheticals and polite requests", "For commands"], "answer": "For hypotheticals and polite requests", "topic": "Konjunktiv II" },
+    { "id": "gf8-q2", "type": "fill_blank", "prompt": "Ich ___ gern nach Japan reisen.", "answer": "wÃ¼rde", "topic": "Konjunktiv II" },
+    { "id": "gf8-q3", "type": "mcq", "prompt": "What is 'wÃ¤re' the Konjunktiv II of?", "options": ["haben", "werden", "sein", "wollen"], "answer": "sein", "topic": "Konjunktiv II" },
+    { "id": "gf8-q4", "type": "fill_blank", "prompt": "Ich ___ gern mehr Geld. (hÃ¤tte)", "answer": "hÃ¤tte", "topic": "Konjunktiv II" },
+    { "id": "gf8-q5", "type": "mcq", "prompt": "How do you form standard Konjunktiv II?", "options": ["haben + participle", "sein + participle", "wÃ¼rde + infinitive", "werden + infinitive"], "answer": "wÃ¼rde + infinitive", "topic": "Konjunktiv II" },
+    { "id": "gf8-q6", "type": "fill_blank", "prompt": "Das ___ sehr nett.", "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-q7", "type": "mcq", "prompt": "Which is the polite request?", "options": ["Ã–ffnen Sie das Fenster!", "WÃ¼rden Sie bitte das Fenster Ã¶ffnen?", "Sie Ã¶ffnen das Fenster.", "KÃ¶nnen Sie das Fenster Ã¶ffnen?"], "answer": "WÃ¼rden Sie bitte das Fenster Ã¶ffnen?", "topic": "Konjunktiv II" },
+    { "id": "gf8-q8", "type": "fill_blank", "prompt": "___ du gern in einer anderen Stadt leben?", "answer": "WÃ¼rdest", "topic": "Konjunktiv II" },
+    { "id": "gf8-q9", "type": "mcq", "prompt": "Complete: 'Ich ___ gern Lehrer.'", "options": ["wÃ¼rde", "wÃ¤re", "hÃ¤tte", "mÃ¶chte"], "answer": "wÃ¤re", "topic": "Konjunktiv II" },
+    { "id": "gf8-q10", "type": "fill_blank", "prompt": "Wir ___ gern eine Weltreise machen.", "answer": "wÃ¼rden", "topic": "Konjunktiv II" }
+  ],
+  "games": [
+    {
+      "type": "situation_chooser",
+      "id": "gf8-sc-1",
+      "items": [
+        { "id": "sc-1", "scenario": "You dream about living by the sea.", "question": "Which sentence fits?", "options": ["Ich lebe am Meer.", "Ich wÃ¼rde gern am Meer leben.", "Ich muss am Meer leben.", "Ich soll am Meer leben."], "answer": "Ich wÃ¼rde gern am Meer leben.", "explanation": "Konjunktiv II expresses a wish/dream." },
+        { "id": "sc-2", "scenario": "You politely ask a stranger for directions.", "question": "Which sentence fits?", "options": ["Sagen Sie mir den Weg!", "WÃ¼rden Sie mir bitte den Weg zeigen?", "Sie zeigen mir den Weg.", "MÃ¼ssen Sie mir den Weg zeigen?"], "answer": "WÃ¼rden Sie mir bitte den Weg zeigen?", "explanation": "WÃ¼rden Sie bitte... is a polite request." },
+        { "id": "sc-3", "scenario": "You imagine having a million euros.", "question": "Which sentence fits?", "options": ["Ich habe eine Million Euro.", "Ich hÃ¤tte gern eine Million Euro.", "Ich muss eine Million Euro haben.", "Ich kann eine Million Euro haben."], "answer": "Ich hÃ¤tte gern eine Million Euro.", "explanation": "hÃ¤tte expresses a hypothetical wish." },
+        { "id": "sc-4", "scenario": "You prefer tea over coffee right now.", "question": "Which sentence fits?", "options": ["Ich trinke Tee.", "Ich muss Tee trinken.", "Ich wÃ¼rde lieber Tee trinken.", "Ich darf Tee trinken."], "answer": "Ich wÃ¼rde lieber Tee trinken.", "explanation": "wÃ¼rde lieber expresses a preference." },
+        { "id": "sc-5", "scenario": "You wish you were on vacation.", "question": "Which sentence fits?", "options": ["Ich bin im Urlaub.", "Ich wÃ¤re gern im Urlaub.", "Ich muss im Urlaub sein.", "Ich soll im Urlaub sein."], "answer": "Ich wÃ¤re gern im Urlaub.", "explanation": "wÃ¤re gern expresses an unreal wish." },
+        { "id": "sc-6", "scenario": "You dream about speaking 5 languages.", "question": "Which sentence fits?", "options": ["Ich spreche fÃ¼nf Sprachen.", "Ich wÃ¼rde gern fÃ¼nf Sprachen sprechen.", "Ich muss fÃ¼nf Sprachen sprechen.", "Ich darf fÃ¼nf Sprachen sprechen."], "answer": "Ich wÃ¼rde gern fÃ¼nf Sprachen sprechen.", "explanation": "wÃ¼rde gern for a wish." },
+        { "id": "sc-7", "scenario": "You wish you had more free time.", "question": "Which sentence fits?", "options": ["Ich habe mehr Freizeit.", "Ich hÃ¤tte gern mehr Freizeit.", "Ich muss mehr Freizeit haben.", "Ich kann mehr Freizeit haben."], "answer": "Ich hÃ¤tte gern mehr Freizeit.", "explanation": "hÃ¤tte gern for wanting something." },
+        { "id": "sc-8", "scenario": "You ask a waiter politely for the bill.", "question": "Which sentence fits?", "options": ["Geben Sie mir die Rechnung!", "WÃ¼rden Sie mir bitte die Rechnung bringen?", "Ich will die Rechnung.", "Bringen Sie die Rechnung!"], "answer": "WÃ¼rden Sie mir bitte die Rechnung bringen?", "explanation": "Polite Konjunktiv II request." }
+      ]
+    },
+    {
+      "type": "sentence_builder",
+      "id": "gf8-sb-1",
+      "sentences": [
+        { "id": "sb-1", "prompt": "I would like to travel to Japan.", "tokens": ["wÃ¼rde", "gern", "Ich", "Japan", "nach", "reisen", "."], "answer": ["Ich", "wÃ¼rde", "gern", "nach", "Japan", "reisen", "."] },
+        { "id": "sb-2", "prompt": "That would be nice.", "tokens": ["wÃ¤re", "Das", "schÃ¶n", "."], "answer": ["Das", "wÃ¤re", "schÃ¶n", "."] },
+        { "id": "sb-3", "prompt": "I would rather stay home.", "tokens": ["wÃ¼rde", "lieber", "Ich", "Hause", "zu", "bleiben", "."], "answer": ["Ich", "wÃ¼rde", "lieber", "zu", "Hause", "bleiben", "."] },
+        { "id": "sb-4", "prompt": "Would you help me please?", "tokens": ["Sie", "WÃ¼rden", "bitte", "helfen", "mir", "?"], "answer": ["WÃ¼rden", "Sie", "mir", "bitte", "helfen", "?"] },
+        { "id": "sb-5", "prompt": "I would have more time.", "tokens": ["hÃ¤tte", "mehr", "Ich", "Zeit", "."], "answer": ["Ich", "hÃ¤tte", "mehr", "Zeit", "."] },
+        { "id": "sb-6", "prompt": "I would like to be in Italy.", "tokens": ["wÃ¤re", "gern", "Ich", "Italien", "in", "."], "answer": ["Ich", "wÃ¤re", "gern", "in", "Italien", "."] }
+      ]
+    }
+  ]
+}

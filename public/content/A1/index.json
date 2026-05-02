@@ -97,6 +97,38 @@
     {
       "id": "A1_24",
       "file": "chapter24.json"
+    },
+    {
+      "id": "A1_GF1",
+      "file": "grammarFocus1.json"
+    },
+    {
+      "id": "A1_GF2",
+      "file": "grammarFocus2.json"
+    },
+    {
+      "id": "A1_GF3",
+      "file": "grammarFocus3.json"
+    },
+    {
+      "id": "A1_GF4",
+      "file": "grammarFocus4.json"
+    },
+    {
+      "id": "A1_GF5",
+      "file": "grammarFocus5.json"
+    },
+    {
+      "id": "A1_GF6",
+      "file": "grammarFocus6.json"
+    },
+    {
+      "id": "A1_GF7",
+      "file": "grammarFocus7.json"
+    },
+    {
+      "id": "A1_GF8",
+      "file": "grammarFocus8.json"
     }
   ]
 }

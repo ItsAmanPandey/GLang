@@ -47,6 +47,19 @@ export function useTTS() {
     window.speechSynthesis.speak(utterance);
   }, [supported, voice]);
 
+  const speakSlow = useCallback((text) => {
+    if (!supported || !text) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    if (voice) utterance.voice = voice;
+    utterance.lang = "de-DE";
+    utterance.rate = 0.6; // Slow rate for better comprehension
+    utterance.onstart = () => setIsSpeaking(true);
+    utterance.onend = () => setIsSpeaking(false);
+    utterance.onerror = () => setIsSpeaking(false);
+    window.speechSynthesis.speak(utterance);
+  }, [supported, voice]);
+
   const stop = useCallback(() => {
     if (supported) {
       window.speechSynthesis.cancel();
@@ -54,5 +67,5 @@ export function useTTS() {
     }
   }, [supported]);
 
-  return { speak, stop, isSpeaking, supported };
+  return { speak, speakSlow, stop, isSpeaking, supported };
 }

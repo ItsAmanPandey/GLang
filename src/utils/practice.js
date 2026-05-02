@@ -70,8 +70,9 @@ export function buildVocabularyMcq(vocabularyItem, pool) {
 }
 
 export function buildTestQuestions(chapters) {
-  const vocabularyPool = chapters.flatMap((chapter) => chapter.vocabulary);
-  const vocabularyQuestions = chapters.flatMap((chapter) =>
+  const vocabularyChapters = chapters.filter((chapter) => Array.isArray(chapter.vocabulary));
+  const vocabularyPool = vocabularyChapters.flatMap((chapter) => chapter.vocabulary);
+  const vocabularyQuestions = vocabularyChapters.flatMap((chapter) =>
     shuffle(chapter.vocabulary).slice(0, 6).map((item) => ({
       ...buildVocabularyMcq(item, vocabularyPool),
       id: `${chapter.id}-${item.word}`,
@@ -79,7 +80,7 @@ export function buildTestQuestions(chapters) {
       chapterTitle: chapter.title,
     }))
   );
-  const articleQuestions = chapters.flatMap((chapter) =>
+  const articleQuestions = vocabularyChapters.flatMap((chapter) =>
     shuffle(chapter.vocabulary.filter(hasArticleAndPlural)).slice(0, 6).flatMap((item) => [
       {
         id: `${chapter.id}-${item.word}-article`,
@@ -104,7 +105,7 @@ export function buildTestQuestions(chapters) {
   );
 
   const quizQuestions = chapters.flatMap((chapter) =>
-    chapter.quiz.map((question) => ({
+    (chapter.quiz ?? []).map((question) => ({
       ...question,
       chapterId: chapter.id,
       chapterTitle: chapter.title,

@@ -6,14 +6,14 @@
   "subtitle": "Free Time, Hobbies, and the Verb 'koennen'",
   "focus": [
     "Talking about free time and hobbies",
-    "Expressing abilities (können)",
+    "Expressing abilities (kÃ¶nnen)",
     "Months and Seasons",
     "Making suggestions"
   ],
   "tips": [
     {
-      "title": "Modal Verb 'können'",
-      "body": "When you use a modal verb like 'können' (can), the second verb in the sentence goes to the very end in its infinitive form. Example: Ich kann gut singen."
+      "title": "Modal Verb 'kÃ¶nnen'",
+      "body": "When you use a modal verb like 'kÃ¶nnen' (can), the second verb in the sentence goes to the very end in its infinitive form. Example: Ich kann gut singen."
     },
     {
       "title": "Seasons and Months",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Noun and Verb combos",
-      "body": "Hobbies are often expressed with a noun + verb combo: Fußball spielen, Musik hören, Rad fahren."
+      "body": "Hobbies are often expressed with a noun + verb combo: FuÃŸball spielen, Musik hÃ¶ren, Rad fahren."
     }
   ],
   "vocabulary": [
@@ -30,17 +30,19 @@
       "meaning": "free time",
       "article": "die",
       "plural": "-",
-      "example": "In meiner Freizeit lese ich viel."
+      "example": "In meiner Freizeit lese ich viel.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Hobby",
       "meaning": "hobby",
       "article": "das",
       "plural": "die Hobbys",
-      "example": "Mein Hobby ist Fotografie."
+      "example": "Mein Hobby ist Fotografie.",
+      "grammarRef": "GF1"
     },
     {
-      "word": "können",
+      "word": "kÃ¶nnen",
       "meaning": "can / to be able to",
       "example": "Ich kann gut schwimmen."
     },
@@ -52,7 +54,7 @@
     {
       "word": "lesen",
       "meaning": "to read",
-      "example": "Liest du gern Bücher?"
+      "example": "Liest du gern BÃ¼cher?"
     },
     {
       "word": "schwimmen",
@@ -67,7 +69,7 @@
     {
       "word": "singen",
       "meaning": "to sing",
-      "example": "Sie kann wunderschön singen."
+      "example": "Sie kann wunderschÃ¶n singen."
     },
     {
       "word": "tanzen",
@@ -75,9 +77,9 @@
       "example": "Gehen wir tanzen?"
     },
     {
-      "word": "hören",
+      "word": "hÃ¶ren",
       "meaning": "to hear / listen",
-      "example": "Ich höre gern Musik."
+      "example": "Ich hÃ¶re gern Musik."
     },
     {
       "word": "fahren",
@@ -94,42 +96,48 @@
       "meaning": "music",
       "article": "die",
       "plural": "-",
-      "example": "Die Musik ist laut."
+      "example": "Die Musik ist laut.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Sport",
       "meaning": "sports",
       "article": "der",
       "plural": "die Sportarten",
-      "example": "Machst du gern Sport?"
+      "example": "Machst du gern Sport?",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Fahrrad",
       "meaning": "bicycle",
       "article": "das",
-      "plural": "die Fahrräder",
-      "example": "Ich fahre mit dem Fahrrad."
+      "plural": "die FahrrÃ¤der",
+      "example": "Ich fahre mit dem Fahrrad.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Buch",
       "meaning": "book",
       "article": "das",
-      "plural": "die Bücher",
-      "example": "Das Buch ist spannend."
+      "plural": "die BÃ¼cher",
+      "example": "Das Buch ist spannend.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Freunde",
       "meaning": "friends",
       "article": "die (pl)",
       "plural": "die Freunde",
-      "example": "Meine Freunde sind nett."
+      "example": "Meine Freunde sind nett.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Wochenende",
       "meaning": "weekend",
       "article": "das",
       "plural": "die Wochenenden",
-      "example": "Was machst du am Wochenende?"
+      "example": "Was machst du am Wochenende?",
+      "grammarRef": "GF1"
     },
     {
       "word": "oft",
@@ -139,7 +147,7 @@
     {
       "word": "manchmal",
       "meaning": "sometimes",
-      "example": "Manchmal spiele ich Fußball."
+      "example": "Manchmal spiele ich FuÃŸball."
     },
     {
       "word": "nie",
@@ -147,89 +155,102 @@
       "example": "Ich singe nie."
     },
     {
-      "word": "der Frühling",
+      "word": "der FrÃ¼hling",
       "meaning": "spring",
       "article": "der",
-      "example": "Im Frühling ist es warm."
+      "example": "Im FrÃ¼hling ist es warm.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Sommer",
       "meaning": "summer",
       "article": "der",
-      "example": "Im Sommer haben wir frei."
+      "example": "Im Sommer haben wir frei.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Herbst",
       "meaning": "autumn",
       "article": "der",
-      "example": "Im Herbst regnet es oft."
+      "example": "Im Herbst regnet es oft.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Winter",
       "meaning": "winter",
       "article": "der",
-      "example": "Im Winter schneit es."
+      "example": "Im Winter schneit es.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Januar",
       "meaning": "January",
       "article": "der",
-      "example": "Im Januar ist es kalt."
+      "example": "Im Januar ist es kalt.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Juli",
       "meaning": "July",
       "article": "der",
-      "example": "Im Juli fliegen wir nach Spanien."
+      "example": "Im Juli fliegen wir nach Spanien.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Kino",
       "meaning": "cinema",
       "article": "das",
       "plural": "die Kinos",
-      "example": "Wir gehen ins Kino."
+      "example": "Wir gehen ins Kino.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Film",
       "meaning": "film / movie",
       "article": "der",
       "plural": "die Filme",
-      "example": "Der Film ist gut."
+      "example": "Der Film ist gut.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Theater",
       "meaning": "theater",
       "article": "das",
       "plural": "die Theater",
-      "example": "Wir gehen ins Theater."
+      "example": "Wir gehen ins Theater.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Ausstellung",
       "meaning": "exhibition",
       "article": "die",
       "plural": "die Ausstellungen",
-      "example": "Die Ausstellung ist interessant."
+      "example": "Die Ausstellung ist interessant.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Schwimmbad",
       "meaning": "swimming pool",
       "article": "das",
-      "plural": "die Schwimmbäder",
-      "example": "Ich gehe ins Schwimmbad."
+      "plural": "die SchwimmbÃ¤der",
+      "example": "Ich gehe ins Schwimmbad.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Museum",
       "meaning": "museum",
       "article": "das",
       "plural": "die Museen",
-      "example": "Das Museum ist groß."
+      "example": "Das Museum ist groÃŸ.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Park",
       "meaning": "park",
       "article": "der",
       "plural": "die Parks",
-      "example": "Wir spazieren im Park."
+      "example": "Wir spazieren im Park.",
+      "grammarRef": "GF1"
     },
     {
       "word": "spazieren gehen",
@@ -251,21 +272,24 @@
       "meaning": "photo",
       "article": "das",
       "plural": "die Fotos",
-      "example": "Ein schönes Foto."
+      "example": "Ein schÃ¶nes Foto.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Kamera",
       "meaning": "camera",
       "article": "die",
       "plural": "die Kameras",
-      "example": "Meine Kamera ist neu."
+      "example": "Meine Kamera ist neu.",
+      "grammarRef": "GF1"
     },
     {
       "word": "das Spiel",
       "meaning": "game",
       "article": "das",
       "plural": "die Spiele",
-      "example": "Wir spielen ein Spiel."
+      "example": "Wir spielen ein Spiel.",
+      "grammarRef": "GF1"
     },
     {
       "word": "wollen",
@@ -277,14 +301,16 @@
       "meaning": "piano",
       "article": "das",
       "plural": "die Klaviere",
-      "example": "Ich spiele Klavier."
+      "example": "Ich spiele Klavier.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Gitarre",
       "meaning": "guitar",
       "article": "die",
       "plural": "die Gitarren",
-      "example": "Sie spielt Gitarre."
+      "example": "Sie spielt Gitarre.",
+      "grammarRef": "GF1"
     },
     {
       "word": "wandern",
@@ -301,14 +327,16 @@
       "meaning": "journey / trip",
       "article": "die",
       "plural": "die Reisen",
-      "example": "Gute Reise!"
+      "example": "Gute Reise!",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Urlaub",
       "meaning": "vacation / holiday",
       "article": "der",
       "plural": "die Urlaube",
-      "example": "Ich brauche Urlaub."
+      "example": "Ich brauche Urlaub.",
+      "grammarRef": "GF1"
     },
     {
       "word": "faulenzen",
@@ -320,27 +348,30 @@
       "meaning": "snow",
       "article": "der",
       "plural": "-",
-      "example": "Der Schnee ist weiß."
+      "example": "Der Schnee ist weiÃŸ.",
+      "grammarRef": "GF1"
     },
     {
       "word": "der Regen",
       "meaning": "rain",
       "article": "der",
       "plural": "-",
-      "example": "Viel Regen im Herbst."
+      "example": "Viel Regen im Herbst.",
+      "grammarRef": "GF1"
     },
     {
       "word": "die Sonne",
       "meaning": "sun",
       "article": "die",
       "plural": "-",
-      "example": "Die Sonne scheint."
+      "example": "Die Sonne scheint.",
+      "grammarRef": "GF1"
     }
   ],
   "grammar": [
     {
-      "topic": "The Modal Verb 'können'",
-      "explanation": "'Können' means 'can' or 'to be able to'. It is irregular: ich kann, du kannst, er/sie kann, wir können, ihr könnt, Sie/sie können.",
+      "topic": "The Modal Verb 'kÃ¶nnen'",
+      "explanation": "'KÃ¶nnen' means 'can' or 'to be able to'. It is irregular: ich kann, du kannst, er/sie kann, wir kÃ¶nnen, ihr kÃ¶nnt, Sie/sie kÃ¶nnen.",
       "examples": [
         "Ich kann schwimmen.",
         "Kannst du tanzen?"
@@ -348,18 +379,18 @@
     },
     {
       "topic": "Sentence Structure with Modal Verbs",
-      "explanation": "When using 'können', the conjugated modal verb takes position 2. The main action verb goes to the very end of the sentence in its full (infinitive) form.",
+      "explanation": "When using 'kÃ¶nnen', the conjugated modal verb takes position 2. The main action verb goes to the very end of the sentence in its full (infinitive) form.",
       "examples": [
         "Ich kann gut schwimmen.",
-        "Wir können am Wochenende Fußball spielen."
+        "Wir kÃ¶nnen am Wochenende FuÃŸball spielen."
       ]
     },
     {
       "topic": "Irregular Verbs (Vowel Change)",
-      "explanation": "Verbs like 'lesen' (to read) and 'fahren' (to drive/ride) change their vowel in the 'du' and 'er/sie' forms: du liest, er liest; du fährst, er fährt.",
+      "explanation": "Verbs like 'lesen' (to read) and 'fahren' (to drive/ride) change their vowel in the 'du' and 'er/sie' forms: du liest, er liest; du fÃ¤hrst, er fÃ¤hrt.",
       "examples": [
         "Ich lese. -> Du liest.",
-        "Ich fahre. -> Er fährt."
+        "Ich fahre. -> Er fÃ¤hrt."
       ]
     }
   ],
@@ -370,7 +401,8 @@
       "prompt": "Ich ___ sehr gut kochen.",
       "answer": "kann",
       "hint": "can (ich form)",
-      "topic": "können"
+      "topic": "kÃ¶nnen",
+      "grammarRef": "GF7"
     },
     {
       "id": "c5-fill-2",
@@ -378,12 +410,12 @@
       "prompt": "___ du gut schwimmen?",
       "answer": "Kannst",
       "hint": "can (du form)",
-      "topic": "können"
+      "topic": "kÃ¶nnen"
     },
     {
       "id": "c5-fill-3",
       "type": "fill_blank",
-      "prompt": "Er ___ gern Bücher.",
+      "prompt": "Er ___ gern BÃ¼cher.",
       "answer": "liest",
       "hint": "to read (er form - watch the vowel change!)",
       "topic": "lesen"
@@ -404,10 +436,11 @@
         "Ich kann spielen Gitarre.",
         "Ich spielen kann Gitarre.",
         "Ich kann Gitarre spielen.",
-        "Können ich Gitarre spielen."
+        "KÃ¶nnen ich Gitarre spielen."
       ],
       "answer": "Ich kann Gitarre spielen.",
-      "topic": "modal syntax"
+      "topic": "modal syntax",
+      "grammarRef": "GF7"
     },
     {
       "id": "c5-choice-2",
@@ -440,7 +473,8 @@
         "singen",
         "."
       ],
-      "topic": "können"
+      "topic": "kÃ¶nnen",
+      "grammarRef": "GF7"
     },
     {
       "id": "c5-order-2",
@@ -517,7 +551,7 @@
       "id": "c5-quiz-2",
       "type": "fill_blank",
       "prompt": "___ du Fahrrad?",
-      "answer": "Fährst",
+      "answer": "FÃ¤hrst",
       "topic": "fahren"
     },
     {
@@ -527,11 +561,11 @@
       "options": [
         "kann",
         "kannst",
-        "können",
-        "könnt"
+        "kÃ¶nnen",
+        "kÃ¶nnt"
       ],
-      "answer": "können",
-      "topic": "können"
+      "answer": "kÃ¶nnen",
+      "topic": "kÃ¶nnen"
     },
     {
       "id": "c5-quiz-4",

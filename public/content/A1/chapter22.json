@@ -42,14 +42,14 @@
       "meaning": "guesthouse",
       "article": "die",
       "plural": "die Pensionen",
-      "example": "Die Pension ist günstiger."
+      "example": "Die Pension ist gÃ¼nstiger."
     },
     {
       "word": "die Jugendherberge",
       "meaning": "youth hostel",
       "article": "die",
       "plural": "die Jugendherbergen",
-      "example": "Wir übernachten in der Jugendherberge."
+      "example": "Wir Ã¼bernachten in der Jugendherberge."
     },
     {
       "word": "das Einzelzimmer",
@@ -63,7 +63,7 @@
       "meaning": "double room",
       "article": "das",
       "plural": "die Doppelzimmer",
-      "example": "Ein Doppelzimmer mit Frühstück bitte."
+      "example": "Ein Doppelzimmer mit FrÃ¼hstÃ¼ck bitte."
     },
     {
       "word": "buchen",
@@ -71,15 +71,15 @@
       "example": "Ich buche online."
     },
     {
-      "word": "übernachten",
+      "word": "Ã¼bernachten",
       "meaning": "to stay overnight",
-      "example": "Wo übernachten wir?"
+      "example": "Wo Ã¼bernachten wir?"
     },
     {
-      "word": "das Frühstück",
+      "word": "das FrÃ¼hstÃ¼ck",
       "meaning": "breakfast",
       "article": "das",
-      "example": "Das Frühstück ist inklusive."
+      "example": "Das FrÃ¼hstÃ¼ck ist inklusive."
     },
     {
       "word": "das Mittagessen",
@@ -104,7 +104,7 @@
       "word": "der Rucksack",
       "meaning": "backpack",
       "article": "der",
-      "plural": "die Rucksäcke",
+      "plural": "die RucksÃ¤cke",
       "example": "Nimm den Rucksack mit."
     },
     {
@@ -116,7 +116,7 @@
       "word": "der Reisepass",
       "meaning": "passport",
       "article": "der",
-      "plural": "die Reisepässe",
+      "plural": "die ReisepÃ¤sse",
       "example": "Hast du deinen Reisepass?"
     },
     {
@@ -137,8 +137,8 @@
       "word": "der Strand",
       "meaning": "beach",
       "article": "der",
-      "plural": "die Strände",
-      "example": "Der Strand ist schön."
+      "plural": "die StrÃ¤nde",
+      "example": "Der Strand ist schÃ¶n."
     },
     {
       "word": "das Meer",
@@ -157,7 +157,7 @@
       "word": "der Ausflug",
       "meaning": "day trip",
       "article": "der",
-      "plural": "die Ausflüge",
+      "plural": "die AusflÃ¼ge",
       "example": "Wir machen einen Ausflug."
     },
     {
@@ -169,7 +169,7 @@
       "word": "das Schloss",
       "meaning": "castle",
       "article": "das",
-      "plural": "die Schlösser",
+      "plural": "die SchlÃ¶sser",
       "example": "Das Schloss ist alt."
     },
     {
@@ -183,15 +183,15 @@
       "word": "das Denkmal",
       "meaning": "monument",
       "article": "das",
-      "plural": "die Denkmäler",
+      "plural": "die DenkmÃ¤ler",
       "example": "Wir fotografieren das Denkmal."
     },
     {
-      "word": "die Sehenswürdigkeit",
+      "word": "die SehenswÃ¼rdigkeit",
       "meaning": "sight/attraction",
       "article": "die",
-      "plural": "die Sehenswürdigkeiten",
-      "example": "Berlin hat viele Sehenswürdigkeiten."
+      "plural": "die SehenswÃ¼rdigkeiten",
+      "example": "Berlin hat viele SehenswÃ¼rdigkeiten."
     },
     {
       "word": "die Postkarte",
@@ -223,9 +223,9 @@
       "example": "In den Bergen ist es kalt."
     },
     {
-      "word": "schön",
+      "word": "schÃ¶n",
       "meaning": "beautiful",
-      "example": "Die Landschaft ist schön."
+      "example": "Die Landschaft ist schÃ¶n."
     },
     {
       "word": "entspannen",
@@ -248,9 +248,9 @@
       "example": "Das Wetter wird schlechter."
     },
     {
-      "word": "größer",
+      "word": "grÃ¶ÃŸer",
       "meaning": "bigger",
-      "example": "Das Zimmer ist größer."
+      "example": "Das Zimmer ist grÃ¶ÃŸer."
     },
     {
       "word": "kleiner",
@@ -280,12 +280,12 @@
     {
       "word": "als",
       "meaning": "than (comparison)",
-      "example": "Berlin ist größer als München."
+      "example": "Berlin ist grÃ¶ÃŸer als MÃ¼nchen."
     },
     {
       "word": "so...wie",
       "meaning": "as...as",
-      "example": "Hamburg ist so schön wie Köln."
+      "example": "Hamburg ist so schÃ¶n wie KÃ¶ln."
     },
     {
       "word": "das Abenteuer",
@@ -295,9 +295,9 @@
       "example": "Die Reise war ein Abenteuer."
     },
     {
-      "word": "genießen",
+      "word": "genieÃŸen",
       "meaning": "to enjoy",
-      "example": "Wir genießen den Urlaub."
+      "example": "Wir genieÃŸen den Urlaub."
     },
     {
       "word": "erleben",
@@ -305,9 +305,9 @@
       "example": "Wir erleben viel Neues."
     },
     {
-      "word": "zurückkommen",
+      "word": "zurÃ¼ckkommen",
       "meaning": "to come back",
-      "example": "Wann kommst du zurück?"
+      "example": "Wann kommst du zurÃ¼ck?"
     },
     {
       "word": "vermissen",
@@ -318,21 +318,21 @@
   "grammar": [
     {
       "topic": "Comparatives",
-      "explanation": "Add '-er' to the adjective stem. Many short adjectives get an umlaut (groß→größer, alt→älter). Use 'als' for 'than'. E.g. 'Berlin ist größer als München'.",
+      "explanation": "Add '-er' to the adjective stem. Many short adjectives get an umlaut (groÃŸâ†’grÃ¶ÃŸer, altâ†’Ã¤lter). Use 'als' for 'than'. E.g. 'Berlin ist grÃ¶ÃŸer als MÃ¼nchen'.",
       "examples": [
         "Das Hotel ist teurer als die Pension.",
-        "Der Sommer ist wärmer als der Frühling.",
+        "Der Sommer ist wÃ¤rmer als der FrÃ¼hling.",
         "Mein Koffer ist schwerer als deiner.",
-        "Dieses Zimmer ist schöner als das andere."
+        "Dieses Zimmer ist schÃ¶ner als das andere."
       ]
     },
     {
       "topic": "Superlatives",
-      "explanation": "Use 'am + adjective + sten' or 'der/die/das + adjective + ste'. Short adjectives often get an umlaut. E.g. 'am größten', 'der schönste'.",
+      "explanation": "Use 'am + adjective + sten' or 'der/die/das + adjective + ste'. Short adjectives often get an umlaut. E.g. 'am grÃ¶ÃŸten', 'der schÃ¶nste'.",
       "examples": [
-        "Das ist das schönste Hotel.",
+        "Das ist das schÃ¶nste Hotel.",
         "Am liebsten fahre ich nach Italien.",
-        "Der Rhein ist der längste Fluss.",
+        "Der Rhein ist der lÃ¤ngste Fluss.",
         "Das war der beste Urlaub."
       ]
     }
@@ -344,7 +344,7 @@
       "prompt": "I would like to book a room.",
       "tokens": [
         "Ich",
-        "möchte",
+        "mÃ¶chte",
         "ein",
         "Zimmer",
         "buchen.",
@@ -352,7 +352,7 @@
       ],
       "answer": [
         "Ich",
-        "möchte",
+        "mÃ¶chte",
         "ein",
         "Zimmer",
         "buchen."
@@ -365,17 +365,17 @@
       "tokens": [
         "Berlin",
         "ist",
-        "größer",
+        "grÃ¶ÃŸer",
         "als",
-        "München.",
+        "MÃ¼nchen.",
         "kleiner"
       ],
       "answer": [
         "Berlin",
         "ist",
-        "größer",
+        "grÃ¶ÃŸer",
         "als",
-        "München."
+        "MÃ¼nchen."
       ]
     },
     {
@@ -386,14 +386,14 @@
         "Wann",
         "kommst",
         "du",
-        "zurück?",
+        "zurÃ¼ck?",
         "weg?"
       ],
       "answer": [
         "Wann",
         "kommst",
         "du",
-        "zurück?"
+        "zurÃ¼ck?"
       ]
     }
   ],
@@ -444,7 +444,7 @@
       "id": "c22-fill-1",
       "type": "fill_blank",
       "prompt": "Ich ___ ein Zimmer buchen. (would like)",
-      "answer": "möchte",
+      "answer": "mÃ¶chte",
       "hint": "would like",
       "topic": "polite"
     },
@@ -467,7 +467,7 @@
     {
       "id": "c22-choice-1",
       "type": "choice",
-      "prompt": "What is 'die Sehenswürdigkeit'?",
+      "prompt": "What is 'die SehenswÃ¼rdigkeit'?",
       "options": [
         "the hotel",
         "the sight/attraction",
@@ -480,7 +480,7 @@
     {
       "id": "c22-choice-2",
       "type": "choice",
-      "prompt": "What does 'übernachten' mean?",
+      "prompt": "What does 'Ã¼bernachten' mean?",
       "options": [
         "to eat",
         "to sleep",

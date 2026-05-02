@@ -1,0 +1,224 @@
+{
+  "id": "A1_GF4",
+  "level": "A1",
+  "type": "grammarFocus",
+  "number": "GF4",
+  "title": "Perfekt mit haben",
+  "subtitle": "Conversational past with haben as auxiliary",
+  "focus": ["Perfekt", "Past Participle", "haben"],
+  "conceptSections": [
+    {
+      "id": "gf4-concept-1",
+      "heading": "When to use Perfekt",
+      "explanation": "In spoken German, the Perfekt tense is used to talk about past events. Written German often uses the PrÃ¤teritum (simple past), but in everyday conversation, Perfekt dominates. Compare: Written: 'Ich kaufte ein Buch.' vs Spoken: 'Ich habe ein Buch gekauft.'",
+      "examples": [
+        { "de": "Gestern habe ich lange geschlafen.", "en": "Yesterday I slept a long time.", "note": "Perfekt for spoken past" },
+        { "de": "Was hast du am Wochenende gemacht?", "en": "What did you do at the weekend?", "note": "Common question in Perfekt" }
+      ]
+    },
+    {
+      "id": "gf4-concept-2",
+      "heading": "Formation: haben + past participle",
+      "explanation": "Perfekt = conjugated 'haben' in position 2 + past participle at the end. This creates the Satzklammer (sentence bracket).",
+      "table": {
+        "headers": ["Pronoun", "haben (conjugated)"],
+        "rows": [
+          ["ich", "habe"],
+          ["du", "hast"],
+          ["er/es/sie", "hat"],
+          ["wir", "haben"],
+          ["ihr", "habt"],
+          ["sie/Sie", "haben"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich habe einen Brief geschrieben.", "en": "I wrote a letter.", "note": "haben in pos.2, geschrieben at end" },
+        { "de": "Hast du das Buch gelesen?", "en": "Did you read the book?", "note": "Question: haben first" }
+      ]
+    },
+    {
+      "id": "gf4-concept-3",
+      "heading": "Weak (regular) past participles",
+      "explanation": "Regular verbs form their past participle with ge- + verb stem + -t. These are called 'weak' verbs because the stem does not change.",
+      "table": {
+        "headers": ["Infinitive", "Past Participle", "English"],
+        "rows": [
+          ["machen", "gemacht", "done/made"],
+          ["kaufen", "gekauft", "bought"],
+          ["lernen", "gelernt", "learned"],
+          ["spielen", "gespielt", "played"],
+          ["kochen", "gekocht", "cooked"],
+          ["hÃ¶ren", "gehÃ¶rt", "heard"],
+          ["fragen", "gefragt", "asked"],
+          ["sagen", "gesagt", "said"],
+          ["arbeiten", "gearbeitet", "worked"],
+          ["warten", "gewartet", "waited"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich habe Deutsch gelernt.", "en": "I learned German.", "note": "lernen â†’ gelernt" },
+        { "de": "Sie hat Suppe gekocht.", "en": "She cooked soup.", "note": "kochen â†’ gekocht" }
+      ]
+    },
+    {
+      "id": "gf4-concept-4",
+      "heading": "Strong (irregular) past participles",
+      "explanation": "Irregular verbs change their stem in the past participle and end in -en. These must be memorised individually.",
+      "table": {
+        "headers": ["Infinitive", "Past Participle", "English"],
+        "rows": [
+          ["schreiben", "geschrieben", "written"],
+          ["lesen", "gelesen", "read"],
+          ["sehen", "gesehen", "seen"],
+          ["essen", "gegessen", "eaten"],
+          ["trinken", "getrunken", "drunk"],
+          ["nehmen", "genommen", "taken"],
+          ["sprechen", "gesprochen", "spoken"],
+          ["finden", "gefunden", "found"],
+          ["geben", "gegeben", "given"],
+          ["helfen", "geholfen", "helped"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich habe das Buch gelesen.", "en": "I read the book.", "note": "lesen â†’ gelesen" },
+        { "de": "Er hat Pizza gegessen.", "en": "He ate pizza.", "note": "essen â†’ gegessen" }
+      ]
+    },
+    {
+      "id": "gf4-concept-5",
+      "heading": "Satzklammer in Perfekt",
+      "explanation": "The Satzklammer (sentence bracket) places the conjugated verb (haben) in position 2 and the past participle at the final position. Everything else goes in between.",
+      "examples": [
+        { "de": "Ich | habe | gestern im Park | gespielt.", "en": "I played in the park yesterday.", "note": "habe = pos.2, gespielt = end" },
+        { "de": "Wir | haben | den ganzen Tag | gearbeitet.", "en": "We worked the whole day.", "note": "haben = pos.2, gearbeitet = end" }
+      ]
+    }
+  ],
+  "practice": [
+    { "id": "gf4-p1", "type": "fill_blank", "prompt": "Ich habe einen Brief ___. (schreiben)", "answer": "geschrieben", "topic": "Perfekt" },
+    { "id": "gf4-p2", "type": "fill_blank", "prompt": "Hast du das Buch ___? (lesen)", "answer": "gelesen", "topic": "Perfekt" },
+    { "id": "gf4-p3", "type": "fill_blank", "prompt": "Sie hat Suppe ___. (kochen)", "answer": "gekocht", "topic": "Perfekt" },
+    { "id": "gf4-p4", "type": "fill_blank", "prompt": "Wir haben FuÃŸball ___. (spielen)", "answer": "gespielt", "topic": "Perfekt" },
+    { "id": "gf4-p5", "type": "fill_blank", "prompt": "Er hat Pizza ___. (essen)", "answer": "gegessen", "topic": "Perfekt" },
+    { "id": "gf4-p6", "type": "fill_blank", "prompt": "Ich habe Musik ___. (hÃ¶ren)", "answer": "gehÃ¶rt", "topic": "Perfekt" },
+    { "id": "gf4-p7", "type": "fill_blank", "prompt": "Hast du die Antwort ___? (finden)", "answer": "gefunden", "topic": "Perfekt" },
+    { "id": "gf4-p8", "type": "fill_blank", "prompt": "Sie hat viel ___. (arbeiten)", "answer": "gearbeitet", "topic": "Perfekt" },
+    { "id": "gf4-p9", "type": "fill_blank", "prompt": "Wir haben den Film ___. (sehen)", "answer": "gesehen", "topic": "Perfekt" },
+    { "id": "gf4-p10", "type": "fill_blank", "prompt": "Er hat Wasser ___. (trinken)", "answer": "getrunken", "topic": "Perfekt" },
+    { "id": "gf4-p11", "type": "fill_blank", "prompt": "Ich habe die Frage ___. (fragen â€” past participle)", "answer": "gefragt", "topic": "Perfekt" },
+    { "id": "gf4-p12", "type": "fill_blank", "prompt": "Sie hat Deutsch ___. (sprechen)", "answer": "gesprochen", "topic": "Perfekt" },
+    { "id": "gf4-p13", "type": "fill_blank", "prompt": "Er hat mir das Buch ___. (geben)", "answer": "gegeben", "topic": "Perfekt" },
+    { "id": "gf4-p14", "type": "fill_blank", "prompt": "Wir haben lange ___. (warten)", "answer": "gewartet", "topic": "Perfekt" },
+    { "id": "gf4-p15", "type": "fill_blank", "prompt": "Ich habe es ___. (sagen)", "answer": "gesagt", "topic": "Perfekt" },
+    { "id": "gf4-p16", "type": "choice", "prompt": "Choose the correct past participle of 'nehmen'.", "options": ["genehmt", "genommen", "genommt", "nehmt"], "answer": "genommen", "topic": "Perfekt" },
+    { "id": "gf4-p17", "type": "choice", "prompt": "Choose the correct past participle of 'machen'.", "options": ["gemacht", "gemachen", "gemakt", "machte"], "answer": "gemacht", "topic": "Perfekt" },
+    { "id": "gf4-p18", "type": "choice", "prompt": "Choose the correct past participle of 'trinken'.", "options": ["getrinkt", "getrunkt", "getrunken", "trinkt"], "answer": "getrunken", "topic": "Perfekt" },
+    { "id": "gf4-p19", "type": "choice", "prompt": "Choose the correct past participle of 'helfen'.", "options": ["geholfen", "gehelft", "gehilft", "gehelfen"], "answer": "geholfen", "topic": "Perfekt" },
+    { "id": "gf4-p20", "type": "choice", "prompt": "Choose the correct past participle of 'kaufen'.", "options": ["gekaufen", "gekauft", "kaufte", "gekooft"], "answer": "gekauft", "topic": "Perfekt" },
+    { "id": "gf4-p21", "type": "choice", "prompt": "Choose the correct past participle of 'essen'.", "options": ["geesst", "geessen", "gegessen", "esste"], "answer": "gegessen", "topic": "Perfekt" },
+    { "id": "gf4-p22", "type": "sentence_order", "prompt": "I learned German.", "tokens": ["habe", "Ich", "Deutsch", "gelernt", "."], "answer": ["Ich", "habe", "Deutsch", "gelernt", "."], "topic": "Perfekt" },
+    { "id": "gf4-p23", "type": "sentence_order", "prompt": "She cooked dinner.", "tokens": ["hat", "Abendessen", "Sie", "gekocht", "."], "answer": ["Sie", "hat", "Abendessen", "gekocht", "."], "topic": "Perfekt" },
+    { "id": "gf4-p24", "type": "sentence_order", "prompt": "Did you read the book?", "tokens": ["du", "das", "Hast", "Buch", "gelesen", "?"], "answer": ["Hast", "du", "das", "Buch", "gelesen", "?"], "topic": "Perfekt" },
+    { "id": "gf4-p25", "type": "sentence_order", "prompt": "We played football yesterday.", "tokens": ["haben", "gestern", "Wir", "FuÃŸball", "gespielt", "."], "answer": ["Wir", "haben", "gestern", "FuÃŸball", "gespielt", "."], "topic": "Perfekt" },
+    { "id": "gf4-p26", "type": "fill_blank", "prompt": "Was ___ du gestern gemacht? (haben)", "answer": "hast", "topic": "Perfekt" },
+    { "id": "gf4-p27", "type": "fill_blank", "prompt": "Wir ___ den ganzen Tag gearbeitet. (haben)", "answer": "haben", "topic": "Perfekt" },
+    { "id": "gf4-p28", "type": "fill_blank", "prompt": "Er ___ ein Lied gesungen. (haben)", "answer": "hat", "topic": "Perfekt" },
+    { "id": "gf4-p29", "type": "fill_blank", "prompt": "Ihr ___ gut gespielt. (haben)", "answer": "habt", "topic": "Perfekt" },
+    { "id": "gf4-p30", "type": "fill_blank", "prompt": "Ich habe ein neues Wort ___. (lernen)", "answer": "gelernt", "topic": "Perfekt" },
+    { "id": "gf4-p31", "type": "fill_blank", "prompt": "Sie hat den Kuchen ___. (backen)", "answer": "gebacken", "topic": "Perfekt" },
+    { "id": "gf4-p32", "type": "fill_blank", "prompt": "Wir haben die Rechnung ___. (bezahlen)", "answer": "bezahlt", "topic": "Perfekt" },
+    { "id": "gf4-p33", "type": "fill_blank", "prompt": "Er hat alles ___. (verstehen)", "answer": "verstanden", "topic": "Perfekt" },
+    { "id": "gf4-p34", "type": "fill_blank", "prompt": "Ich habe nichts ___. (vergessen)", "answer": "vergessen", "topic": "Perfekt" },
+    { "id": "gf4-p35", "type": "fill_blank", "prompt": "Sie hat das Foto ___. (machen)", "answer": "gemacht", "topic": "Perfekt" },
+    { "id": "gf4-p36", "type": "fill_blank", "prompt": "Hast du den SchlÃ¼ssel ___? (suchen)", "answer": "gesucht", "topic": "Perfekt" },
+    { "id": "gf4-p37", "type": "fill_blank", "prompt": "Er hat mir ___. (helfen)", "answer": "geholfen", "topic": "Perfekt" },
+    { "id": "gf4-p38", "type": "fill_blank", "prompt": "Wir haben die Zeitung ___. (lesen)", "answer": "gelesen", "topic": "Perfekt" },
+    { "id": "gf4-p39", "type": "fill_blank", "prompt": "Sie hat einen Kaffee ___. (bestellen)", "answer": "bestellt", "topic": "Perfekt" },
+    { "id": "gf4-p40", "type": "fill_blank", "prompt": "Ich habe das Radio ___. (anmachen â€” past participle)", "answer": "angemacht", "topic": "Perfekt" },
+    { "id": "gf4-p41", "type": "choice", "prompt": "Which auxiliary is used with 'schreiben'?", "options": ["sein", "haben", "werden", "kÃ¶nnen"], "answer": "haben", "topic": "Perfekt" },
+    { "id": "gf4-p42", "type": "choice", "prompt": "Which auxiliary is used with 'essen'?", "options": ["sein", "haben", "werden", "mÃ¶gen"], "answer": "haben", "topic": "Perfekt" },
+    { "id": "gf4-p43", "type": "fill_blank", "prompt": "Er hat den ganzen Tag ___. (schlafen)", "answer": "geschlafen", "topic": "Perfekt" },
+    { "id": "gf4-p44", "type": "fill_blank", "prompt": "Wir haben das Problem ___. (lÃ¶sen)", "answer": "gelÃ¶st", "topic": "Perfekt" },
+    { "id": "gf4-p45", "type": "fill_blank", "prompt": "Sie hat ein Bild ___. (malen)", "answer": "gemalt", "topic": "Perfekt" },
+    { "id": "gf4-p46", "type": "sentence_order", "prompt": "He ate pizza.", "tokens": ["hat", "Er", "Pizza", "gegessen", "."], "answer": ["Er", "hat", "Pizza", "gegessen", "."], "topic": "Perfekt" },
+    { "id": "gf4-p47", "type": "sentence_order", "prompt": "I wrote a letter.", "tokens": ["habe", "einen", "Ich", "Brief", "geschrieben", "."], "answer": ["Ich", "habe", "einen", "Brief", "geschrieben", "."], "topic": "Perfekt" },
+    { "id": "gf4-p48", "type": "fill_blank", "prompt": "Ich habe eine E-Mail ___. (schicken)", "answer": "geschickt", "topic": "Perfekt" },
+    { "id": "gf4-p49", "type": "fill_blank", "prompt": "Er hat die Aufgabe ___. (erklÃ¤ren)", "answer": "erklÃ¤rt", "topic": "Perfekt" },
+    { "id": "gf4-p50", "type": "fill_blank", "prompt": "Hast du gut ___? (schlafen)", "answer": "geschlafen", "topic": "Perfekt" }
+  ],
+  "quiz": [
+    { "id": "gf4-q1", "type": "mcq", "prompt": "In Perfekt, where does the past participle go?", "options": ["Position 1", "Position 2", "After the subject", "At the end"], "answer": "At the end", "topic": "Perfekt" },
+    { "id": "gf4-q2", "type": "fill_blank", "prompt": "Ich ___ einen Kuchen gebacken.", "answer": "habe", "topic": "Perfekt" },
+    { "id": "gf4-q3", "type": "mcq", "prompt": "What is the past participle of 'schreiben'?", "options": ["geschreibt", "geschrieben", "schrieben", "geschreibt"], "answer": "geschrieben", "topic": "Perfekt" },
+    { "id": "gf4-q4", "type": "fill_blank", "prompt": "Er hat Kaffee ___. (trinken)", "answer": "getrunken", "topic": "Perfekt" },
+    { "id": "gf4-q5", "type": "mcq", "prompt": "Which ending do regular past participles have?", "options": ["-en", "-t", "-te", "-et"], "answer": "-t", "topic": "Perfekt" },
+    { "id": "gf4-q6", "type": "fill_blank", "prompt": "Wir haben Deutsch ___. (lernen)", "answer": "gelernt", "topic": "Perfekt" },
+    { "id": "gf4-q7", "type": "mcq", "prompt": "What is 'haben' conjugated for 'du'?", "options": ["habe", "hast", "hat", "habt"], "answer": "hast", "topic": "Perfekt" },
+    { "id": "gf4-q8", "type": "fill_blank", "prompt": "Sie hat das Lied ___. (singen)", "answer": "gesungen", "topic": "Perfekt" },
+    { "id": "gf4-q9", "type": "mcq", "prompt": "Which verb forms are 'weak' (regular)?", "options": ["ge- + stem + -en", "ge- + stem + -t", "stem + -te", "stem change + -en"], "answer": "ge- + stem + -t", "topic": "Perfekt" },
+    { "id": "gf4-q10", "type": "fill_blank", "prompt": "Hast du die Frage ___? (verstehen)", "answer": "verstanden", "topic": "Perfekt" },
+    { "id": "gf4-q11", "type": "mcq", "prompt": "What is the past participle of 'nehmen'?", "options": ["genommt", "genommen", "genehmt", "nehmen"], "answer": "genommen", "topic": "Perfekt" },
+    { "id": "gf4-q12", "type": "fill_blank", "prompt": "Ich habe das Geschenk ___. (kaufen)", "answer": "gekauft", "topic": "Perfekt" }
+  ],
+  "games": [
+    {
+      "type": "timeline_story",
+      "id": "gf4-ts-1",
+      "variants": [
+        {
+          "storyTitle": "Emmas Arbeitstag",
+          "events": [
+            { "id": "ts-e1", "de": "Emma hat um 7 Uhr gefrÃ¼hstÃ¼ckt.", "en": "Emma had breakfast at 7.", "order": 1 },
+            { "id": "ts-e2", "de": "Sie hat die Zeitung gelesen.", "en": "She read the newspaper.", "order": 2 },
+            { "id": "ts-e3", "de": "Um 8 Uhr hat sie mit der Arbeit angefangen.", "en": "At 8 she started work.", "order": 3 },
+            { "id": "ts-e4", "de": "Mittags hat sie eine Suppe gekocht.", "en": "At noon she cooked a soup.", "order": 4 },
+            { "id": "ts-e5", "de": "Am Nachmittag hat sie E-Mails geschrieben.", "en": "In the afternoon she wrote emails.", "order": 5 },
+            { "id": "ts-e6", "de": "Abends hat sie einen Film gesehen.", "en": "In the evening she watched a movie.", "order": 6 }
+          ]
+        },
+        {
+          "storyTitle": "Ein Samstag in Berlin",
+          "events": [
+            { "id": "ts2-e1", "de": "Thomas hat bis 10 Uhr geschlafen.", "en": "Thomas slept until 10.", "order": 1 },
+            { "id": "ts2-e2", "de": "Er hat einen Kaffee getrunken.", "en": "He drank a coffee.", "order": 2 },
+            { "id": "ts2-e3", "de": "Dann hat er seine Freunde getroffen.", "en": "Then he met his friends.", "order": 3 },
+            { "id": "ts2-e4", "de": "Sie haben zusammen Pizza gegessen.", "en": "They ate pizza together.", "order": 4 },
+            { "id": "ts2-e5", "de": "Am Abend haben sie Musik gehÃ¶rt.", "en": "In the evening they listened to music.", "order": 5 },
+            { "id": "ts2-e6", "de": "SpÃ¤t hat er ein Buch gelesen.", "en": "Late he read a book.", "order": 6 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjugation_grid",
+      "id": "gf4-cg-1",
+      "verbs": [
+        { "id": "cg-1", "verb": "machen (Perfekt)", "tense": "perfekt_haben", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["habe gemacht", "hast gemacht", "hat gemacht", "haben gemacht", "habt gemacht", "haben gemacht"] },
+        { "id": "cg-2", "verb": "lesen (Perfekt)", "tense": "perfekt_haben", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["habe gelesen", "hast gelesen", "hat gelesen", "haben gelesen", "habt gelesen", "haben gelesen"] },
+        { "id": "cg-3", "verb": "essen (Perfekt)", "tense": "perfekt_haben", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["habe gegessen", "hast gegessen", "hat gegessen", "haben gegessen", "habt gegessen", "haben gegessen"] },
+        { "id": "cg-4", "verb": "schreiben (Perfekt)", "tense": "perfekt_haben", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["habe geschrieben", "hast geschrieben", "hat geschrieben", "haben geschrieben", "habt geschrieben", "haben geschrieben"] },
+        { "id": "cg-5", "verb": "trinken (Perfekt)", "tense": "perfekt_haben", "pronouns": ["ich", "du", "er/es/sie", "wir", "ihr", "sie/Sie"], "answers": ["habe getrunken", "hast getrunken", "hat getrunken", "haben getrunken", "habt getrunken", "haben getrunken"] }
+      ]
+    },
+    {
+      "type": "preposition_sorter",
+      "id": "gf4-ps-1",
+      "items": [
+        { "id": "ps-1", "word": "machen", "correctBucket": "haben" },
+        { "id": "ps-2", "word": "kaufen", "correctBucket": "haben" },
+        { "id": "ps-3", "word": "lernen", "correctBucket": "haben" },
+        { "id": "ps-4", "word": "spielen", "correctBucket": "haben" },
+        { "id": "ps-5", "word": "kochen", "correctBucket": "haben" },
+        { "id": "ps-6", "word": "schreiben", "correctBucket": "haben" },
+        { "id": "ps-7", "word": "lesen", "correctBucket": "haben" },
+        { "id": "ps-8", "word": "essen", "correctBucket": "haben" },
+        { "id": "ps-9", "word": "trinken", "correctBucket": "haben" },
+        { "id": "ps-10", "word": "sehen", "correctBucket": "haben" }
+      ],
+      "buckets": [
+        { "id": "haben", "label": "haben" },
+        { "id": "sein", "label": "sein" }
+      ]
+    }
+  ]
+}

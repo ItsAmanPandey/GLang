@@ -1,0 +1,161 @@
+{
+  "id": "A1_GF1",
+  "level": "A1",
+  "type": "grammarFocus",
+  "number": "GF1",
+  "title": "Der Nominativ",
+  "subtitle": "Subjects, articles, and personal pronouns",
+  "focus": ["Nominativ", "Articles", "Personal Pronouns"],
+  "conceptSections": [
+    {
+      "id": "gf1-concept-1",
+      "heading": "What is the nominative case?",
+      "explanation": "The nominative case marks the subject of a sentence â€” the person or thing performing the action. Every German sentence has a subject, and that subject is always in the nominative case. When you say 'Der Hund schlÃ¤ft', the dog (der Hund) is the subject â€” it is the one sleeping.",
+      "table": {
+        "headers": ["Gender", "Definite", "Indefinite", "Negative"],
+        "rows": [
+          ["Masculine", "der", "ein", "kein"],
+          ["Neuter", "das", "ein", "kein"],
+          ["Feminine", "die", "eine", "keine"],
+          ["Plural", "die", "â€”", "keine"]
+        ]
+      },
+      "examples": [
+        { "de": "Der Tisch ist groÃŸ.", "en": "The table is big.", "note": "der = masculine nominative" },
+        { "de": "Das Kind spielt drauÃŸen.", "en": "The child is playing outside.", "note": "das = neuter nominative" },
+        { "de": "Die Lampe ist neu.", "en": "The lamp is new.", "note": "die = feminine nominative" },
+        { "de": "Ein Mann wartet an der TÃ¼r.", "en": "A man is waiting at the door.", "note": "ein = masculine indefinite" },
+        { "de": "Keine Katze sitzt auf dem Sofa.", "en": "No cat is sitting on the sofa.", "note": "keine = feminine negative" }
+      ]
+    },
+    {
+      "id": "gf1-concept-2",
+      "heading": "Identifying the subject",
+      "explanation": "To find the subject, ask 'Wer?' (Who?) or 'Was?' (What?) before the verb. The answer is the subject and takes the nominative case. In German, the subject can sometimes appear after the verb, especially after adverbs or in questions.",
+      "examples": [
+        { "de": "Die Lehrerin erklÃ¤rt die Aufgabe.", "en": "The teacher explains the exercise.", "note": "Wer erklÃ¤rt? â†’ Die Lehrerin (subject)" },
+        { "de": "Morgen kommt mein Bruder.", "en": "Tomorrow my brother is coming.", "note": "Wer kommt? â†’ mein Bruder (subject after verb)" },
+        { "de": "Das Wetter ist heute schÃ¶n.", "en": "The weather is nice today.", "note": "Was ist schÃ¶n? â†’ Das Wetter (subject)" },
+        { "de": "Hier wohnt eine alte Frau.", "en": "An old woman lives here.", "note": "Wer wohnt hier? â†’ eine alte Frau (subject)" },
+        { "de": "Am Abend liest der Vater ein Buch.", "en": "In the evening the father reads a book.", "note": "Wer liest? â†’ der Vater (subject)" }
+      ]
+    },
+    {
+      "id": "gf1-concept-3",
+      "heading": "Personal pronouns in the nominative",
+      "explanation": "Personal pronouns replace nouns when the subject is already known. German has nine personal pronoun forms in the nominative, including the formal 'Sie' (always capitalised).",
+      "table": {
+        "headers": ["German", "English", "Example"],
+        "rows": [
+          ["ich", "I", "Ich lerne Deutsch."],
+          ["du", "you (informal sg.)", "Du bist nett."],
+          ["er", "he", "Er arbeitet viel."],
+          ["es", "it", "Es regnet heute."],
+          ["sie", "she", "Sie singt gern."],
+          ["wir", "we", "Wir kochen zusammen."],
+          ["ihr", "you (informal pl.)", "Ihr seid lustig."],
+          ["sie", "they", "Sie spielen FuÃŸball."],
+          ["Sie", "you (formal)", "Sie sprechen gut Deutsch."]
+        ]
+      },
+      "examples": [
+        { "de": "Ich bin mÃ¼de.", "en": "I am tired.", "note": "ich = first person singular" },
+        { "de": "Wir fahren nach Hamburg.", "en": "We are driving to Hamburg.", "note": "wir = first person plural" },
+        { "de": "Sie kommen aus Frankreich.", "en": "They come from France. / You come from France. (formal)", "note": "Context determines meaning" }
+      ]
+    }
+  ],
+  "practice": [
+    { "id": "gf1-p1", "type": "fill_blank", "prompt": "___ Stuhl ist braun.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p2", "type": "fill_blank", "prompt": "___ Fenster ist offen.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p3", "type": "fill_blank", "prompt": "___ Uhr zeigt drei.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p4", "type": "fill_blank", "prompt": "___ Lehrer spricht laut.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p5", "type": "fill_blank", "prompt": "___ Bild hÃ¤ngt an der Wand.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p6", "type": "fill_blank", "prompt": "___ TÃ¼r ist geschlossen.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p7", "type": "fill_blank", "prompt": "___ KÃ¼hlschrank ist leer.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p8", "type": "fill_blank", "prompt": "___ Sofa ist bequem.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p9", "type": "fill_blank", "prompt": "___ Tasche liegt auf dem Tisch.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p10", "type": "fill_blank", "prompt": "___ Computer funktioniert nicht.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p11", "type": "fill_blank", "prompt": "___ Handy klingelt.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p12", "type": "fill_blank", "prompt": "___ Blume ist rot.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p13", "type": "fill_blank", "prompt": "___ Schrank steht im Schlafzimmer.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p14", "type": "fill_blank", "prompt": "___ Auto fÃ¤hrt schnell.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p15", "type": "fill_blank", "prompt": "___ Katze schlÃ¤ft gern.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p16", "type": "fill_blank", "prompt": "___ Teppich ist weich.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p17", "type": "choice", "prompt": "Die Frau kauft Brot. â†’ Replace 'Die Frau' with a pronoun.", "options": ["Er", "Sie", "Es", "Wir"], "answer": "Sie", "topic": "Pronouns" },
+    { "id": "gf1-p18", "type": "choice", "prompt": "Der Junge spielt Gitarre. â†’ Replace 'Der Junge' with a pronoun.", "options": ["Er", "Sie", "Es", "Ihr"], "answer": "Er", "topic": "Pronouns" },
+    { "id": "gf1-p19", "type": "choice", "prompt": "Das MÃ¤dchen lacht. â†’ Replace 'Das MÃ¤dchen' with a pronoun.", "options": ["Er", "Sie", "Es", "Du"], "answer": "Es", "topic": "Pronouns" },
+    { "id": "gf1-p20", "type": "choice", "prompt": "Tom und ich lernen Deutsch. â†’ Replace 'Tom und ich' with a pronoun.", "options": ["Sie", "Ihr", "Wir", "Er"], "answer": "Wir", "topic": "Pronouns" },
+    { "id": "gf1-p21", "type": "choice", "prompt": "Anna und du seid nett. â†’ Replace 'Anna und du' with a pronoun.", "options": ["Wir", "Ihr", "Sie", "Du"], "answer": "Ihr", "topic": "Pronouns" },
+    { "id": "gf1-p22", "type": "choice", "prompt": "Die Kinder spielen drauÃŸen. â†’ Replace 'Die Kinder' with a pronoun.", "options": ["Er", "Es", "Sie", "Wir"], "answer": "Sie", "topic": "Pronouns" },
+    { "id": "gf1-p23", "type": "sentence_order", "prompt": "The dog sleeps.", "tokens": ["schlÃ¤ft", "Der", "Hund", "."], "answer": ["Der", "Hund", "schlÃ¤ft", "."], "topic": "Nominativ" },
+    { "id": "gf1-p24", "type": "sentence_order", "prompt": "Tomorrow a friend is coming.", "tokens": ["kommt", "Morgen", "Freund", "ein", "."], "answer": ["Morgen", "kommt", "ein", "Freund", "."], "topic": "Nominativ" },
+    { "id": "gf1-p25", "type": "sentence_order", "prompt": "The children are playing in the garden.", "tokens": ["Die", "spielen", "im", "Kinder", "Garten", "."], "answer": ["Die", "Kinder", "spielen", "im", "Garten", "."], "topic": "Nominativ" },
+    { "id": "gf1-p26", "type": "sentence_order", "prompt": "We are learning German.", "tokens": ["lernen", "Wir", "Deutsch", "."], "answer": ["Wir", "lernen", "Deutsch", "."], "topic": "Nominativ" },
+    { "id": "gf1-p27", "type": "fill_blank", "prompt": "___ Spiegel ist zerbrochen.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p28", "type": "fill_blank", "prompt": "___ Wohnung ist klein.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p29", "type": "fill_blank", "prompt": "___ Zimmer ist dunkel.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p30", "type": "fill_blank", "prompt": "___ Garten ist schÃ¶n.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p31", "type": "fill_blank", "prompt": "___ StraÃŸe ist lang.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p32", "type": "fill_blank", "prompt": "___ Regal steht im BÃ¼ro.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p33", "type": "choice", "prompt": "Which pronoun replaces 'Herr MÃ¼ller'?", "options": ["ich", "er", "sie", "es"], "answer": "er", "topic": "Pronouns" },
+    { "id": "gf1-p34", "type": "choice", "prompt": "Which pronoun replaces 'Frau Schmidt und Herr Weber'?", "options": ["wir", "ihr", "sie", "er"], "answer": "sie", "topic": "Pronouns" },
+    { "id": "gf1-p35", "type": "fill_blank", "prompt": "___ Kuchen schmeckt gut.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p36", "type": "fill_blank", "prompt": "___ Milch ist kalt.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p37", "type": "fill_blank", "prompt": "___ Ei ist hart.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p38", "type": "fill_blank", "prompt": "___ LÃ¶ffel liegt neben dem Teller.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p39", "type": "fill_blank", "prompt": "___ Gabel ist aus Silber.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p40", "type": "fill_blank", "prompt": "___ Messer ist scharf.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p41", "type": "sentence_order", "prompt": "She reads a book.", "tokens": ["liest", "Sie", "Buch", "ein", "."], "answer": ["Sie", "liest", "ein", "Buch", "."], "topic": "Nominativ" },
+    { "id": "gf1-p42", "type": "sentence_order", "prompt": "The cat is small.", "tokens": ["ist", "Die", "klein", "Katze", "."], "answer": ["Die", "Katze", "ist", "klein", "."], "topic": "Nominativ" },
+    { "id": "gf1-p43", "type": "fill_blank", "prompt": "___ Mantel hÃ¤ngt im Flur.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p44", "type": "fill_blank", "prompt": "___ Jacke ist warm.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p45", "type": "fill_blank", "prompt": "___ Hemd ist weiÃŸ.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" },
+    { "id": "gf1-p46", "type": "choice", "prompt": "Which is the subject? 'Am Montag besucht der Opa die Familie.'", "options": ["Am Montag", "der Opa", "die Familie", "besucht"], "answer": "der Opa", "topic": "Nominativ" },
+    { "id": "gf1-p47", "type": "choice", "prompt": "Which is the subject? 'Heute kocht meine Mutter Suppe.'", "options": ["Heute", "meine Mutter", "Suppe", "kocht"], "answer": "meine Mutter", "topic": "Nominativ" },
+    { "id": "gf1-p48", "type": "fill_blank", "prompt": "___ SchlÃ¼ssel liegt auf dem Regal.", "answer": "Der", "hint": "masculine article", "topic": "Nominativ" },
+    { "id": "gf1-p49", "type": "fill_blank", "prompt": "___ Brille ist teuer.", "answer": "Die", "hint": "feminine article", "topic": "Nominativ" },
+    { "id": "gf1-p50", "type": "fill_blank", "prompt": "___ Telefon klingelt laut.", "answer": "Das", "hint": "neuter article", "topic": "Nominativ" }
+  ],
+  "quiz": [
+    { "id": "gf1-q1", "type": "mcq", "prompt": "Which article goes with 'Tisch' in the nominative?", "options": ["der", "die", "das", "den"], "answer": "der", "topic": "Nominativ" },
+    { "id": "gf1-q2", "type": "mcq", "prompt": "Which article goes with 'Lampe' in the nominative?", "options": ["der", "die", "das", "dem"], "answer": "die", "topic": "Nominativ" },
+    { "id": "gf1-q3", "type": "fill_blank", "prompt": "___ Kind lacht laut.", "answer": "Das", "topic": "Nominativ" },
+    { "id": "gf1-q4", "type": "mcq", "prompt": "Which pronoun replaces 'der Bruder'?", "options": ["ich", "er", "sie", "es"], "answer": "er", "topic": "Pronouns" },
+    { "id": "gf1-q5", "type": "mcq", "prompt": "Which pronoun replaces 'die Schwester'?", "options": ["er", "sie", "es", "wir"], "answer": "sie", "topic": "Pronouns" },
+    { "id": "gf1-q6", "type": "fill_blank", "prompt": "___ Hund bellt jeden Morgen.", "answer": "Der", "topic": "Nominativ" },
+    { "id": "gf1-q7", "type": "mcq", "prompt": "What does the nominative case mark?", "options": ["The direct object", "The subject", "The indirect object", "The preposition"], "answer": "The subject", "topic": "Nominativ" },
+    { "id": "gf1-q8", "type": "fill_blank", "prompt": "___ Wasser ist kalt.", "answer": "Das", "topic": "Nominativ" },
+    { "id": "gf1-q9", "type": "mcq", "prompt": "Which pronoun means 'we'?", "options": ["ihr", "sie", "wir", "ich"], "answer": "wir", "topic": "Pronouns" },
+    { "id": "gf1-q10", "type": "mcq", "prompt": "What is the subject in 'Morgen kommt der Bus'?", "options": ["Morgen", "kommt", "der Bus", "der"], "answer": "der Bus", "topic": "Nominativ" }
+  ],
+  "games": [
+    {
+      "type": "article_battle",
+      "id": "gf1-ab-1",
+      "mode": "nominativ",
+      "items": [
+        { "id": "ab-1", "noun": "Tisch", "article": "der", "mode": "nominativ" },
+        { "id": "ab-2", "noun": "Stuhl", "article": "der", "mode": "nominativ" },
+        { "id": "ab-3", "noun": "Lampe", "article": "die", "mode": "nominativ" },
+        { "id": "ab-4", "noun": "Fenster", "article": "das", "mode": "nominativ" },
+        { "id": "ab-5", "noun": "KÃ¼che", "article": "die", "mode": "nominativ" },
+        { "id": "ab-6", "noun": "Bett", "article": "das", "mode": "nominativ" },
+        { "id": "ab-7", "noun": "Schrank", "article": "der", "mode": "nominativ" },
+        { "id": "ab-8", "noun": "TÃ¼r", "article": "die", "mode": "nominativ" },
+        { "id": "ab-9", "noun": "Sofa", "article": "das", "mode": "nominativ" },
+        { "id": "ab-10", "noun": "Garten", "article": "der", "mode": "nominativ" },
+        { "id": "ab-11", "noun": "Blume", "article": "die", "mode": "nominativ" },
+        { "id": "ab-12", "noun": "Kind", "article": "das", "mode": "nominativ" },
+        { "id": "ab-13", "noun": "Spiegel", "article": "der", "mode": "nominativ" },
+        { "id": "ab-14", "noun": "Tasche", "article": "die", "mode": "nominativ" },
+        { "id": "ab-15", "noun": "Buch", "article": "das", "mode": "nominativ" },
+        { "id": "ab-16", "noun": "LÃ¶ffel", "article": "der", "mode": "nominativ" },
+        { "id": "ab-17", "noun": "Gabel", "article": "die", "mode": "nominativ" },
+        { "id": "ab-18", "noun": "Messer", "article": "das", "mode": "nominativ" },
+        { "id": "ab-19", "noun": "Kuchen", "article": "der", "mode": "nominativ" },
+        { "id": "ab-20", "noun": "Milch", "article": "die", "mode": "nominativ" }
+      ]
+    }
+  ]
+}

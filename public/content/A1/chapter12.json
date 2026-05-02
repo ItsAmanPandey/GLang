@@ -44,14 +44,14 @@
       "meaning": "week",
       "article": "die",
       "plural": "die Wochen",
-      "example": "Nächste Woche habe ich Urlaub."
+      "example": "NÃ¤chste Woche habe ich Urlaub."
     },
     {
       "word": "der Tag",
       "meaning": "day",
       "article": "der",
       "plural": "die Tage",
-      "example": "Ein schöner Tag!"
+      "example": "Ein schÃ¶ner Tag!"
     },
     {
       "word": "heute",
@@ -64,9 +64,9 @@
       "example": "Morgen gehen wir ins Kino."
     },
     {
-      "word": "übermorgen",
+      "word": "Ã¼bermorgen",
       "meaning": "the day after tomorrow",
-      "example": "Übermorgen habe ich Zeit."
+      "example": "Ãœbermorgen habe ich Zeit."
     },
     {
       "word": "gestern",
@@ -131,9 +131,9 @@
       "example": "Der Februar ist kurz."
     },
     {
-      "word": "März",
+      "word": "MÃ¤rz",
       "meaning": "March",
-      "example": "Im März beginnt der Frühling."
+      "example": "Im MÃ¤rz beginnt der FrÃ¼hling."
     },
     {
       "word": "April",
@@ -143,7 +143,7 @@
     {
       "word": "Mai",
       "meaning": "May",
-      "example": "Im Mai blühen die Blumen."
+      "example": "Im Mai blÃ¼hen die Blumen."
     },
     {
       "word": "Juni",
@@ -163,12 +163,12 @@
     {
       "word": "September",
       "meaning": "September",
-      "example": "Im September fängt die Schule an."
+      "example": "Im September fÃ¤ngt die Schule an."
     },
     {
       "word": "Oktober",
       "meaning": "October",
-      "example": "Im Oktober fallen die Blätter."
+      "example": "Im Oktober fallen die BlÃ¤tter."
     },
     {
       "word": "November",
@@ -181,26 +181,26 @@
       "example": "Im Dezember feiern wir Weihnachten."
     },
     {
-      "word": "früh",
+      "word": "frÃ¼h",
       "meaning": "early",
-      "example": "Ich muss früh aufstehen."
+      "example": "Ich muss frÃ¼h aufstehen."
     },
     {
-      "word": "spät",
+      "word": "spÃ¤t",
       "meaning": "late",
-      "example": "Du bist zu spät."
+      "example": "Du bist zu spÃ¤t."
     },
     {
-      "word": "pünktlich",
+      "word": "pÃ¼nktlich",
       "meaning": "on time/punctual",
-      "example": "Der Zug ist pünktlich."
+      "example": "Der Zug ist pÃ¼nktlich."
     },
     {
-      "word": "die Verspätung",
+      "word": "die VerspÃ¤tung",
       "meaning": "delay",
       "article": "die",
-      "plural": "die Verspätungen",
-      "example": "Der Bus hat Verspätung."
+      "plural": "die VerspÃ¤tungen",
+      "example": "Der Bus hat VerspÃ¤tung."
     },
     {
       "word": "die Uhr",
@@ -233,7 +233,7 @@
     {
       "word": "anfangen",
       "meaning": "to start/begin",
-      "example": "Der Kurs fängt um 9 an."
+      "example": "Der Kurs fÃ¤ngt um 9 an."
     },
     {
       "word": "enden",
@@ -248,7 +248,7 @@
     {
       "word": "abmachen",
       "meaning": "to agree upon/arrange",
-      "example": "Wir müssen einen Termin abmachen."
+      "example": "Wir mÃ¼ssen einen Termin abmachen."
     },
     {
       "word": "absagen",
@@ -258,7 +258,7 @@
     {
       "word": "verschieben",
       "meaning": "to postpone",
-      "example": "Können wir das Meeting verschieben?"
+      "example": "KÃ¶nnen wir das Meeting verschieben?"
     },
     {
       "word": "vereinbaren",
@@ -289,12 +289,12 @@
       "meaning": "invitation",
       "article": "die",
       "plural": "die Einladungen",
-      "example": "Danke für die Einladung."
+      "example": "Danke fÃ¼r die Einladung."
     },
     {
-      "word": "nächste",
+      "word": "nÃ¤chste",
       "meaning": "next",
-      "example": "Wir sehen uns nächste Woche."
+      "example": "Wir sehen uns nÃ¤chste Woche."
     },
     {
       "word": "letzte",
@@ -333,14 +333,14 @@
         "Der",
         "Zug",
         "hat",
-        "Verspätung.",
-        "früh"
+        "VerspÃ¤tung.",
+        "frÃ¼h"
       ],
       "answer": [
         "Der",
         "Zug",
         "hat",
-        "Verspätung."
+        "VerspÃ¤tung."
       ]
     },
     {
@@ -351,7 +351,7 @@
         "Wir",
         "sehen",
         "uns",
-        "nächste",
+        "nÃ¤chste",
         "Woche.",
         "Monat."
       ],
@@ -359,7 +359,7 @@
         "Wir",
         "sehen",
         "uns",
-        "nächste",
+        "nÃ¤chste",
         "Woche."
       ]
     },
@@ -420,7 +420,7 @@
       "id": "c12-quiz-4",
       "type": "fill_blank",
       "prompt": "Wir sehen uns ___ Woche.",
-      "answer": "nächste",
+      "answer": "nÃ¤chste",
       "topic": "time"
     }
   ],
@@ -482,7 +482,7 @@
       "tokens": [
         "Der",
         "Kurs",
-        "fängt",
+        "fÃ¤ngt",
         "um",
         "9",
         "an."
@@ -490,7 +490,7 @@
       "answer": [
         "Der",
         "Kurs",
-        "fängt",
+        "fÃ¤ngt",
         "um",
         "9",
         "an."
@@ -519,7 +519,7 @@
       "id": "c12-fill-4",
       "type": "fill_blank",
       "prompt": "Der Zug hat ___. (delay)",
-      "answer": "Verspätung",
+      "answer": "VerspÃ¤tung",
       "hint": "delay",
       "topic": "time"
     }

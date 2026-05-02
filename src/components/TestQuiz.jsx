@@ -34,17 +34,17 @@ export default function TestQuiz({ chapters, onComplete }) {
         <h1 className="mt-2 text-3xl font-bold sm:text-5xl">Chapter range test</h1>
       </div>
 
-      <div className="flex flex-wrap gap-2">
+      <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
         {chapters.map((chapter) => (
           <button
             key={chapter.id}
             type="button"
             onClick={() => toggleChapter(chapter.id)}
-            className={`border px-3 py-2 text-sm font-semibold ${
+            className={`h-11 min-w-0 border px-3 text-sm font-semibold ${
               selected.includes(chapter.id) ? "border-marigold bg-marigold text-white" : "border-ink/10 bg-[var(--surface-color)]"
             }`}
           >
-            Chapter {chapter.number}
+            {chapter.type === "grammarFocus" ? "Grammar" : "Chapter"} {String(chapter.number).replace("GF", "")}
           </button>
         ))}
       </div>

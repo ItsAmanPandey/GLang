@@ -14,7 +14,7 @@ const tabs = [
   { id: "quiz", label: "Quiz", icon: ListChecks },
 ];
 
-export default function ChapterPage({ chapter, isComplete, score, onRemember, onComplete, onQuizComplete }) {
+export default function ChapterPage({ chapter, chapters = [], isComplete, score, onRemember, onComplete, onQuizComplete }) {
   const [activeTab, setActiveTab] = useState("overview");
   const quizQuestions = useMemo(() => chapter.quiz, [chapter]);
 
@@ -24,13 +24,13 @@ export default function ChapterPage({ chapter, isComplete, score, onRemember, on
 
   return (
     <section className="space-y-6">
-      <div className="grid gap-6 lg:grid-cols-[1fr_280px]">
+      <div className="grid min-h-[240px] items-start gap-6 lg:grid-cols-[minmax(0,1fr)_350px]">
         <div>
           <p className="text-sm font-semibold uppercase tracking-wide text-coral">Chapter {chapter.number}</p>
-          <h1 className="mt-2 text-3xl font-bold sm:text-5xl">{chapter.title}</h1>
+          <h1 className="mt-2 max-w-3xl text-3xl font-bold sm:text-5xl">{chapter.title}</h1>
           <p className="mt-3 max-w-2xl text-lg text-ink/65">{chapter.subtitle}</p>
         </div>
-        <div className="border border-ink/10 bg-[var(--surface-color)] p-4 shadow-soft">
+        <div className="min-h-[232px] border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft">
           <p className="text-sm font-semibold uppercase tracking-wide text-ink/50">Status</p>
           <p className="mt-2 text-2xl font-bold">{isComplete ? "Completed" : "In progress"}</p>
           {score && (
@@ -49,7 +49,7 @@ export default function ChapterPage({ chapter, isComplete, score, onRemember, on
         </div>
       </div>
 
-      <div className="flex gap-2 overflow-x-auto border-b border-ink/10 pb-2">
+      <div className="grid grid-cols-2 gap-2 border-b border-ink/10 pb-3 sm:grid-cols-3 lg:grid-cols-6">
         {tabs.map((tab) => {
           const Icon = tab.icon;
           return (
@@ -57,7 +57,7 @@ export default function ChapterPage({ chapter, isComplete, score, onRemember, on
               key={tab.id}
               type="button"
               onClick={() => setActiveTab(tab.id)}
-              className={`inline-flex shrink-0 items-center gap-2 border px-3 py-2 text-sm font-semibold ${
+              className={`inline-flex h-12 min-w-0 items-center justify-center gap-2 border px-3 text-sm font-semibold ${
                 activeTab === tab.id ? "border-ink bg-ink text-[var(--bg-color)]" : "border-ink/10 bg-[var(--surface-color)]"
               }`}
             >
@@ -68,6 +68,7 @@ export default function ChapterPage({ chapter, isComplete, score, onRemember, on
         })}
       </div>
 
+      <div className="min-h-[560px]">
       {activeTab === "overview" && <Overview chapter={chapter} />}
       {activeTab === "vocabulary" && (
         <div className="space-y-8">
@@ -77,28 +78,29 @@ export default function ChapterPage({ chapter, isComplete, score, onRemember, on
       )}
       {activeTab === "grammar" && <GrammarList grammar={chapter.grammar} />}
       {activeTab === "practice" && <GrammarPractice chapter={chapter} />}
-      {activeTab === "games" && <GamesPanel chapter={chapter} />}
+      {activeTab === "games" && <GamesPanel chapter={chapter} chapters={chapters} />}
       {activeTab === "quiz" && (
         <QuizRunner questions={quizQuestions} scopeId={chapter.id} title={chapter.title} onComplete={onQuizComplete} />
       )}
+      </div>
     </section>
   );
 }
 
 function Overview({ chapter }) {
   return (
-    <section className="grid gap-5 lg:grid-cols-3">
-      <div className="border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft lg:col-span-2">
+    <section className="grid items-stretch gap-5 lg:grid-cols-3">
+      <div className="min-h-[245px] border border-ink/10 bg-[var(--surface-color)] p-5 shadow-soft lg:col-span-2">
         <h2 className="text-xl font-bold">Focus</h2>
         <div className="mt-4 grid gap-3 sm:grid-cols-2">
           {chapter.focus.map((goal) => (
-            <div key={goal} className="border border-ink/10 bg-[var(--surface-color)] p-3 font-semibold">
+            <div key={goal} className="flex min-h-[62px] items-center border border-ink/10 bg-[var(--surface-color)] p-3 font-semibold">
               {goal}
             </div>
           ))}
         </div>
       </div>
-      <div className="border border-slate-900/10 bg-peachglass p-5 shadow-soft">
+      <div className="min-h-[245px] border border-slate-900/10 bg-peachglass p-5 shadow-soft">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-900">Chapter Summary</h2>
         <dl className="mt-4 grid grid-cols-2 gap-x-6 gap-y-3 text-sm">
           <div className="flex justify-between border-b border-slate-900/10 pb-2">
@@ -129,7 +131,7 @@ function LearningTips({ tips }) {
       </div>
       <div className="mt-4 grid gap-3 md:grid-cols-3">
         {tips.map((tip) => (
-          <article key={tip.title} className="border border-ink/10 bg-[var(--surface-color)] p-4">
+          <article key={tip.title} className="min-h-[150px] border border-ink/10 bg-[var(--surface-color)] p-4">
             <h3 className="font-bold">{tip.title}</h3>
             <p className="mt-2 text-sm leading-6 text-ink/70">{tip.body}</p>
           </article>
@@ -143,7 +145,7 @@ function VocabularyList({ vocabulary }) {
   return (
     <section className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
       {vocabulary.map((item) => (
-        <article key={item.word} className="border border-ink/10 bg-[var(--surface-color)] p-4 shadow-sm">
+        <article key={item.word} className="min-h-[180px] border border-ink/10 bg-[var(--surface-color)] p-4 shadow-sm">
           <div className="flex items-start justify-between gap-3">
             <h3 className="text-lg font-bold">{item.word}</h3>
             {item.article && <span className="bg-marigold/25 px-2 py-1 text-xs font-bold text-ink">{item.article}</span>}
