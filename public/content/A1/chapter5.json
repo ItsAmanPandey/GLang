@@ -6,14 +6,14 @@
   "subtitle": "Free Time, Hobbies, and the Verb 'koennen'",
   "focus": [
     "Talking about free time and hobbies",
-    "Expressing abilities (kÃ¶nnen)",
+    "Expressing abilities (können)",
     "Months and Seasons",
     "Making suggestions"
   ],
   "tips": [
     {
-      "title": "Modal Verb 'kÃ¶nnen'",
-      "body": "When you use a modal verb like 'kÃ¶nnen' (can), the second verb in the sentence goes to the very end in its infinitive form. Example: Ich kann gut singen."
+      "title": "Modal Verb 'können'",
+      "body": "When you use a modal verb like 'können' (can), the second verb in the sentence goes to the very end in its infinitive form. Example: Ich kann gut singen."
     },
     {
       "title": "Seasons and Months",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Noun and Verb combos",
-      "body": "Hobbies are often expressed with a noun + verb combo: FuÃŸball spielen, Musik hÃ¶ren, Rad fahren."
+      "body": "Hobbies are often expressed with a noun + verb combo: Fußball spielen, Musik hören, Rad fahren."
     }
   ],
   "vocabulary": [
@@ -42,7 +42,7 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "kÃ¶nnen",
+      "word": "können",
       "meaning": "can / to be able to",
       "example": "Ich kann gut schwimmen."
     },
@@ -54,7 +54,7 @@
     {
       "word": "lesen",
       "meaning": "to read",
-      "example": "Liest du gern BÃ¼cher?"
+      "example": "Liest du gern Bücher?"
     },
     {
       "word": "schwimmen",
@@ -69,7 +69,7 @@
     {
       "word": "singen",
       "meaning": "to sing",
-      "example": "Sie kann wunderschÃ¶n singen."
+      "example": "Sie kann wunderschön singen."
     },
     {
       "word": "tanzen",
@@ -77,9 +77,9 @@
       "example": "Gehen wir tanzen?"
     },
     {
-      "word": "hÃ¶ren",
+      "word": "hören",
       "meaning": "to hear / listen",
-      "example": "Ich hÃ¶re gern Musik."
+      "example": "Ich höre gern Musik."
     },
     {
       "word": "fahren",
@@ -111,7 +111,7 @@
       "word": "das Fahrrad",
       "meaning": "bicycle",
       "article": "das",
-      "plural": "die FahrrÃ¤der",
+      "plural": "die Fahrräder",
       "example": "Ich fahre mit dem Fahrrad.",
       "grammarRef": "GF1"
     },
@@ -119,7 +119,7 @@
       "word": "das Buch",
       "meaning": "book",
       "article": "das",
-      "plural": "die BÃ¼cher",
+      "plural": "die Bücher",
       "example": "Das Buch ist spannend.",
       "grammarRef": "GF1"
     },
@@ -147,7 +147,7 @@
     {
       "word": "manchmal",
       "meaning": "sometimes",
-      "example": "Manchmal spiele ich FuÃŸball."
+      "example": "Manchmal spiele ich Fußball."
     },
     {
       "word": "nie",
@@ -155,10 +155,10 @@
       "example": "Ich singe nie."
     },
     {
-      "word": "der FrÃ¼hling",
+      "word": "der Frühling",
       "meaning": "spring",
       "article": "der",
-      "example": "Im FrÃ¼hling ist es warm.",
+      "example": "Im Frühling ist es warm.",
       "grammarRef": "GF1"
     },
     {
@@ -232,7 +232,7 @@
       "word": "das Schwimmbad",
       "meaning": "swimming pool",
       "article": "das",
-      "plural": "die SchwimmbÃ¤der",
+      "plural": "die Schwimmbäder",
       "example": "Ich gehe ins Schwimmbad.",
       "grammarRef": "GF1"
     },
@@ -241,7 +241,7 @@
       "meaning": "museum",
       "article": "das",
       "plural": "die Museen",
-      "example": "Das Museum ist groÃŸ.",
+      "example": "Das Museum ist groß.",
       "grammarRef": "GF1"
     },
     {
@@ -272,7 +272,7 @@
       "meaning": "photo",
       "article": "das",
       "plural": "die Fotos",
-      "example": "Ein schÃ¶nes Foto.",
+      "example": "Ein schönes Foto.",
       "grammarRef": "GF1"
     },
     {
@@ -348,7 +348,7 @@
       "meaning": "snow",
       "article": "der",
       "plural": "-",
-      "example": "Der Schnee ist weiÃŸ.",
+      "example": "Der Schnee ist weiß.",
       "grammarRef": "GF1"
     },
     {
@@ -370,8 +370,8 @@
   ],
   "grammar": [
     {
-      "topic": "The Modal Verb 'kÃ¶nnen'",
-      "explanation": "'KÃ¶nnen' means 'can' or 'to be able to'. It is irregular: ich kann, du kannst, er/sie kann, wir kÃ¶nnen, ihr kÃ¶nnt, Sie/sie kÃ¶nnen.",
+      "topic": "The Modal Verb 'können'",
+      "explanation": "'Können' means 'can' or 'to be able to'. It is irregular: ich kann, du kannst, er/sie kann, wir können, ihr könnt, Sie/sie können.",
       "examples": [
         "Ich kann schwimmen.",
         "Kannst du tanzen?"
@@ -379,18 +379,18 @@
     },
     {
       "topic": "Sentence Structure with Modal Verbs",
-      "explanation": "When using 'kÃ¶nnen', the conjugated modal verb takes position 2. The main action verb goes to the very end of the sentence in its full (infinitive) form.",
+      "explanation": "When using 'können', the conjugated modal verb takes position 2. The main action verb goes to the very end of the sentence in its full (infinitive) form.",
       "examples": [
         "Ich kann gut schwimmen.",
-        "Wir kÃ¶nnen am Wochenende FuÃŸball spielen."
+        "Wir können am Wochenende Fußball spielen."
       ]
     },
     {
       "topic": "Irregular Verbs (Vowel Change)",
-      "explanation": "Verbs like 'lesen' (to read) and 'fahren' (to drive/ride) change their vowel in the 'du' and 'er/sie' forms: du liest, er liest; du fÃ¤hrst, er fÃ¤hrt.",
+      "explanation": "Verbs like 'lesen' (to read) and 'fahren' (to drive/ride) change their vowel in the 'du' and 'er/sie' forms: du liest, er liest; du fährst, er fährt.",
       "examples": [
         "Ich lese. -> Du liest.",
-        "Ich fahre. -> Er fÃ¤hrt."
+        "Ich fahre. -> Er fährt."
       ]
     }
   ],
@@ -401,7 +401,7 @@
       "prompt": "Ich ___ sehr gut kochen.",
       "answer": "kann",
       "hint": "can (ich form)",
-      "topic": "kÃ¶nnen",
+      "topic": "können",
       "grammarRef": "GF7"
     },
     {
@@ -410,12 +410,12 @@
       "prompt": "___ du gut schwimmen?",
       "answer": "Kannst",
       "hint": "can (du form)",
-      "topic": "kÃ¶nnen"
+      "topic": "können"
     },
     {
       "id": "c5-fill-3",
       "type": "fill_blank",
-      "prompt": "Er ___ gern BÃ¼cher.",
+      "prompt": "Er ___ gern Bücher.",
       "answer": "liest",
       "hint": "to read (er form - watch the vowel change!)",
       "topic": "lesen"
@@ -436,7 +436,7 @@
         "Ich kann spielen Gitarre.",
         "Ich spielen kann Gitarre.",
         "Ich kann Gitarre spielen.",
-        "KÃ¶nnen ich Gitarre spielen."
+        "Können ich Gitarre spielen."
       ],
       "answer": "Ich kann Gitarre spielen.",
       "topic": "modal syntax",
@@ -473,7 +473,7 @@
         "singen",
         "."
       ],
-      "topic": "kÃ¶nnen",
+      "topic": "können",
       "grammarRef": "GF7"
     },
     {
@@ -551,7 +551,7 @@
       "id": "c5-quiz-2",
       "type": "fill_blank",
       "prompt": "___ du Fahrrad?",
-      "answer": "FÃ¤hrst",
+      "answer": "Fährst",
       "topic": "fahren"
     },
     {
@@ -561,11 +561,11 @@
       "options": [
         "kann",
         "kannst",
-        "kÃ¶nnen",
-        "kÃ¶nnt"
+        "können",
+        "könnt"
       ],
-      "answer": "kÃ¶nnen",
-      "topic": "kÃ¶nnen"
+      "answer": "können",
+      "topic": "können"
     },
     {
       "id": "c5-quiz-4",

@@ -15,29 +15,29 @@
       "word": "die Stadt",
       "meaning": "city",
       "article": "die",
-      "plural": "die StÃ¤dte",
-      "example": "Berlin ist eine groÃŸe Stadt."
+      "plural": "die Städte",
+      "example": "Berlin ist eine große Stadt."
     },
     {
       "word": "das Dorf",
       "meaning": "village",
       "article": "das",
-      "plural": "die DÃ¶rfer",
+      "plural": "die Dörfer",
       "example": "Ich lebe in einem kleinen Dorf."
     },
     {
-      "word": "die StraÃŸe",
+      "word": "die Straße",
       "meaning": "street",
       "article": "die",
-      "plural": "die StraÃŸen",
-      "example": "Gehen Sie diese StraÃŸe geradeaus."
+      "plural": "die Straßen",
+      "example": "Gehen Sie diese Straße geradeaus."
     },
     {
       "word": "der Platz",
       "meaning": "square/place",
       "article": "der",
-      "plural": "die PlÃ¤tze",
-      "example": "Der Alexanderplatz ist berÃ¼hmt."
+      "plural": "die Plätze",
+      "example": "Der Alexanderplatz ist berühmt."
     },
     {
       "word": "der Weg",
@@ -47,11 +47,11 @@
       "example": "Das ist der richtige Weg."
     },
     {
-      "word": "die BrÃ¼cke",
+      "word": "die Brücke",
       "meaning": "bridge",
       "article": "die",
-      "plural": "die BrÃ¼cken",
-      "example": "Wir gehen Ã¼ber die BrÃ¼cke."
+      "plural": "die Brücken",
+      "example": "Wir gehen über die Brücke."
     },
     {
       "word": "die Ampel",
@@ -78,14 +78,14 @@
       "word": "die Altstadt",
       "meaning": "old town",
       "article": "die",
-      "plural": "die AltstÃ¤dte",
-      "example": "Die Altstadt ist schÃ¶n."
+      "plural": "die Altstädte",
+      "example": "Die Altstadt ist schön."
     },
     {
       "word": "der Bahnhof",
       "meaning": "train station",
       "article": "der",
-      "plural": "die BahnhÃ¶fe",
+      "plural": "die Bahnhöfe",
       "example": "Wo ist der Bahnhof?"
     },
     {
@@ -99,8 +99,8 @@
       "word": "der Flughafen",
       "meaning": "airport",
       "article": "der",
-      "plural": "die FlughÃ¤fen",
-      "example": "Wir mÃ¼ssen zum Flughafen."
+      "plural": "die Flughäfen",
+      "example": "Wir müssen zum Flughafen."
     },
     {
       "word": "die U-Bahn",
@@ -114,7 +114,7 @@
       "meaning": "suburban train",
       "article": "die",
       "plural": "die S-Bahnen",
-      "example": "Die S-Bahn fÃ¤hrt schnell."
+      "example": "Die S-Bahn fährt schnell."
     },
     {
       "word": "der Bus",
@@ -124,18 +124,18 @@
       "example": "Der Bus kommt gleich."
     },
     {
-      "word": "die StraÃŸenbahn",
+      "word": "die Straßenbahn",
       "meaning": "tram",
       "article": "die",
-      "plural": "die StraÃŸenbahnen",
-      "example": "Ich fahre mit der StraÃŸenbahn."
+      "plural": "die Straßenbahnen",
+      "example": "Ich fahre mit der Straßenbahn."
     },
     {
       "word": "der Zug",
       "meaning": "train",
       "article": "der",
-      "plural": "die ZÃ¼ge",
-      "example": "Der Zug hat VerspÃ¤tung."
+      "plural": "die Züge",
+      "example": "Der Zug hat Verspätung."
     },
     {
       "word": "das Auto",
@@ -148,7 +148,7 @@
       "word": "das Fahrrad",
       "meaning": "bicycle",
       "article": "das",
-      "plural": "die FahrrÃ¤der",
+      "plural": "die Fahrräder",
       "example": "Ich fahre Fahrrad."
     },
     {
@@ -166,7 +166,7 @@
     {
       "word": "gehen",
       "meaning": "to go/walk",
-      "example": "Wir gehen zu FuÃŸ."
+      "example": "Wir gehen zu Fuß."
     },
     {
       "word": "fliegen",
@@ -174,16 +174,16 @@
       "example": "Er fliegt nach New York."
     },
     {
-      "word": "zu FuÃŸ",
+      "word": "zu Fuß",
       "meaning": "on foot",
-      "example": "Ich gehe zu FuÃŸ zur Arbeit."
+      "example": "Ich gehe zu Fuß zur Arbeit."
     },
     {
       "word": "das Ticket",
       "meaning": "ticket",
       "article": "das",
       "plural": "die Tickets",
-      "example": "Ich brauche ein Ticket fÃ¼r den Bus."
+      "example": "Ich brauche ein Ticket für den Bus."
     },
     {
       "word": "die Fahrkarte",
@@ -203,7 +203,7 @@
       "word": "der Plan",
       "meaning": "plan/map",
       "article": "der",
-      "plural": "die PlÃ¤ne",
+      "plural": "die Pläne",
       "example": "Ich brauche einen Stadtplan."
     },
     {
@@ -211,7 +211,7 @@
       "meaning": "bank",
       "article": "die",
       "plural": "die Banken",
-      "example": "Die Bank Ã¶ffnet um 9 Uhr."
+      "example": "Die Bank öffnet um 9 Uhr."
     },
     {
       "word": "die Post",
@@ -238,8 +238,8 @@
       "word": "das Krankenhaus",
       "meaning": "hospital",
       "article": "das",
-      "plural": "die KrankenhÃ¤user",
-      "example": "Das Krankenhaus ist in der NÃ¤he."
+      "plural": "die Krankenhäuser",
+      "example": "Das Krankenhaus ist in der Nähe."
     },
     {
       "word": "die Polizei",
@@ -270,11 +270,11 @@
       "example": "Unser Hotel ist im Zentrum."
     },
     {
-      "word": "das GeschÃ¤ft",
+      "word": "das Geschäft",
       "meaning": "shop",
       "article": "das",
-      "plural": "die GeschÃ¤fte",
-      "example": "Das GeschÃ¤ft ist geschlossen."
+      "plural": "die Geschäfte",
+      "example": "Das Geschäft ist geschlossen."
     },
     {
       "word": "die Apotheke",
@@ -291,11 +291,11 @@
       "example": "Die Schule beginnt bald."
     },
     {
-      "word": "die UniversitÃ¤t",
+      "word": "die Universität",
       "meaning": "university",
       "article": "die",
-      "plural": "die UniversitÃ¤ten",
-      "example": "Er studiert an der UniversitÃ¤t."
+      "plural": "die Universitäten",
+      "example": "Er studiert an der Universität."
     },
     {
       "word": "rechts",
@@ -318,9 +318,9 @@
       "example": "Gehen Sie an der Kirche vorbei."
     },
     {
-      "word": "gegenÃ¼ber",
+      "word": "gegenüber",
       "meaning": "opposite/across from",
-      "example": "Die Post ist gegenÃ¼ber."
+      "example": "Die Post ist gegenüber."
     },
     {
       "word": "neben",
@@ -328,9 +328,9 @@
       "example": "Die Bank ist neben dem Supermarkt."
     },
     {
-      "word": "in der NÃ¤he",
+      "word": "in der Nähe",
       "meaning": "nearby",
-      "example": "Ist ein Geldautomat in der NÃ¤he?"
+      "example": "Ist ein Geldautomat in der Nähe?"
     },
     {
       "word": "weit",
@@ -341,7 +341,7 @@
       "word": "der Ausflug",
       "meaning": "excursion/trip",
       "article": "der",
-      "plural": "die AusflÃ¼ge",
+      "plural": "die Ausflüge",
       "example": "Wir machen einen Ausflug."
     }
   ],
@@ -350,10 +350,10 @@
       "topic": "Giving Directions",
       "explanation": "To give directions, use imperative forms or modal verbs. Key directional words are 'geradeaus' (straight ahead), 'links' (left), and 'rechts' (right).",
       "examples": [
-        "Wo ist die Post? â€“ Dort drÃ¼ben.",
+        "Wo ist die Post? – Dort drüben.",
         "Das Rathaus ist am Marktplatz.",
         "Die Apotheke ist neben dem Supermarkt.",
-        "Das Kino ist gegenÃ¼ber vom Bahnhof."
+        "Das Kino ist gegenüber vom Bahnhof."
       ]
     },
     {
@@ -363,7 +363,7 @@
         "Gehen Sie geradeaus.",
         "Biegen Sie an der Ampel rechts ab.",
         "Die Bank ist auf der linken Seite.",
-        "Nehmen Sie die zweite StraÃŸe links."
+        "Nehmen Sie die zweite Straße links."
       ]
     }
   ],
@@ -444,7 +444,7 @@
       "options": [
         "Biegen Sie links ab",
         "Gehen Sie geradeaus",
-        "Gehen Sie zurÃ¼ck",
+        "Gehen Sie zurück",
         "Nehmen Sie den Bus"
       ],
       "answer": "Gehen Sie geradeaus",
@@ -506,7 +506,7 @@
     {
       "id": "c10-choice-2",
       "type": "choice",
-      "prompt": "What does 'gegenÃ¼ber' mean?",
+      "prompt": "What does 'gegenüber' mean?",
       "options": [
         "next to",
         "behind",

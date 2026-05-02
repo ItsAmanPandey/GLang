@@ -15,19 +15,19 @@
       "word": "die Natur",
       "meaning": "nature",
       "article": "die",
-      "example": "Die Natur ist wunderschÃ¶n."
+      "example": "Die Natur ist wunderschön."
     },
     {
       "word": "die Umwelt",
       "meaning": "environment",
       "article": "die",
-      "example": "Wir mÃ¼ssen die Umwelt schÃ¼tzen."
+      "example": "Wir müssen die Umwelt schützen."
     },
     {
       "word": "der Baum",
       "meaning": "tree",
       "article": "der",
-      "plural": "die BÃ¤ume",
+      "plural": "die Bäume",
       "example": "Der Baum ist sehr alt."
     },
     {
@@ -35,19 +35,19 @@
       "meaning": "flower",
       "article": "die",
       "plural": "die Blumen",
-      "example": "Die Blumen blÃ¼hen im FrÃ¼hling."
+      "example": "Die Blumen blühen im Frühling."
     },
     {
       "word": "das Gras",
       "meaning": "grass",
       "article": "das",
-      "example": "Das Gras ist grÃ¼n."
+      "example": "Das Gras ist grün."
     },
     {
       "word": "der Wald",
       "meaning": "forest",
       "article": "der",
-      "plural": "die WÃ¤lder",
+      "plural": "die Wälder",
       "example": "Wir wandern im Wald."
     },
     {
@@ -75,7 +75,7 @@
       "word": "der Fluss",
       "meaning": "river",
       "article": "der",
-      "plural": "die FlÃ¼sse",
+      "plural": "die Flüsse",
       "example": "Der Rhein ist ein langer Fluss."
     },
     {
@@ -89,7 +89,7 @@
       "word": "der Strand",
       "meaning": "beach",
       "article": "der",
-      "plural": "die StrÃ¤nde",
+      "plural": "die Strände",
       "example": "Wir liegen am Strand."
     },
     {
@@ -144,13 +144,13 @@
       "meaning": "cat",
       "article": "die",
       "plural": "die Katzen",
-      "example": "Die Katze schlÃ¤ft gern."
+      "example": "Die Katze schläft gern."
     },
     {
       "word": "der Vogel",
       "meaning": "bird",
       "article": "der",
-      "plural": "die VÃ¶gel",
+      "plural": "die Vögel",
       "example": "Der Vogel singt."
     },
     {
@@ -171,7 +171,7 @@
       "word": "die Kuh",
       "meaning": "cow",
       "article": "die",
-      "plural": "die KÃ¼he",
+      "plural": "die Kühe",
       "example": "Die Kuh steht auf der Wiese."
     },
     {
@@ -204,13 +204,13 @@
       "meaning": "fire",
       "article": "das",
       "plural": "die Feuer",
-      "example": "Das Feuer ist heiÃŸ."
+      "example": "Das Feuer ist heiß."
     },
     {
-      "word": "der MÃ¼ll",
+      "word": "der Müll",
       "meaning": "trash/garbage",
       "article": "der",
-      "example": "Bitte den MÃ¼ll trennen!"
+      "example": "Bitte den Müll trennen!"
     },
     {
       "word": "recyceln",
@@ -218,9 +218,9 @@
       "example": "Wir recyceln Papier und Glas."
     },
     {
-      "word": "schÃ¼tzen",
+      "word": "schützen",
       "meaning": "to protect",
-      "example": "Wir mÃ¼ssen die Natur schÃ¼tzen."
+      "example": "Wir müssen die Natur schützen."
     },
     {
       "word": "verschmutzen",
@@ -249,9 +249,9 @@
       "example": "Das Wasser ist schmutzig."
     },
     {
-      "word": "gefÃ¤hrlich",
+      "word": "gefährlich",
       "meaning": "dangerous",
-      "example": "Das Feuer ist gefÃ¤hrlich."
+      "example": "Das Feuer ist gefährlich."
     },
     {
       "word": "friedlich",
@@ -267,7 +267,7 @@
       "word": "der Regen",
       "meaning": "rain",
       "article": "der",
-      "example": "Der Regen hÃ¶rt nicht auf."
+      "example": "Der Regen hört nicht auf."
     },
     {
       "word": "der Schnee",
@@ -302,9 +302,9 @@
       "example": "Die Blumen wachsen schnell."
     },
     {
-      "word": "blÃ¼hen",
+      "word": "blühen",
       "meaning": "to bloom",
-      "example": "Die Rosen blÃ¼hen im Sommer."
+      "example": "Die Rosen blühen im Sommer."
     },
     {
       "word": "pflanzen",
@@ -315,15 +315,15 @@
       "word": "der Garten",
       "meaning": "garden",
       "article": "der",
-      "plural": "die GÃ¤rten",
-      "example": "Der Garten ist groÃŸ."
+      "plural": "die Gärten",
+      "example": "Der Garten ist groß."
     },
     {
       "word": "die Landschaft",
       "meaning": "landscape",
       "article": "die",
       "plural": "die Landschaften",
-      "example": "Die Landschaft ist wunderschÃ¶n."
+      "example": "Die Landschaft ist wunderschön."
     },
     {
       "word": "wandern",
@@ -333,13 +333,13 @@
   ],
   "grammar": [
     {
-      "topic": "The Verb 'mÃ¼ssen' (must/have to)",
-      "explanation": "The modal verb 'mÃ¼ssen' expresses necessity or obligation. Conjugation: ich muss, du musst, er/sie/es muss, wir mÃ¼ssen, ihr mÃ¼sst, sie/Sie mÃ¼ssen. The main verb goes to the end in infinitive form.",
+      "topic": "The Verb 'müssen' (must/have to)",
+      "explanation": "The modal verb 'müssen' expresses necessity or obligation. Conjugation: ich muss, du musst, er/sie/es muss, wir müssen, ihr müsst, sie/Sie müssen. The main verb goes to the end in infinitive form.",
       "examples": [
-        "Wir mÃ¼ssen die Umwelt schÃ¼tzen.",
+        "Wir müssen die Umwelt schützen.",
         "Du musst mehr Wasser trinken.",
-        "Ich muss den MÃ¼ll trennen.",
-        "Sie mÃ¼ssen pÃ¼nktlich sein."
+        "Ich muss den Müll trennen.",
+        "Sie müssen pünktlich sein."
       ]
     },
     {
@@ -360,18 +360,18 @@
       "prompt": "We must protect the environment.",
       "tokens": [
         "Wir",
-        "mÃ¼ssen",
+        "müssen",
         "die",
         "Umwelt",
-        "schÃ¼tzen.",
+        "schützen.",
         "verschmutzen."
       ],
       "answer": [
         "Wir",
-        "mÃ¼ssen",
+        "müssen",
         "die",
         "Umwelt",
-        "schÃ¼tzen."
+        "schützen."
       ]
     },
     {
@@ -398,17 +398,17 @@
       "tokens": [
         "Die",
         "Blumen",
-        "blÃ¼hen",
+        "blühen",
         "im",
-        "FrÃ¼hling.",
+        "Frühling.",
         "Winter."
       ],
       "answer": [
         "Die",
         "Blumen",
-        "blÃ¼hen",
+        "blühen",
         "im",
-        "FrÃ¼hling."
+        "Frühling."
       ]
     }
   ],
@@ -442,15 +442,15 @@
     {
       "id": "c19-quiz-3",
       "type": "fill_blank",
-      "prompt": "Wir ___ die Natur schÃ¼tzen.",
-      "answer": "mÃ¼ssen",
+      "prompt": "Wir ___ die Natur schützen.",
+      "answer": "müssen",
       "topic": "modal_verbs"
     },
     {
       "id": "c19-quiz-4",
       "type": "fill_blank",
-      "prompt": "Die Blumen ___ im FrÃ¼hling. (bloom)",
-      "answer": "blÃ¼hen",
+      "prompt": "Die Blumen ___ im Frühling. (bloom)",
+      "answer": "blühen",
       "topic": "verbs"
     }
   ],
@@ -458,23 +458,23 @@
     {
       "id": "c19-fill-1",
       "type": "fill_blank",
-      "prompt": "Wir ___ die Umwelt schÃ¼tzen.",
-      "answer": "mÃ¼ssen",
+      "prompt": "Wir ___ die Umwelt schützen.",
+      "answer": "müssen",
       "hint": "must",
       "topic": "modal_verbs"
     },
     {
       "id": "c19-fill-2",
       "type": "fill_blank",
-      "prompt": "Die Blumen ___ im FrÃ¼hling. (bloom)",
-      "answer": "blÃ¼hen",
+      "prompt": "Die Blumen ___ im Frühling. (bloom)",
+      "answer": "blühen",
       "hint": "bloom",
       "topic": "nature"
     },
     {
       "id": "c19-fill-3",
       "type": "fill_blank",
-      "prompt": "Bitte den MÃ¼ll ___! (separate)",
+      "prompt": "Bitte den Müll ___! (separate)",
       "answer": "trennen",
       "hint": "separate",
       "topic": "environment"

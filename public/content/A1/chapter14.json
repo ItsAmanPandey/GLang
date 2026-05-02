@@ -22,7 +22,7 @@
       "word": "das Haus",
       "meaning": "house",
       "article": "das",
-      "plural": "die HÃ¤user",
+      "plural": "die Häuser",
       "example": "Wir wohnen in einem Haus."
     },
     {
@@ -79,7 +79,7 @@
       "meaning": "tenant",
       "article": "der",
       "plural": "die Mieter",
-      "example": "Der Mieter zahlt pÃ¼nktlich."
+      "example": "Der Mieter zahlt pünktlich."
     },
     {
       "word": "mieten",
@@ -94,13 +94,13 @@
     {
       "word": "umziehen",
       "meaning": "to move (house)",
-      "example": "Ich ziehe nÃ¤chsten Monat um."
+      "example": "Ich ziehe nächsten Monat um."
     },
     {
       "word": "der Umzug",
       "meaning": "the move/relocation",
       "article": "der",
-      "plural": "die UmzÃ¼ge",
+      "plural": "die Umzüge",
       "example": "Der Umzug war sehr stressig."
     },
     {
@@ -128,7 +128,7 @@
     {
       "word": "ruhig",
       "meaning": "quiet",
-      "example": "Die StraÃŸe ist sehr ruhig."
+      "example": "Die Straße ist sehr ruhig."
     },
     {
       "word": "laut",
@@ -138,7 +138,7 @@
     {
       "word": "teuer",
       "meaning": "expensive",
-      "example": "Die Miete in MÃ¼nchen ist teuer."
+      "example": "Die Miete in München ist teuer."
     },
     {
       "word": "billig",
@@ -146,14 +146,14 @@
       "example": "Das Zimmer ist billig."
     },
     {
-      "word": "gÃ¼nstig",
+      "word": "günstig",
       "meaning": "affordable",
-      "example": "Wir haben eine gÃ¼nstige Wohnung gefunden."
+      "example": "Wir haben eine günstige Wohnung gefunden."
     },
     {
-      "word": "groÃŸ",
+      "word": "groß",
       "meaning": "big",
-      "example": "Die KÃ¼che ist groÃŸ."
+      "example": "Die Küche ist groß."
     },
     {
       "word": "klein",
@@ -172,14 +172,14 @@
       "meaning": "bedroom",
       "article": "das",
       "plural": "die Schlafzimmer",
-      "example": "Im Schlafzimmer steht ein groÃŸes Bett."
+      "example": "Im Schlafzimmer steht ein großes Bett."
     },
     {
-      "word": "die KÃ¼che",
+      "word": "die Küche",
       "meaning": "kitchen",
       "article": "die",
-      "plural": "die KÃ¼chen",
-      "example": "Die KÃ¼che hat einen Herd."
+      "plural": "die Küchen",
+      "example": "Die Küche hat einen Herd."
     },
     {
       "word": "das Badezimmer",
@@ -220,21 +220,21 @@
       "word": "der Aufzug",
       "meaning": "elevator",
       "article": "der",
-      "plural": "die AufzÃ¼ge",
-      "example": "Zum GlÃ¼ck gibt es einen Aufzug."
+      "plural": "die Aufzüge",
+      "example": "Zum Glück gibt es einen Aufzug."
     },
     {
-      "word": "das MÃ¶bel",
+      "word": "das Möbel",
       "meaning": "furniture",
       "article": "das",
-      "plural": "die MÃ¶bel",
-      "example": "Wir brauchen neue MÃ¶bel."
+      "plural": "die Möbel",
+      "example": "Wir brauchen neue Möbel."
     },
     {
       "word": "der Schrank",
       "meaning": "closet/cabinet",
       "article": "der",
-      "plural": "die SchrÃ¤nke",
+      "plural": "die Schränke",
       "example": "Der Schrank ist aus Holz."
     },
     {
@@ -255,8 +255,8 @@
       "word": "der Stuhl",
       "meaning": "chair",
       "article": "der",
-      "plural": "die StÃ¼hle",
-      "example": "Wir brauchen vier StÃ¼hle."
+      "plural": "die Stühle",
+      "example": "Wir brauchen vier Stühle."
     },
     {
       "word": "das Sofa",
@@ -291,7 +291,7 @@
       "meaning": "picture",
       "article": "das",
       "plural": "die Bilder",
-      "example": "Das Bild gefÃ¤llt mir."
+      "example": "Das Bild gefällt mir."
     },
     {
       "word": "stellen",
@@ -304,9 +304,9 @@
       "example": "Ich lege das Buch auf das Bett."
     },
     {
-      "word": "hÃ¤ngen",
+      "word": "hängen",
       "meaning": "to hang",
-      "example": "Ich hÃ¤nge das Bild an die Wand."
+      "example": "Ich hänge das Bild an die Wand."
     },
     {
       "word": "stehen",
@@ -319,11 +319,11 @@
       "example": "Der Teppich liegt auf dem Boden."
     },
     {
-      "word": "der SchlÃ¼ssel",
+      "word": "der Schlüssel",
       "meaning": "key",
       "article": "der",
-      "plural": "die SchlÃ¼ssel",
-      "example": "Hier ist dein WohnungsschlÃ¼ssel."
+      "plural": "die Schlüssel",
+      "example": "Hier ist dein Wohnungsschlüssel."
     }
   ],
   "grammar": [
@@ -333,7 +333,7 @@
       "examples": [
         "Ich stelle die Lampe auf den Tisch.",
         "Er legt das Buch auf das Regal.",
-        "Sie hÃ¤ngt das Bild an die Wand.",
+        "Sie hängt das Bild an die Wand.",
         "Wir stellen den Schrank in die Ecke."
       ]
     },
@@ -342,9 +342,9 @@
       "explanation": "To say which floor you live on, use 'im' + ordinal number. 'im ersten Stock' (on the first floor), 'im zweiten Stock' (on the second floor).",
       "examples": [
         "Ich wohne im ersten Stock.",
-        "Das BÃ¼ro ist im zweiten Stock.",
+        "Das Büro ist im zweiten Stock.",
         "Die Wohnung im dritten Stock ist frei.",
-        "Der Aufzug fÃ¤hrt bis zum vierten Stock."
+        "Der Aufzug fährt bis zum vierten Stock."
       ]
     }
   ],

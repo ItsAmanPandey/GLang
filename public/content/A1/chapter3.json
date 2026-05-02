@@ -21,7 +21,7 @@
     },
     {
       "title": "Prices in German",
-      "body": "A price like 2,50 â‚¬ is spoken as 'zwei Euro fÃ¼nfzig'."
+      "body": "A price like 2,50 € is spoken as 'zwei Euro fünfzig'."
     }
   ],
   "vocabulary": [
@@ -58,18 +58,18 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "der KÃ¤se",
+      "word": "der Käse",
       "meaning": "cheese",
       "article": "der",
-      "plural": "die KÃ¤se",
-      "example": "Ich esse KÃ¤se zum FrÃ¼hstÃ¼ck.",
+      "plural": "die Käse",
+      "example": "Ich esse Käse zum Frühstück.",
       "grammarRef": "GF1"
     },
     {
       "word": "die Wurst",
       "meaning": "sausage",
       "article": "die",
-      "plural": "die WÃ¼rste",
+      "plural": "die Würste",
       "example": "In Deutschland gibt es viel Wurst.",
       "grammarRef": "GF1"
     },
@@ -86,7 +86,7 @@
       "meaning": "rice",
       "article": "der",
       "plural": "die Reissorten",
-      "example": "Wir essen HÃ¤hnchen mit Reis.",
+      "example": "Wir essen Hähnchen mit Reis.",
       "grammarRef": "GF1"
     },
     {
@@ -149,7 +149,7 @@
       "word": "der Saft",
       "meaning": "juice",
       "article": "der",
-      "plural": "die SÃ¤fte",
+      "plural": "die Säfte",
       "example": "Apfelsaft trinke ich sehr gern.",
       "grammarRef": "GF1"
     },
@@ -157,7 +157,7 @@
       "word": "der Supermarkt",
       "meaning": "supermarket",
       "article": "der",
-      "plural": "die SupermÃ¤rkte",
+      "plural": "die Supermärkte",
       "example": "Ich kaufe im Supermarkt ein.",
       "grammarRef": "GF1"
     },
@@ -225,9 +225,9 @@
       "example": "Das kostet zwanzig Euro."
     },
     {
-      "word": "dreiÃŸig",
+      "word": "dreißig",
       "meaning": "thirty",
-      "example": "Ich brauche dreiÃŸig Gramm KÃ¤se."
+      "example": "Ich brauche dreißig Gramm Käse."
     },
     {
       "word": "vierzig",
@@ -235,9 +235,9 @@
       "example": "Vierzig Minuten warten."
     },
     {
-      "word": "fÃ¼nfzig",
+      "word": "fünfzig",
       "meaning": "fifty",
-      "example": "FÃ¼nfzig Cent, bitte."
+      "example": "Fünfzig Cent, bitte."
     },
     {
       "word": "hundert",
@@ -245,11 +245,11 @@
       "example": "Das Buch kostet fast hundert Euro."
     },
     {
-      "word": "das GemÃ¼se",
+      "word": "das Gemüse",
       "meaning": "vegetables",
       "article": "das",
       "plural": "-",
-      "example": "GemÃ¼se ist gesund.",
+      "example": "Gemüse ist gesund.",
       "grammarRef": "GF1"
     },
     {
@@ -273,7 +273,7 @@
       "meaning": "soup",
       "article": "die",
       "plural": "die Suppen",
-      "example": "Die Suppe ist heiÃŸ.",
+      "example": "Die Suppe ist heiß.",
       "grammarRef": "GF1"
     },
     {
@@ -317,17 +317,17 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "das BrÃ¶tchen",
+      "word": "das Brötchen",
       "meaning": "bread roll",
       "article": "das",
-      "plural": "die BrÃ¶tchen",
-      "example": "Zwei BrÃ¶tchen, bitte.",
+      "plural": "die Brötchen",
+      "example": "Zwei Brötchen, bitte.",
       "grammarRef": "GF1"
     },
     {
       "word": "bezahlen",
       "meaning": "to pay",
-      "example": "Ich mÃ¶chte bezahlen."
+      "example": "Ich möchte bezahlen."
     },
     {
       "word": "das Geld",
@@ -357,16 +357,16 @@
       "word": "das Glas",
       "meaning": "glass",
       "article": "das",
-      "plural": "die GlÃ¤ser",
+      "plural": "die Gläser",
       "example": "Ein Glas Wein.",
       "grammarRef": "GF1"
     },
     {
-      "word": "das HÃ¤hnchen",
+      "word": "das Hähnchen",
       "meaning": "chicken",
       "article": "das",
-      "plural": "die HÃ¤hnchen",
-      "example": "Wir essen HÃ¤hnchen.",
+      "plural": "die Hähnchen",
+      "example": "Wir essen Hähnchen.",
       "grammarRef": "GF1"
     },
     {
@@ -423,16 +423,16 @@
       "topic": "The verb 'essen' (to eat)",
       "explanation": "'Essen' is irregular in the du and er/sie/es forms: ich esse, du isst, er/sie/es isst, wir essen, ihr esst, Sie/sie essen.",
       "examples": [
-        "Ich esse gern KÃ¤se.",
+        "Ich esse gern Käse.",
         "Isst du Fleisch?"
       ]
     },
     {
-      "topic": "The verb 'mÃ¶chten' (would like)",
-      "explanation": "Used for polite requests, especially in restaurants/shops: ich mÃ¶chte, du mÃ¶chtest, er/sie mÃ¶chte, wir mÃ¶chten, ihr mÃ¶chtet, Sie/sie mÃ¶chten.",
+      "topic": "The verb 'möchten' (would like)",
+      "explanation": "Used for polite requests, especially in restaurants/shops: ich möchte, du möchtest, er/sie möchte, wir möchten, ihr möchtet, Sie/sie möchten.",
       "examples": [
-        "Ich mÃ¶chte einen Kaffee, bitte.",
-        "Was mÃ¶chten Sie trinken?"
+        "Ich möchte einen Kaffee, bitte.",
+        "Was möchten Sie trinken?"
       ]
     }
   ],
@@ -478,7 +478,7 @@
       "type": "choice",
       "prompt": "Which word is a drink?",
       "options": [
-        "der KÃ¤se",
+        "der Käse",
         "der Saft",
         "das Fleisch",
         "der Reis"
@@ -505,19 +505,19 @@
       "prompt": "Say you would like a tea.",
       "tokens": [
         "einen",
-        "mÃ¶chte",
+        "möchte",
         "Ich",
         "Tee",
         "."
       ],
       "answer": [
         "Ich",
-        "mÃ¶chte",
+        "möchte",
         "einen",
         "Tee",
         "."
       ],
-      "topic": "mÃ¶chten"
+      "topic": "möchten"
     },
     {
       "id": "c3-order-2",

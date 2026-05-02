@@ -5,10 +5,10 @@
   "title": "Menschen und Berufe",
   "subtitle": "Personal Details and Occupations",
   "focus": [
-    "Ã¼ber Beruf und Arbeit sprechen",
+    "über Beruf und Arbeit sprechen",
     "Alter, Wohnort und Familienstand nennen",
     "Zahlen bis 100 verwenden",
-    "Negation mit nicht und kein Ã¼ben",
+    "Negation mit nicht und kein üben",
     "als, bei und in unterscheiden"
   ],
   "tips": [
@@ -167,7 +167,7 @@
       "word": "der Satz",
       "meaning": "sentence",
       "article": "der",
-      "plural": "die SÃ¤tze",
+      "plural": "die Sätze",
       "example": "Der Satz ist richtig.",
       "grammarRef": "GF1"
     },
@@ -188,11 +188,11 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "das RÃ¤tsel",
+      "word": "das Rätsel",
       "meaning": "puzzle",
       "article": "das",
-      "plural": "die RÃ¤tsel",
-      "example": "Das RÃ¤tsel ist leicht.",
+      "plural": "die Rätsel",
+      "example": "Das Rätsel ist leicht.",
       "grammarRef": "GF1"
     },
     {
@@ -238,7 +238,7 @@
       "meaning": "company",
       "article": "die",
       "plural": "die Firmen",
-      "example": "Die Firma heiÃŸt HotSped.",
+      "example": "Die Firma heißt HotSped.",
       "grammarRef": "GF1"
     },
     {
@@ -440,19 +440,19 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "der VerkÃ¤ufer",
+      "word": "der Verkäufer",
       "meaning": "salesperson",
       "article": "der",
-      "plural": "die VerkÃ¤ufer",
-      "example": "Er arbeitet als VerkÃ¤ufer.",
+      "plural": "die Verkäufer",
+      "example": "Er arbeitet als Verkäufer.",
       "grammarRef": "GF1"
     },
     {
-      "word": "die VerkÃ¤uferin",
+      "word": "die Verkäuferin",
       "meaning": "female salesperson",
       "article": "die",
-      "plural": "die VerkÃ¤uferinnen",
-      "example": "Juana ist VerkÃ¤uferin.",
+      "plural": "die Verkäuferinnen",
+      "example": "Juana ist Verkäuferin.",
       "grammarRef": "GF1"
     },
     {
@@ -472,19 +472,19 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "der SchÃ¼ler",
+      "word": "der Schüler",
       "meaning": "school student",
       "article": "der",
-      "plural": "die SchÃ¼ler",
-      "example": "Er ist SchÃ¼ler.",
+      "plural": "die Schüler",
+      "example": "Er ist Schüler.",
       "grammarRef": "GF1"
     },
     {
-      "word": "die SchÃ¼lerin",
+      "word": "die Schülerin",
       "meaning": "female school student",
       "article": "die",
-      "plural": "die SchÃ¼lerinnen",
-      "example": "Sie ist SchÃ¼lerin.",
+      "plural": "die Schülerinnen",
+      "example": "Sie ist Schülerin.",
       "grammarRef": "GF1"
     },
     {
@@ -523,16 +523,16 @@
       "word": "der Tierarzt",
       "meaning": "veterinarian",
       "article": "der",
-      "plural": "die TierÃ¤rzte",
+      "plural": "die Tierärzte",
       "example": "Thomas ist Tierarzt.",
       "grammarRef": "GF1"
     },
     {
-      "word": "die TierÃ¤rztin",
+      "word": "die Tierärztin",
       "meaning": "female veterinarian",
       "article": "die",
-      "plural": "die TierÃ¤rztinnen",
-      "example": "Sie ist TierÃ¤rztin.",
+      "plural": "die Tierärztinnen",
+      "example": "Sie ist Tierärztin.",
       "grammarRef": "GF1"
     },
     {
@@ -552,19 +552,19 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "der SÃ¤nger",
+      "word": "der Sänger",
       "meaning": "singer",
       "article": "der",
-      "plural": "die SÃ¤nger",
-      "example": "Lukas ist SÃ¤nger.",
+      "plural": "die Sänger",
+      "example": "Lukas ist Sänger.",
       "grammarRef": "GF1"
     },
     {
-      "word": "die SÃ¤ngerin",
+      "word": "die Sängerin",
       "meaning": "female singer",
       "article": "die",
-      "plural": "die SÃ¤ngerinnen",
-      "example": "Sie ist SÃ¤ngerin.",
+      "plural": "die Sängerinnen",
+      "example": "Sie ist Sängerin.",
       "grammarRef": "GF1"
     },
     {
@@ -580,7 +580,7 @@
       "meaning": "aunt",
       "article": "die",
       "plural": "die Tanten",
-      "example": "Meine Tante heiÃŸt Maria.",
+      "example": "Meine Tante heißt Maria.",
       "grammarRef": "GF1"
     },
     {
@@ -604,14 +604,14 @@
       "meaning": "baby",
       "article": "das",
       "plural": "die Babys",
-      "example": "Das Baby schlÃ¤ft.",
+      "example": "Das Baby schläft.",
       "grammarRef": "GF1"
     },
     {
       "word": "der Mann",
       "meaning": "man / husband",
       "article": "der",
-      "plural": "die MÃ¤nner",
+      "plural": "die Männer",
       "example": "Das ist mein Mann.",
       "grammarRef": "GF1"
     },
@@ -637,11 +637,11 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "die StraÃŸe",
+      "word": "die Straße",
       "meaning": "street",
       "article": "die",
-      "plural": "die StraÃŸen",
-      "example": "Die StraÃŸe ist ruhig.",
+      "plural": "die Straßen",
+      "example": "Die Straße ist ruhig.",
       "grammarRef": "GF1"
     },
     {
@@ -656,14 +656,14 @@
       "word": "die Stadt",
       "meaning": "city",
       "article": "die",
-      "plural": "die StÃ¤dte",
+      "plural": "die Städte",
       "example": "Hamburg ist eine Stadt.",
       "grammarRef": "GF1"
     }
   ],
   "grammar": [
     {
-      "topic": "Konjugation im PrÃ¤sens",
+      "topic": "Konjugation im Präsens",
       "explanation": "Regular verbs change their endings for ich, du, er/sie, wir, ihr and sie/Sie.",
       "examples": [
         "ich wohne",

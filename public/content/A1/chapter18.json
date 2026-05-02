@@ -12,16 +12,16 @@
   ],
   "vocabulary": [
     {
-      "word": "das GefÃ¼hl",
+      "word": "das Gefühl",
       "meaning": "feeling/emotion",
       "article": "das",
-      "plural": "die GefÃ¼hle",
-      "example": "Was ist das fÃ¼r ein GefÃ¼hl?"
+      "plural": "die Gefühle",
+      "example": "Was ist das für ein Gefühl?"
     },
     {
-      "word": "glÃ¼cklich",
+      "word": "glücklich",
       "meaning": "happy",
-      "example": "Ich bin sehr glÃ¼cklich."
+      "example": "Ich bin sehr glücklich."
     },
     {
       "word": "traurig",
@@ -29,14 +29,14 @@
       "example": "Warum bist du traurig?"
     },
     {
-      "word": "wÃ¼tend",
+      "word": "wütend",
       "meaning": "angry",
-      "example": "Er ist wÃ¼tend auf mich."
+      "example": "Er ist wütend auf mich."
     },
     {
-      "word": "mÃ¼de",
+      "word": "müde",
       "meaning": "tired",
-      "example": "Ich bin heute mÃ¼de."
+      "example": "Ich bin heute müde."
     },
     {
       "word": "aufgeregt",
@@ -44,9 +44,9 @@
       "example": "Sie ist sehr aufgeregt."
     },
     {
-      "word": "nervÃ¶s",
+      "word": "nervös",
       "meaning": "nervous",
-      "example": "Ich bin nervÃ¶s vor der PrÃ¼fung."
+      "example": "Ich bin nervös vor der Prüfung."
     },
     {
       "word": "zufrieden",
@@ -54,14 +54,14 @@
       "example": "Er ist zufrieden mit seiner Arbeit."
     },
     {
-      "word": "enttÃ¤uscht",
+      "word": "enttäuscht",
       "meaning": "disappointed",
-      "example": "Ich bin enttÃ¤uscht."
+      "example": "Ich bin enttäuscht."
     },
     {
-      "word": "Ã¼berrascht",
+      "word": "überrascht",
       "meaning": "surprised",
-      "example": "Wir sind Ã¼berrascht."
+      "example": "Wir sind überrascht."
     },
     {
       "word": "stolz",
@@ -69,25 +69,25 @@
       "example": "Die Mutter ist stolz auf ihr Kind."
     },
     {
-      "word": "eifersÃ¼chtig",
+      "word": "eifersüchtig",
       "meaning": "jealous",
-      "example": "Sei nicht eifersÃ¼chtig!"
+      "example": "Sei nicht eifersüchtig!"
     },
     {
       "word": "einsam",
       "meaning": "lonely",
-      "example": "Er fÃ¼hlt sich einsam."
+      "example": "Er fühlt sich einsam."
     },
     {
-      "word": "Ã¤ngstlich",
+      "word": "ängstlich",
       "meaning": "anxious/fearful",
-      "example": "Das Kind ist Ã¤ngstlich."
+      "example": "Das Kind ist ängstlich."
     },
     {
       "word": "die Angst",
       "meaning": "fear/anxiety",
       "article": "die",
-      "plural": "die Ã„ngste",
+      "plural": "die Ängste",
       "example": "Ich habe Angst vor Spinnen."
     },
     {
@@ -95,7 +95,7 @@
       "meaning": "joy",
       "article": "die",
       "plural": "die Freuden",
-      "example": "Was fÃ¼r eine Freude!"
+      "example": "Was für eine Freude!"
     },
     {
       "word": "die Liebe",
@@ -109,7 +109,7 @@
       "example": "Ich liebe meine Familie."
     },
     {
-      "word": "mÃ¶gen",
+      "word": "mögen",
       "meaning": "to like",
       "example": "Ich mag dich sehr."
     },
@@ -129,14 +129,14 @@
       "example": "Das Baby weint."
     },
     {
-      "word": "sich Ã¤rgern",
+      "word": "sich ärgern",
       "meaning": "to be annoyed",
-      "example": "Ich Ã¤rgere mich Ã¼ber das Wetter."
+      "example": "Ich ärgere mich über das Wetter."
     },
     {
       "word": "sich freuen",
       "meaning": "to be happy about",
-      "example": "Ich freue mich Ã¼ber das Geschenk."
+      "example": "Ich freue mich über das Geschenk."
     },
     {
       "word": "der Freund",
@@ -246,9 +246,9 @@
       "example": "Das ist eine ernste Sache."
     },
     {
-      "word": "schÃ¼chtern",
+      "word": "schüchtern",
       "meaning": "shy",
-      "example": "Das MÃ¤dchen ist schÃ¼chtern."
+      "example": "Das Mädchen ist schüchtern."
     },
     {
       "word": "mutig",
@@ -271,14 +271,14 @@
       "example": "Ich finde sie sympathisch."
     },
     {
-      "word": "hÃ¶flich",
+      "word": "höflich",
       "meaning": "polite",
-      "example": "Die Frau ist sehr hÃ¶flich."
+      "example": "Die Frau ist sehr höflich."
     },
     {
-      "word": "unhÃ¶flich",
+      "word": "unhöflich",
       "meaning": "rude/impolite",
-      "example": "Das war unhÃ¶flich."
+      "example": "Das war unhöflich."
     },
     {
       "word": "wichtig",
@@ -289,22 +289,22 @@
   "grammar": [
     {
       "topic": "Expressing Emotions with 'sein' + Adjective",
-      "explanation": "You can express emotions in German by using 'sein' + adjective. E.g. 'Ich bin glÃ¼cklich'. To say what you're happy/angry/sad about, use prepositions: 'Ã¼ber + Akk' (about), 'auf + Akk' (at/about), 'vor + Dat' (of).",
+      "explanation": "You can express emotions in German by using 'sein' + adjective. E.g. 'Ich bin glücklich'. To say what you're happy/angry/sad about, use prepositions: 'über + Akk' (about), 'auf + Akk' (at/about), 'vor + Dat' (of).",
       "examples": [
-        "Ich bin glÃ¼cklich Ã¼ber das Ergebnis.",
-        "Er ist wÃ¼tend auf seinen Bruder.",
+        "Ich bin glücklich über das Ergebnis.",
+        "Er ist wütend auf seinen Bruder.",
         "Sie hat Angst vor Hunden.",
         "Wir sind stolz auf dich."
       ]
     },
     {
       "topic": "Reflexive Verbs for Emotions",
-      "explanation": "Many emotional expressions in German use reflexive verbs: sich freuen (Ã¼ber), sich Ã¤rgern (Ã¼ber), sich verlieben (in), sich entschuldigen (bei/fÃ¼r). The reflexive pronoun must match the subject.",
+      "explanation": "Many emotional expressions in German use reflexive verbs: sich freuen (über), sich ärgern (über), sich verlieben (in), sich entschuldigen (bei/für). The reflexive pronoun must match the subject.",
       "examples": [
-        "Ich freue mich Ã¼ber das Geschenk.",
-        "Er Ã¤rgert sich Ã¼ber den LÃ¤rm.",
+        "Ich freue mich über das Geschenk.",
+        "Er ärgert sich über den Lärm.",
         "Sie hat sich in ihn verliebt.",
-        "Ich entschuldige mich fÃ¼r den Fehler."
+        "Ich entschuldige mich für den Fehler."
       ]
     }
   ],
@@ -317,16 +317,16 @@
         "Ich",
         "freue",
         "mich",
-        "Ã¼ber",
+        "über",
         "das",
         "Geschenk.",
-        "fÃ¼r"
+        "für"
       ],
       "answer": [
         "Ich",
         "freue",
         "mich",
-        "Ã¼ber",
+        "über",
         "das",
         "Geschenk."
       ]
@@ -340,7 +340,7 @@
         "bist",
         "du",
         "traurig?",
-        "mÃ¼de?"
+        "müde?"
       ],
       "answer": [
         "Warum",
@@ -387,7 +387,7 @@
       "type": "mcq",
       "prompt": "Which preposition goes with 'Angst haben'?",
       "options": [
-        "Ã¼ber",
+        "über",
         "auf",
         "vor",
         "mit"
@@ -398,8 +398,8 @@
     {
       "id": "c18-quiz-3",
       "type": "fill_blank",
-      "prompt": "Ich ___ mich Ã¼ber den LÃ¤rm. (am annoyed)",
-      "answer": "Ã¤rgere",
+      "prompt": "Ich ___ mich über den Lärm. (am annoyed)",
+      "answer": "ärgere",
       "topic": "reflexive"
     },
     {
@@ -415,15 +415,15 @@
       "id": "c18-fill-1",
       "type": "fill_blank",
       "prompt": "Ich bin sehr ___. (happy)",
-      "answer": "glÃ¼cklich",
+      "answer": "glücklich",
       "hint": "happy",
       "topic": "emotions"
     },
     {
       "id": "c18-fill-2",
       "type": "fill_blank",
-      "prompt": "Ich ___ mich Ã¼ber den LÃ¤rm. (am annoyed)",
-      "answer": "Ã¤rgere",
+      "prompt": "Ich ___ mich über den Lärm. (am annoyed)",
+      "answer": "ärgere",
       "hint": "am annoyed",
       "topic": "reflexive"
     },
@@ -453,7 +453,7 @@
       "type": "choice",
       "prompt": "Which preposition goes with 'Angst haben'?",
       "options": [
-        "Ã¼ber",
+        "über",
         "auf",
         "vor",
         "mit"

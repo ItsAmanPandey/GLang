@@ -15,8 +15,8 @@
       "word": "der Plan",
       "meaning": "plan",
       "article": "der",
-      "plural": "die PlÃ¤ne",
-      "example": "Was sind deine PlÃ¤ne?"
+      "plural": "die Pläne",
+      "example": "Was sind deine Pläne?"
     },
     {
       "word": "die Zukunft",
@@ -28,7 +28,7 @@
       "word": "der Traum",
       "meaning": "dream",
       "article": "der",
-      "plural": "die TrÃ¤ume",
+      "plural": "die Träume",
       "example": "Mein Traum ist eine Weltreise."
     },
     {
@@ -44,9 +44,9 @@
       "example": "Ich will Deutsch lernen."
     },
     {
-      "word": "mÃ¶chten",
+      "word": "möchten",
       "meaning": "would like",
-      "example": "Ich mÃ¶chte nach Berlin fahren."
+      "example": "Ich möchte nach Berlin fahren."
     },
     {
       "word": "werden",
@@ -99,9 +99,9 @@
       "example": "Wann fangen wir an?"
     },
     {
-      "word": "aufhÃ¶ren",
+      "word": "aufhören",
       "meaning": "to stop",
-      "example": "Ich hÃ¶re mit dem Rauchen auf."
+      "example": "Ich höre mit dem Rauchen auf."
     },
     {
       "word": "weitermachen",
@@ -121,11 +121,11 @@
       "example": "Das ist eine schwere Entscheidung."
     },
     {
-      "word": "die MÃ¶glichkeit",
+      "word": "die Möglichkeit",
       "meaning": "possibility/opportunity",
       "article": "die",
-      "plural": "die MÃ¶glichkeiten",
-      "example": "Es gibt viele MÃ¶glichkeiten."
+      "plural": "die Möglichkeiten",
+      "example": "Es gibt viele Möglichkeiten."
     },
     {
       "word": "die Chance",
@@ -156,23 +156,23 @@
       "example": "Sie macht eine Ausbildung."
     },
     {
-      "word": "der FÃ¼hrerschein",
+      "word": "der Führerschein",
       "meaning": "driver's license",
       "article": "der",
-      "plural": "die FÃ¼hrerscheine",
-      "example": "Ich will meinen FÃ¼hrerschein machen."
+      "plural": "die Führerscheine",
+      "example": "Ich will meinen Führerschein machen."
     },
     {
-      "word": "die PrÃ¼fung",
+      "word": "die Prüfung",
       "meaning": "exam",
       "article": "die",
-      "plural": "die PrÃ¼fungen",
-      "example": "Die PrÃ¼fung ist nÃ¤chste Woche."
+      "plural": "die Prüfungen",
+      "example": "Die Prüfung ist nächste Woche."
     },
     {
       "word": "bestehen",
       "meaning": "to pass (an exam)",
-      "example": "Ich habe die PrÃ¼fung bestanden."
+      "example": "Ich habe die Prüfung bestanden."
     },
     {
       "word": "die Reise",
@@ -185,17 +185,17 @@
       "word": "das Ausland",
       "meaning": "abroad",
       "article": "das",
-      "example": "Ich mÃ¶chte ins Ausland gehen."
+      "example": "Ich möchte ins Ausland gehen."
     },
     {
       "word": "umziehen",
       "meaning": "to move (house)",
-      "example": "Wir ziehen nÃ¤chstes Jahr um."
+      "example": "Wir ziehen nächstes Jahr um."
     },
     {
       "word": "sparen",
       "meaning": "to save (money)",
-      "example": "Ich spare fÃ¼r ein Auto."
+      "example": "Ich spare für ein Auto."
     },
     {
       "word": "verbessern",
@@ -203,14 +203,14 @@
       "example": "Ich will mein Deutsch verbessern."
     },
     {
-      "word": "Ã¤ndern",
+      "word": "ändern",
       "meaning": "to change",
-      "example": "Ich mÃ¶chte mein Leben Ã¤ndern."
+      "example": "Ich möchte mein Leben ändern."
     },
     {
       "word": "vielleicht",
       "meaning": "maybe/perhaps",
-      "example": "Vielleicht fahre ich nach MÃ¼nchen."
+      "example": "Vielleicht fahre ich nach München."
     },
     {
       "word": "bestimmt",
@@ -233,9 +233,9 @@
       "example": "Bald habe ich Urlaub."
     },
     {
-      "word": "spÃ¤ter",
+      "word": "später",
       "meaning": "later",
-      "example": "SpÃ¤ter will ich eine Familie haben."
+      "example": "Später will ich eine Familie haben."
     },
     {
       "word": "irgendwann",
@@ -258,21 +258,21 @@
       "example": "Er ist sehr erfolgreich."
     },
     {
-      "word": "fleiÃŸig",
+      "word": "fleißig",
       "meaning": "hardworking/diligent",
-      "example": "Sie ist eine fleiÃŸige Studentin."
+      "example": "Sie ist eine fleißige Studentin."
     },
     {
       "word": "der Wunsch",
       "meaning": "wish",
       "article": "der",
-      "plural": "die WÃ¼nsche",
-      "example": "Was ist dein grÃ¶ÃŸter Wunsch?"
+      "plural": "die Wünsche",
+      "example": "Was ist dein größter Wunsch?"
     },
     {
-      "word": "trÃ¤umen",
+      "word": "träumen",
       "meaning": "to dream",
-      "example": "Ich trÃ¤ume von einer Reise."
+      "example": "Ich träume von einer Reise."
     },
     {
       "word": "sich Sorgen machen",
@@ -298,7 +298,7 @@
   "grammar": [
     {
       "topic": "The Modal Verb 'wollen' (to want)",
-      "explanation": "Conjugation: ich will, du willst, er/sie/es will, wir wollen, ihr wollt, sie/Sie wollen. The main verb goes at the end in infinitive form. Use 'mÃ¶chten' for a more polite request.",
+      "explanation": "Conjugation: ich will, du willst, er/sie/es will, wir wollen, ihr wollt, sie/Sie wollen. The main verb goes at the end in infinitive form. Use 'möchten' for a more polite request.",
       "examples": [
         "Ich will nach Deutschland fahren.",
         "Was willst du studieren?",
@@ -308,10 +308,10 @@
     },
     {
       "topic": "Future with 'werden'",
-      "explanation": "The simplest way to talk about the future in German is to use the present tense with a time indicator (morgen, nÃ¤chste Woche, etc.). You can also use 'werden' + infinitive for emphasis. Conjugation: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden.",
+      "explanation": "The simplest way to talk about the future in German is to use the present tense with a time indicator (morgen, nächste Woche, etc.). You can also use 'werden' + infinitive for emphasis. Conjugation: ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden.",
       "examples": [
-        "Ich werde nÃ¤chstes Jahr studieren.",
-        "Du wirst die PrÃ¼fung bestehen.",
+        "Ich werde nächstes Jahr studieren.",
+        "Du wirst die Prüfung bestehen.",
         "Wir werden nach Berlin fahren.",
         "Es wird bestimmt klappen."
       ]
@@ -344,14 +344,14 @@
         "Was",
         "sind",
         "deine",
-        "PlÃ¤ne?",
-        "TrÃ¤ume?"
+        "Pläne?",
+        "Träume?"
       ],
       "answer": [
         "Was",
         "sind",
         "deine",
-        "PlÃ¤ne?"
+        "Pläne?"
       ]
     },
     {
@@ -362,7 +362,7 @@
         "Ich",
         "werde",
         "die",
-        "PrÃ¼fung",
+        "Prüfung",
         "bestehen.",
         "schaffen."
       ],
@@ -370,7 +370,7 @@
         "Ich",
         "werde",
         "die",
-        "PrÃ¼fung",
+        "Prüfung",
         "bestehen."
       ]
     }
@@ -405,7 +405,7 @@
     {
       "id": "c20-quiz-3",
       "type": "fill_blank",
-      "prompt": "Ich ___ nÃ¤chstes Jahr studieren. (will)",
+      "prompt": "Ich ___ nächstes Jahr studieren. (will)",
       "answer": "werde",
       "topic": "future"
     },
@@ -429,7 +429,7 @@
     {
       "id": "c20-fill-2",
       "type": "fill_blank",
-      "prompt": "Ich ___ nÃ¤chstes Jahr studieren. (will)",
+      "prompt": "Ich ___ nächstes Jahr studieren. (will)",
       "answer": "werde",
       "hint": "will",
       "topic": "future"
@@ -494,14 +494,14 @@
         "Du",
         "wirst",
         "die",
-        "PrÃ¼fung",
+        "Prüfung",
         "bestehen."
       ],
       "answer": [
         "Du",
         "wirst",
         "die",
-        "PrÃ¼fung",
+        "Prüfung",
         "bestehen."
       ],
       "topic": "future"
@@ -509,7 +509,7 @@
     {
       "id": "c20-fill-4",
       "type": "fill_blank",
-      "prompt": "Ich ___ fÃ¼r ein Auto. (save money)",
+      "prompt": "Ich ___ für ein Auto. (save money)",
       "answer": "spare",
       "hint": "save",
       "topic": "verbs"

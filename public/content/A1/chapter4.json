@@ -105,7 +105,7 @@
       "word": "die Nacht",
       "meaning": "night",
       "article": "die",
-      "plural": "die NÃ¤chte",
+      "plural": "die Nächte",
       "example": "In der Nacht schlafe ich.",
       "grammarRef": "GF1"
     },
@@ -114,7 +114,7 @@
       "meaning": "Monday",
       "article": "der",
       "plural": "die Montage",
-      "example": "Am Montag gehe ich ins BÃ¼ro.",
+      "example": "Am Montag gehe ich ins Büro.",
       "grammarRef": "GF1"
     },
     {
@@ -146,7 +146,7 @@
       "meaning": "Friday",
       "article": "der",
       "plural": "die Freitage",
-      "example": "Freitag ist schÃ¶n.",
+      "example": "Freitag ist schön.",
       "grammarRef": "GF1"
     },
     {
@@ -170,7 +170,7 @@
       "meaning": "weekend",
       "article": "das",
       "plural": "die Wochenenden",
-      "example": "SchÃ¶nes Wochenende!",
+      "example": "Schönes Wochenende!",
       "grammarRef": "GF1"
     },
     {
@@ -182,7 +182,7 @@
     {
       "word": "anfangen",
       "meaning": "to start / begin",
-      "example": "Der Kurs fÃ¤ngt um neun Uhr an.",
+      "example": "Der Kurs fängt um neun Uhr an.",
       "grammarRef": "GF3"
     },
     {
@@ -205,7 +205,7 @@
     {
       "word": "schlafen",
       "meaning": "to sleep",
-      "example": "Das Baby schlÃ¤ft."
+      "example": "Das Baby schläft."
     },
     {
       "word": "machen",
@@ -218,26 +218,26 @@
       "example": "Ich gehe ins Kino."
     },
     {
-      "word": "spÃ¤t",
+      "word": "spät",
       "meaning": "late",
-      "example": "Wie spÃ¤t ist es?"
+      "example": "Wie spät ist es?"
     },
     {
-      "word": "frÃ¼h",
+      "word": "früh",
       "meaning": "early",
-      "example": "Ich stehe sehr frÃ¼h auf."
+      "example": "Ich stehe sehr früh auf."
     },
     {
       "word": "von ... bis ...",
       "meaning": "from ... to ...",
-      "example": "Ich arbeite von acht bis fÃ¼nf."
+      "example": "Ich arbeite von acht bis fünf."
     },
     {
       "word": "der Tag",
       "meaning": "day",
       "article": "der",
       "plural": "die Tage",
-      "example": "Ein schÃ¶ner Tag.",
+      "example": "Ein schöner Tag.",
       "grammarRef": "GF1"
     },
     {
@@ -281,14 +281,14 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "frÃ¼hstÃ¼cken",
+      "word": "frühstücken",
       "meaning": "to have breakfast",
-      "example": "Wir frÃ¼hstÃ¼cken um 8 Uhr."
+      "example": "Wir frühstücken um 8 Uhr."
     },
     {
-      "word": "aufrÃ¤umen",
+      "word": "aufräumen",
       "meaning": "to clean up",
-      "example": "Ich rÃ¤ume mein Zimmer auf."
+      "example": "Ich räume mein Zimmer auf."
     },
     {
       "word": "anrufen",
@@ -297,9 +297,9 @@
       "grammarRef": "GF3"
     },
     {
-      "word": "zurÃ¼ckkommen",
+      "word": "zurückkommen",
       "meaning": "to come back",
-      "example": "Wann kommst du zurÃ¼ck?"
+      "example": "Wann kommst du zurück?"
     },
     {
       "word": "der Termin",
@@ -326,21 +326,21 @@
       "grammarRef": "GF1"
     },
     {
-      "word": "mÃ¼de",
+      "word": "müde",
       "meaning": "tired",
-      "example": "Ich bin sehr mÃ¼de."
+      "example": "Ich bin sehr müde."
     },
     {
-      "word": "pÃ¼nktlich",
+      "word": "pünktlich",
       "meaning": "punctual / on time",
-      "example": "Der Zug ist pÃ¼nktlich."
+      "example": "Der Zug ist pünktlich."
     },
     {
-      "word": "das FrÃ¼hstÃ¼ck",
+      "word": "das Frühstück",
       "meaning": "breakfast",
       "article": "das",
-      "plural": "die FrÃ¼hstÃ¼cke",
-      "example": "Das FrÃ¼hstÃ¼ck ist fertig.",
+      "plural": "die Frühstücke",
+      "example": "Das Frühstück ist fertig.",
       "grammarRef": "GF1"
     },
     {
@@ -367,26 +367,26 @@
     {
       "word": "aufwachen",
       "meaning": "to wake up",
-      "example": "Ich wache frÃ¼h auf."
+      "example": "Ich wache früh auf."
     }
   ],
   "grammar": [
     {
       "topic": "Telling Time",
-      "explanation": "To ask the time: 'Wie spÃ¤t ist es?' or 'Wie viel Uhr ist es?'. To answer: 'Es ist...'. Use 'vor' (to) and 'nach' (past). 'Halb' always looks to the next hour (halb acht = 7:30).",
+      "explanation": "To ask the time: 'Wie spät ist es?' or 'Wie viel Uhr ist es?'. To answer: 'Es ist...'. Use 'vor' (to) and 'nach' (past). 'Halb' always looks to the next hour (halb acht = 7:30).",
       "examples": [
         "Es ist zehn Uhr.",
         "Es ist Viertel nach drei (3:15).",
-        "Es ist halb fÃ¼nf (4:30)."
+        "Es ist halb fünf (4:30)."
       ]
     },
     {
       "topic": "Separable Verbs (Trennbare Verben)",
       "explanation": "Some verbs have a prefix (auf, ein, an, fern). The prefix separates from the verb and goes to the END of the sentence.",
       "examples": [
-        "aufstehen -> Ich stehe frÃ¼h auf.",
+        "aufstehen -> Ich stehe früh auf.",
         "einkaufen -> Wir kaufen im Supermarkt ein.",
-        "anfangen -> Wann fÃ¤ngt der Film an?"
+        "anfangen -> Wann fängt der Film an?"
       ]
     },
     {
@@ -413,7 +413,7 @@
     {
       "id": "c4-fill-2",
       "type": "fill_blank",
-      "prompt": "Der Film fÃ¤ngt um 20 Uhr ___.",
+      "prompt": "Der Film fängt um 20 Uhr ___.",
       "answer": "an",
       "hint": "The prefix of anfangen.",
       "topic": "separable verbs"
@@ -421,7 +421,7 @@
     {
       "id": "c4-fill-3",
       "type": "fill_blank",
-      "prompt": "Wir spielen ___ Samstag FuÃŸball.",
+      "prompt": "Wir spielen ___ Samstag Fußball.",
       "answer": "am",
       "hint": "preposition for days",
       "topic": "prepositions"
@@ -488,14 +488,14 @@
       "prompt": "Ask for the time.",
       "tokens": [
         "es",
-        "spÃ¤t",
+        "spät",
         "Wie",
         "ist",
         "?"
       ],
       "answer": [
         "Wie",
-        "spÃ¤t",
+        "spät",
         "ist",
         "es",
         "?"
@@ -528,7 +528,7 @@
       "tokens": [
         "Kurs",
         "um",
-        "fÃ¤ngt",
+        "fängt",
         "Der",
         "9 Uhr",
         "an."
@@ -536,7 +536,7 @@
       "answer": [
         "Der",
         "Kurs",
-        "fÃ¤ngt",
+        "fängt",
         "um",
         "9 Uhr",
         "an."
@@ -560,7 +560,7 @@
     {
       "id": "c4-quiz-2",
       "type": "fill_blank",
-      "prompt": "Wie spÃ¤t ___ es?",
+      "prompt": "Wie spät ___ es?",
       "answer": "ist",
       "topic": "time"
     },

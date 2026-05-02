@@ -51,9 +51,9 @@
       "example": "Gute Nacht, schlaf gut!"
     },
     {
-      "word": "TschÃ¼ss",
+      "word": "Tschüss",
       "meaning": "Bye (informal)",
-      "example": "TschÃ¼ss, bis morgen!"
+      "example": "Tschüss, bis morgen!"
     },
     {
       "word": "Auf Wiedersehen",
@@ -86,9 +86,9 @@
       "example": "Entschuldigung, ist hier noch frei?"
     },
     {
-      "word": "heiÃŸen",
+      "word": "heißen",
       "meaning": "to be called",
-      "example": "Ich heiÃŸe Anna."
+      "example": "Ich heiße Anna."
     },
     {
       "word": "kommen",
@@ -113,7 +113,7 @@
     {
       "word": "wie",
       "meaning": "how",
-      "example": "Wie heiÃŸen Sie?"
+      "example": "Wie heißen Sie?"
     },
     {
       "word": "woher",
@@ -123,7 +123,7 @@
     {
       "word": "und",
       "meaning": "and",
-      "example": "Ich heiÃŸe Tom und das ist Maria."
+      "example": "Ich heiße Tom und das ist Maria."
     },
     {
       "word": "aus",
@@ -156,7 +156,7 @@
       "meaning": "woman / Mrs.",
       "article": "die",
       "plural": "die Frauen",
-      "example": "Das ist Frau MÃ¼ller."
+      "example": "Das ist Frau Müller."
     },
     {
       "word": "der Herr",
@@ -169,18 +169,18 @@
       "word": "das Land",
       "meaning": "country",
       "article": "das",
-      "plural": "die LÃ¤nder",
+      "plural": "die Länder",
       "example": "Deutschland ist ein Land."
     },
     {
       "word": "Deutschland",
       "meaning": "Germany",
-      "example": "MÃ¼nchen liegt in Deutschland."
+      "example": "München liegt in Deutschland."
     },
     {
-      "word": "Ã–sterreich",
+      "word": "Österreich",
       "meaning": "Austria",
-      "example": "Wien ist in Ã–sterreich."
+      "example": "Wien ist in Österreich."
     },
     {
       "word": "die Schweiz",
@@ -199,7 +199,7 @@
       "word": "das Wort",
       "meaning": "word",
       "article": "das",
-      "plural": "die WÃ¶rter",
+      "plural": "die Wörter",
       "example": "Das Wort ist kurz."
     },
     {
@@ -212,7 +212,7 @@
     {
       "word": "buchstabieren",
       "meaning": "to spell",
-      "example": "KÃ¶nnen Sie das buchstabieren?"
+      "example": "Können Sie das buchstabieren?"
     },
     {
       "word": "schreiben",
@@ -298,7 +298,7 @@
       "word": "das Buch",
       "meaning": "book",
       "article": "das",
-      "plural": "die BÃ¼cher",
+      "plural": "die Bücher",
       "example": "Das Buch ist gut."
     },
     {
@@ -312,7 +312,7 @@
       "word": "der Stuhl",
       "meaning": "chair",
       "article": "der",
-      "plural": "die StÃ¼hle",
+      "plural": "die Stühle",
       "example": "Der Stuhl ist bequem."
     }
   ],
@@ -321,19 +321,19 @@
       "topic": "The verb 'sein' (to be)",
       "explanation": "The verb 'sein' is irregular. Memorize these forms first: ich bin (I am), du bist (you are), er/sie/es ist (he/she/it is), Sie sind (you are - formal).",
       "examples": [
-        "Ich bin glÃ¼cklich.",
+        "Ich bin glücklich.",
         "Bist du neu hier?",
         "Sie ist aus Frankreich.",
-        "Sind Sie Herr MÃ¼ller?"
+        "Sind Sie Herr Müller?"
       ]
     },
     {
-      "topic": "The verb 'heiÃŸen' (to be called)",
-      "explanation": "A regular verb with a slight spelling change for 'du': ich heiÃŸe, du heiÃŸt, er/sie heiÃŸt, Sie heiÃŸen.",
+      "topic": "The verb 'heißen' (to be called)",
+      "explanation": "A regular verb with a slight spelling change for 'du': ich heiße, du heißt, er/sie heißt, Sie heißen.",
       "examples": [
-        "Ich heiÃŸe Clara.",
-        "Wie heiÃŸt du?",
-        "Er heiÃŸt Max."
+        "Ich heiße Clara.",
+        "Wie heißt du?",
+        "Er heißt Max."
       ]
     },
     {
@@ -348,7 +348,7 @@
       "topic": "W-Questions",
       "explanation": "Questions that ask for information start with a W-word. The verb is always in the second position.",
       "examples": [
-        "Wie heiÃŸt du?",
+        "Wie heißt du?",
         "Wer ist das?",
         "Woher kommen Sie?"
       ]
@@ -367,9 +367,9 @@
       "id": "c1-fill-2",
       "type": "fill_blank",
       "prompt": "Wie ___ Sie?",
-      "answer": "heiÃŸen",
+      "answer": "heißen",
       "hint": "What are you called? (formal)",
-      "topic": "heiÃŸen"
+      "topic": "heißen"
     },
     {
       "id": "c1-fill-3",
@@ -394,7 +394,7 @@
       "options": [
         "Hallo",
         "Guten Tag",
-        "TschÃ¼ss",
+        "Tschüss",
         "Hi"
       ],
       "answer": "Guten Tag",
@@ -419,14 +419,14 @@
       "type": "sentence_order",
       "prompt": "Introduce yourself.",
       "tokens": [
-        "heiÃŸe",
+        "heiße",
         "Ich",
         "Markus",
         "."
       ],
       "answer": [
         "Ich",
-        "heiÃŸe",
+        "heiße",
         "Markus",
         "."
       ],
@@ -477,13 +477,13 @@
         "komme",
         "aus",
         "Ich",
-        "Ã–sterreich."
+        "Österreich."
       ],
       "answer": [
         "Ich",
         "komme",
         "aus",
-        "Ã–sterreich."
+        "Österreich."
       ]
     }
   ],
@@ -514,7 +514,7 @@
       "prompt": "Which phrase is a formal farewell?",
       "options": [
         "Auf Wiedersehen",
-        "TschÃ¼ss",
+        "Tschüss",
         "Hallo",
         "Gute Nacht"
       ],

@@ -16,7 +16,7 @@
       "meaning": "weather",
       "article": "das",
       "plural": "-",
-      "example": "Das Wetter ist heute schÃ¶n."
+      "example": "Das Wetter ist heute schön."
     },
     {
       "word": "die Sonne",
@@ -64,14 +64,14 @@
       "example": "Es ist sehr kalt."
     },
     {
-      "word": "heiÃŸ",
+      "word": "heiß",
       "meaning": "hot",
-      "example": "Im Sommer ist es heiÃŸ."
+      "example": "Im Sommer ist es heiß."
     },
     {
-      "word": "kÃ¼hl",
+      "word": "kühl",
       "meaning": "cool",
-      "example": "Der Abend ist kÃ¼hl."
+      "example": "Der Abend ist kühl."
     },
     {
       "word": "regnen",
@@ -89,9 +89,9 @@
       "example": "Die Sonne scheint."
     },
     {
-      "word": "bewÃ¶lkt",
+      "word": "bewölkt",
       "meaning": "cloudy",
-      "example": "Der Himmel ist bewÃ¶lkt."
+      "example": "Der Himmel ist bewölkt."
     },
     {
       "word": "windig",
@@ -104,11 +104,11 @@
       "example": "Morgen wird es sonnig."
     },
     {
-      "word": "der FrÃ¼hling",
+      "word": "der Frühling",
       "meaning": "spring",
       "article": "der",
-      "plural": "die FrÃ¼hlinge",
-      "example": "Der FrÃ¼hling ist schÃ¶n."
+      "plural": "die Frühlinge",
+      "example": "Der Frühling ist schön."
     },
     {
       "word": "der Sommer",
@@ -161,7 +161,7 @@
       "word": "der Strand",
       "meaning": "beach",
       "article": "der",
-      "plural": "die StrÃ¤nde",
+      "plural": "die Strände",
       "example": "Der Strand ist voll."
     },
     {
@@ -176,14 +176,14 @@
       "meaning": "island",
       "article": "die",
       "plural": "die Inseln",
-      "example": "Die Insel ist wunderschÃ¶n."
+      "example": "Die Insel ist wunderschön."
     },
     {
       "word": "der See",
       "meaning": "lake",
       "article": "der",
       "plural": "die Seen",
-      "example": "Der See ist groÃŸ."
+      "example": "Der See ist groß."
     },
     {
       "word": "der Norden",
@@ -193,11 +193,11 @@
       "example": "Hamburg liegt im Norden."
     },
     {
-      "word": "der SÃ¼den",
+      "word": "der Süden",
       "meaning": "south",
       "article": "der",
       "plural": "-",
-      "example": "MÃ¼nchen liegt im SÃ¼den."
+      "example": "München liegt im Süden."
     },
     {
       "word": "der Osten",
@@ -211,14 +211,14 @@
       "meaning": "west",
       "article": "der",
       "plural": "-",
-      "example": "KÃ¶ln liegt im Westen."
+      "example": "Köln liegt im Westen."
     },
     {
       "word": "das Ausland",
       "meaning": "abroad/foreign country",
       "article": "das",
       "plural": "-",
-      "example": "FÃ¤hrst du ins Ausland?"
+      "example": "Fährst du ins Ausland?"
     },
     {
       "word": "packen",
@@ -255,7 +255,7 @@
       "word": "der Flughafen",
       "meaning": "airport",
       "article": "der",
-      "plural": "die FlughÃ¤fen",
+      "plural": "die Flughäfen",
       "example": "Wir fahren zum Flughafen."
     },
     {
@@ -273,16 +273,16 @@
       "example": "Das Hotel ist teuer."
     },
     {
-      "word": "Ã¼bernachten",
+      "word": "übernachten",
       "meaning": "to stay overnight",
-      "example": "Wir Ã¼bernachten in einem Hotel."
+      "example": "Wir übernachten in einem Hotel."
     },
     {
       "word": "die Rezeption",
       "meaning": "reception",
       "article": "die",
       "plural": "die Rezeptionen",
-      "example": "Der SchlÃ¼ssel ist an der Rezeption."
+      "example": "Der Schlüssel ist an der Rezeption."
     },
     {
       "word": "buchen",
@@ -305,7 +305,7 @@
       "word": "der Pass",
       "meaning": "passport",
       "article": "der",
-      "plural": "die PÃ¤sse",
+      "plural": "die Pässe",
       "example": "Ich brauche meinen Pass."
     },
     {
@@ -341,8 +341,8 @@
       "explanation": "To describe the weather, German uses 'es ist' (it is) or specific verbs like 'es regnet' (it's raining) and 'es schneit' (it's snowing). E.g. 'Es ist kalt' (It is cold).",
       "examples": [
         "Es regnet heute.",
-        "Der Himmel ist bewÃ¶lkt.",
-        "Im Sommer ist es heiÃŸ.",
+        "Der Himmel ist bewölkt.",
+        "Im Sommer ist es heiß.",
         "Im Winter schneit es oft."
       ]
     },
@@ -353,7 +353,7 @@
         "Ich fahre nach Berlin.",
         "Wir fliegen nach Spanien.",
         "Er reist mit dem Zug.",
-        "Sie fÃ¤hrt mit dem Auto."
+        "Sie fährt mit dem Auto."
       ]
     }
   ],
@@ -468,7 +468,7 @@
     {
       "id": "c6-fill-2",
       "type": "fill_blank",
-      "prompt": "Im ___ ist es heiÃŸ.",
+      "prompt": "Im ___ ist es heiß.",
       "answer": "Sommer",
       "hint": "summer",
       "topic": "seasons"
@@ -477,7 +477,7 @@
       "id": "c6-fill-3",
       "type": "fill_blank",
       "prompt": "Der Himmel ist ___. (cloudy)",
-      "answer": "bewÃ¶lkt",
+      "answer": "bewölkt",
       "hint": "clouded",
       "topic": "weather"
     },
@@ -497,7 +497,7 @@
     {
       "id": "c6-choice-2",
       "type": "choice",
-      "prompt": "Which season is 'der FrÃ¼hling'?",
+      "prompt": "Which season is 'der Frühling'?",
       "options": [
         "Summer",
         "Autumn",

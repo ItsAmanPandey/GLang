@@ -31,13 +31,13 @@
       "word": "die Fitness",
       "meaning": "fitness",
       "article": "die",
-      "example": "Ich mache viel fÃ¼r meine Fitness."
+      "example": "Ich mache viel für meine Fitness."
     },
     {
       "word": "der Sport",
       "meaning": "sport/exercise",
       "article": "der",
-      "example": "Sport ist gut fÃ¼r die Gesundheit."
+      "example": "Sport ist gut für die Gesundheit."
     },
     {
       "word": "trainieren",
@@ -86,10 +86,10 @@
       "example": "Diese Ãœbung ist schwer."
     },
     {
-      "word": "die ErnÃ¤hrung",
+      "word": "die Ernährung",
       "meaning": "nutrition/diet",
       "article": "die",
-      "example": "Eine gute ErnÃ¤hrung ist wichtig."
+      "example": "Eine gute Ernährung ist wichtig."
     },
     {
       "word": "das Obst",
@@ -98,10 +98,10 @@
       "example": "Iss mehr Obst!"
     },
     {
-      "word": "das GemÃ¼se",
+      "word": "das Gemüse",
       "meaning": "vegetables",
       "article": "das",
-      "example": "GemÃ¼se ist gesund."
+      "example": "Gemüse ist gesund."
     },
     {
       "word": "das Vitamin",
@@ -118,11 +118,11 @@
       "example": "Eier haben viel Protein."
     },
     {
-      "word": "die DiÃ¤t",
+      "word": "die Diät",
       "meaning": "diet",
       "article": "die",
-      "plural": "die DiÃ¤ten",
-      "example": "Ich mache eine DiÃ¤t."
+      "plural": "die Diäten",
+      "example": "Ich mache eine Diät."
     },
     {
       "word": "abnehmen",
@@ -146,9 +146,9 @@
       "example": "Rauchen ist ungesund."
     },
     {
-      "word": "aufhÃ¶ren",
+      "word": "aufhören",
       "meaning": "to stop/quit",
-      "example": "Ich hÃ¶re mit dem Rauchen auf."
+      "example": "Ich höre mit dem Rauchen auf."
     },
     {
       "word": "der Stress",
@@ -173,14 +173,14 @@
       "example": "Guter Schlaf ist wichtig."
     },
     {
-      "word": "mÃ¼de",
+      "word": "müde",
       "meaning": "tired",
-      "example": "Ich bin immer mÃ¼de."
+      "example": "Ich bin immer müde."
     },
     {
       "word": "fit",
       "meaning": "fit",
-      "example": "Ich fÃ¼hle mich fit."
+      "example": "Ich fühle mich fit."
     },
     {
       "word": "stark",
@@ -190,7 +190,7 @@
     {
       "word": "schwach",
       "meaning": "weak",
-      "example": "Ich fÃ¼hle mich schwach."
+      "example": "Ich fühle mich schwach."
     },
     {
       "word": "die Bewegung",
@@ -265,14 +265,14 @@
       "example": "Geh zur Apotheke."
     },
     {
-      "word": "regelmÃ¤ÃŸig",
+      "word": "regelmäßig",
       "meaning": "regularly",
-      "example": "Ich trainiere regelmÃ¤ÃŸig."
+      "example": "Ich trainiere regelmäßig."
     },
     {
-      "word": "tÃ¤glich",
+      "word": "täglich",
       "meaning": "daily",
-      "example": "TÃ¤glich Sport machen."
+      "example": "Täglich Sport machen."
     },
     {
       "word": "genug",
@@ -295,15 +295,15 @@
       "example": "Trink mehr Wasser!"
     },
     {
-      "word": "sich fÃ¼hlen",
+      "word": "sich fühlen",
       "meaning": "to feel",
-      "example": "Ich fÃ¼hle mich gut."
+      "example": "Ich fühle mich gut."
     },
     {
       "word": "der Ratschlag",
       "meaning": "advice",
       "article": "der",
-      "plural": "die RatschlÃ¤ge",
+      "plural": "die Ratschläge",
       "example": "Das ist ein guter Ratschlag."
     }
   ],
@@ -314,8 +314,8 @@
       "examples": [
         "Du sollst mehr Wasser trinken.",
         "Er soll weniger Zucker essen.",
-        "Wir sollen regelmÃ¤ÃŸig Sport machen.",
-        "Sie sollen frÃ¼her schlafen."
+        "Wir sollen regelmäßig Sport machen.",
+        "Sie sollen früher schlafen."
       ]
     },
     {
@@ -323,9 +323,9 @@
       "explanation": "Use the imperative to give direct advice. 'du'-form: verb stem (+ e). 'ihr'-form: verb stem + t. 'Sie'-form: verb + Sie.",
       "examples": [
         "Trink mehr Wasser! (du)",
-        "Esst mehr GemÃ¼se! (ihr)",
+        "Esst mehr Gemüse! (ihr)",
         "Schlafen Sie acht Stunden! (Sie)",
-        "HÃ¶r auf zu rauchen! (du)"
+        "Hör auf zu rauchen! (du)"
       ]
     }
   ],
@@ -358,7 +358,7 @@
         "Sport",
         "ist",
         "gut",
-        "fÃ¼r",
+        "für",
         "die",
         "Gesundheit.",
         "Fitness."
@@ -367,7 +367,7 @@
         "Sport",
         "ist",
         "gut",
-        "fÃ¼r",
+        "für",
         "die",
         "Gesundheit."
       ]
@@ -378,14 +378,14 @@
       "prompt": "I feel fit.",
       "tokens": [
         "Ich",
-        "fÃ¼hle",
+        "fühle",
         "mich",
         "fit.",
-        "mÃ¼de."
+        "müde."
       ],
       "answer": [
         "Ich",
-        "fÃ¼hle",
+        "fühle",
         "mich",
         "fit."
       ]
@@ -395,7 +395,7 @@
     {
       "id": "c23-quiz-1",
       "type": "mcq",
-      "prompt": "What does 'die ErnÃ¤hrung' mean?",
+      "prompt": "What does 'die Ernährung' mean?",
       "options": [
         "exercise",
         "nutrition",
@@ -410,10 +410,10 @@
       "type": "mcq",
       "prompt": "What modal verb is used for giving advice?",
       "options": [
-        "kÃ¶nnen",
+        "können",
         "wollen",
         "sollen",
-        "dÃ¼rfen"
+        "dürfen"
       ],
       "answer": "sollen",
       "topic": "grammar"
@@ -429,7 +429,7 @@
       "id": "c23-quiz-4",
       "type": "fill_blank",
       "prompt": "Ich ___ mich gut. (feel)",
-      "answer": "fÃ¼hle",
+      "answer": "fühle",
       "topic": "reflexive"
     }
   ],
@@ -446,7 +446,7 @@
       "id": "c23-fill-2",
       "type": "fill_blank",
       "prompt": "Ich ___ mich fit. (feel)",
-      "answer": "fÃ¼hle",
+      "answer": "fühle",
       "hint": "feel",
       "topic": "reflexive"
     },

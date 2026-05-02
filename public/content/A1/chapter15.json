@@ -36,7 +36,7 @@
       "word": "der Ausflug",
       "meaning": "excursion/trip",
       "article": "der",
-      "plural": "die AusflÃ¼ge",
+      "plural": "die Ausflüge",
       "example": "Wir machen einen Ausflug ans Meer."
     },
     {
@@ -47,11 +47,11 @@
       "example": "Treibst du Sport?"
     },
     {
-      "word": "der FuÃŸball",
+      "word": "der Fußball",
       "meaning": "football/soccer",
       "article": "der",
       "plural": "-",
-      "example": "Am Samstag spiele ich FuÃŸball."
+      "example": "Am Samstag spiele ich Fußball."
     },
     {
       "word": "das Kino",
@@ -65,7 +65,7 @@
       "meaning": "theater",
       "article": "das",
       "plural": "die Theater",
-      "example": "Ich habe Tickets fÃ¼r das Theater."
+      "example": "Ich habe Tickets für das Theater."
     },
     {
       "word": "das Museum",
@@ -85,7 +85,7 @@
       "word": "das Schwimmbad",
       "meaning": "swimming pool",
       "article": "das",
-      "plural": "die SchwimmbÃ¤der",
+      "plural": "die Schwimmbäder",
       "example": "Wir gehen ins Schwimmbad."
     },
     {
@@ -118,9 +118,9 @@
       "example": "Sie hat einen Brief geschrieben."
     },
     {
-      "word": "hÃ¶ren",
+      "word": "hören",
       "meaning": "to hear/listen",
-      "example": "Ich hÃ¶re gern Musik."
+      "example": "Ich höre gern Musik."
     },
     {
       "word": "sehen",
@@ -255,7 +255,7 @@
     {
       "word": "vergessen",
       "meaning": "to forget",
-      "example": "Ich habe meinen SchlÃ¼ssel vergessen."
+      "example": "Ich habe meinen Schlüssel vergessen."
     },
     {
       "word": "helfen",
@@ -285,7 +285,7 @@
     {
       "word": "gestern",
       "meaning": "yesterday",
-      "example": "Gestern war ein schÃ¶ner Tag."
+      "example": "Gestern war ein schöner Tag."
     },
     {
       "word": "toll",
@@ -386,7 +386,7 @@
         "haben",
         "sein",
         "werden",
-        "kÃ¶nnen"
+        "können"
       ],
       "answer": "sein",
       "topic": "perfekt"
@@ -398,7 +398,7 @@
       "options": [
         "geesst",
         "gegessen",
-        "aÃŸ",
+        "aß",
         "isst"
       ],
       "answer": "gegessen",
@@ -452,7 +452,7 @@
         "haben",
         "sein",
         "werden",
-        "kÃ¶nnen"
+        "können"
       ],
       "answer": "sein",
       "topic": "perfekt"
@@ -464,7 +464,7 @@
       "options": [
         "geesst",
         "gegessen",
-        "aÃŸ",
+        "aß",
         "isst"
       ],
       "answer": "gegessen",

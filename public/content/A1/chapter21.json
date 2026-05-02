@@ -30,7 +30,7 @@
       "meaning": "pub/bar",
       "article": "die",
       "plural": "die Kneipen",
-      "example": "Die Kneipe ist gemÃ¼tlich."
+      "example": "Die Kneipe ist gemütlich."
     },
     {
       "word": "die Speisekarte",
@@ -58,14 +58,14 @@
       "meaning": "dessert",
       "article": "die",
       "plural": "die Nachspeisen",
-      "example": "MÃ¶chten Sie eine Nachspeise?"
+      "example": "Möchten Sie eine Nachspeise?"
     },
     {
       "word": "die Suppe",
       "meaning": "soup",
       "article": "die",
       "plural": "die Suppen",
-      "example": "Die Suppe ist heiÃŸ."
+      "example": "Die Suppe ist heiß."
     },
     {
       "word": "der Salat",
@@ -88,17 +88,17 @@
       "example": "Der Fisch schmeckt gut."
     },
     {
-      "word": "das HÃ¤hnchen",
+      "word": "das Hähnchen",
       "meaning": "chicken",
       "article": "das",
-      "plural": "die HÃ¤hnchen",
-      "example": "Ich bestelle HÃ¤hnchen mit Reis."
+      "plural": "die Hähnchen",
+      "example": "Ich bestelle Hähnchen mit Reis."
     },
     {
       "word": "die Nudeln",
       "meaning": "pasta/noodles",
       "article": "die",
-      "example": "Nudeln mit SoÃŸe bitte."
+      "example": "Nudeln mit Soße bitte."
     },
     {
       "word": "der Reis",
@@ -114,17 +114,17 @@
       "example": "Ich mag Kartoffeln."
     },
     {
-      "word": "das GemÃ¼se",
+      "word": "das Gemüse",
       "meaning": "vegetables",
       "article": "das",
-      "example": "GemÃ¼se ist gesund."
+      "example": "Gemüse ist gesund."
     },
     {
-      "word": "die SoÃŸe",
+      "word": "die Soße",
       "meaning": "sauce",
       "article": "die",
-      "plural": "die SoÃŸen",
-      "example": "Die SoÃŸe ist lecker."
+      "plural": "die Soßen",
+      "example": "Die Soße ist lecker."
     },
     {
       "word": "das Brot",
@@ -140,10 +140,10 @@
       "example": "Butter aufs Brot."
     },
     {
-      "word": "der KÃ¤se",
+      "word": "der Käse",
       "meaning": "cheese",
       "article": "der",
-      "example": "Ich mag KÃ¤se."
+      "example": "Ich mag Käse."
     },
     {
       "word": "das Eis",
@@ -161,7 +161,7 @@
       "word": "der Saft",
       "meaning": "juice",
       "article": "der",
-      "plural": "die SÃ¤fte",
+      "plural": "die Säfte",
       "example": "Einen Orangensaft bitte."
     },
     {
@@ -194,7 +194,7 @@
     {
       "word": "bestellen",
       "meaning": "to order",
-      "example": "Ich mÃ¶chte bestellen."
+      "example": "Ich möchte bestellen."
     },
     {
       "word": "empfehlen",
@@ -209,12 +209,12 @@
     {
       "word": "probieren",
       "meaning": "to try/taste",
-      "example": "MÃ¶chtest du probieren?"
+      "example": "Möchtest du probieren?"
     },
     {
       "word": "bezahlen",
       "meaning": "to pay",
-      "example": "Ich mÃ¶chte bezahlen."
+      "example": "Ich möchte bezahlen."
     },
     {
       "word": "die Rechnung",
@@ -259,12 +259,12 @@
       "meaning": "table",
       "article": "der",
       "plural": "die Tische",
-      "example": "Haben Sie einen Tisch fÃ¼r zwei?"
+      "example": "Haben Sie einen Tisch für zwei?"
     },
     {
       "word": "reservieren",
       "meaning": "to reserve",
-      "example": "Ich mÃ¶chte einen Tisch reservieren."
+      "example": "Ich möchte einen Tisch reservieren."
     },
     {
       "word": "die Reservierung",
@@ -277,7 +277,7 @@
       "word": "das Glas",
       "meaning": "glass",
       "article": "das",
-      "plural": "die GlÃ¤ser",
+      "plural": "die Gläser",
       "example": "Ein Glas Wasser bitte."
     },
     {
@@ -315,11 +315,11 @@
       "example": "Ich brauche ein Messer."
     },
     {
-      "word": "der LÃ¶ffel",
+      "word": "der Löffel",
       "meaning": "spoon",
       "article": "der",
-      "plural": "die LÃ¶ffel",
-      "example": "FÃ¼r die Suppe brauche ich einen LÃ¶ffel."
+      "plural": "die Löffel",
+      "example": "Für die Suppe brauche ich einen Löffel."
     },
     {
       "word": "die Serviette",
@@ -341,23 +341,23 @@
   ],
   "grammar": [
     {
-      "topic": "Polite Requests with 'mÃ¶chte'",
-      "explanation": "'MÃ¶chte' (would like) is the polite form used to order or request. Conjugation: ich mÃ¶chte, du mÃ¶chtest, er/sie/es mÃ¶chte, wir mÃ¶chten, ihr mÃ¶chtet, sie/Sie mÃ¶chten. Use it with an infinitive or a noun.",
+      "topic": "Polite Requests with 'möchte'",
+      "explanation": "'Möchte' (would like) is the polite form used to order or request. Conjugation: ich möchte, du möchtest, er/sie/es möchte, wir möchten, ihr möchtet, sie/Sie möchten. Use it with an infinitive or a noun.",
       "examples": [
-        "Ich mÃ¶chte bestellen.",
-        "Ich mÃ¶chte einen Kaffee.",
-        "MÃ¶chten Sie eine Nachspeise?",
-        "Wir mÃ¶chten bezahlen."
+        "Ich möchte bestellen.",
+        "Ich möchte einen Kaffee.",
+        "Möchten Sie eine Nachspeise?",
+        "Wir möchten bezahlen."
       ]
     },
     {
       "topic": "Accusative with Food Orders",
-      "explanation": "When ordering food, you use the accusative case because you're expressing 'what you take/want'. Masculine articles change: der â†’ den, ein â†’ einen. Feminine and neuter stay the same.",
+      "explanation": "When ordering food, you use the accusative case because you're expressing 'what you take/want'. Masculine articles change: der → den, ein → einen. Feminine and neuter stay the same.",
       "examples": [
-        "Ich nehme einen Salat. (der Salat â†’ einen)",
-        "Ich mÃ¶chte eine Suppe. (die Suppe â†’ eine)",
-        "Er bestellt ein Bier. (das Bier â†’ ein)",
-        "Wir nehmen den Fisch. (der Fisch â†’ den)"
+        "Ich nehme einen Salat. (der Salat → einen)",
+        "Ich möchte eine Suppe. (die Suppe → eine)",
+        "Er bestellt ein Bier. (das Bier → ein)",
+        "Wir nehmen den Fisch. (der Fisch → den)"
       ]
     }
   ],
@@ -368,13 +368,13 @@
       "prompt": "I would like to order.",
       "tokens": [
         "Ich",
-        "mÃ¶chte",
+        "möchte",
         "bestellen.",
         "bezahlen."
       ],
       "answer": [
         "Ich",
-        "mÃ¶chte",
+        "möchte",
         "bestellen."
       ]
     },
@@ -403,7 +403,7 @@
         "Sie",
         "einen",
         "Tisch",
-        "fÃ¼r",
+        "für",
         "zwei?",
         "drei?"
       ],
@@ -412,7 +412,7 @@
         "Sie",
         "einen",
         "Tisch",
-        "fÃ¼r",
+        "für",
         "zwei?"
       ]
     }
@@ -437,11 +437,11 @@
       "prompt": "How do you politely say 'I would like a coffee'?",
       "options": [
         "Ich will Kaffee",
-        "Ich mÃ¶chte einen Kaffee",
+        "Ich möchte einen Kaffee",
         "Ich brauche Kaffee",
         "Gib mir Kaffee"
       ],
-      "answer": "Ich mÃ¶chte einen Kaffee",
+      "answer": "Ich möchte einen Kaffee",
       "topic": "polite"
     },
     {
@@ -464,7 +464,7 @@
       "id": "c21-fill-1",
       "type": "fill_blank",
       "prompt": "Ich ___ bestellen. (would like)",
-      "answer": "mÃ¶chte",
+      "answer": "möchte",
       "hint": "would like",
       "topic": "polite"
     },

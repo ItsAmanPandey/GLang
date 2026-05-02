@@ -22,14 +22,14 @@
       "meaning": "way/path",
       "article": "der",
       "plural": "die Wege",
-      "example": "KÃ¶nnen Sie mir den Weg zeigen?"
+      "example": "Können Sie mir den Weg zeigen?"
     },
     {
-      "word": "die StraÃŸe",
+      "word": "die Straße",
       "meaning": "street",
       "article": "die",
-      "plural": "die StraÃŸen",
-      "example": "Gehen Sie diese StraÃŸe entlang."
+      "plural": "die Straßen",
+      "example": "Gehen Sie diese Straße entlang."
     },
     {
       "word": "die Kreuzung",
@@ -46,17 +46,17 @@
       "example": "Warten Sie an der Ampel."
     },
     {
-      "word": "die BrÃ¼cke",
+      "word": "die Brücke",
       "meaning": "bridge",
       "article": "die",
-      "plural": "die BrÃ¼cken",
-      "example": "Gehen Sie Ã¼ber die BrÃ¼cke."
+      "plural": "die Brücken",
+      "example": "Gehen Sie über die Brücke."
     },
     {
       "word": "der Platz",
       "meaning": "square/plaza",
       "article": "der",
-      "plural": "die PlÃ¤tze",
+      "plural": "die Plätze",
       "example": "Der Markt ist auf dem Platz."
     },
     {
@@ -70,21 +70,21 @@
       "word": "der Bahnhof",
       "meaning": "train station",
       "article": "der",
-      "plural": "die BahnhÃ¶fe",
-      "example": "Der Bahnhof ist in der NÃ¤he."
+      "plural": "die Bahnhöfe",
+      "example": "Der Bahnhof ist in der Nähe."
     },
     {
       "word": "die Haltestelle",
       "meaning": "stop (bus/tram)",
       "article": "die",
       "plural": "die Haltestellen",
-      "example": "Ich steige an der nÃ¤chsten Haltestelle aus."
+      "example": "Ich steige an der nächsten Haltestelle aus."
     },
     {
       "word": "der Flughafen",
       "meaning": "airport",
       "article": "der",
-      "plural": "die FlughÃ¤fen",
+      "plural": "die Flughäfen",
       "example": "Der Flughafen ist weit weg."
     },
     {
@@ -99,7 +99,7 @@
       "meaning": "suburban train",
       "article": "die",
       "plural": "die S-Bahnen",
-      "example": "Die S-Bahn fÃ¤hrt schnell."
+      "example": "Die S-Bahn fährt schnell."
     },
     {
       "word": "der Bus",
@@ -109,18 +109,18 @@
       "example": "Wir nehmen den Bus."
     },
     {
-      "word": "die StraÃŸenbahn",
+      "word": "die Straßenbahn",
       "meaning": "tram",
       "article": "die",
-      "plural": "die StraÃŸenbahnen",
-      "example": "Die StraÃŸenbahnlinie 4 fÃ¤hrt dorthin."
+      "plural": "die Straßenbahnen",
+      "example": "Die Straßenbahnlinie 4 fährt dorthin."
     },
     {
       "word": "der Zug",
       "meaning": "train",
       "article": "der",
-      "plural": "die ZÃ¼ge",
-      "example": "Mein Zug fÃ¤hrt um acht."
+      "plural": "die Züge",
+      "example": "Mein Zug fährt um acht."
     },
     {
       "word": "das Auto",
@@ -133,8 +133,8 @@
       "word": "das Fahrrad",
       "meaning": "bicycle",
       "article": "das",
-      "plural": "die FahrrÃ¤der",
-      "example": "Er fÃ¤hrt immer mit dem Fahrrad."
+      "plural": "die Fahrräder",
+      "example": "Er fährt immer mit dem Fahrrad."
     },
     {
       "word": "das Taxi",
@@ -144,9 +144,9 @@
       "example": "Rufen Sie ein Taxi!"
     },
     {
-      "word": "zu FuÃŸ",
+      "word": "zu Fuß",
       "meaning": "on foot",
-      "example": "Ich gehe zu FuÃŸ zur Arbeit."
+      "example": "Ich gehe zu Fuß zur Arbeit."
     },
     {
       "word": "das Ticket",
@@ -187,7 +187,7 @@
     {
       "word": "abbiegen",
       "meaning": "to turn",
-      "example": "Sie mÃ¼ssen links abbiegen."
+      "example": "Sie müssen links abbiegen."
     },
     {
       "word": "geradeaus",
@@ -205,9 +205,9 @@
       "example": "Gehen Sie nach rechts."
     },
     {
-      "word": "zurÃ¼ck",
+      "word": "zurück",
       "meaning": "back",
-      "example": "Du musst zurÃ¼ck gehen."
+      "example": "Du musst zurück gehen."
     },
     {
       "word": "vorbei",
@@ -215,9 +215,9 @@
       "example": "Gehen Sie an der Kirche vorbei."
     },
     {
-      "word": "gegenÃ¼ber",
+      "word": "gegenüber",
       "meaning": "opposite",
-      "example": "Die Post ist gegenÃ¼ber vom Bahnhof."
+      "example": "Die Post ist gegenüber vom Bahnhof."
     },
     {
       "word": "neben",
@@ -232,12 +232,12 @@
     {
       "word": "vor",
       "meaning": "in front of",
-      "example": "Das Auto steht vor der TÃ¼r."
+      "example": "Das Auto steht vor der Tür."
     },
     {
       "word": "zwischen",
       "meaning": "between",
-      "example": "Der Tisch steht zwischen den StÃ¼hlen."
+      "example": "Der Tisch steht zwischen den Stühlen."
     },
     {
       "word": "an",
@@ -252,12 +252,12 @@
     {
       "word": "unter",
       "meaning": "under",
-      "example": "Die Katze schlÃ¤ft unter dem Sofa."
+      "example": "Die Katze schläft unter dem Sofa."
     },
     {
-      "word": "in der NÃ¤he",
+      "word": "in der Nähe",
       "meaning": "nearby",
-      "example": "Ist hier eine Apotheke in der NÃ¤he?"
+      "example": "Ist hier eine Apotheke in der Nähe?"
     },
     {
       "word": "weit",
@@ -282,7 +282,7 @@
     {
       "word": "umsteigen",
       "meaning": "to transfer/change trains",
-      "example": "In Frankfurt mÃ¼ssen wir umsteigen."
+      "example": "In Frankfurt müssen wir umsteigen."
     },
     {
       "word": "die Entschuldigung",
@@ -304,7 +304,7 @@
     {
       "word": "finden",
       "meaning": "to find",
-      "example": "Ich kann den SchlÃ¼ssel nicht finden."
+      "example": "Ich kann den Schlüssel nicht finden."
     },
     {
       "word": "warten",
@@ -318,7 +318,7 @@
       "explanation": "When indicating location (where something is), two-way prepositions take the Dative case (dem, der, dem, den). E.g. 'Die Post ist neben dem Bahnhof'.",
       "examples": [
         "Die Post ist neben dem Bahnhof.",
-        "Das CafÃ© ist gegenÃ¼ber der Kirche.",
+        "Das CafÃ© ist gegenüber der Kirche.",
         "Die Haltestelle ist vor dem Hotel.",
         "Mein Auto steht hinter dem Haus."
       ]
@@ -329,7 +329,7 @@
       "examples": [
         "Ich steige in den Bus ein.",
         "Wir steigen am Hauptbahnhof um.",
-        "Sie steigt an der nÃ¤chsten Haltestelle aus.",
+        "Sie steigt an der nächsten Haltestelle aus.",
         "Steig bitte schnell ein!"
       ]
     }
@@ -361,14 +361,14 @@
       "prompt": "Translate: You have to turn left.",
       "tokens": [
         "Sie",
-        "mÃ¼ssen",
+        "müssen",
         "links",
         "abbiegen.",
         "rechts"
       ],
       "answer": [
         "Sie",
-        "mÃ¼ssen",
+        "müssen",
         "links",
         "abbiegen."
       ]
@@ -414,7 +414,7 @@
         "Gehen Sie geradeaus",
         "Biegen Sie rechts ab",
         "Biegen Sie links ab",
-        "Gehen Sie zurÃ¼ck"
+        "Gehen Sie zurück"
       ],
       "answer": "Biegen Sie links ab",
       "topic": "directions"
@@ -422,7 +422,7 @@
     {
       "id": "c13-quiz-3",
       "type": "fill_blank",
-      "prompt": "Ich steige an der nÃ¤chsten Haltestelle ___.",
+      "prompt": "Ich steige an der nächsten Haltestelle ___.",
       "answer": "aus",
       "topic": "separable_verbs"
     },
@@ -446,7 +446,7 @@
     {
       "id": "c13-fill-2",
       "type": "fill_blank",
-      "prompt": "Ich steige an der nÃ¤chsten Haltestelle ___.",
+      "prompt": "Ich steige an der nächsten Haltestelle ___.",
       "answer": "aus",
       "hint": "off/out",
       "topic": "separable_verbs"
@@ -491,13 +491,13 @@
       "prompt": "Arrange: You have to turn left.",
       "tokens": [
         "Sie",
-        "mÃ¼ssen",
+        "müssen",
         "links",
         "abbiegen."
       ],
       "answer": [
         "Sie",
-        "mÃ¼ssen",
+        "müssen",
         "links",
         "abbiegen."
       ],
@@ -511,7 +511,7 @@
         "Ich",
         "gehe",
         "zu",
-        "FuÃŸ",
+        "Fuß",
         "zur",
         "Arbeit."
       ],
@@ -519,7 +519,7 @@
         "Ich",
         "gehe",
         "zu",
-        "FuÃŸ",
+        "Fuß",
         "zur",
         "Arbeit."
       ],
@@ -529,7 +529,7 @@
       "id": "c13-fill-4",
       "type": "fill_blank",
       "prompt": "Die Post ist ___ vom Bahnhof.",
-      "answer": "gegenÃ¼ber",
+      "answer": "gegenüber",
       "hint": "opposite",
       "topic": "directions"
     }
